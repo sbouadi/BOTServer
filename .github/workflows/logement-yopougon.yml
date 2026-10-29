@@ -58,9 +58,10 @@ jobs:
           git pull --rebase -q origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
 
-  publication:
+  publication:   # facultatif : ne fonctionne que si GitHub Pages est activé (Settings > Pages > GitHub Actions)
     needs: collecte
     runs-on: ubuntu-latest
+    continue-on-error: true
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
