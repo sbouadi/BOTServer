@@ -33,7 +33,10 @@ main{max-width:960px;margin:auto;padding:12px 16px 40px}
 .chip.warn{background:transparent;border:1px dashed var(--muted);color:var(--muted)}
 .entry{font-size:13px;margin:4px 0;padding:4px 8px;border-radius:8px;background:var(--chip);display:inline-block}
 .resume{font-size:12px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-a.btn{display:inline-block;margin-top:8px;background:var(--accent);color:var(--accent-ink);text-decoration:none;padding:7px 12px;border-radius:9px;font-size:13px;font-weight:600}
+.actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}
+.contact{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px;user-select:all}
+a.btn.alt{background:transparent;color:var(--ink);border:1px solid var(--line)}
+a.btn{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;padding:7px 12px;border-radius:9px;font-size:13px;font-weight:600}
 .empty{text-align:center;color:var(--muted);padding:40px 10px}
 footer{max-width:960px;margin:auto;padding:0 16px 30px;color:var(--muted);font-size:12px}
 </style>
@@ -58,11 +61,12 @@ footer{max-width:960px;margin:auto;padding:0 16px 30px;color:var(--muted);font-s
   <div class="count" id="count"></div>
   <div class="grid" id="list"></div>
 </main>
-<footer>Les numéros de téléphone ne sont pas republiés : contactez l'annonceur depuis l'annonce d'origine. Données extraites automatiquement, des erreurs sont possibles.</footer>
+<footer>Numéros publiés par les annonceurs eux-mêmes sur leurs annonces. Ne versez jamais d'argent avant d'avoir visité le logement. Données extraites automatiquement, des erreurs sont possibles.</footer>
 <script>
 const $ = id => document.getElementById(id);
 const fmt = n => n ? n.toLocaleString("fr-FR").replace(/ | /g, " ") + " F" : null;
 const norm = s => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const tel = n => n.replace(/(\d{2})(?=\d)/g, "$1 ");
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 let all = [];
 
@@ -89,7 +93,12 @@ function card(a) {
       ${a.total_entree ? `<div class="entry">Pour entrer : <b>${esc(fmt(a.total_entree))}</b></div>` : ""}
       <div class="chips">${chips.join("")}</div>
       <div class="resume">${esc(a.resume)}</div>
-      <a class="btn" href="${esc(a.url)}" target="_blank" rel="noopener">Voir l'annonce${d ? " · " + d : ""}</a>
+      <div class="actions">
+        <a class="btn" href="${esc(a.url)}" target="_blank" rel="noopener">Voir l'annonce${d ? " · " + d : ""}</a>
+        ${(a.contacts || []).map(n => `<span class="contact"><b>${esc(tel(n))}</b>
+          <a class="btn alt" href="tel:+225${esc(n)}">Appeler</a>
+          <a class="btn alt" href="https://wa.me/225${esc(n)}" target="_blank" rel="noopener">WhatsApp</a></span>`).join("")}
+      </div>
     </div></article>`;
 }
 

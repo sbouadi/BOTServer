@@ -16,7 +16,6 @@ import yt_dlp
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import llm  # noqa: E402
-from extract import strip_phones  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
@@ -161,8 +160,26 @@ def save_thumb(vid, thumb, frames):
         return None
 
 
+def restore_masked():
+    """Relit la légende des annonces collectées quand les numéros y étaient masqués."""
+    with yt_dlp.YoutubeDL({"quiet": True, "noplaylist": True}) as ydl:
+        for p in RAW.glob("*.json"):
+            d = json.loads(p.read_text())
+            if "[numéro masqué]" not in d.get("description", ""):
+                continue
+            try:
+                info = ydl.extract_info(d["source_url"], download=False)
+                d["description"] = info.get("description") or info.get("title") or d["description"]
+                d["llm"] = None  # relecture IA avec la légende complète
+                p.write_text(json.dumps(d, ensure_ascii=False, indent=1))
+                print(f"[légende] {d['id']} restaurée")
+            except Exception as exc:
+                print(f"[légende] {d['id']}: {exc}")
+
+
 def main():
     RAW.mkdir(parents=True, exist_ok=True)
+    restore_masked()
     done_ids = {p.stem for p in RAW.glob("*.json")}
     done_urls = set()
     for p in RAW.glob("*.json"):
@@ -197,9 +214,9 @@ def main():
                 "uploader": info.get("uploader") or info.get("channel"),
                 "upload_date": info.get("upload_date"),
                 "duration": info.get("duration"),
-                "description": strip_phones(info.get("description") or info.get("title") or ""),
-                "transcript": strip_phones(transcript),
-                "ocr": [strip_phones(l) for l in ocr],
+                "description": info.get("description") or info.get("title") or "",
+                "transcript": transcript,
+                "ocr": ocr,
                 "thumb": save_thumb(vid, thumb, frames),
                 "llm": llm.read_listing(info.get("description") or info.get("title") or "", transcript, ocr, frames),
                 "collected_at": time.strftime("%Y-%m-%d"),

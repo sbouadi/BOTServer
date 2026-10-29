@@ -21,6 +21,20 @@ PHONE = re.compile(r"(?:\+?\s?225[\s.\-]*)?\d{2}(?:[\s.\-]*\d{2}){3,5}")
 EMAIL = re.compile(r"\S+@\S+")
 
 
+CI_PHONE = re.compile(r"(?<!\d)(?:\+?\s?225[\s.\-]*)?((?:0[157]|2[157])(?:[\s.\-]*\d{2}){4})(?!\d)")
+
+
+def find_phones(*texts):
+    """Numéros ivoiriens à 10 chiffres, normalisés (0707123456), sans doublon."""
+    out = []
+    for text in texts:
+        for m in CI_PHONE.finditer(text or ""):
+            n = re.sub(r"\D", "", m.group(1))
+            if len(n) == 10 and n not in out:
+                out.append(n)
+    return out[:3]
+
+
 def strip_phones(text):
     return EMAIL.sub("[contact masqué]", PHONE.sub("[numéro masqué]", text or ""))
 
@@ -239,8 +253,9 @@ def build(raw, corrections):
         "loyer": find_loyer(t),
         **find_conditions(t),
         "equipements": [k for k, p in EQUIP.items() if re.search(p, t)],
-        "resume": strip_phones(raw.get("description", ""))[:400],
-        "texte": strip_phones(" ".join(p for p in parts if p))[:2000],
+        "resume": (raw.get("description") or "")[:400],
+        "texte": " ".join(p for p in parts if p)[:2000],
+        "contacts": find_phones(raw.get("description"), " ".join(raw.get("ocr", [])), raw.get("transcript")),
     }
     merge_llm(rec, raw.get("llm"))
     if raw.get("origine") == "découverte" and (not rec["yopougon"] or rec["transaction"] == "vente"):

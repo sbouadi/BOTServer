@@ -19,7 +19,7 @@ sources/discovery.txt   hashtags / comptes TikTok explorés automatiquement
         ▼  site/annonces.json → site/index.html (GitHub Pages)
 ```
 
-- **Aucun numéro de téléphone n'est republié** : ils sont masqués, l'utilisateur passe par l'annonce d'origine.
+- Les numéros publiés par les annonceurs sont repris avec des boutons Appeler / WhatsApp.
 - `sources/quartiers.json` : liste de quartiers **à valider**.
 - `sources/corrections.json` : corriger ou masquer une annonce à la main.
 
