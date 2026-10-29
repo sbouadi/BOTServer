@@ -1,104 +1,105 @@
-"""Lecture d'une annonce par modèle de langage (GitHub Models, jeton Actions intégré).
+"""Lecture d'une annonce par Claude (optionnelle).
 
-Optionnel : sans jeton ou en cas d'erreur, renvoie None et les règles d'extract.py prennent le relais.
+Active seulement si le secret ANTHROPIC_API_KEY est défini dans le dépôt
+(Settings > Secrets and variables > Actions). Sans clé, ou en cas d'erreur,
+renvoie None et les règles d'extract.py prennent le relais.
+Modèle modifiable via la variable CLAUDE_MODEL (ex. claude-haiku-5-5, moins cher).
 """
 import base64
+import io
 import json
 import os
-import re
 
-import requests
-
-# (point d'accès, nom du modèle) : l'ancien point d'accès Azure sert de secours
-TARGETS = [
-    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4.1-mini"),
-    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4o-mini"),
-    ("https://models.inference.ai.azure.com/chat/completions", "gpt-4o-mini"),
-]
-_quota_hit = False  # après un refus de quota, plus d'appel IA pendant ce passage
+MODEL = os.environ.get("CLAUDE_MODEL") or "claude-opus-5-5"
+_disabled = False  # après une erreur de quota/clé, plus d'appel pendant ce passage
 
 PROMPT = """Tu lis une annonce immobilière publiée sur TikTok ou Facebook en Côte d'Ivoire (Abidjan).
-Sources : légende, transcription audio automatique (peut contenir des erreurs), texte lu sur les images, et quelques images.
-Réponds UNIQUEMENT par un objet JSON avec ces clés (null si l'information est absente, n'invente rien) :
-{
- "est_annonce": bool,            // vraie offre de logement ?
- "transaction": "location"|"vente"|null,
- "commune": str|null,            // ex. "Yopougon", "Cocody"
- "quartier": str|null,           // sous-quartier tel qu'écrit, ex. "Niangon Sud"
- "type": "studio"|"entrée-coucher"|"chambre simple"|"chambre salon"|"2 chambres salon"|"3 chambres salon"|"4 chambres salon"|"villa"|"duplex"|"commercial"|null,
- "pieces": int|null,             // chambre salon = 2, 2 chambres salon = 3...
- "loyer": int|null,              // FCFA par mois
- "caution": int|null,            // en mois
- "avance": int|null,             // en mois
- "agence": int|null,             // commission / démarcheur, en mois
- "mois_a_payer": int|null,       // nombre total de mois de loyer à verser à l'entrée (ex. "160 000 x5" -> 5, "6 mois + 100k" -> 6)
- "frais_agence": int|null,       // montant FCFA en plus des mois (ex. "+100 000" -> 100000)
- "frais_visite": int|null,       // FCFA
- "equipements": [str],           // ex. "douche interne", "compteur personnel", "cour unique", "garage / parking", "carrelé", "staffé", "climatisé", "balcon / terrasse", "cuisine", "neuf", "étage"
- "resume": str                   // 1 phrase factuelle, sans numéro de téléphone
-}"""
+Sources : légende, transcription audio automatique (peut contenir des erreurs ou des paroles de musique),
+texte lu sur les images (souvent bruité) et quelques images de la vidéo.
+Remplis la fiche. Mets null quand l'information est absente : n'invente rien.
+Repères : « chambre salon » = 2 pièces ; « 160 000 x5 + 100 000 » = 5 mois à payer + 100 000 F d'agence ;
+« bureau comme habitation » = logement utilisable aussi en bureau."""
+
+_INT = {"type": ["integer", "null"]}
+_STR = {"type": ["string", "null"]}
+SCHEMA = {
+    "type": "object",
+    "properties": {
+        "est_annonce": {"type": "boolean"},
+        "transaction": {"type": ["string", "null"], "enum": ["location", "vente", "cession", None]},
+        "commune": _STR,
+        "quartier": _STR,
+        "type": {
+            "type": ["string", "null"],
+            "enum": ["studio", "entrée-coucher", "chambre simple", "chambre salon", "2 pièces", "3 pièces",
+                     "4 pièces", "5 pièces", "villa", "duplex", "commercial", None],
+        },
+        "pieces": _INT,
+        "loyer": _INT,
+        "caution": _INT,
+        "avance": _INT,
+        "agence": _INT,
+        "mois_a_payer": _INT,
+        "frais_agence": _INT,
+        "frais_visite": _INT,
+        "equipements": {"type": "array", "items": {"type": "string"}},
+        "resume": {"type": "string"},
+    },
+    "required": ["est_annonce", "transaction", "commune", "quartier", "type", "pieces", "loyer", "caution",
+                 "avance", "agence", "mois_a_payer", "frais_agence", "frais_visite", "equipements", "resume"],
+    "additionalProperties": False,
+}
 
 
-def _frames_payload(frames, n=3):
+def _images(frames, n=3):
+    from PIL import Image
+
     if not frames:
         return []
     picks = [frames[int(i * (len(frames) - 1) / max(n - 1, 1))] for i in range(min(n, len(frames)))]
     out = []
     for f in dict.fromkeys(picks):
-        from PIL import Image
-        import io
-
         img = Image.open(f).convert("RGB")
-        img.thumbnail((512, 512))
+        img.thumbnail((768, 768))
         buf = io.BytesIO()
-        img.save(buf, "JPEG", quality=70)
-        out.append({"type": "image_url", "image_url": {"url": "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()}})
+        img.save(buf, "JPEG", quality=75)
+        out.append({"type": "image", "source": {"type": "base64", "media_type": "image/jpeg",
+                                                "data": base64.standard_b64encode(buf.getvalue()).decode()}})
     return out
 
 
 def read_listing(description, transcript, ocr, frames):
-    global _quota_hit
-    token = os.environ.get("GITHUB_TOKEN")
-    if not token or _quota_hit:
+    global _disabled
+    if _disabled or not os.environ.get("ANTHROPIC_API_KEY"):
         return None
+    import anthropic
+
+    client = anthropic.Anthropic()
     text = f"LÉGENDE:\n{description}\n\nAUDIO:\n{transcript}\n\nTEXTE DES IMAGES:\n" + "\n".join(ocr)
-    content = [{"type": "text", "text": text[:6000]}] + _frames_payload(frames)
-    for endpoint, model in TARGETS:
-        for attempt in range(1):
-            try:
-                r = requests.post(
-                    endpoint,
-                    headers={
-                        "Authorization": f"Bearer {token}",
-                        "Content-Type": "application/json",
-                        "Accept": "application/vnd.github+json",
-                        "X-GitHub-Api-Version": "2022-11-28",
-                    },
-                    allow_redirects=False,
-                    json={
-                        "model": model,
-                        "temperature": 0,
-                        "response_format": {"type": "json_object"},
-                        "messages": [{"role": "system", "content": PROMPT}, {"role": "user", "content": content}],
-                    },
-                    timeout=90,
-                )
-                if r.status_code == 429:  # quota gratuit épuisé : on réessaiera au prochain passage
-                    print(f"[llm] quota atteint ({r.headers.get('retry-after', '?')} s), IA suspendue pour ce passage")
-                    _quota_hit = True
-                    return None
-                if r.status_code != 200 or not r.text.strip().startswith("{"):
-                    print(f"[llm] {endpoint} {model} HTTP {r.status_code} {r.headers.get('content-type')} {r.headers.get('location', '')}: {r.text[:300]!r}")
-                    break
-                raw = r.json()["choices"][0]["message"]["content"]
-                data = json.loads(re.search(r"\{.*\}", raw, re.S).group(0))
-                data["_model"] = model
-                return data
-            except Exception as exc:
-                print(f"[llm] {model} essai {attempt + 1}: {exc}")
-                break
-    return None
+    try:
+        response = client.beta.messages.create(
+            model=MODEL,
+            max_tokens=4000,
+            system=PROMPT,
+            output_config={"effort": "low", "format": {"type": "json_schema", "schema": SCHEMA}},
+            betas=["server-side-fallback-2026-07-01"],
+            fallbacks="default",
+            messages=[{"role": "user", "content": _images(frames) + [{"type": "text", "text": text[:8000]}]}],
+        )
+    except (anthropic.AuthenticationError, anthropic.PermissionDeniedError, anthropic.RateLimitError) as exc:
+        print(f"[ia] {type(exc).__name__}, IA suspendue pour ce passage")
+        _disabled = True
+        return None
+    except anthropic.APIError as exc:
+        print(f"[ia] erreur : {exc}")
+        return None
+    if response.stop_reason == "refusal":
+        print("[ia] refus du modèle")
+        return None
+    data = json.loads(next(b.text for b in response.content if b.type == "text"))
+    data["_model"] = response.model
+    return data
 
 
-if __name__ == "__main__":  # auto-test : python pipeline/llm.py
+if __name__ == "__main__":  # auto-test : ANTHROPIC_API_KEY=... python pipeline/llm.py
     print(read_listing("Studio à louer Yopougon Niangon Sud, loyer 60 000, 5 mois + 50 000 agence", "", [], []))

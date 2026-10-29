@@ -4,3 +4,4 @@ numpy
 faster-whisper
 pytesseract==0.3.13
 pillow
+anthropic

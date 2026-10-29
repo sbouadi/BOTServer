@@ -323,13 +323,13 @@ def main():
     annonces = []
     for p in sorted(RAW.glob("*.json")):
         raw = json.loads(p.read_text())
-        if raw.get("llm") is None and raw.get("llm_essais", 0) < 3 and os.environ.get("GITHUB_TOKEN"):
+        if raw.get("llm") is None and raw.get("llm_essais", 0) < 3 and os.environ.get("ANTHROPIC_API_KEY"):
             # rattrapage : relecture IA (texte seul) des annonces collectées sans IA
             import llm
 
-            if not llm._quota_hit:
+            if not llm._disabled:
                 raw["llm"] = llm.read_listing(raw.get("description", ""), raw.get("transcript", ""), raw.get("ocr", []), [])
-                if not llm._quota_hit:
+                if not llm._disabled:
                     raw["llm_essais"] = raw.get("llm_essais", 0) + 1
                 p.write_text(json.dumps(raw, ensure_ascii=False, indent=1))
         rec = build(raw, corrections)
