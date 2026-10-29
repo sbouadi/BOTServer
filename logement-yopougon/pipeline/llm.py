@@ -6,12 +6,12 @@ import base64
 import json
 import os
 import re
-import time
 
 import requests
 
 ENDPOINT = "https://models.github.ai/inference/chat/completions"
 MODELS = ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"]
+_quota_hit = False  # après un refus de quota, plus d'appel IA pendant ce passage
 
 PROMPT = """Tu lis une annonce immobilière publiée sur TikTok ou Facebook en Côte d'Ivoire (Abidjan).
 Sources : légende, transcription audio automatique (peut contenir des erreurs), texte lu sur les images, et quelques images.
@@ -53,13 +53,14 @@ def _frames_payload(frames, n=3):
 
 
 def read_listing(description, transcript, ocr, frames):
+    global _quota_hit
     token = os.environ.get("GITHUB_TOKEN")
-    if not token:
+    if not token or _quota_hit:
         return None
     text = f"LÉGENDE:\n{description}\n\nAUDIO:\n{transcript}\n\nTEXTE DES IMAGES:\n" + "\n".join(ocr)
     content = [{"type": "text", "text": text[:6000]}] + _frames_payload(frames)
     for model in MODELS:
-        for attempt in range(3):
+        for attempt in range(1):
             try:
                 r = requests.post(
                     ENDPOINT,
@@ -72,9 +73,10 @@ def read_listing(description, transcript, ocr, frames):
                     },
                     timeout=90,
                 )
-                if r.status_code == 429:  # quota gratuit : on patiente un peu
-                    time.sleep(20 * (attempt + 1))
-                    continue
+                if r.status_code == 429:  # quota gratuit épuisé : on réessaiera au prochain passage
+                    print(f"[llm] quota atteint ({r.headers.get('retry-after', '?')} s), IA suspendue pour ce passage")
+                    _quota_hit = True
+                    return None
                 if r.status_code != 200 or not r.text.strip().startswith("{"):
                     print(f"[llm] {model} HTTP {r.status_code}: {r.text[:300]!r}")
                     break

@@ -308,9 +308,11 @@ def main():
             # rattrapage : relecture IA (texte seul) des annonces collectées sans IA
             import llm
 
-            raw["llm"] = llm.read_listing(raw.get("description", ""), raw.get("transcript", ""), raw.get("ocr", []), [])
-            raw["llm_essais"] = raw.get("llm_essais", 0) + 1
-            p.write_text(json.dumps(raw, ensure_ascii=False, indent=1))
+            if not llm._quota_hit:
+                raw["llm"] = llm.read_listing(raw.get("description", ""), raw.get("transcript", ""), raw.get("ocr", []), [])
+                if not llm._quota_hit:
+                    raw["llm_essais"] = raw.get("llm_essais", 0) + 1
+                p.write_text(json.dumps(raw, ensure_ascii=False, indent=1))
         rec = build(raw, corrections)
         if not rec.get("masquer"):
             annonces.append(rec)
