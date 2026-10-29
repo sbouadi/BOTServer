@@ -10,6 +10,9 @@ on:
     - cron: "17 5,17 * * *"   # 2 passages par jour (UTC = heure d'Abidjan)
   workflow_dispatch:
 
+env:
+  BRANCHE: ccr-aa2a7c7e-yoi443   # branche qui porte le code et les données de l'outil
+
 concurrency:
   group: logement-yopougon
   cancel-in-progress: false
@@ -28,6 +31,8 @@ jobs:
         working-directory: logement-yopougon
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.BRANCHE }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -56,8 +61,8 @@ jobs:
           git add data site
           git diff --cached --quiet && echo "Rien de nouveau" && exit 0
           git commit -m "Collecte automatique $(date -u +%F_%H%M)"
-          git pull --rebase -q origin "$GITHUB_REF_NAME"
-          git push origin "HEAD:$GITHUB_REF_NAME"
+          git pull --rebase -q origin "$BRANCHE"
+          git push origin "HEAD:$BRANCHE"
 
   publication:   # facultatif : ne fonctionne que si GitHub Pages est activé (Settings > Pages > GitHub Actions)
     needs: collecte
@@ -69,7 +74,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}   # récupère le commit de collecte qui vient d'être poussé
+          ref: ${{ env.BRANCHE }}   # récupère le commit de collecte qui vient d'être poussé
       - uses: actions/configure-pages@v5
         with:
           enablement: true

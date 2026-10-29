@@ -17,7 +17,7 @@ header p{margin:4px 0 0;color:var(--muted);font-size:13px}
 .filters .row{max-width:960px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .filters input,.filters select{width:100%;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit}
 .filters .q{grid-column:1/-1}
-@media(min-width:720px){.filters .row{grid-template-columns:2fr 1fr 1fr 1fr 1fr 1fr}.filters .q{grid-column:auto}}
+@media(min-width:720px){.filters .row{grid-template-columns:2fr repeat(6,1fr)}.filters .q{grid-column:auto}}
 main{max-width:960px;margin:auto;padding:12px 16px 40px}
 .count{color:var(--muted);font-size:13px;margin:4px 0 12px}
 .grid{display:grid;gap:12px;grid-template-columns:1fr}
@@ -34,8 +34,8 @@ main{max-width:960px;margin:auto;padding:12px 16px 40px}
 .entry{font-size:13px;margin:4px 0;padding:4px 8px;border-radius:8px;background:var(--chip);display:inline-block}
 .resume{font-size:12px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}
-.contact{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px;user-select:all}
-a.btn.alt{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.contact{display:flex;flex-wrap:nowrap;gap:6px;align-items:center;font-size:13px;user-select:all}
+a.btn.alt{padding:5px 9px;background:transparent;color:var(--ink);border:1px solid var(--line)}
 a.btn{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;padding:7px 12px;border-radius:9px;font-size:13px;font-weight:600}
 .empty{text-align:center;color:var(--muted);padding:40px 10px}
 footer{max-width:960px;margin:auto;padding:0 16px 30px;color:var(--muted);font-size:12px}
@@ -52,6 +52,11 @@ footer{max-width:960px;margin:auto;padding:0 16px 30px;color:var(--muted);font-s
   <select id="type"><option value="">Tous les types</option></select>
   <input id="max" type="number" inputmode="numeric" step="5000" placeholder="Loyer max (F)">
   <input id="entree" type="number" inputmode="numeric" step="50000" placeholder="Budget d'entrée max (F)">
+  <select id="age">
+    <option value="0">Toutes les dates</option>
+    <option value="7">Moins de 7 jours</option>
+    <option value="30">Moins de 30 jours</option>
+  </select>
   <select id="tri">
     <option value="date">Plus récentes</option>
     <option value="prix">Moins chères</option>
@@ -82,7 +87,7 @@ function card(a) {
     a.conditions_brutes && `conditions ${a.conditions_brutes}`].filter(Boolean);
   const chips = [...(a.equipements || []).map(e => `<span class="chip">${esc(e)}</span>`)];
   if (!a.yopougon) chips.push('<span class="chip warn">Yopougon non confirmé</span>');
-  if (a.transaction === "vente") chips.push('<span class="chip warn">vente</span>');
+  if (a.publications > 1) chips.push(`<span class="chip warn">republiée ${a.publications} fois</span>`);
   const d = a.date ? `${a.date.slice(6,8)}/${a.date.slice(4,6)}/${a.date.slice(0,4)}` : "";
   return `<article class="card">
     ${a.thumb ? `<img loading="lazy" src="${esc(a.thumb)}" alt="">` : ""}
@@ -104,12 +109,14 @@ function card(a) {
 
 function render() {
   const q = norm($("q").value).split(/\s+/).filter(Boolean);
+  const age = +$("age").value, since = age ? new Date(Date.now() - age * 864e5).toISOString().slice(0, 10).replace(/-/g, "") : "";
   const quartier = $("quartier").value, type = $("type").value, max = +$("max").value || 0, entree = +$("entree").value || 0;
   let list = all.filter(a =>
     (!quartier || a.quartier === quartier) &&
     (!type || a.type === type) &&
     (!max || (a.loyer && a.loyer <= max)) &&
     (!entree || (a.total_entree && a.total_entree <= entree)) &&
+    (!since || (a.date && a.date >= since)) &&
     q.every(w => norm([a.texte, a.quartier, a.type, ...(a.equipements||[])].join(" ")).includes(w)));
   if ($("tri").value === "prix") list.sort((a, b) => (a.loyer || 9e9) - (b.loyer || 9e9));
   $("count").textContent = `${list.length} annonce${list.length > 1 ? "s" : ""} sur ${all.length}`;
@@ -125,7 +132,7 @@ fetch("annonces.json", {cache: "no-store"})
     fill($("type"), all.map(a => a.type));
     render();
   });
-["q", "quartier", "type", "max", "entree", "tri"].forEach(id => $(id).addEventListener("input", render));
+["q", "quartier", "type", "max", "entree", "age", "tri"].forEach(id => $(id).addEventListener("input", render));
 </script>
 </body>
 </html>
