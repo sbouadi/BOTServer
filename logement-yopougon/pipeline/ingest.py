@@ -26,6 +26,7 @@ ERRORS = ROOT / "data" / "errors.json"
 MAX_DISCOVERY_PER_PAGE = 15
 ACCOUNTS = ROOT / "data" / "comptes.json"
 MAX_NEW_PER_RUN = 60
+TIME_BUDGET_S = 40 * 60  # le reste est repris au passage suivant
 
 
 def read_list(name):
@@ -197,8 +198,11 @@ def main():
     queue = [u for u in dict.fromkeys(candidates) if not already(u) and errors.get(u, {}).get("tries", 0) < 3]
     print(f"{len(queue)} annonces à traiter")
 
-    new = 0
+    new, start = 0, time.time()
     for url in queue[:MAX_NEW_PER_RUN]:
+        if time.time() - start > TIME_BUDGET_S:
+            print("Budget de temps atteint, suite au prochain passage")
+            break
         try:
             info, media, thumb = download(url)
             vid = f"tt_{info['id']}" if "tiktok" in (info.get("extractor") or "").lower() else f"{info.get('extractor','x').lower()}_{info['id']}"
