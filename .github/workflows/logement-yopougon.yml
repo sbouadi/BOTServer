@@ -18,6 +18,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  models: read
 
 jobs:
   collecte:
@@ -36,13 +37,15 @@ jobs:
       - name: Outils système
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg tesseract-ocr tesseract-ocr-fra
       - name: Dépendances Python
-        run: pip install -q -r pipeline/requirements.txt && pip install -q -U "yt-dlp[default]"
+        run: pip install -q -r pipeline/requirements.txt && pip install -q -U "yt-dlp[default,curl-cffi]"
       - uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
           key: whisper-small-v1
       - name: Collecte (téléchargement, transcription, OCR)
         run: python pipeline/ingest.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Structuration des annonces
         run: python pipeline/extract.py
       - name: Enregistrer les résultats

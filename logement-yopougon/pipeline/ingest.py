@@ -14,6 +14,9 @@ from pathlib import Path
 
 import yt_dlp
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import llm  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
 THUMBS = ROOT / "site" / "thumbs"
@@ -74,7 +77,17 @@ def transcribe(media):
 
     if _whisper is None:
         _whisper = WhisperModel("small", device="cpu", compute_type="int8")
-    segments, _ = _whisper.transcribe(str(media), language="fr", vad_filter=True, beam_size=5)
+    # décodage par ffmpeg (évite les incompatibilités PyAV de faster-whisper)
+    import numpy as np
+
+    pcm = subprocess.run(
+        ["ffmpeg", "-loglevel", "error", "-i", str(media), "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+        capture_output=True, check=True,
+    ).stdout
+    audio = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
+    if audio.size == 0:
+        return ""
+    segments, _ = _whisper.transcribe(audio, language="fr", vad_filter=True, beam_size=5)
     return " ".join(s.text.strip() for s in segments).strip()
 
 
@@ -154,6 +167,7 @@ def main():
                 "transcript": transcript,
                 "ocr": ocr,
                 "thumb": save_thumb(vid, thumb, frames),
+                "llm": llm.read_listing(info.get("description") or info.get("title") or "", transcript, ocr, frames),
                 "collected_at": time.strftime("%Y-%m-%d"),
             }
             (RAW / f"{vid}.json").write_text(json.dumps(record, ensure_ascii=False, indent=1))

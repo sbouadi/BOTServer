@@ -225,8 +225,30 @@ def build(raw, corrections):
         "resume": strip_phones(raw.get("description", ""))[:400],
         "texte": strip_phones(" ".join(p for p in parts if p))[:2000],
     }
+    merge_llm(rec, raw.get("llm"))
     rec.update(corrections.get(raw["id"], {}))
     return rec
+
+
+def merge_llm(rec, ai):
+    """La lecture IA prime sur les règles quand elle a trouvé une valeur."""
+    if not ai:
+        rec["source_extraction"] = "règles"
+        return
+    if ai.get("est_annonce") is False:
+        rec["masquer"] = True
+    for key in ("transaction", "type", "pieces", "loyer", "caution", "avance", "agence"):
+        if ai.get(key) not in (None, "", 0):
+            rec[key] = ai[key]
+    if ai.get("quartier"):
+        rec["quartier"] = find_quartier(fold(ai["quartier"])) or ai["quartier"].strip().title()
+    commune = fold(ai.get("commune") or "")
+    if commune:
+        rec["yopougon"] = "yop" in commune
+    rec["equipements"] = sorted(set(rec["equipements"]) | set(ai.get("equipements") or []))
+    if ai.get("resume"):
+        rec["resume"] = strip_phones(ai["resume"])[:400]
+    rec["source_extraction"] = "IA"
 
 
 def main():
