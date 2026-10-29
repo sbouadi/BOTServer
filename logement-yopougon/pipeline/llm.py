@@ -9,8 +9,12 @@ import re
 
 import requests
 
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODELS = ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"]
+# (point d'accès, nom du modèle) : l'ancien point d'accès Azure sert de secours
+TARGETS = [
+    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4.1-mini"),
+    ("https://models.github.ai/inference/chat/completions", "openai/gpt-4o-mini"),
+    ("https://models.inference.ai.azure.com/chat/completions", "gpt-4o-mini"),
+]
 _quota_hit = False  # après un refus de quota, plus d'appel IA pendant ce passage
 
 PROMPT = """Tu lis une annonce immobilière publiée sur TikTok ou Facebook en Côte d'Ivoire (Abidjan).
@@ -59,11 +63,11 @@ def read_listing(description, transcript, ocr, frames):
         return None
     text = f"LÉGENDE:\n{description}\n\nAUDIO:\n{transcript}\n\nTEXTE DES IMAGES:\n" + "\n".join(ocr)
     content = [{"type": "text", "text": text[:6000]}] + _frames_payload(frames)
-    for model in MODELS:
+    for endpoint, model in TARGETS:
         for attempt in range(1):
             try:
                 r = requests.post(
-                    ENDPOINT,
+                    endpoint,
                     headers={
                         "Authorization": f"Bearer {token}",
                         "Content-Type": "application/json",
@@ -84,7 +88,7 @@ def read_listing(description, transcript, ocr, frames):
                     _quota_hit = True
                     return None
                 if r.status_code != 200 or not r.text.strip().startswith("{"):
-                    print(f"[llm] {model} HTTP {r.status_code} {r.headers.get('content-type')} {r.headers.get('location', '')}: {r.text[:300]!r}")
+                    print(f"[llm] {endpoint} {model} HTTP {r.status_code} {r.headers.get('content-type')} {r.headers.get('location', '')}: {r.text[:300]!r}")
                     break
                 raw = r.json()["choices"][0]["message"]["content"]
                 data = json.loads(re.search(r"\{.*\}", raw, re.S).group(0))

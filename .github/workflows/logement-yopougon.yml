@@ -42,6 +42,12 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: whisper-small-v1
+      - name: Diagnostic IA (action officielle)
+        uses: actions/ai-inference@v1
+        continue-on-error: true
+        with:
+          model: openai/gpt-4o-mini
+          prompt: "Réponds juste: OK-IA"
       - name: Auto-test IA (GitHub Models)
         run: python pipeline/llm.py
         continue-on-error: true
