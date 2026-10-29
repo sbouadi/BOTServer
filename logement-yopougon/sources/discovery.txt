@@ -1,0 +1,4 @@
+# Pages explorées automatiquement à chaque passage (hashtags / comptes TikTok).
+# On n'en garde que les vidéos qui parlent de Yopougon.
+https://www.tiktok.com/tag/maisonalouerayopougon
+https://www.tiktok.com/tag/yopougon
