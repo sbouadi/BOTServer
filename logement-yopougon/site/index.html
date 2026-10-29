@@ -123,7 +123,7 @@ function render() {
   $("list").innerHTML = list.length ? list.map(card).join("") : `<div class="empty">${all.length ? "Aucune annonce ne correspond. Élargissez les filtres." : "Aucune annonce collectée pour l'instant."}</div>`;
 }
 
-fetch("annonces.json", {cache: "no-store"})
+fetch("annonces.json?t=" + Date.now(), {cache: "no-store"})
   .then(r => r.ok ? r.json() : [])
   .catch(() => [])
   .then(data => {
