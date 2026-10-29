@@ -36,7 +36,7 @@ jobs:
       - name: Outils système
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg tesseract-ocr tesseract-ocr-fra
       - name: Dépendances Python
-        run: pip install -q -r pipeline/requirements.txt && pip install -q -U yt-dlp
+        run: pip install -q -r pipeline/requirements.txt && pip install -q -U "yt-dlp[default]"
       - uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface

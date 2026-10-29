@@ -9,6 +9,7 @@ import shutil
 import subprocess
 import sys
 import time
+import traceback
 from pathlib import Path
 
 import yt_dlp
@@ -162,8 +163,9 @@ def main():
         except Exception as exc:
             e = errors.setdefault(url, {"tries": 0})
             e["tries"] += 1
-            e["last_error"] = str(exc)[:300]
+            e["last_error"] = f"{type(exc).__name__}: {exc}"[:300]
             print(f"[échec] {url}: {exc}")
+            traceback.print_exc()
         finally:
             shutil.rmtree(WORK, ignore_errors=True)
 
