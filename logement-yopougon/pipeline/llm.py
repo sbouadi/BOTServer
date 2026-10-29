@@ -77,7 +77,9 @@ def read_listing(description, transcript, ocr, frames):
         return None
     import anthropic
 
-    client = anthropic.Anthropic()
+    # clé d'organisation (non rattachée à un espace de travail) : préciser l'espace via ANTHROPIC_WORKSPACE_ID
+    workspace = os.environ.get("ANTHROPIC_WORKSPACE_ID")
+    client = anthropic.Anthropic(default_headers={"anthropic-workspace-id": workspace} if workspace else None)
     text = f"LÉGENDE:\n{description}\n\nAUDIO:\n{transcript}\n\nTEXTE DES IMAGES:\n" + "\n".join(ocr)
     try:
         response = client.beta.messages.create(
@@ -91,6 +93,11 @@ def read_listing(description, transcript, ocr, frames):
     except (anthropic.AuthenticationError, anthropic.PermissionDeniedError, anthropic.RateLimitError) as exc:
         print(f"[ia] {type(exc).__name__}, IA suspendue pour ce passage")
         _disabled = True
+        return None
+    except anthropic.BadRequestError as exc:
+        print(f"[ia] requête refusée : {exc}")
+        if "workspace" in str(exc):  # problème de configuration : inutile de réessayer pour chaque annonce
+            _disabled = True
         return None
     except anthropic.APIError as exc:
         print(f"[ia] erreur : {exc}")
