@@ -16,6 +16,8 @@ concurrency:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   collecte:
@@ -52,3 +54,22 @@ jobs:
           git commit -m "Collecte automatique $(date -u +%F_%H%M)"
           git pull --rebase -q origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
+
+  publication:
+    needs: collecte
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # récupère le commit de collecte qui vient d'être poussé
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: logement-yopougon/site
+      - id: deploy
+        uses: actions/deploy-pages@v4
