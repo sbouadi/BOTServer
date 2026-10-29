@@ -48,6 +48,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Structuration des annonces
         run: python pipeline/extract.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Enregistrer les résultats
         run: |
           git config user.name "logement-bot"

@@ -16,6 +16,7 @@ import yt_dlp
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import llm  # noqa: E402
+from extract import strip_phones  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw"
@@ -23,7 +24,8 @@ THUMBS = ROOT / "site" / "thumbs"
 WORK = ROOT / "work"
 ERRORS = ROOT / "data" / "errors.json"
 
-MAX_DISCOVERY_PER_PAGE = 40
+MAX_DISCOVERY_PER_PAGE = 15
+ACCOUNTS = ROOT / "data" / "comptes.json"
 MAX_NEW_PER_RUN = 60
 
 
@@ -32,6 +34,20 @@ def read_list(name):
     if not path.exists():
         return []
     return [l.strip() for l in path.read_text().splitlines() if l.strip() and not l.startswith("#")]
+
+
+def known_accounts():
+    """Comptes ayant déjà publié une annonce confirmée à Yopougon : on les surveille."""
+    out = json.loads(ACCOUNTS.read_text()) if ACCOUNTS.exists() else []
+    for p in RAW.glob("*.json"):
+        d = json.loads(p.read_text())
+        url = d.get("url") or ""
+        m = re.search(r"tiktok\.com/(@[\w.\-]+)/", url)
+        text = (d.get("description", "") + " " + d.get("transcript", "")).lower()
+        if m and ("yop" in text) and m.group(1) not in out:
+            out.append(m.group(1))
+    ACCOUNTS.write_text(json.dumps(sorted(set(out)), ensure_ascii=False, indent=1))
+    return [f"https://www.tiktok.com/{a}" for a in out]
 
 
 def discover(pages):
@@ -88,7 +104,19 @@ def transcribe(media):
     if audio.size == 0:
         return ""
     segments, _ = _whisper.transcribe(audio, language="fr", vad_filter=True, beam_size=5)
-    return " ".join(s.text.strip() for s in segments).strip()
+    return clean_transcript(" ".join(s.text.strip() for s in segments))
+
+
+# phrases que Whisper « invente » sur de la musique ou du silence
+HALLUCINATIONS = re.compile(
+    r"sous-titr\w* (réalisés|fait)\w* par[^.]*|amara\.org|merci d'avoir regardé[^.]*|abonnez-vous[^.]*|"
+    r"sous-titrage st'? ?501|♪+",
+    re.I,
+)
+
+
+def clean_transcript(text):
+    return re.sub(r"\s+", " ", HALLUCINATIONS.sub(" ", text)).strip()
 
 
 def ocr_frames(media, vid):
@@ -142,8 +170,14 @@ def main():
         done_urls.update(filter(None, [d.get("source_url"), d.get("url")]))
 
     errors = json.loads(ERRORS.read_text()) if ERRORS.exists() else {}
-    candidates = read_list("urls.txt") + discover(read_list("discovery.txt"))
-    queue = [u for u in dict.fromkeys(candidates) if u not in done_urls and errors.get(u, {}).get("tries", 0) < 3]
+    manual = read_list("urls.txt")
+    discovered = discover(read_list("discovery.txt") + known_accounts())
+    candidates = manual + discovered
+    def already(u):
+        m = re.search(r"/video/(\d+)", u)
+        return u in done_urls or (m and f"tt_{m.group(1)}" in done_ids)
+
+    queue = [u for u in dict.fromkeys(candidates) if not already(u) and errors.get(u, {}).get("tries", 0) < 3]
     print(f"{len(queue)} annonces à traiter")
 
     new = 0
@@ -163,12 +197,13 @@ def main():
                 "uploader": info.get("uploader") or info.get("channel"),
                 "upload_date": info.get("upload_date"),
                 "duration": info.get("duration"),
-                "description": info.get("description") or info.get("title") or "",
-                "transcript": transcript,
-                "ocr": ocr,
+                "description": strip_phones(info.get("description") or info.get("title") or ""),
+                "transcript": strip_phones(transcript),
+                "ocr": [strip_phones(l) for l in ocr],
                 "thumb": save_thumb(vid, thumb, frames),
                 "llm": llm.read_listing(info.get("description") or info.get("title") or "", transcript, ocr, frames),
                 "collected_at": time.strftime("%Y-%m-%d"),
+                "origine": "manuel" if url in manual else "découverte",
             }
             (RAW / f"{vid}.json").write_text(json.dumps(record, ensure_ascii=False, indent=1))
             errors.pop(url, None)

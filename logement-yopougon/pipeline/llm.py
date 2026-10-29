@@ -27,6 +27,9 @@ Réponds UNIQUEMENT par un objet JSON avec ces clés (null si l'information est 
  "caution": int|null,            // en mois
  "avance": int|null,             // en mois
  "agence": int|null,             // commission / démarcheur, en mois
+ "mois_a_payer": int|null,       // nombre total de mois de loyer à verser à l'entrée (ex. "160 000 x5" -> 5, "6 mois + 100k" -> 6)
+ "frais_agence": int|null,       // montant FCFA en plus des mois (ex. "+100 000" -> 100000)
+ "frais_visite": int|null,       // FCFA
  "equipements": [str],           // ex. "douche interne", "compteur personnel", "cour unique", "garage / parking", "carrelé", "staffé", "climatisé", "balcon / terrasse", "cuisine", "neuf", "étage"
  "resume": str                   // 1 phrase factuelle, sans numéro de téléphone
 }"""
@@ -72,7 +75,9 @@ def read_listing(description, transcript, ocr, frames):
                 if r.status_code == 429:  # quota gratuit : on patiente un peu
                     time.sleep(20 * (attempt + 1))
                     continue
-                r.raise_for_status()
+                if r.status_code != 200 or not r.text.strip().startswith("{"):
+                    print(f"[llm] {model} HTTP {r.status_code}: {r.text[:300]!r}")
+                    break
                 raw = r.json()["choices"][0]["message"]["content"]
                 data = json.loads(re.search(r"\{.*\}", raw, re.S).group(0))
                 data["_model"] = model

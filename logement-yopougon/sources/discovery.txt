@@ -1,4 +1,5 @@
-# Pages explorées automatiquement à chaque passage (hashtags / comptes TikTok).
-# On n'en garde que les vidéos qui parlent de Yopougon.
-https://www.tiktok.com/tag/maisonalouerayopougon
+# Pages explorées automatiquement à chaque passage (comptes TikTok, hashtags).
+# Les comptes des annonceurs déjà vus à Yopougon s'ajoutent tout seuls (data/comptes.json).
+# Seules les vidéos qui parlent de Yopougon sont gardées.
 https://www.tiktok.com/tag/yopougon
+https://www.tiktok.com/tag/maisonalouerayopougon
