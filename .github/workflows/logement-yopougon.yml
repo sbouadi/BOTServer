@@ -50,11 +50,13 @@ jobs:
         run: python pipeline/ingest.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
       - name: Structuration des annonces
         run: python pipeline/extract.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
       - name: Enregistrer les résultats
         run: |
