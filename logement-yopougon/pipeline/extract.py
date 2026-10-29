@@ -131,11 +131,11 @@ TYPES = [  # (motif, type, nb pièces)
     (r"\b(2|deux) chambres? (et )?salon", "2 chambres salon", 3),
     (r"\b(une |1 )?chambres? (et |\+ ?)?salon", "chambre salon", 2),
     (r"\bstudio", "studio", 1),
-    (r"\bentree[ -]coucher", "entrée-coucher", 1),
+    (r"\bentree[ -]couche[re]?", "entrée-coucher", 1),
     (r"\bduplex", "duplex", None),
     (r"\bvilla", "villa", None),
-    (r"\b(magasin|boutique|bureau|local commercial)", "commercial", None),
-    (r"\b(\d) ?pieces?", None, None),
+    (r"\b0?(\d) ?pieces?", None, None),
+    (r"\b(magasin|boutique|local commercial)|\bbureau(?! comme habitation)", "commercial", None),
     (r"\bchambre simple|\bune chambre\b|\b1 chambre\b", "chambre simple", 1),
 ]
 
@@ -180,6 +180,8 @@ def find_conditions(t):
         frais = amounts(m.group(2))
         if frais:
             out["frais_agence"] = frais[0][0]
+    elif m2 := re.search(r"[-–]\s*(\d{1,2})\s*mois\b", t):  # « 170k - 5mois »
+        out["mois_a_payer"] = int(m2.group(1))
     m = re.search(r"visite[^0-9]{0,20}" + montant, t)
     if m and amounts(m.group(1)):
         out["frais_visite"] = amounts(m.group(1))[0][0]
@@ -225,13 +227,14 @@ EQUIP = {
     "gardien": r"gardien",
     "forage / eau": r"forage|chateau d'eau",
     "étage": r"\betage\b|\ben hauteur\b",
+    "usage bureau possible": r"bureau comme habitation|habitation (ou|comme) bureau",
     "neuf": r"\bneuf\b|\bnouvelle (construction|maison)|\bjamais habite",
     "plusieurs salles d'eau": r"\b[2-4] salles? d'?eaux?",
 }
 
 
 def is_sale(t):
-    return bool(re.search(r"a vendre|en vente|\bvends?\b|acd|lot(issement)?|terrain", t)) and not re.search(r"a louer|location", t)
+    return bool(re.search(r"a vendre|en vente|\bvends?\b|acd|lot(issement)?|terrain|cession|a ceder", t)) and not re.search(r"a louer|location", t)
 
 
 def build(raw, corrections):
@@ -247,7 +250,7 @@ def build(raw, corrections):
         "thumb": raw.get("thumb"),
         "quartier": find_quartier(t),
         "yopougon": bool(re.search(r"\byop(ougon|on|)?\b|\byopou", t)) or find_quartier(t) is not None,
-        "transaction": "vente" if is_sale(t) else "location",
+        "transaction": ("cession" if re.search(r"cession|a ceder", t) else "vente") if is_sale(t) else "location",
         "type": typ,
         "pieces": pieces,
         "loyer": find_loyer(t),
@@ -299,6 +302,22 @@ def merge_llm(rec, ai):
     rec["source_extraction"] = "IA"
 
 
+def dedupe(annonces):
+    """Les agents republient souvent la même annonce : on garde la plus récente."""
+    seen, out = {}, []
+    for a in annonces:  # déjà triées de la plus récente à la plus ancienne
+        key = (a.get("auteur"), a.get("type"), a.get("quartier"), a.get("loyer"))
+        if None in key[1:] or key not in seen:
+            if None not in key[1:]:
+                seen[key] = a
+                a["publications"] = 1
+            out.append(a)
+        else:
+            seen[key]["publications"] += 1
+            seen[key].setdefault("autres_liens", []).append(a["url"])
+    return out
+
+
 def main():
     corrections = json.loads((ROOT / "sources" / "corrections.json").read_text())
     annonces = []
@@ -317,6 +336,7 @@ def main():
         if not rec.get("masquer"):
             annonces.append(rec)
     annonces.sort(key=lambda a: a.get("date") or "", reverse=True)
+    annonces = dedupe(annonces)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(annonces, ensure_ascii=False, indent=1))
     print(f"{len(annonces)} annonces -> {OUT.relative_to(ROOT)}")

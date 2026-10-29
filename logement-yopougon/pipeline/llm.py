@@ -64,7 +64,13 @@ def read_listing(description, transcript, ocr, frames):
             try:
                 r = requests.post(
                     ENDPOINT,
-                    headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+                    headers={
+                        "Authorization": f"Bearer {token}",
+                        "Content-Type": "application/json",
+                        "Accept": "application/vnd.github+json",
+                        "X-GitHub-Api-Version": "2022-11-28",
+                    },
+                    allow_redirects=False,
                     json={
                         "model": model,
                         "temperature": 0,
@@ -78,7 +84,7 @@ def read_listing(description, transcript, ocr, frames):
                     _quota_hit = True
                     return None
                 if r.status_code != 200 or not r.text.strip().startswith("{"):
-                    print(f"[llm] {model} HTTP {r.status_code}: {r.text[:300]!r}")
+                    print(f"[llm] {model} HTTP {r.status_code} {r.headers.get('content-type')} {r.headers.get('location', '')}: {r.text[:300]!r}")
                     break
                 raw = r.json()["choices"][0]["message"]["content"]
                 data = json.loads(re.search(r"\{.*\}", raw, re.S).group(0))
@@ -88,3 +94,7 @@ def read_listing(description, transcript, ocr, frames):
                 print(f"[llm] {model} essai {attempt + 1}: {exc}")
                 break
     return None
+
+
+if __name__ == "__main__":  # auto-test : python pipeline/llm.py
+    print(read_listing("Studio à louer Yopougon Niangon Sud, loyer 60 000, 5 mois + 50 000 agence", "", [], []))

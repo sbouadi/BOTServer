@@ -42,6 +42,11 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: whisper-small-v1
+      - name: Auto-test IA (GitHub Models)
+        run: python pipeline/llm.py
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Collecte (téléchargement, transcription, OCR)
         run: python pipeline/ingest.py
         env:

@@ -120,7 +120,7 @@ fetch("annonces.json", {cache: "no-store"})
   .then(r => r.ok ? r.json() : [])
   .catch(() => [])
   .then(data => {
-    all = data.filter(a => a.transaction !== "vente" && !a.masquer);
+    all = data.filter(a => a.transaction === "location" && !a.masquer);
     fill($("quartier"), all.map(a => a.quartier));
     fill($("type"), all.map(a => a.type));
     render();
