@@ -3,14 +3,17 @@
 Active seulement si le secret ANTHROPIC_API_KEY est défini dans le dépôt
 (Settings > Secrets and variables > Actions). Sans clé, ou en cas d'erreur,
 renvoie None et les règles d'extract.py prennent le relais.
-Modèle modifiable via la variable CLAUDE_MODEL (ex. claude-haiku-5-5, moins cher).
+Modèle : Claude Haiku 5.5 par défaut (le moins cher) ; variable de dépôt CLAUDE_MODEL pour en changer
+(ex. claude-opus-5-5, plus précis mais ~40x plus cher).
 """
 import base64
 import io
 import json
 import os
 
-MODEL = os.environ.get("CLAUDE_MODEL") or "claude-opus-5-5"
+MODEL = os.environ.get("CLAUDE_MODEL") or "claude-haiku-5-5"
+# repli automatique en cas de refus : pas disponible sur Haiku
+FALLBACK = {} if "haiku" in MODEL else {"betas": ["server-side-fallback-2026-07-01"], "fallbacks": "default"}
 _disabled = False  # après une erreur de quota/clé, plus d'appel pendant ce passage
 
 PROMPT = """Tu lis une annonce immobilière publiée sur TikTok ou Facebook en Côte d'Ivoire (Abidjan).
@@ -82,8 +85,7 @@ def read_listing(description, transcript, ocr, frames):
             max_tokens=4000,
             system=PROMPT,
             output_config={"effort": "low", "format": {"type": "json_schema", "schema": SCHEMA}},
-            betas=["server-side-fallback-2026-07-01"],
-            fallbacks="default",
+            **FALLBACK,
             messages=[{"role": "user", "content": _images(frames) + [{"type": "text", "text": text[:8000]}]}],
         )
     except (anthropic.AuthenticationError, anthropic.PermissionDeniedError, anthropic.RateLimitError) as exc:
