@@ -1,0 +1,85 @@
+name: logement-yopougon
+
+on:
+  push:
+    paths:
+      - "logement-yopougon/sources/**"
+      - "logement-yopougon/pipeline/**"
+      - ".github/workflows/logement-yopougon.yml"
+  schedule:
+    - cron: "17 5,17 * * *"   # 2 passages par jour (UTC = heure d'Abidjan)
+  workflow_dispatch:
+
+env:
+  BRANCHE: ccr-aa2a7c7e-yoi443   # branche qui porte le code et les données de l'outil
+
+concurrency:
+  group: logement-yopougon
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    defaults:
+      run:
+        working-directory: logement-yopougon
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.BRANCHE }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: logement-yopougon/pipeline/requirements.txt
+      - name: Outils système
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg tesseract-ocr tesseract-ocr-fra
+      - name: Dépendances Python
+        run: pip install -q -r pipeline/requirements.txt && pip install -q -U "yt-dlp[default,curl-cffi]"
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-v1
+      - name: Collecte (téléchargement, transcription, OCR)
+        run: python pipeline/ingest.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Structuration des annonces
+        run: python pipeline/extract.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "logement-bot"
+          git config user.email "logement-bot@users.noreply.github.com"
+          git add data site
+          git diff --cached --quiet && echo "Rien de nouveau" && exit 0
+          git commit -m "Collecte automatique $(date -u +%F_%H%M)"
+          git pull --rebase -q origin "$BRANCHE"
+          git push origin "HEAD:$BRANCHE"
+
+  publication:   # facultatif : ne fonctionne que si GitHub Pages est activé (Settings > Pages > GitHub Actions)
+    needs: collecte
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.BRANCHE }}   # récupère le commit de collecte qui vient d'être poussé
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: logement-yopougon/site
+      - id: deploy
+        uses: actions/deploy-pages@v4
