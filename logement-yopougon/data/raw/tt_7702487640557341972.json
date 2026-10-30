@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702487640557341972",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7702487640557341972",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702487640557341972",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261030",
+ "duration": 54,
+ "description": "Magnifique et belle grande 2pieces 2douches disponibles 90mil en bordu ☎️🔑🏠🥰 90mil x7mois plus 60mil démarcheur  Détail: 3mois caution                3mois avance       1mois agence plus 60mil  Yopougon Academie carrefour Chambéry bien placé en bordu avec parking  Visite 5mil Appel: 0711392732 #2piece #visibilité #vue #studio #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Voilà, les poubons et mon bilet vous présentent une très belle deux pièces, voilà, dans une coure, voilà, en rérobation, deux cartons vides, dix mille fonds avec des douches. Passant devant la vidéo, là, c'est comme ça, non, c'est pas comme ça. Très belle deux pièces de cartons vides, dix mille fonds, avec deux douches disponibles par les poubons, t'as vu, changhiri, on a l'envers de l'école Ramat. Voilà, au niveau de la mangerie, on peut dire, avant l'école Ramat, là, c'est la première douches, voilà, deux cheveux cideurs, ici, il y a la cuisine que j'ai bruyante ici, voilà, c'est fait les travaux, et là, il y a la chambre qui n'est pas secrète, mais elle est très bien, voilà, c'est fait les travaux, mettre la maison en état, tout c'est refait, tout ce qu'il y a après, c'est refait, et puis ici, on a l'air, nous, je ne sais pas.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702487640557341972.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie Carrefour Chambéry",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": 270000,
+  "avance": 270000,
+  "agence": 90000,
+  "mois_a_payer": 7,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches",
+   "parking"
+  ],
+  "resume": "Location d'un grand 2 pièces avec 2 douches à Yopougon Academie Carrefour Chambéry, bien placé en bordure de route avec parking. Loyer 90 000 F, 7 mois à payer (90 000 x7) plus 60 000 F de démarcheur ; caution 3 mois, avance 3 mois, agence 1 mois plus 60 000 F. Visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

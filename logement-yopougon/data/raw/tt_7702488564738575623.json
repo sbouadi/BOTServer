@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702488564738575623",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7702488564738575623",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7702488564738575623",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261030",
+ "duration": 26,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO SONGONTÉ AU 1ERE ETAGE NOUVELLE CONSTRUCTION LOYER:60 000x5 PLUS 40 000. #location#maison#visibilité#",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702488564738575623.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songontté",
+  "quartier": null,
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": 40000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio en location au 1er étage à Songontté, nouvelle construction. Loyer 60 000 F, 5 mois à payer plus 40 000 F d'agence. Contact WhatsApp 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
