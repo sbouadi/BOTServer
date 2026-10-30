@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702394151819676948",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702394151819676948",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702394151819676948",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261030",
+ "duration": 61,
+ "description": "Mise en location d'un studio de 65.000f au 1er étage. Lieu: Yopougon Maroc école Bad. Nb: fonctionnaire exigé, privé ou État. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux ",
+ "transcript": "J'ai une famille et je suis sereine C'est pas toi qui s'en écœure les reins J'ai posé en toi, je suis tranqu' Parce que je sais en qui j'ai cru Il faut faire des paroles contre moi Ils ont conspiré pour me faire tomber Malgré tout moi, je suis tranqu' Parce que je sais en qui j'ai cru Sans toi, mon monde est aride Par toi, je suis invincible De la grippe, tu me délivres Et tu demeures le beau, il faut échouer",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702394151819676948.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc école Bad",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio de 65 000 F au 1er étage à Yopougon, quartier Maroc école Bad. Fonctionnaire exigé, privé ou État. Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

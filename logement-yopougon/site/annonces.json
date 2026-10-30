@@ -31,6 +31,37 @@
   ]
  },
  {
+  "id": "tt_7702396210467900692",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702396210467900692",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261030",
+  "thumb": "thumbs/tt_7702396210467900692.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": 200000,
+  "avance": 200000,
+  "agence": 200000,
+  "frais_visite": 5000,
+  "equipements": [
+   "étage"
+  ],
+  "resume": "Location d'un appartement de 3 pièces au 1er étage à Yopougon Maroc hôpital des sœurs, 200 000 F par mois pour 3 mois à payer, avec 1 mois de caution, 1 mois d'avance et 1 mois d'agence, visite à 5 000 F. Contact indiqué dans la légende.",
+  "texte": "Nous mettons en location un appartement de 3 pièces très haut standing à 200.000f au 1er étage. Lieu: Yopougon Maroc hôpital des sœurs. Conditions: 200.000f×3 mois Nb: 1mois caution 1mois avance 1 mois agence Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮  Ossa malé, ossa malé £Ss tas t fl TELE RAR DEEE HULL EN",
+  "contacts": [
+   "0711489393"
+  ],
+  "mois_a_payer": 3,
+  "precision_lieu": "Maroc hôpital des sœurs",
+  "source_extraction": "règles + IA",
+  "total_entree": 600000,
+  "publications": 1
+ },
+ {
   "id": "tt_7702021997693357333",
   "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702021997693357333",
   "plateforme": "TikTok",

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702398142070902036",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702398142070902036",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702398142070902036",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261030",
+ "duration": 61,
+ "description": "À louer, Yopougon niangon à droite super Sonia, studio de 70.000f maison basse. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux ",
+ "transcript": "S'en confondre",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702398142070902036.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio à Yopougon Niangon (près de Super Sonia), maison basse, à 70 000 F. Visite à 5 000 F. Contact par téléphone indiqué.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
