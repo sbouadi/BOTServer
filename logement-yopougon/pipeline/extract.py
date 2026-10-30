@@ -321,8 +321,11 @@ def dedupe(annonces):
 def main():
     corrections = json.loads((ROOT / "sources" / "corrections.json").read_text())
     annonces = []
-    for p in sorted(RAW.glob("*.json")):
+    files = sorted(RAW.glob("*.json"))
+    for i, p in enumerate(files, 1):
         raw = json.loads(p.read_text())
+        if i % 10 == 0 or i == len(files):
+            print(f"[progression] {i}/{len(files)} ({100 * i // len(files)} %)")
         if raw.get("llm") is None and raw.get("llm_essais", 0) < 3 and os.environ.get("ANTHROPIC_API_KEY"):
             # rattrapage : relecture IA (texte seul) des annonces collectées sans IA
             import llm

@@ -23,20 +23,22 @@ Remplis la fiche. Mets null quand l'information est absente : n'invente rien.
 Repères : « chambre salon » = 2 pièces ; « 160 000 x5 + 100 000 » = 5 mois à payer + 100 000 F d'agence ;
 « bureau comme habitation » = logement utilisable aussi en bureau."""
 
+def _choice(*values):
+    """liste fermée de valeurs, ou null"""
+    return {"anyOf": [{"type": "string", "enum": list(values)}, {"type": "null"}]}
+
+
 _INT = {"type": ["integer", "null"]}
 _STR = {"type": ["string", "null"]}
 SCHEMA = {
     "type": "object",
     "properties": {
         "est_annonce": {"type": "boolean"},
-        "transaction": {"type": ["string", "null"], "enum": ["location", "vente", "cession", None]},
+        "transaction": _choice("location", "vente", "cession"),
         "commune": _STR,
         "quartier": _STR,
-        "type": {
-            "type": ["string", "null"],
-            "enum": ["studio", "entrée-coucher", "chambre simple", "chambre salon", "2 pièces", "3 pièces",
-                     "4 pièces", "5 pièces", "villa", "duplex", "commercial", None],
-        },
+        "type": _choice("studio", "entrée-coucher", "chambre simple", "chambre salon", "2 pièces", "3 pièces",
+                        "4 pièces", "5 pièces", "villa", "duplex", "commercial"),
         "pieces": _INT,
         "loyer": _INT,
         "caution": _INT,
@@ -96,8 +98,7 @@ def read_listing(description, transcript, ocr, frames):
         return None
     except anthropic.BadRequestError as exc:
         print(f"[ia] requête refusée : {exc}")
-        if "workspace" in str(exc):  # problème de configuration : inutile de réessayer pour chaque annonce
-            _disabled = True
+        _disabled = True  # clé, espace de travail ou schéma : même erreur pour chaque annonce, inutile d'insister
         return None
     except anthropic.APIError as exc:
         print(f"[ia] erreur : {exc}")
