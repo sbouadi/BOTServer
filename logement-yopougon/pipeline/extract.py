@@ -125,6 +125,15 @@ def find_quartier(t):
     return best[0] if best else None
 
 
+def close_quartier(name):
+    """Fautes de frappe des annonces (« Bagon », « Naingon ») : correspondance approximative avec la liste."""
+    import difflib
+
+    aliases = {fold(a): q for q, al in QUARTIERS.items() for a in al}
+    match = difflib.get_close_matches(fold(name), aliases, n=1, cutoff=0.8)
+    return aliases[match[0]] if match else None
+
+
 TYPES = [  # (motif, type, nb pièces)
     (r"\b(4|quatre) chambres? (et )?salon", "4 chambres salon", 5),
     (r"\b(3|trois) chambres? (et )?salon", "3 chambres salon", 4),
@@ -333,7 +342,7 @@ def merge_llm(rec, ai):
     if ai.get("quartier"):
         precis = ai["quartier"].strip()
         if not rec.get("quartier"):
-            rec["quartier"] = find_quartier(fold(precis)) or precis.title()
+            rec["quartier"] = find_quartier(fold(precis)) or close_quartier(precis) or precis.title()
         if fold(precis) != fold(rec["quartier"]):
             rec["precision_lieu"] = precis
     commune = fold(ai.get("commune") or "")

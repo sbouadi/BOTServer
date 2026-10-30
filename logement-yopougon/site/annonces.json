@@ -447,7 +447,7 @@
   "auteur": "alainzegbehi10",
   "date": "20261027",
   "thumb": "thumbs/tt_7701326369665633557.jpg",
-  "quartier": "Bagon",
+  "quartier": "Bagnon",
   "yopougon": true,
   "transaction": "location",
   "type": "3 pièces",
@@ -464,6 +464,7 @@
    "0767082208",
    "0501744553"
   ],
+  "precision_lieu": "Bagon",
   "source_extraction": "règles + IA",
   "total_entree": null,
   "publications": 1
@@ -749,7 +750,7 @@
   "auteur": "alainzegbehi10",
   "date": "20261026",
   "thumb": "thumbs/tt_7701023202843053332.jpg",
-  "quartier": "Naingon",
+  "quartier": "Niangon",
   "yopougon": true,
   "transaction": "location",
   "type": "3 pièces",
@@ -766,6 +767,7 @@
    "0767082208",
    "0501744553"
   ],
+  "precision_lieu": "Naingon",
   "source_extraction": "règles + IA",
   "total_entree": null,
   "publications": 1
