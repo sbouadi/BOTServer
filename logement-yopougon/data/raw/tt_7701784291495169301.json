@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701784291495169301",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7701784291495169301",
+ "url": "https://www.tiktok.com/@annilove225/video/7701784291495169301",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261028",
+ "duration": 30,
+ "description": "Magasin à louer Yopougon maroc hôtel Hudson disponible vide bien placé en bordure  Contact: 0767314212 #maisonalouer #immobilier #magasin #entrepot ",
+ "transcript": "Voilà, il est maradane qui est là. Eh maradane, c'est Sanka. Bien placé en bodie. Yopouko, Maroc, n'enlède l'hôtel Hudson. Tu es ici, tu viens faire ta petite boutique de vent dans les mouilles, ça chauffe pas. Bien placé en bodie. Sanka, le loyer mensuel. Voilà. Sanka seulement. Tu payes, tu commets ton activité rapidement. Il est beaucoup maroc, hôtel Hudson en bodie. Sanka.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701784291495169301.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à Yopougon Maroc, près de l'hôtel Hudson, en bordure de route, disponible vide, pour boutique ou entrepôt. Contact 0767314212. Loyer mensuel annoncé à l'oral sans montant clairement audible.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

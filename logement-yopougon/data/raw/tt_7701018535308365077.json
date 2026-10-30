@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701018535308365077",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7701018535308365077",
+ "url": "https://www.tiktok.com/@annilove225/video/7701018535308365077",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261026",
+ "duration": 89,
+ "description": "Supérette & restaurant 2 en un à cédé Yopougon millionnaire disponible bien placé en bordure de route principale  Loyer: 250.000f  Prix de cession: 30.000.000fcfa à débattre légèrement  Nb: il ya 4 mois de caution chez le propriétaire  Contact: 0767314212 #superette #supermache #alimentation #business #opportunity @Miii boutique🔔 @🔑 Elisée Immobilier @diby041immobilier @LA LIONNE OURE ",
+ "transcript": "toujours toujours toujours le même détecteur des pépitos immobiliers joli magasins assidés voilà c'est un supermaché voilà une supérette pardon voilà il vous a dit on prend plus l'argent pour faire couper des caliers en investi maintenant voilà t'as des petits millions qui est important d'investir rapidement ça rentre à Pélésie joli magasins assidés c'est très très très très bel supérette bien placé en poche du poudron c'est bien bien fait il n'y a absolument rien à dire c'est que tu payes tu commences ton activité lui le l'émotion c'est que sens il y en a pas de poire qui est là c'est très très très fort c'est c'est bien pensé tu viens tu commences ton activité rapidement ça ne va pas durer voilà c'est la maisonine qui est là ça c'est un odeur c'est très très propre comme c'est bien gagné voilà il n'y a absolument rien à dire c'est à trompe plaque voilà trompe plaque arrive à légèrement voilà il s'est bien placé au millionnerre voilà il m'a millionné bien placé en bouddhu il n'y a absolument rien à dire en bouddhu de route en bouddhu de route voilà il n'y a pas de toilettes donc c'est une toilette ici toilette en bâche toilette en oube très très bien fait très très bien possible il n'y a absolument rien à dire c'est à dire que tu es intéressé après le numéro d'expression",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701018535308365077.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes"
+  ],
+  "resume": "Supérette et restaurant à céder à Yopougon Millionnaire, bien placé en bordure de route principale. Loyer 250 000 F, prix de cession 30 000 000 F à débattre légèrement, 4 mois de caution chez le propriétaire. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

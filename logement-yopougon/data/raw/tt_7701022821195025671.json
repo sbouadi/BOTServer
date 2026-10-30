@@ -1,0 +1,39 @@
+{
+ "id": "tt_7701022821195025671",
+ "source_url": "https://www.tiktok.com/@son2baby/video/7701022821195025671",
+ "url": "https://www.tiktok.com/@son2baby/video/7701022821195025671",
+ "platform": "TikTok",
+ "uploader": "son2baby",
+ "upload_date": "20261026",
+ "duration": 75,
+ "description": "Message du jour. #creatorsearchinsights #visibilitesurtiktok #cotedivoire🇨🇮 #fypシ #tiktokabidjan🇨🇮 ",
+ "transcript": "c'est le cas d'adama.",
+ "ocr": [
+  "les cris de nos mamans",
+  "vendeuses du poisson",
+  "is de nos mamans",
+  "les cr",
+  "mn Rex C ‘a"
+ ],
+ "thumb": "thumbs/tt_7701022821195025671.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo de marché montrant des vendeuses de poisson qui témoignent ou chantent (« les cris de nos mamans vendeuses du poisson », partie 2) ; aucune annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

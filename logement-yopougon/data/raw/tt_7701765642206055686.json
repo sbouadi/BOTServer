@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701765642206055686",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7701765642206055686",
+ "url": "https://www.tiktok.com/@annilove225/video/7701765642206055686",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261028",
+ "duration": 59,
+ "description": "03 pièces 150k Yopougon maroc hôtel Hudson disponible vide bien placé en bordure  Contact: 0767314212 #maisonalouer #immobilier #appartement #opportunity ",
+ "transcript": "Toujours toujours toujours le mec détecteur des pépites immobilières De l'un de trois pièces, 150 000 Voilà, c'est le baisser, il y en a en bas, il y en a en haut Il faut qu'on m'arrête au tel que tu sois le baisser Comme il n'y a rien à dire, vous voyez ça qu'il y a très très propre, absolument rien à dire 100 secondes qu'en seulement tu payes, tu dors 100 secondes qu'en seulement tu payes, tu dors Il y a 6 pots, il y a 3 pots en haut, 3 pots en bas Tu as vu que c'est intéressé, viens pour ton appartement rapidement 100 secondes les francs, un bordu Vous voyez ça qu'il y en a en bas ? Voilà, bien placé, il n'y a plus Il y en a une plus bonne maison, tu as vu ça ? Tu dois bien toi avec les enfants, il y en a plusieurs pots Il y en a haut, il y en a en bas Tu as vu que c'est intéressé, viens pour ton appartement rapidement Merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701765642206055686.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Hôtel Hudson",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces vide à Yopougon (Maroc Hôtel Hudson), bien placé, à 150 000 F, contact 0767314212. Audio peu fiable : mentions de « 6 pots » (probablement 6 logements ou pièces) et de 100 000 F non claires ; pas de caution ni d'avance précisées.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

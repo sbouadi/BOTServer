@@ -1,18 +1,18 @@
 {
  "2026-10-30": {
   "recherche": {
-   "appels": 26,
-   "jetons_entree": 526362,
-   "jetons_sortie": 54590,
-   "recherches_web": 39,
-   "cout_usd": 0.47
+   "appels": 52,
+   "jetons_entree": 1036571,
+   "jetons_sortie": 106630,
+   "recherches_web": 76,
+   "cout_usd": 0.9172
   },
   "lecture": {
-   "appels": 9,
-   "jetons_entree": 41876,
-   "jetons_sortie": 1935,
+   "appels": 26,
+   "jetons_entree": 89885,
+   "jetons_sortie": 5365,
    "recherches_web": 0,
-   "cout_usd": 0.0052
+   "cout_usd": 0.0116
   }
  }
 }

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702154499451915541",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7702154499451915541",
+ "url": "https://www.tiktok.com/@annilove225/video/7702154499451915541",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261029",
+ "duration": 63,
+ "description": "Résidence meublée disponible vide bien placé en bordure Yopougon maroc collège Rodin accessible et discret  Long séjour et jour ouvrable: 17.000f Week-ends et férié: 20.000f  Contact: 0767314212 #residencemeubleeabidjan #airbnb #hotel #auberge @Miii boutique🔔 @diby041immobilier @🔑 Elisée Immobilier @LA LIONNE OURE ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702154499451915541.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 17000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "meublé"
+  ],
+  "resume": "Résidence meublée à louer à Yopougon Maroc, près du collège Rodin, vide et discrète. Long séjour : 17 000 F en jours ouvrables ; week-ends et fériés : 20 000 F. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
