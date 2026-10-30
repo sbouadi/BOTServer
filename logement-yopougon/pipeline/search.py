@@ -27,7 +27,7 @@ def search(client, query):
     response = client.messages.create(
         model=MODEL,
         max_tokens=2000,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 2}],
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 3}],
         messages=[{
             "role": "user",
             "content": f"Cherche des vidéos TikTok récentes d'annonces de location : « {query} » "
