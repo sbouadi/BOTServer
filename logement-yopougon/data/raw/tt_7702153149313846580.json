@@ -1,0 +1,42 @@
+{
+ "id": "tt_7702153149313846580",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7702153149313846580",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7702153149313846580",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261029",
+ "duration": 65,
+ "description": "YOP ANANERAIE COOPEC CAVE A CÉDÉ TRÈS GRAND ET BIEN SITUÉ  LOYER 60 k PRIX DE CESSION 3 ML  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #cave #magasin #Restaurant",
+ "transcript": "waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa C'est matin, à Bichang, le soir. Bichop immobilier, Monsieur le détecteur de Chauli mais sans esprit. Là, je suis au niveau de Ananere, Copek. Copek, okare, fous, Maki. Regardez, vous même. Tout ça, c'est acédé. Dans une cave acédée. Une cave acédée. Il y a une belle devanture de l'anmourouti, tout ça c'est assez de tout ça tout ça ça ne va pas durer ça ne va pas durer les gars intéressé fois pêler rapidement voilà voilà voilà est ce que vous voyez bien voilà merci",
+ "ocr": [
+  "ROUL 72",
+  "— OS ICE",
+  "QK) TAUX",
+  "NW ALU WW 20",
+  "LOYER 60 K",
+  "AICÉDÉ 2.",
+  "LOYER 60K :",
+  "LOYER 60 K."
+ ],
+ "thumb": "thumbs/tt_7702153149313846580.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Abidjan",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Cession d'une cave/magasin-restaurant très grand et bien situé à Ananeraie (Abidjan), loyer 60 000 F, prix de cession 3 millions, contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

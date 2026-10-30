@@ -1,0 +1,39 @@
+{
+ "id": "tt_7701031838151855368",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7701031838151855368",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7701031838151855368",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261026",
+ "duration": 87,
+ "description": "YOP MAROC UNE 3 PIÈCES 150 k EN LOCATION AU 1ER ETAGE AVEC 3DWC PRETE HABITÉ  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #appartementalouer #3piece #maison ",
+ "transcript": "Voilà, on y voit cette matin à Bibliancel le soir du shop immobilier, monsieur le détecteur de Joli Maison sans le dessous de lui. Là je suis présentement dans une trois pièces, une jolie Maison de trois pièces, 150 cartes, huit et huit, 150 cartes, au niveau de Yobubong, Maroc, en adore. Derrière la banque cible, dans le secteur, je précise, dans le secteur. C'est une trois pièces en secondes cartes, avec trois douces, trois douces. Regardez la chambre principal. Regardez la chambre principal. Viens Nadi, viens Nadi, absolument, viens Nadi. Voilà, trois douches de Bibliancel, avec par contre toutes les chiffres qui vont faire d'habité. Tu payes, tu prends les clés, tu payes, tu prends les clés, voilà. Ça c'est la douche visiteur, aussi la deuxième chambre, voilà. Vous voyez, il y a encore une douche à l'intérieur. Tu payes, tu prends, oui. C'est une très belle Maison, hein. Donc, interessez, il faut appeler rapidement, appelle, interessez, appelle. Interessez, appelle, interessez, appelle. Voilà, n'oubliez pas de vous abonner et de partager et de mettre le coeur. Merci.",
+ "ocr": [
+  "LYOP MAROC",
+  "YOP MAROC",
+  "YOP/MAROC",
+  "2YOPIMAROC",
+  "OP, MAROC"
+ ],
+ "thumb": "thumbs/tt_7701031838151855368.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Abidjan",
+  "quartier": "Yopougon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un appartement 3 pièces au 1er étage à Yopougon (secteur derrière la banque, Abidjan), 150 000 F, avec 3 douches/WC, présenté comme prêt et habité. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tt_7701762359609593095",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7701762359609593095",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7701762359609593095",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261028",
+ "duration": 79,
+ "description": "YOP ANANERAIE UNE BELLE CAMBRE SALON (2 PIECS) EN LOCATION 160 k AU 3E ETAGE AVEC 2DWC ET PARKING INTERNE AVEC VIRGIL  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #2piece #maison #pourtoi ",
+ "transcript": "Voila, pas de voir ce matin, un vide dans le soir. Des chocs immobiliers, Monsieur le détecteur, de choli maison sans esprit. Voilà, je suis présentement dans une deux pièces chambes salon avec packing intense. Vous voyez la cuisine, une très grande cuisine. Voila, il y a une entrée d'Ella qui est bien chique comme un petit balcon. Voila, c'est une deux pièces avec deux douches de 164. Il y a un packing intense et il y a un visile. Tout est propre, tout est chic, le bâtiment est chicot, c'est bien plasif. Au nom de lui, il est pouvant ennirer. Il est pouvant ennirer car vous trouvez très bien ici, vous voyez. Tout est ok. Il y a 164, vous voyez Monsieur le détecteur. Il y a 164, vous voyez Monsieur le détecteur. Qui est intéressé, il faut appeler directement. Premier menu, premier service. Ça ne dit pas, ça ne dit pas, ça ne dit pas. Voila, n'oubliez pas de vous abonner, de partager et de mettre le coeur. Merci.",
+ "ocr": [
+  "COQUE",
+  "Wahooo!!",
+  "Wahooo!!®"
+ ],
+ "thumb": "thumbs/tt_7701762359609593095.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 WC",
+   "parking interne",
+   "3e étage"
+  ],
+  "resume": "Location d'une chambre salon (2 pièces) au 3e étage à 160 000 F, avec 2 WC et parking interne. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

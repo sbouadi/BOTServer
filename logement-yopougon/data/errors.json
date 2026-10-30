@@ -1,6 +1,6 @@
 {
  "https://www.tiktok.com/@aboufofana0759/video/7701919978362047764": {
-  "tries": 1,
+  "tries": 2,
   "last_error": "DownloadError: ERROR: [TikTok] 7701919978362047764: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  }
 }
