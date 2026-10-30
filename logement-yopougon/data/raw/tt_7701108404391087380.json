@@ -1,0 +1,36 @@
+{
+ "id": "tt_7701108404391087380",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7701108404391087380",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7701108404391087380",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261026",
+ "duration": 140,
+ "description": "Alain zegbehi vous présente une 2 pièces 160 mille au troisième étage les travaux sont finis c’est pré habiter yopougon chu visite 5000 Mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zegbehi, votre M.A.S.A. Viteur. Tu vous présentes ici une, deux pièces nouvelles transitions habitables dans deux mois les gars, vous cherchez maison, vous ne trouvez pas une maison, vous cherchez maison, vous ne trouvez pas maison de vos goûts, maison de ton soin, rien n'a dit les gars, voici la maison de là. Alain Zegbehi toujours votre M.A.S.A. Viteur, regardez le salon, deux pièces, cent soixante mille, ce n'est pas qu'on va dire, ce n'est pas Rivera, ce n'est pas, ce ne n'est nulle part ailleurs à paille Yopugan. Je suis les gars, Alain Zegbehi toujours votre M.A.S.A. Viteur, regardez, Yopugan, je suis cent soixante mille à deux pièces. Vous allez regarder ? Oui ? Oui, belle vitre au balcon les gars, une maison qui sort de l'ordinaire, maison confortablement confotée, rien n'a dit, regardez le staff, ouah les gars, des douches, regardez, ils ont placé les plateaux, Rékyou pour placer les verres, ça c'est pour les pâchards, les gars, regardez la douche de Viteur ici, rien n'a dit, imaginez la douche de grisade, la douche où tu as grisé salade, c'est ça qui est là là, à chaque douche où tu as grisé salade, regardez juste là, regardez, le système de la douche est déjà installé, je vous dis que c'est habitable dans deux mois, voilà, habitable dans deux mois les gars, maison de rêve, ici la maison n'est pas loin, de la gare UTB, de la gare UTB, de la gare la gare, même ici, ici, regardez, autour de vous ici là, la gare, la maison c'est grisée, voilà, parce que la brigade a tiré mieux de là, il y aura, BIA n'est pas loin de la maison les gars, rien n'a dit, ils ont tout prévu, c'est du confort, la maison qui sort de leur dîner, c'est d'ici, le luxe et plus la sécurité garantie, rien n'a dit, regardez le confort, regardez tout ce qui se passe, il y a d'ici cette maison parce que le propriétaire respectait tous ses nouveaux locataires les gars, rien n'a dit, rien n'a dit, bonus sur le salon Allénz et Guéhi, toujours votre aimant, vos habitants, merci, donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701108404391087380.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche installée",
+   "balcon"
+  ],
+  "resume": "Location d'un 2 pièces neuf au troisième étage à Yopougon (près de la gare UTB), loyer 160 000 F, travaux finis, habitable dans deux mois selon l'annonce, visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

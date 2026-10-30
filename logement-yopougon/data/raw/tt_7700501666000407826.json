@@ -1,0 +1,44 @@
+{
+ "id": "tt_7700501666000407826",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7700501666000407826",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7700501666000407826",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261025",
+ "duration": 28,
+ "description": "🏡 SUITES MEUBLÉES DISPONIBLES À SABLE BONAMOUSSADI ! 🔑 Vous recherchez un cadre confortable pour vos séjours, vos déplacements professionnels ou vos moments de détente à Douala ? Nos suites meublées vous accueillent dans un environnement agréable et sécurisé. ✨ 💰 Nos tarifs par nuitée : 🔹 15 000 FCFA 🔹 20 000 FCFA 🔹 25 000 FCFA ✅ Groupe électrogène ✅ Grand parking ✅ Vigile pour votre sécurité ✅ Wi-Fi Starlink ✅ Salle de séjour ✅ Salle de conférence ✅ Cuisine ✅ Vente de boissons sur place Que ce soit pour un court séjour, un déplacement professionnel ou un moment de repos, nous avons une formule adaptée à vos besoins. 📍 Localisation : Sable Bonamoussadi, Douala #MeublésDouala  #bonamoussadi  #gkimmobilier  #appartementmeublé  #douala ",
+ "transcript": "",
+ "ocr": [
+  "7710"
+ ],
+ "thumb": "thumbs/tt_7700501666000407826.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Sable Bonamoussadi",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 15000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "groupe électrogène",
+   "grand parking",
+   "vigile",
+   "Wi-Fi Starlink",
+   "salle de séjour",
+   "salle de conférence",
+   "cuisine",
+   "vente de boissons sur place"
+  ],
+  "resume": "Suites meublées à louer à la nuitée à Sable Bonamoussadi, Douala : 15 000, 20 000 ou 25 000 FCFA par nuit selon la formule, avec équipements et sécurité.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

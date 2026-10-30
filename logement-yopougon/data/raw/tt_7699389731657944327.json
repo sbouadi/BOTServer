@@ -1,0 +1,37 @@
+{
+ "id": "tt_7699389731657944327",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7699389731657944327",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7699389731657944327",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261022",
+ "duration": 51,
+ "description": "🏠 STUDIO À LOUER À DEÏDO – 70k le MOIS Vous recherchez un studio bien situé à Douala ? Découvrez ce studio à Deïdo, en bordure de route, dans un barrière sécurisée et un environnement calme. ✅ Loyer mensuel : 70k ✅ Emplacement accessible en bordure de route ✅ Balcon à l’arrière ✅ Cadre calme et sécurisé ✅ Électricité prépayée, partagée entre deux occupants 🛋️ MEUBLES ÉGALEMENT EN VENTE ! L’occupante étant en train de libérer les lieux, les meubles présents dans le studio sont également mis en vente. Une belle occasion pour ceux qui souhaitent s’installer et acquérir les meubles sur place. 📍 Localisation : Deïdo feu rouge, Douala. #studioàlouer #locationdouala  #deido #immobilierdouala  #gkimmobilier ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7699389731657944327.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Deïdo",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "électricité prépayée partagée",
+   "meubles en vente"
+  ],
+  "resume": "Studio à louer à Deïdo (Douala) à 70 000 F par mois, en bordure de route, dans une barrière sécurisée, avec balcon à l'arrière. Électricité prépayée partagée entre deux occupants. Les meubles présents sont également mis en vente.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

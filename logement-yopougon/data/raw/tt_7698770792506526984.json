@@ -1,0 +1,33 @@
+{
+ "id": "tt_7698770792506526984",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7698770792506526984",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7698770792506526984",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261020",
+ "duration": 41,
+ "description": "📍 Fonds de commerce à vendre à Maképé ! Vous avez un projet de business et vous cherchez un bon emplacement ? Voici une opportunité à saisir du côté de Maképé, dans un secteur très bien situé. L’espace se prête à plusieurs concepts, notamment un dimanche tarot, un espace de détente, des animations ou encore un snack-bar. À vous de donner vie à votre concept ! 💰 Prix du fonds de commerce : 3M net 🏠 Loyer mensuel : 70k le mois  Une belle opportunité pour les entrepreneurs qui veulent se lancer ! #GKImmobilier #FondsDeCommerce #Maképé #BusinessCameroun #dimanchetarot ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7698770792506526984.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": null,
+  "quartier": "Maképé",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Cession d'un fonds de commerce à Maképé, prix 3 000 000 F net, loyer mensuel 70 000 F ; espace adapté à plusieurs concepts (tarot, détente, animations, snack-bar).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

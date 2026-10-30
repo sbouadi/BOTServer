@@ -1,0 +1,38 @@
+{
+ "id": "tt_7700999819246013716",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7700999819246013716",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7700999819246013716",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261026",
+ "duration": 60,
+ "description": "Alain zegbehi vous présente un studio baoule 60 mille maison basse yopougon ananeraie SGBCI visité 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut. C'est Alain Zébéi. Et ma serviteur, tu vous brûles ici. Un bon studio de 60 000 yopougans en anniversaire. Bien placé, HGBCI. En anniversaire HGBCI, oui. Il y a le travail à faire. 60 millions de le studio 60 000. Il y a le travail à faire. Voici les placards qui sont là. Avec une cour arrière. Il y a encore. Là, ça, elle a douche ici. Oui. Voilà, douche. Voilà. Voilà. Voilà. Voilà. Voilà. Voilà. Voilà. Voilà. C'est la cuisine ici. Voilà. Regardez là. Là, c'est la cuisine. Il y a 60 millions de travail à faire. 60 millions. Oui. Non. Mais on a besoin. On finit ça là. Ok. Alain Zébéi, toujours votre aimer, serviteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700999819246013716.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "cuisine",
+   "placards",
+   "cour arrière"
+  ],
+  "resume": "Studio à louer à Ananeraie, Yopougon, maison basse, 60 000 F, visite 5000 F, travaux à prévoir, contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

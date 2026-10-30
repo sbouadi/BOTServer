@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701313993918450965",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701313993918450965",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701313993918450965",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261027",
+ "duration": 90,
+ "description": "🏠🔥 2 PIÈCES À LOUER – MAISON BASSE 🔥 📍 Yopougon Niangon à gauche ➡️ Derrière les logements sociaux SICOGI Azito 💰 Loyer : 80.000 F/mois 📌 Conditions : 6 mois + 50.000 F 💵 Visite : 5.000 F ⚠️ Nouvelle construction ! 📸 Pas encore d’images disponibles. 🔥 CHAP CHAP ! Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #ImmobilierAbidjan #Location #MaisonÀLouer",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701313993918450965.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 6,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un logement de 2 pièces en maison basse à Niangon (Yopougon), derrière les logements sociaux SICOGI Azito, loyer 80 000 F/mois, 6 mois à payer + 50 000 F, visite 5 000 F, nouvelle construction.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

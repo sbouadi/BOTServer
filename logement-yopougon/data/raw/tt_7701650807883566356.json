@@ -1,0 +1,38 @@
+{
+ "id": "tt_7701650807883566356",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701650807883566356",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701650807883566356",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261028",
+ "duration": 144,
+ "description": "🏠🔥 À LOUER À YOPOUGON ANANERAIE 🔥🏠 📍 Localisation : Yopougon Ananeraie 🏢 Situé au 3ᵉ étage 💰 Loyer : 170.000 F CFA/mois 📌 Conditions : 5 mois 🚶 Visite : 5.000 F CFA 🔥 CHAP CHAP ! Ça ne dure pas ! ⚡ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Location #Yopougon #Ananeraie #ImmobilierAbidjan #AppartementÀLouer",
+ "transcript": ".org",
+ "ocr": [
+  "EIRE",
+  "1271 +",
+  "ste 2ES",
+  "ini,"
+ ],
+ "thumb": "thumbs/tt_7701650807883566356.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": null,
+  "pieces": null,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Appartement à louer au 3e étage à Yopougon Ananeraie, loyer 170 000 F CFA/mois, 5 mois à payer, visite 5 000 F CFA. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

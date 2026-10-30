@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701397755524140309",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701397755524140309",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701397755524140309",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261027",
+ "duration": 72,
+ "description": "🏠 À LOUER : 2 PIÈCES 🏠 📍 Yopougon Niangon à gauche, derrière les logements sociaux SICOGI Azito. 🏗️ Nouvelle construction 💰 Loyer : 80.000 F 📌 Conditions : 6 mois + 50.000 F 🚶 Visite : 5.000 F 🔥 CHAP CHAP ! Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Niangon #Location #Immobilier #CotedIvoire",
+ "transcript": "J'ai l'anronome Me, l'anronome The French The French Me, l'anronome The French Et les Hooks Chauffes la bouche Chauffes la bouche Confidance Me, l'anronome Me, l'anronome J'ai l'anronome J'ai l'anronome",
+ "ocr": [
+  "E L'RRS"
+ ],
+ "thumb": "thumbs/tt_7701397755524140309.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces neuf à Niangon (Yopougon), derrière les logements sociaux SICOGI Azito, loyer 80 000 F, 6 mois à payer + 50 000 F de frais d'agence, visite 5 000 F, contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7702127649165937941",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702127649165937941",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702127649165937941",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261029",
+ "duration": 146,
+ "description": "Alain zegbehi vous présente une 4 pièces 250 mille au premier étage yopougon ananeraie Coopec carrefour marqui visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébéhi, votre MFSA Viteur. Tu vous présentes ici une quatrième pièce de 250.000 au premier étage, Yopougon, Anandera, Kopek, Karefou, Maki. Regardez, vous voyez, voilà, voici le salon, qui est là, voici le balcon du salon, vous voyez là, là, sur le balcon du salon. Voici le salon encore. Alain Zébéhi, toujours votre MFSA Viteur, 250.000. Voilà, regardez, là, c'est l'espace vert, si on met le vert, vous voyez, voilà, bonne maison avec une très grande cuisine. Voici la cuisine ici, vous voyez, regardez la cuisine, voilà, il y en a de travaux à faire. Même dans la cuisine, il y a l'espace placard qui est là, vous voyez, voilà, regardez, voici la bionderie. Le système de brochures est déjà installé, les gars. Rien à dire, 250.000 Yopougon, Anandera, Kopek, Karefou, Maki, vous voyez, voici le deuxième balcon ici, là, sur le deuxième balcon. Yopougon, Anandera, Kopek, Karefou, Maki, je rentre dans le chambre. Voilà. Alain Zébéhi, toujours votre MFSA Viteur. Regardez, voici le chambre ici. Regardez, la chambre ici. Voilà, il y en a de travaux à faire, oui. Ils sont entre tous changés. Tout est bon, tout est bon. Bonne maison au premier étage, quatre pièces. Voilà, regardez, voici. Vaissez deux séparés pour les visiteurs. Oui. Voici le vaisseau ici. Ok. Là, c'est la deuxième chambre. Oui. Oui, oui, regardez, il apprécie. C'est une quatre pièces, 200 et 4000. Voilà. Au premier étage, Yopougon, Anandera, Karefou, Maki. Voilà, regardez, la chambre principale. Regardez la chambre principale ici, oui. Vous m'appréciez la chambre principale, oui. Très, très grand chambre. Deux placards pour madame et messieurs, 250 000 et tout ça. Regardez la douche de la chambre principale. Gaïa douche. Voilà, regardez, oui. Oui. Il n'y a rien à dire. Bonne chambre sur le salon. Voilà. Alain Zébéhi, toujours votre MFSA Viteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702127649165937941.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie (Anandera), Coopec, carrefour Marqui",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "placards",
+   "douche",
+   "balcon"
+  ],
+  "resume": "Location d'un appartement 4 pièces au premier étage à Yopougon (Ananeraie), loyer 250 000 F, en travaux, avec salon, grande cuisine, deux balcons, chambre principale avec deux placards et douche, visite 5 000 F. Contacts : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

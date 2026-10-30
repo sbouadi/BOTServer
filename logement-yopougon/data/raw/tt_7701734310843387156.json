@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701734310843387156",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701734310843387156",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701734310843387156",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261028",
+ "duration": 60,
+ "description": "🏠🔥 3 STUDIOS À LOUER ! 📍 Yopougon Niangon Sud, Centre Social, près du collège Germinal. 🏗️ Nouvelle construction 💰 Loyer : 65.000 F/mois 📌 Conditions : 6 mois + 40.000 F 📅 Disponibles à partir du 10 novembre ! 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Yopougon #Location #Studio #Immobilier",
+ "transcript": ".org .org",
+ "ocr": [
+  "| laiton"
+ ],
+ "thumb": "thumbs/tt_7701734310843387156.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud, Centre Social",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location de 3 studios neufs à Yopougon Niangon Sud (Centre Social, près du collège Germinal), loyer 65 000 F/mois, 6 mois à payer + 40 000 F, disponibles à partir du 10 novembre, contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

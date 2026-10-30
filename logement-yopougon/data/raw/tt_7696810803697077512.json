@@ -1,0 +1,42 @@
+{
+ "id": "tt_7696810803697077512",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7696810803697077512",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7696810803697077512",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261015",
+ "duration": 70,
+ "description": "🔥 FONDS DE COMMERCE À CÉDER À BONAMOUSSADI – DOUALA ! Vous recherchez un lounge clé en main de 300 places ? Voici une belle opportunité ! Cadre spacieux et lumineux, grande cuisine équipée, sonorisation, écrans, groupe électrogène et caméras de surveillance. 💰 Prix : 30M négociable directement avec le responsable sur place. 📍 Bonamoussadi, non loin de Santa Lucia, en bordure de route. 📲 Intéressé ? Contactez-nous dès maintenant pour plus d’informations et organiser une visite ! #FondsDeCommerce #LoungeADouala #Bonamoussadi #Investissement #gkimmobilier ",
+ "transcript": "Voici le fond de commerce d'un loge d'une capacité de 300 places, qui est mis en vente du côté de Bonhomme-Sadiya-Dwala. Non loin du Speer Maché Santa Lucia et en Vendu-de-Route, le cadre espaceux, lumineux, une grande cuisine bien équipée, et un stock de boissons d'une valeur de 4 millions, une douche avec deux compartiments hommes et femmes, six barfs, deux basses et des grands écrans. Les photos ici sont très confortables, en également des camarades de surveillance et un groupe électrogène. Le loge est de 400.000 francs et femmes en moi, avec la possibilité d'adapter le concept en loge, snack au restaurant. Donc je vous laisse donc continuer la visite en vidéo et si vous êtes intéressé, n'hésitez pas à nous contacter pour plus d'informations.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7696810803697077512.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Douala",
+  "quartier": "Bonamoussadi",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine équipée",
+   "sonorisation",
+   "écrans",
+   "groupe électrogène",
+   "caméras de surveillance",
+   "stock de boissons",
+   "douche",
+   "barres"
+  ],
+  "resume": "Cession du fonds de commerce d'un lounge de 300 places à Bonamoussadi, Douala, près de Santa Lucia, en bordure de route, prix 30M négociable (audio mentionne 400 000 F, incohérent avec la légende).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

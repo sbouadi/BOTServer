@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701250661739990293",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701250661739990293",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701250661739990293",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261027",
+ "duration": 175,
+ "description": "🏠 À LOUER : 3 PIÈCES 📍 Yopougon Niangon à gauche, Azito, Carrefour Monaco 🏢 1er étage 💰 Loyer : 150.000 F 📌 Conditions : 6 mois + 80.000 F 💧 Caution d’eau : 50.000 F 🚶 Visite : 5.000 F 🔥 CHAP CHAP ! Ça ne dure pas ! ✅ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Location #Immobilier #Azito #Appartement",
+ "transcript": "Juicy J Uh huh Let's Rage You're gonna love You're gonna come",
+ "ocr": [
+  "DULIMMNN"
+ ],
+ "thumb": "thumbs/tt_7701250661739990293.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": 50000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au 1er étage à Yopougon Niangon (Azito, Carrefour Monaco), loyer 150 000 F, 6 mois à payer + 80 000 F, caution d'eau 50 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

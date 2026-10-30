@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701308204206034197",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701308204206034197",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701308204206034197",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261027",
+ "duration": 30,
+ "description": "🏠 STUDIO À LOUER 🔥 📍 Yopougon Niangon Sud, Centre Social, en face du collège Germinal. 💰 Loyer : 60.000 F 📌 Conditions : 5 mois + 40.000 F 💧 Caution d’eau : 30.000 F 📲 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Yopougon #StudioÀLouer #ImmobilierAbidjan #LocationAbidjan",
+ "transcript": "C'est mon tour, il faut que ça pète jusqu'au pote à gaule",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701308204206034197.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud, Centre Social",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": 30000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Niangon Sud, Centre Social, en face du collège Germinal. Loyer 60 000 F, 5 mois à payer + 40 000 F, caution d'eau 30 000 F. Contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

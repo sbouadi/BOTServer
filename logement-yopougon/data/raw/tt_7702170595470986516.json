@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702170595470986516",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702170595470986516",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702170595470986516",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261029",
+ "duration": 22,
+ "description": "À louer 4 pièces à Yopougon Niangon, Cité CIE, Pâtisserie Flora, au 3e étage. Loyer : 180.000 F Conditions : 5 mois + 100.000 F Visite : 5.000 F NB : En travaux, pas encore d’images. WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Immobilier",
+ "transcript": "L'appel est bon du chasse, ça le fait de se lever en pleine forme de voir",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702170595470986516.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon, Cité CIE, Pâtisserie Flora",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 4 pièces au 3e étage à Niangon, Cité CIE (Pâtisserie Flora), en travaux. Loyer 180 000 F, 5 mois à payer + 100 000 F d'agence, visite 5 000 F. Contact WhatsApp ou appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

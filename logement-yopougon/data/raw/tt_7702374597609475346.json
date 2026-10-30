@@ -1,0 +1,40 @@
+{
+ "id": "tt_7702374597609475346",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7702374597609475346",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7702374597609475346",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261030",
+ "duration": 35,
+ "description": "🏠 STUDIO NON MEUBLÉ À LOUER À REMBOURSEMENT – KOTTO, QUARTIER TANKOUA Opportunité à saisir à Kotto, quartier Tankoua ! Studio très bien situé, à seulement 40 mètres maximum de la voie principale. Conditions de remboursement : 5 mois de loyer restants. 2 mois de caution. Commodités et sécurité : Approvisionnement en eau par forage. Électricité disponible. Caméras de surveillance. Parking disponible. Résidence clôturée avec barrière. Vigile présent jour et nuit. Secteur sécurisé. 🛋️ À noter : Le studio est non meublé et proposé à la location à remboursement. Toutefois, les meubles actuellement présents à l'intérieur sont également disponibles à la vente pour toute personne intéressée. 📞 Pour plus d'informations ou pour organiser une visite, contactez-nous. #gkimmobilier  #locationdouala  #kotto  #studioadouala  #remboursement ",
+ "transcript": "Mais, mais, mais, mais...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702374597609475346.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Tankoua",
+  "type": "studio",
+  "pieces": null,
+  "loyer": null,
+  "caution": 2,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "eau par forage",
+   "électricité",
+   "caméras de surveillance",
+   "parking",
+   "résidence clôturée avec barrière",
+   "vigile jour et nuit"
+  ],
+  "resume": "Studio non meublé à louer à remboursement à Kotto, quartier Tankoua, à 40 m max de la voie principale ; 5 mois de loyer restants et 2 mois de caution ; les meubles présents sont aussi à vendre.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

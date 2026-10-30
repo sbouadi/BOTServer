@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702018340545465620",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702018340545465620",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702018340545465620",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261029",
+ "duration": 127,
+ "description": "🏠 À LOUER : APPARTEMENT 4 PIÈCES 🏠 📍 Yopougon Nouveau Marché, Porbouet 2, Carrefour Maquis 🏢 1er étage 🚿 2 DWC + placards 💰 Loyer : 250.000 F 📌 Conditions : 5 mois + 100.000 F 📲 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Yopougon #Location #Immobilier #Abidjan",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702018340545465620.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Nouveau Marché, Porbouet 2, Carrefour Maquis",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches WC",
+   "placards"
+  ],
+  "resume": "Appartement 4 pièces à louer au 1er étage à Yopougon (Nouveau Marché, Porbouet 2, Carrefour Maquis), loyer 250 000 F, conditions 5 mois + 100 000 F d'agence, avec 2 douches-WC et placards. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

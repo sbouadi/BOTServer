@@ -1,0 +1,43 @@
+{
+ "id": "tt_7701800881200712981",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7701800881200712981",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7701800881200712981",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261028",
+ "duration": 112,
+ "description": "Alain zegbehi vous présente une 2 pièces 160 mille au deuxième étage yopougon ananeraie oiasic visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut c'est Alain Zébéi, votre MR serviteur. Tu vous présentes ici, voilà. Regardez, une deux pièces, 160.000, voilà. J'ai au courant un anéreur, oasis, voilà, voilà. Au troisième étage, avait pas qu'impliver. Oui, regardez, 160.000, nous. Bonne maison, bien jolie, bien jolie, bien jolie. 160.000, oui, deux pièces, oui, avec pas qu'impliver. Tu dois avoir, tu dois. C'est une maison remplie de luce, du confort, oui, voilà, regardez. C'est la cuisine ici, oui, la cuisine. Voilà, un anéreur est délivré, vous pouvez y prendre de maison un anéreur maintenant. Il y a l'eau, parce ici, le système de luce est déjà installé, oui, là, là, oui. Regardez encore, appréciez encore, oui, voilà. Voici la douche visiteuse ici, oui, la douche visiteuse, voilà. Ici, c'est la chambre, voici la chambre ici. Très bonne chambre, très bonne chambre. Bien placée, un anéreur oasis, c'est pas loin du seuil du travail, à la zone du Syriac, l'Isharone, c'est pas loin, LKM, c'est pas loin. Voici la douze de la chambre. Oui, un travail à faire, voilà. Le Pougon, un anéreur oasis, très, très grand champ, ça peut prendre de trois places, quatre places, 160.000, deux pièces, avec patine privée, gardien de surveillance tous les jours, matin et soir. Regardez, bonus sur l'Isharone. Allons ébouiller toujours votre aimer observateur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [
+  "AIN à Ne",
+  "17120000",
+  "JON M0 a",
+  "PU TARN"
+ ],
+ "thumb": "thumbs/tt_7701800881200712981.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Oasis",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "douche visiteur",
+   "système de lumière installé",
+   "gardien de surveillance jour et nuit"
+  ],
+  "resume": "Location d'un 2 pièces à 160 000 F au deuxième étage à Yopougon Ananeraie Oasis, visite à 5 000 F, avec cuisine, douche visiteur et gardiennage matin et soir; contact 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

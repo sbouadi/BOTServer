@@ -1,0 +1,33 @@
+{
+ "id": "tt_7694770972141817095",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7694770972141817095",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7694770972141817095",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261009",
+ "duration": 62,
+ "description": "🏡 À LOUER : Appartement neuf de standing à Kotto, Carrefour Badem Badem 🏡 ✨ Un appartement tout neuf, très vaste, dans un secteur résidentiel très bien situé ! 🛏️ 3 chambres 🚿 2 salles de bain 📍 Kotto, Carrefour Badem Badem (Kaofuba Demba) 💰 Loyer : 250 000 FCFA / mois 📋 Conditions : 8 mois de loyer + 2 mois de caution (légèrement négociable) 👉 Idéal pour une famille ou un cadre qui veut espace, confort et tranquillité. 📞 Contactez G-K IMMOBILIER pour une visite ! 📍 Douala-Bonamoussadi (Petit Terrain) #Douala #Immobilier #LocationDouala #AppartementAlouer #Cameroun   ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7694770972141817095.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Kotto",
+  "type": null,
+  "pieces": null,
+  "loyer": 250000,
+  "caution": 2,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 8,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un appartement neuf de standing à Kotto (Carrefour Badem Badem, Douala), 3 chambres et 2 salles de bain, 250 000 FCFA par mois, 8 mois de loyer et 2 mois de caution (légèrement négociable), agence G-K Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

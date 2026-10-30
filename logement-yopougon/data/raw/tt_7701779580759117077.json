@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701779580759117077",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701779580759117077",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701779580759117077",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261028",
+ "duration": 33,
+ "description": "🏠 À LOUER : 3 PIÈCES 🔥 📍 Yopougon Ananeraie 🏢 3ᵉ étage 💰 Loyer : 170.000 F 📌 Conditions : 5 mois 🚶 Visite : 5.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Yopougon #Ananeraie #Location #ImmobilierCI #Abidjan",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701779580759117077.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au 3e étage à Ananeraie (Yopougon), loyer 170 000 F, 5 mois à payer, frais de visite 5 000 F, contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

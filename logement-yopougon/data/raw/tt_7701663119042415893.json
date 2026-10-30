@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701663119042415893",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701663119042415893",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7701663119042415893",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261028",
+ "duration": 83,
+ "description": "🏠🔥 À LOUER : 2 PIÈCES 🔥🏠 📍 Yopougon Niangon à droite, Lokoa Extension Terminus 🏢 Situé au 1er étage 💰 Loyer : 85.000 F CFA/mois 📋 Conditions : 5 mois + 50.000 F 👀 Visite : 5.000 F 🔥 CHAP CHAP ! Ça ne dure pas ! ⚡ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #LokoaExtension #Location #ImmobilierAbidjan #AppartementÀLouer",
+ "transcript": "",
+ "ocr": [
+  "LLLL"
+ ],
+ "thumb": "thumbs/tt_7701663119042415893.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon à droite, Lokoa Extension Terminus",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au 1er étage à Yopougon Niangon (Lokoa Extension Terminus) à 85 000 F CFA/mois, conditions 5 mois + 50 000 F, frais de visite 5 000 F. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

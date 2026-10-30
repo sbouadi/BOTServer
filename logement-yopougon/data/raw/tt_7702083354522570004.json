@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702083354522570004",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702083354522570004",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702083354522570004",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261029",
+ "duration": 112,
+ "description": "Alain zegbehi vous présente une 3 pièces 200 mille au premier étage yopougon toi rouge visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zegui, what am I for 7 hours, je vous présente ici une trois pièces avec une chambre, vous voyez, voilà 200 000 loyers au premier étage. Yo Pougant, toi rouge, au feu de sa paix pour pied, voilà, juste à côté de la cité HBCI, vous voyez, bonne maison Yo Pougant, toi rouge, le 4ème point n'est pas loin, 3 pièces avec une chambre, vous allez regarder, vous voyez, vous allez regarder, appréciez les gars, vous voyez, voici ici la chambre des enfants ici. 200 000, il y a le travail à faire, ceux qui connaissent la maison ils savent, voilà, cette maison c'est une bonne maison, c'est parce que c'est resté fermé pendant des années, pendant des années donc vous voyez que il y a le travail à faire, c'est maintenant que vous faites l'ouverture, voilà, donc il y a le travail à faire, peinture et salité, plomberie, il y a du restaurant. Gaia Salant, bureau comme habitation, au premier étage, vous voyez, il y a le salon apprécié, il y a le salon, vous voyez, Yo Pougant, toi rouge, sa paix pour pied, c'est pas loin du 4ème point, juste à côté, le 4ème point est à, vous voyez, il y a de la cuisine, voilà, il y a de la cuisine ici, c'est 200 000, 200 000 loyers, il y a le travail à faire, Yo Pougant, toi rouge, vous allez regarder, vous voyez, la chambre d'ici. Bon, j'ai apprécié sa vie de chambre de la cuisine et de la cuisine, voilà, j'ai apprécié sa vie ici, vous voyez, c'est un tour en douche, vous voyez, c'est un tour de visiteur ici, voilà, c'est un visiteur, vous voyez, il y a de la travail à faire, vous voyez, il y a de la travail à faire, bonus sur le salon. Allez, vous avez toujours votre aimab serviteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702083354522570004.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces (dont une chambre, utilisable aussi en bureau) au premier étage à Yopougon Toit Rouge, près de la cité HBCI et du 4ème point, à 200 000 F par mois, frais de visite 5 000 F ; logement fermé depuis des années nécessitant peinture, plomberie et autres travaux.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7695019411689753874",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7695019411689753874",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7695019411689753874",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261010",
+ "duration": 37,
+ "description": "🏡✨ CHAMBRES MEUBLÉES À BONAMOUSSADI ! Vous cherchez une chambre meublée propre, confortable et sécurisée du côté de Bonamoussadi, Bonhomme ? Venez découvrir notre cadre, avec tout le confort qu’il vous faut pour passer un agréable séjour. 😍 ✅ Chambres bien équipées ✅ Cadre propre et sécurisé ✅ Parking disponible ✅ Salle de séjour ✅ Salle de conférence 💰 À partir de 15 000 FCFA la nuitée ! 📍 Localisation : Bonamoussadi, Douala. Pour vos séjours en couple, en solo ou pour vos déplacements professionnels, nous avons ce qu’il vous faut ! 📲 Contactez-nous pour plus d’informations et vos réservations. #ChambresMeublées #Bonamoussadi #Bonhomme #Douala #LocationMeublée",
+ "transcript": "Après, c'est la bonne voyage S'occu'n'a ligno balé Bye bye chérie Ne reviens plus jamais Hey Bye",
+ "ocr": [],
+ "thumb": "thumbs/tt_7695019411689753874.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Bonamoussadi",
+  "type": "chambre simple",
+  "pieces": null,
+  "loyer": 15000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking",
+   "salle de séjour",
+   "salle de conférence",
+   "climatisation"
+  ],
+  "resume": "Chambres meublées à louer à la nuitée à partir de 15 000 FCFA à Bonamoussadi (Douala), propres, sécurisées, avec parking, pour séjours en couple, solo ou déplacements professionnels.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

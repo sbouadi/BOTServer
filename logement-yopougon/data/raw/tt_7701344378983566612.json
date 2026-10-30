@@ -1,0 +1,37 @@
+{
+ "id": "tt_7701344378983566612",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7701344378983566612",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7701344378983566612",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261027",
+ "duration": 90,
+ "description": "Alain zegbehi zegbehi vous présente une 2 pièces 110 mille Yopougon naingon à gauche T27 visite 5000 mille infos 0767082208 /0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zegwey, what am I serviteur, tu vous présentes ici, une deux pièces, 110.000 au 4ème étage, mais j'en sportif avec deux douches, vous voyez, rien n'a dit, je vous gagne à vos suites à gauche, voilà, 10 minutes 27, au 4ème étage, deux douches, 110.000, ici y'a pas problème d'eau, 100 douches, voilà, deux douches, 110.000, voici ça ici, vous voyez, le monde, même sans suppression au 4ème étage, c'est n'a pas à gauche, 10 minutes 27, bien placé, assez très facile, vous voyez, voici le balcon du salon, y compris pour la chambre, voilà, y'a des vues, y'a des, voilà, regardez encore le salon, vous voyez encore le salon, voici la chambre, voilà, c'est la chambre qui est là, là c'est la chambre ici, très grand chambre, voilà, très grand chambre, regardez les placards, voilà, y'a pas d'humidité ici, le travail est bien fait, le propriétaire respecte tout le monde, y'a pas d'humidité, sauf que le gars qui était ici, il a duré, c'est tout, il a duré parce qu'il a metté très bien positionné, c'était la bonne place, c'était là où ça doit être, allez, vous voyez, toujours votre MFVteur, regardez à moi, appréciez, bonus le salon, allez, vous voyez, toujours votre MFVteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701344378983566612.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "placards",
+   "deux douches"
+  ],
+  "resume": "Location d'un 2 pièces au 4ème étage à Naingon (Yopougon), deux douches, balcon, placards, loyer 110 000 F, visite 5 000 F, contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
