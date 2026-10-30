@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702387878357126420",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702387878357126420",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702387878357126420",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261030",
+ "duration": 83,
+ "description": "Mise en location d'un studio américain de 60.000f Lieu: Yopougon camp militaire derrière le marché. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux ",
+ "transcript": ".org",
+ "ocr": [
+  ". cts.",
+  "ane — ="
+ ],
+ "thumb": "thumbs/tt_7702387878357126420.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Camp militaire",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio américain à 60 000 F à Yopougon, camp militaire derrière le marché. Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

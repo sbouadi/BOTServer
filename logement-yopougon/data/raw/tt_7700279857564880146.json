@@ -1,0 +1,40 @@
+{
+ "id": "tt_7700279857564880146",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7700279857564880146",
+ "url": "https://www.tiktok.com/@brunesleger/video/7700279857564880146",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261024",
+ "duration": 48,
+ "description": "Bonjour cher(e) abonné . MOAYE RÉSIDENCE est disponible pour vos séjours inoubliables. Pour plus d’infos contactez nous au: 0153273240//0777789059 # viral # résidence ",
+ "transcript": "L'amour est un choix. Je suis avec toi parce que j'ai décidé de rester avec toi. Je t'aime parce que j'ai choisi de t'aimer. Je t'aime parce que j'ai décidé de t'accorder mon attention. Je t'aime parce que tu m'aimes aussi. Je te respecte parce que tu me respectes. Je suis avec toi parce que tu me rends heureux. Donc ne pense pas que je suis obligé d'être avec toi. C'est pas parce que je suis là aujourd'hui que je serai toujours là même si tu fais d'une n'importe quoi. Si tu continues de me blesser sans cesse, mon amour pour toi va disparaître et je vais te quitter. Je suis patient et je pardonne tout ce que tu fais. Mais sache que ma personne a des limites. Je suis compréhensif mais ma compréhension a des limites. Je suis loyal et je te respecte à tous les niveaux.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700279857564880146.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "studio",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "télévision",
+   "climatisation",
+   "table",
+   "chaise",
+   "lit",
+   "rideaux"
+  ],
+  "resume": "MOAYE Résidence propose des séjours meublés; l'annonce montre une chambre avec coin salon (télévision, table ronde, chaise) et un lit, sans prix ni localisation précis. Contacts 0153273240 et 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "tt_7701064648128285973",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7701064648128285973",
+ "url": "https://www.tiktok.com/@brunesleger/video/7701064648128285973",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261026",
+ "duration": 49,
+ "description": "Moaye résidence est disponible pour vos longs ou courts séjour dans cadre propre et agréable, très calme,une véritable cachette pour vous repos.   Lieux yopougon ananeraie coopec rue Youssou N’Dour Plus d’infos :0153273240//0777789059 # viral résidence # yopougon ",
+ "transcript": "Ne te comprends jamais aux gens Chacun un sonneur, chacun son temps Ce qui est pour toi viendra sûrement Patience mon frère, avant seulement La vie n'est pas une compétition Chacun écrit sa propre chanson Regarde devant, garde la vision Et protège ton coeur des comparaisons Ne te comprends jamais, ton chemin est unique Avant",
+ "ocr": [
+  "320)",
+  "ésidence dispo",
+  "ananeraie ©",
+  "015327",
+  "Résidéuce disponi",
+  "anaueraie C0",
+  "A mes",
+  "Résidence dispouibl",
+  "ananeraie co0pe",
+  "Résidence disponible à Yop",
+  "anaueraie coopec au",
+  "1er.",
+  "0153273240",
+  "Résidence disponible EL"
+ ],
+ "thumb": "thumbs/tt_7701064648128285973.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Coopec",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation",
+   "télévision"
+  ],
+  "resume": "Résidence meublée disponible en location longue ou courte durée à Yopougon Ananeraie Coopec, rue Youssou N'Dour, cadre propre, agréable et très calme. Contacts : 0153273240 / 0777789059. Prix non précisé dans l'annonce.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

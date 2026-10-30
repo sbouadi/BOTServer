@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702391761775725844",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702391761775725844",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702391761775725844",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261030",
+ "duration": 74,
+ "description": "Alain zegbehi vous présente un studio bete 70 mille au rez-de-chaussée yopougon cité CiE partiseri Flora visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain, c'est Gbeiwot, MF, c'est Victor, je vous présente ici un studio bt, voilà, regardez, voilà, yopougan, patisserie florale, c'était sérieux, voilà, voici le petit salon que là, vous avez dit que le studio bt a toujours un petit salon, voilà, c'est le studio Baoulit, non pas des salons, vous voyez, voici la douche ici, vous voyez, là c'est la douche, yopougan, patisserie florale, 70 000, vous voyez, voici la chambre, regardez la chambre, voilà, le propriétaire dit celui tu prends, il voit même plate, vous voyez, lui tu apprends le studio, il voit, vous voyez, c'est au vrai des chaussées, 70 000, voilà, ça c'est un bg Baoulit, le studio c'est un studio bt, voici la pianderie d'ici, vous voyez, vous voyez, bonus sur la chambre, Alain, c'est Gbeiwot, MF, c'est Victor, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702391761775725844.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité CIE / Parti Sérié Flora (Patisserie florale)",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer au rez-de-chaussée à Yopougon (cité CIE, Patisserie florale), 70 000 F par mois, visite 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

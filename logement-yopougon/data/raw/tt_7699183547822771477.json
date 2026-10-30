@@ -1,0 +1,37 @@
+{
+ "id": "tt_7699183547822771477",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7699183547822771477",
+ "url": "https://www.tiktok.com/@annilove225/video/7699183547822771477",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261021",
+ "duration": 60,
+ "description": "02 pièces 130k  Yopougon PMI disponible vide non loin de la pharmacie bien placé en bordure  Contact: 0767314212 #maisonalouer #hautstanding #yop",
+ "transcript": "Ok, voici la chambre salon qui est là. Voila. Chambre salon, c'est qui chez chambre salon beaucoup plus, vous voyez ça qui est là. Très propre, y'a absolument rien à dire. 134 sur le montipayetudo, c'est au troisième étage. Voila, la nouvelle construction. Une nouvelle construction. 134 sur le montipayetudo. Voila, c'est chambre salon. Ça va pas, je lui l'ai t'invite d'intéresser. Tiens, prends ton appartement rapidement. Et ça qui est là. Très propre au niveau du pay-mix. Voila, au niveau du pay-mix, c'est une douche. Voila, sur le balcon qui est là. Très, très, très propre. Y'a absolument rien à dire. C'est bien place en bordu. Voila, ça fait bien. C'est beaucoup à dire, bien upi. Voila, j'ai envie d'intéresser. Voila, ton appartement, nouvelle construction. Y'a pas un de quelques candidats. Voila, bien placardier. Y'a rien à dire. T'inquiète, t'inquiète.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7699183547822771477.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "PMI",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "douche",
+   "balcon",
+   "placard"
+  ],
+  "resume": "Chambre salon à louer à Yopougon PMI, disponible vide, nouvelle construction, au 3e étage, non loin de la pharmacie, à 130 000 F. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

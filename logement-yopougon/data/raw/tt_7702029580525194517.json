@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702029580525194517",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702029580525194517",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702029580525194517",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261029",
+ "duration": 46,
+ "description": "À louer, Yopougon Maroc Obama, studio de 70.000f Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702029580525194517.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Obama",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio à Yopougon Maroc Obama à 70 000 F, frais de visite 5 000 F. Contact indiqué : 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

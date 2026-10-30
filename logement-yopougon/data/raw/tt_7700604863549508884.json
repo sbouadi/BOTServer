@@ -1,0 +1,36 @@
+{
+ "id": "tt_7700604863549508884",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7700604863549508884",
+ "url": "https://www.tiktok.com/@annilove225/video/7700604863549508884",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261025",
+ "duration": 70,
+ "description": "03 pièces 150k Yopougon maroc hôtel granite au 3eme étage disponible vide bien placé  Contact: 0767314212 #maisonaloue #appartement #immobilier #marocyopougon ",
+ "transcript": "toujours toujours toujours le même détecteur des pépites immobiliers jolis trois pièces de cent cinquante cas sur une nouvelle construction l'ambassade n'a jamais été habité voilà on a vu que je pouvais m'arriver aux tels granites voilà j'ai l'impression que la tabouche est dressée mais on a parti un peu rapidement cent cinquante cas seulement tu payes tu dors cent cinquante cas seulement tu payes tu dors parce que l'ambassade n'a jamais été habité jamais été habité c'est très très fort absolument rien a dit voilà dès que tu payes tu prends tes clics et là mais ça ok la c'est pas duré voilà c'est au troisième étage au troisième étage tu as vu t'intéresser même pas on n'a pas tué moi rapidement ça j'ai pas voilà c'est la chaine principale qu'elle a cent cinquante cas seulement il y a beaucoup maroc hôtel granites voilà la touche principale la chaine principale qu'elle a c'est très propre il y a absolument rien a dit cent cinquante cas seulement tu payes tu dors voilà il y a deux potes voilà il y a deux potes c'est la chaine des enfants qu'elle a c'est très très propre il y a absolument rien a dit voilà c'est la douche des enfants voilà dès que tu payes tu dors merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700604863549508884.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "granite",
+   "vide"
+  ],
+  "resume": "Appartement 3 pièces neuf jamais habité à Yopougon Maroc, 3e étage, disponible vide, à 150 000 F, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

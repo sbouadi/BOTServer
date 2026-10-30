@@ -1,0 +1,33 @@
+{
+ "id": "tt_7701343275050913025",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7701343275050913025",
+ "url": "https://www.tiktok.com/@brunesleger/video/7701343275050913025",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261027",
+ "duration": 18,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] un sublime studio 50 milles à yopougon cité batim au 1 er étage très belle maison.  Visite 5 mille  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "On va jamais tomber jamais",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701343275050913025.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "cité Batim",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio à Yopougon cité Batim, au 1er étage, à 50 000 F par mois, visite à 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

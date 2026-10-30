@@ -1,0 +1,36 @@
+{
+ "id": "tt_7701341356425284882",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7701341356425284882",
+ "url": "https://www.tiktok.com/@brunesleger/video/7701341356425284882",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261027",
+ "duration": 66,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] un sublime studio américain à yopougon ananeraie Sorbonne très grande maison. 👉 loyer 100 milles  👉 une grande cuisine  👉 1 salle d’eau  Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "sans le chêteau sous l'unice mobilier toujours toujours moyen comme moi dans les vrais pépites immobiliers voilà, et je suis du côté des yopoukons à l'anére dans un grand studio hein, admires vous même la cuisine magnifique cuisine hein, absolument, rien à dire voilà, vous voyez le salon du studio bien balèze voilà, très propre voilà, vous voyez là c'est la chambre magnifique chambre voilà, bien grand il n'y a absolument rien à signaler sur cette pépite immobilière admires vous même la grande de la bouche voilà très propre vous voyez, la chambre est très très très grande voilà n'oubliez pas de vous abonner à ma page brunettes immobiliers ou les pépites à venir",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701341356425284882.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "salle d'eau"
+  ],
+  "resume": "Location d'un studio américain à Yopougon Ananeraie Sorbonne avec grande cuisine et une salle d'eau, loyer 100 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

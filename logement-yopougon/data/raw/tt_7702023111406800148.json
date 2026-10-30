@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702023111406800148",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702023111406800148",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702023111406800148",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261029",
+ "duration": 44,
+ "description": "À louer, Jolie 2 pièces maison basse à 90.000f Lieu: Yopougon saint Laurent vers l'école CSP. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702023111406800148.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Saint Laurent",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une jolie 2 pièces maison basse à 90 000 F à Yopougon Saint Laurent, vers l'école CSP. Visite à 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

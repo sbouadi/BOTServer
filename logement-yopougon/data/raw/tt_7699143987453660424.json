@@ -1,0 +1,33 @@
+{
+ "id": "tt_7699143987453660424",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7699143987453660424",
+ "url": "https://www.tiktok.com/@brunesleger/video/7699143987453660424",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261021",
+ "duration": 36,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap}     [[ À louer]] un sublime magasin à yopougon Maroc tiken jah sur la nouvelle voie en bordure. 👉 loyer 100 milles  👉 part de porte 2,500 milles  Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok #deblocagevuetiktok ",
+ "transcript": "Je pose mes caméras, sans château si vous laissez l'oblir toujours. Sublime magasin, . Voilà, magasin loyer 100 000 francs. Le Pougon Morocco. Voilà, vous voyez? Voilà, le magasin est bien grand. Voilà. Vous voyez? Voilà, tout ça c'est le magasin. Voici la douche que j'ai. Voilà. Vous voyez? Voilà. C'est un podium de goudron. Voilà, j'ai dit que c'est un podium de goudron.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7699143987453660424.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un magasin à Yopougon (Maroc, Tiken Jah, nouvelle voie en bordure) à 100 000 F de loyer, part de porte 2 500 000 F (2,500 milles), visite 5 000 F. Contacts 0153273240 / 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

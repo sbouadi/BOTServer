@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702019641056480533",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7702019641056480533",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7702019641056480533",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261029",
+ "duration": 53,
+ "description": "À louer, Un magasin de 80.000f Lieu: Yopougon Maroc kimi en bordure de voie. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "WONDER",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702019641056480533.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc kimi",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un magasin à Yopougon Maroc kimi, en bordure de voie, à 80 000 F, frais de visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

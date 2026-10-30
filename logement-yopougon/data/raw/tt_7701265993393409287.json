@@ -1,0 +1,39 @@
+{
+ "id": "tt_7701265993393409287",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7701265993393409287",
+ "url": "https://www.tiktok.com/@brunesleger/video/7701265993393409287",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261027",
+ "duration": 96,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap}   [[ À louer]] une sublime 3 pièces à yopougon Maroc petit marché au 2 eme étage très belle maison ya rien à dire. 👉 loyer 200 milles  👉 3 salles d’eau  👉 1 balcon et une buanderie  👉 staffer aéré avec des carreaux vitrifié et des sports lumineux. Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto",
+ "transcript": "C'est bon ma caméra, c'est le château sourinais immobilier, toujours, toujours loin et encore moins dans les frappes et pips immobiliers. J'ai mis le chou du côté de Yopugam Maratha Petit Maché. Voilà, dans une trois pièces, au standing. Et vous m'avez vraiment aimé. Voilà, vous voyez, là c'est la bianguerie. Voilà le salon, magnifique salon, un peu brillant. Voilà, là c'est la cuisine, magnifique cuisine hein. C'est la cuisine dont on a réservé. C'est bien préparé. Voilà, vous voyez, la maison respite du bonheur. Voilà, vous voyez, là c'est la douche hein. Voilà la douche hein. Et là, c'est le grand mochi. Voilà, vous voyez, la chambre des enfants. Magnifique chambre des enfants hein. Il n'y a absolument rien à signaler. Voilà, là c'est la chambre principale. Magnifique chambre principale. Avec son plaquer, tes bâtons. Voilà, là c'est la douche hein de la chambre principale. Très très très propre, absolument rien à dire. Évoluez-vous les gars, nous sommes là vous.",
+ "ocr": [
+  "PPAAAL TL:"
+ ],
+ "thumb": "thumbs/tt_7701265993393409287.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc petit marché",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "3 salles d'eau",
+   "1 balcon",
+   "buanderie"
+  ],
+  "resume": "Location d'un appartement 3 pièces au 2e étage à Yopougon Maroc petit marché, loyer 200 000 F, 3 salles d'eau, balcon et buanderie, carrelage vitrifié, visite 5 000 F. Contact WhatsApp/téléphone indiqué.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

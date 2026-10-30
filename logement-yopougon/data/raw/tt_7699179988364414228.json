@@ -1,0 +1,35 @@
+{
+ "id": "tt_7699179988364414228",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7699179988364414228",
+ "url": "https://www.tiktok.com/@annilove225/video/7699179988364414228",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261021",
+ "duration": 106,
+ "description": "03 pièces 250k Yopougon PMI disponible vide non loin de la pharmacie bien placé en bordure  Contact: 0767314212 #maisonalouer #hautstanding #yop @Kafando Franck Anicet @diby041immobilier @",
+ "transcript": "Le détecteur des pipitas immobilières, Monsieur Joli maison, Monsieur Femondoming, Monsieur Austin Dink, Monsieur Jersomeille, Monsieur Troide de choses, Joli appartement de type 3 pièces de nouvelles contributions, il n'y a pas à me des quelques indidans, viens avec toi même ta propre énergie, viens avec toi même ton propre aura. C'est la maison qui est là ça va pas, j'ai envie de t'inquiéter, j'ai envie c'est une croix qui est de 200 secondes qu'à voilà parce que les balconies qu'il y a qui est là c'est très bien payé, absolument rien a dit, c'est superément aéré tu t'aimes que tu payes, tu t'as voilà la maison en finition pour la paix de 6 mois voilà 200 secondes qu'à seulement 200 secondes qu'à seulement tu payes, tu t'as tu payes, tu t'aimes que tu t'as voilà la chambre enfant voilà la chambre des enfants c'est superément grand tu viens de mettre des trois places voilà tu viens de mettre des trois places voilà c'est superément grand il n'y a absolument rien a dit c'est stafé, c'est bien chute c'est que tu payes, tu t'as tu t'as vu que j'intéressais, c'est un peu ton appartement voilà c'est au niveau de c'est au niveau du piment voilà, le niveau de l'agence piment voilà, de l'hôpital piment pardon, c'est ça qui est là c'est très propre très très très très très propre il n'y a absolument rien a dit parce que la maison elle a bien placardé c'est très airé voilà il n'y a pas de courant mais elle est allée comme un joueur dans l'appartement voilà la maison qui va pas prendre humidité quand tu vois, tu connais voilà, connaissez, connaissez 250 000 francs seulement ça ne fait pas du tout bien pour ton appartement, merci",
+ "ocr": [
+  "235-548 ; \\ FE À X\\"
+ ],
+ "thumb": "thumbs/tt_7699179988364414228.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "PMI",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Appartement 3 pièces à louer à Yopougon PMI, 250 000 F, disponible vide, non loin de la pharmacie, bien placé en bordure. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

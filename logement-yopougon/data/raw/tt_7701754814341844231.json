@@ -1,0 +1,38 @@
+{
+ "id": "tt_7701754814341844231",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7701754814341844231",
+ "url": "https://www.tiktok.com/@brunesleger/video/7701754814341844231",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261028",
+ "duration": 81,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] une sublime 2 pièces à yopougon ananeraie Sorbonne au 3 eme étage,très belle maison ya absolument rien à dire. 👉 loyer 160 milles  👉 2 salles d’eau  👉 staffées aéré avec des carreaux vitrifié et des sports lumineux.  Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "sans chers tous les biais immobiliers, toujours moyen comme moi dans les prébibis immobiliers. Je suis du côté de Youkoukouan, en Amérique, dans une subime de biais. Vos standings, admis même. Voilà, magnifique salon, très très très propre, absolument rien n'a dit. Vous voyez, la cuisine, non ? Très propre. Il a dit, la maison respite du bonheur. Vous voyez, voilà, là c'est bouffre. Voilà, la lumière du jour, une petite bien déri. Vous voyez, le salon très très très très propre. Voilà. Là, c'est la bouche adet visiteur. Magnifique bouche de visiteur. Voilà. Et là, c'est la chambre. Très propre. Il n'y a absolument rien à signaler. Mais on fout l'option. La chambre est très très très grande. Voilà. Vous voyez. Et là, voilà, vous voyez, la douche. C'est ça, c'est la douche par exemple. La douche principale, vous voyez, très propre. Voilà, n'oubliez pas de vous abonner. A ma page, je vous mets ça immobiliers. Vous l'avez payé pour ça, à venir.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701754814341844231.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "staffs aérés",
+   "carrelage vitrifié",
+   "spots lumineux"
+  ],
+  "resume": "Location d'une 2 pièces au 3e étage à Yopougon Ananeraie Sorbonne, loyer 160 000 F, visite 5 000 F, deux salles d'eau, staff et carrelage vitrifié, spots lumineux.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
