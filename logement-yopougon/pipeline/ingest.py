@@ -61,6 +61,16 @@ def known_accounts():
     return [f"https://www.tiktok.com/{a}" for a in sorted(out)]
 
 
+def manual_accounts():
+    """Comptes fournis à la main dans sources/comptes.txt (@nom ou lien de profil)."""
+    out = []
+    for line in read_list("comptes.txt"):
+        m = re.search(r"@([\w.\-]+)", line)
+        if m:
+            out.append(f"https://www.tiktok.com/@{m.group(1)}")
+    return out
+
+
 def candidate_accounts():
     """Comptes trouvés par la recherche web, pas encore examinés : on regarde leurs 5 dernières vidéos, une fois."""
     if not CANDIDATES.exists():
@@ -212,7 +222,7 @@ def main():
 
     errors = json.loads(ERRORS.read_text()) if ERRORS.exists() else {}
     manual = read_list("urls.txt")
-    discovered = discover(read_list("discovery.txt") + known_accounts())
+    discovered = discover(read_list("discovery.txt") + manual_accounts() + known_accounts())
     discovered += discover(candidate_accounts(), depth=5)
     discovered += FOUND.read_text().split() if FOUND.exists() else []
     candidates = manual + discovered
