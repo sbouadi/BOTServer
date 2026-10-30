@@ -10,7 +10,25 @@
  "transcript": "",
  "ocr": [],
  "thumb": "thumbs/tt_7662016133083483400.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Aucune information exploitable : légende, audio et texte des images sont vides, impossible de confirmer une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

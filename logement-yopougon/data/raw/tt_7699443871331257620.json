@@ -70,7 +70,30 @@
   "1 0:50]min)"
  ],
  "thumb": "thumbs/tt_7699443871331257620.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito Carrefour Conteneur",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "staffe",
+   "2 salles d'eau",
+   "balcons",
+   "aéré"
+  ],
+  "resume": "Location d'une chambre salon (2 pièces) de 130 m² à Azito Carrefour Conteneur, Yopougon, en bordure de la grande voie, très propre, avec staffe, 2 salles d'eau et balcons. Loyer 130 000 F, visite sur rendez-vous à 5000 F. Contacts 0103831435 / 0706134282, Sinaï immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

@@ -164,7 +164,31 @@
   "ALACE À YAOU, OX"
  ],
  "thumb": "thumbs/tt_7662013459571297543.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bonoua",
+  "quartier": "Yaou",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "balcon",
+   "salle de bains",
+   "douche",
+   "placards"
+  ],
+  "resume": "Location d'une nouvelle construction près du goudron, 2 chambres salon au 1er étage à Yaou (Bonoua, près de Grand-Bassam), 150 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

@@ -12,7 +12,29 @@
   "LINE ="
  ],
  "thumb": "thumbs/tt_7701005391848590600.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "cuisine",
+   "salon"
+  ],
+  "resume": "Location d'un 3 pièces haut standing à Bagnon, Yopougon, au 4e étage en bordure de voie, loyer 180 000 F par mois, 5 mois à payer plus 100 000 F d'agence, utilisable aussi comme bureau, disponible fin novembre.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

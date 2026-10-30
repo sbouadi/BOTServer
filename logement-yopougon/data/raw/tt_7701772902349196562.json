@@ -10,7 +10,25 @@
  "transcript": "Salut, salut, salut, salut, salut, salut, salut, toujours tous les alis, voilà, je vous présente une trois pièces, vous voyez, à son, voilà, à son carousin, carousin agris, trois pièces, trois duches, trois vécis, vous voyez, ici c'est la cuisine, là, une trois pièces, 100 000 francs, ici c'est la cuisine, vous voyez, là, regardez la cuisine, très grande cuisine, hein, carousin à l'antenne, 100 000 francs, trois duches, trois vécis, bien situé, le Cati à l'habité il n'a rien à dire, tout les chambres sont au nom, vous voyez, regardez, ça c'est la première chambre, là là ça douche, vous voyez, là on va mettre les placards, vous voyez c'est 100 000 francs, trois duches, trois vécis, là là on va aller, ça c'est là. ça c'est la troisième douche aussi qui est là, ça c'est la chambre 100 000 francs, trois douches, trois visées, vous voyez, une trois pièces",
  "ocr": [],
  "thumb": "thumbs/tt_7701772902349196562.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Jacqueville Antenne",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 80000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces à Songon, carrefour Jacqueville Antenne, 3 douches/WC, loyer 100 000 F x5 mois plus 80 000 F de frais d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

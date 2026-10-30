@@ -103,7 +103,25 @@
   "Loyer. 150K°'6/mois +150K"
  ],
  "thumb": "thumbs/tt_7645319113971125522.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Anani",
+  "quartier": "Oasis",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": 150000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au 3ème étage à Anani (Oasis) : loyer 150 000 F, 6 mois à payer plus 150 000 F d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

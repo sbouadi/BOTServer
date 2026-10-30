@@ -12,7 +12,32 @@
   "Hate IE Ws"
  ],
  "thumb": "thumbs/tt_7701419876652469511.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Belle Horizon",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": 150000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "duplex",
+   "toutes chambres autonomes avec douche",
+   "garage deux véhicules",
+   "cuisine",
+   "balcon",
+   "douche visiteurs"
+  ],
+  "resume": "Location d'un duplex 5 pièces à Songon, cité Belle Horizon, toutes les chambres autonomes, garage deux véhicules. Loyer 350 000 F x5 mois plus 150 000 F d'agence. Contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

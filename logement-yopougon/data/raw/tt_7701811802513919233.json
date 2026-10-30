@@ -10,7 +10,25 @@
  "transcript": "salut salut salut tout je voulais aller je vous présente une trois pièces 80 000 francs voilà regardez trois pièces 80 000 francs voilà trois pièces 80 000 francs vous voyez ça c'est le salon ça c'est la chambre voilà ils vont mettre les placards vous voyez ça c'est la deuxième chambre qui est là la deuxième chambre qui est là voilà",
  "ocr": [],
  "thumb": "thumbs/tt_7701811802513919233.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Jacville Anterne",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces à Songon, carrefour Jacville Anterne, à 90 000 F par mois, 5 mois à payer plus 50 000 F de frais d'agence. L'audio mentionne 80 000 F, ce qui contredit la légende.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

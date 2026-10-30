@@ -10,7 +10,31 @@
  "transcript": "Don't you bomba like a wanker baby Don't you me like a ninja now Say for all my like a wanker baby I'm a like a human baby You know I putza putza I putza putza I putza putza",
  "ocr": [],
  "thumb": "thumbs/tt_7700757028817440021.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayater",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "parking",
+   "chauffe-eau",
+   "spot lumineux",
+   "placard au salon"
+  ],
+  "resume": "Location d'un 2 pièces de bon standing au 4e étage à Agbayater (Yopougon), 2 salles d'eau, accès facile. Loyer 150 000 F, conditions 6 mois + 100 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

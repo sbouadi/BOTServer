@@ -75,7 +75,25 @@
   "Prix:?3/Battons"
  ],
  "thumb": "thumbs/tt_7645349489011641607.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Bonoua",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un terrain de 500 m² à Bonoua, derrière la Ria, zone paisible et sécurisée, en direct avec le propriétaire sans intermédiaire. Prix annoncé : 3 battons (3 000 000 F, lecture incertaine).",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

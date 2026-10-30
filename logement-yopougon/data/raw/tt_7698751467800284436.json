@@ -10,7 +10,28 @@
  "transcript": ".org",
  "ocr": [],
  "thumb": "thumbs/tt_7698751467800284436.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "salle d'eau",
+   "placard"
+  ],
+  "resume": "Location studio bon standing à Niangon Azito, 2e étage, quartier sécurisé, accès facile. Loyer 70 000 F, 6 mois à payer + 50 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

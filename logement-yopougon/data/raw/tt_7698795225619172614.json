@@ -58,7 +58,27 @@
   "En commentaire"
  ],
  "thumb": "thumbs/tt_7698795225619172614.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Cité Verte",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "meublé"
+  ],
+  "resume": "Location d'un studio meublé européen à Yopougon Niangon Cité Verte, du 1er au 2e étage, porte 10, disponible au sein de la cité. Loyer annoncé 110 000 F (légende indique aussi 100 000 F), visite sur rendez-vous à 5000 F. Logement neuf jamais habité, cuisine avec eau et électricité, balcon. Contacts : 0103831435 / 0706134282 (Sinaï immobilier).",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

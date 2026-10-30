@@ -10,7 +10,27 @@
  "transcript": "",
  "ocr": [],
  "thumb": "thumbs/tt_7699876018269556020.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "placard"
+  ],
+  "resume": "Location d'un studio de standing au 2e étage à Niangon, Yopougon (près d'Azito), quartier sécurisé, avec une salle d'eau et un placard. Loyer 70 000 F, conditions 6 mois + 50 000 F. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

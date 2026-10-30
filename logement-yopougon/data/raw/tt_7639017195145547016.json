@@ -29,6 +29,24 @@
   "loÿer 170k visite 5k"
  ],
  "thumb": "thumbs/tt_7639017195145547016.jpg",
- "llm": null,
- "collected_at": "2026-10-29"
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": null,
+  "pieces": 4,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un logement de 4 pièces à Yopougon, quartier Millionnaire, loyer 170 000 F, frais de visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-29",
+ "llm_essais": 1
 }

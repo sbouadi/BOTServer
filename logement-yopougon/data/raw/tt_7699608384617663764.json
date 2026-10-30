@@ -10,7 +10,30 @@
  "transcript": "Ok, que Dieu nous bénisse, amen Jérusalem On a né à plaire au Chinois comme la vie de Carmen C'est eux qu'on veut sauver, c'est eux qui nous m'amènent Fils, faut pas regarder Disney, c'est des choses charnels Ah, Jérusalem, Jérusalem On n'en va pas pour m'attaquer, il faut venir toi-même La moisson a peu d'ouvrier, mais on est fous quand même Si chacun joue son rôle, on ira tous à Jérusalem Ok, que Dieu nous bénisse, amen On est posé chez les Ouadi, chez les Lubamren Ah, Jérusalem Jérusalem, bébé, t'as tout ma chance On a ma chance et on trèche la plaine Dieu nous bénisse",
  "ocr": [],
  "thumb": "thumbs/tt_7699608384617663764.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Marcory",
+  "quartier": "Labagoue",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 50000,
+  "frais_visite": null,
+  "equipements": [
+   "buanderie",
+   "cour avant",
+   "caméra de surveillance",
+   "salle d'eau"
+  ],
+  "resume": "Location d'un studio standing au rez-de-chaussée à Labagoue, accessible, prêt à habiter, habitation uniquement. Loyer 100 000 F, 6 mois à payer plus 50 000 F de frais. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }

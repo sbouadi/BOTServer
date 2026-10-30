@@ -15,7 +15,33 @@
   "En commentaire"
  ],
  "thumb": "thumbs/tt_7702014817002999060.jpg",
- "llm": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "staff",
+   "spots lumineux",
+   "carreaux",
+   "chauffe-eau",
+   "parking interne",
+   "vigile 24h/24"
+  ],
+  "resume": "Location d'un 2 pièces au 3e étage à Ananeraie Sorbonne, Yopougon, à 160 000 F par mois, avec 2 salles d'eau, staff, spots, carreaux, chauffe-eau, parking interne et vigile 24h/24. Visite sur RDV à 5000 F. Contact Sinaï Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
  "collected_at": "2026-10-29",
- "origine": "découverte"
+ "origine": "découverte",
+ "llm_essais": 1
 }
