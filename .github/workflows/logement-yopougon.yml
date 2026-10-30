@@ -8,7 +8,7 @@ on:
       - "logement-yopougon/pipeline/**"
       - ".github/workflows/logement-yopougon.yml"
   schedule:
-    - cron: "7 8,12,17 * * *"   # 3 passages par jour : 8h07, 12h07, 17h07 (UTC = heure d'Abidjan)
+    - cron: "7 8,10,12,15,17 * * *"   # 5 passages par jour : 8h07, 10h07, 12h07, 15h07, 17h07 (UTC = heure d'Abidjan)
   workflow_dispatch:
 
 env:
