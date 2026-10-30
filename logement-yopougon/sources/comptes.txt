@@ -1,2 +1,3 @@
 # Comptes TikTok d'agents à surveiller à chaque passage : un @nom (ou un lien de profil) par ligne.
 @alainzegbehi10
+@gkimmobilier72
