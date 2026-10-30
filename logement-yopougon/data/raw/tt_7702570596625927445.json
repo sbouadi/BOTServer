@@ -1,0 +1,47 @@
+{
+ "id": "tt_7702570596625927445",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702570596625927445",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702570596625927445",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261030",
+ "duration": 208,
+ "description": "🛑LOCATION 🎋YOPOUGON ANANERAIE SORBONNE  ✅UNE MAGNIFIQUE 5 PIÈCE  BON STANDING AU 3EME  ÉTAGE DISPONIBLE STAFFER DANS  UN  BEAUX BATIMENT EN BORDURE DE LA ROUTE TRÈS ACCESSIBLE   HABITATION COMME BUREAU PASSE  3EME ÉTAGE 03 SALLES D'EAU ❤️  VIGILE  03 BALCON  BUANDERIE  CHAUFFE EAUX  PARKING  SPOTE LUMINEUX  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 250.000 FR ✅CONDITIONS: 5MOIS+150mille  CONTACT: 0720363576",
+ "transcript": "Comment voulez-vous votre caviar, monsieur ? Pas de caviar pour moi, merci. Je n'ai jamais mis ça. Et où habitez-vous exactement, monsieur Drossin ? Eh bien, pour l'instant, mon adresse est le RMS Titanic. Après, je dépend du bon vouloir de Dieu. Et comment avez-vous les moyens de voyager ? Je fais mon chemin de place en place. Je voyage souvent en carbone. Mais j'ai gagné mon voyage sur le Titanic en ayant une main chanceuse au poker. Une main très chanceuse. Toute la vie est un jeu de chance. Les vrais hommes créent eux-mêmes leur chance à tout. N'est-ce pas d'absolte ? Et vous trouvez que cette sorte de vie sans attache est amusante, j'en basais. Mais oui, madame, je trouve. Je veux dire, j'ai tout ce qu'il me fout ici avec moi. J'ai de l'air dans mes poumons et quelques feuilles blanches pour travailler. J'adore me lever le matin sans savoir ce qui va m'arriver. Qui je vais rencontrer ? Où je vais échouer ? Il y a quelques jours, j'ai dormi sous un pont et aujourd'hui, je suis ici. Sur le plus grand navire du monde, avoir du champagne en si bonne compagnie. Je vais en prendre. Je pense que la vie est un don et je ne veux pas le cacher. On ne sait pas quel don on aura le poursuivant. On apprend à accepter la vie comme elle vient. Ah, t'en es calme. Pour que chaque jour compte. Bien dit, Jack. Pour que chaque jour compte.",
+ "ocr": [
+  "AVAAVAAYA AVE »",
+  "TION",
+  "= QUES",
+  "NRKN À (1111/17/77",
+  "be. Rs AAA L"
+ ],
+ "thumb": "thumbs/tt_7702570596625927445.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": null,
+  "pieces": 5,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": 150000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "balcon",
+   "buanderie",
+   "chauffe-eau",
+   "parking",
+   "habitation comme bureau",
+   "3 salles d'eau"
+  ],
+  "resume": "Location d'une grande 5 pièces de bon standing au 3e étage, à Yopougon Ananeraie Sorbonne, en bordure de route. Loyer 250 000 F, conditions 5 mois + 150 000 F d'agence. Logement utilisable comme bureau. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

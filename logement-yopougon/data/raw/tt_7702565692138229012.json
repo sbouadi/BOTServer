@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702565692138229012",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702565692138229012",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702565692138229012",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261030",
+ "duration": 41,
+ "description": "Magnifique appartement de 5 pièces disponible au 3e étage à Yopougon Ananera-Sorbonne. Visites dès demain à 8h. Vidéo disponible sur WhatsApp au  07 20 36 35 76.",
+ "transcript": "Dieu, Dieu va t'élever. Humilié toi devant Dieu ! Dieu va t'élever, allé louia ! Humilié toi devant Dieu ! Dieu va t'élever, allé louia ! Oh ! La vigue, la vigue, la vigue, la vigue ! Qui devant moi je veux passer ! Qui devant moi je veux passer ! .org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702565692138229012.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananera-Sorbonne",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Appartement de 5 pièces au 3e étage à Yopougon Ananera-Sorbonne, disponible; visites dès demain à 8h; vidéo sur WhatsApp au 07 20 36 35 76. Loyer non précisé. Transaction supposée location, non explicitement indiquée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

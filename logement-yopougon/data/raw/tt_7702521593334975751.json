@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702521593334975751",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7702521593334975751",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7702521593334975751",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261030",
+ "duration": 134,
+ "description": "☎️:05.06.64.49.72 (what) 4 PIÈCES DUPLEX SONGON KASSEMBLÉ LOYER: 300 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, toujours pour vous aller. Je vous présente une du plaisir. Voilà, vous voyez, à Sangam. Voilà, dans la Stéca Assemblée. Ici, c'est la coure avant. Voilà, vous voyez, ils vont mettre des carreaux. Voilà, à Lang ici, ils vont mettre des carreaux. Ici, ils vont mettre une, voilà, ici, ils vont mettre un carreau, une buyanderie. Voilà. Vous voyez, ici, c'est le salon. Voilà, vous voyez ici, c'est le salon. Voilà, regardez. Le loyer est 300 000 francs. Vous voyez, Sangam Assemblée. Et là, ça, c'est la chambre principale. Et le règne balcon, belle vitrie. Vous voyez, la chambre principale, avec sa bouche. C'est une 4 pièces et une 2 pièces 4 pièces, à Sangam Assemblée. Voilà, vous voyez. Ça, c'est la 3e chambre qui est là. Vous voyez que ça bouche. Le règne balcon, ici aussi, belle vitre. Vous voyez, ça, c'est le plus haut. Ça finit en la fin du mois prochain. Aujourd'hui, nous sommes au 30 octobre. Ça finit en la fin du mois de nous vendre. Là, vous voyez, ça, c'est le plus haut. Sangam Assemblée. Vous voyez, 300 000 francs.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702521593334975751.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Kassemblé",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "buanderie",
+   "balcon"
+  ],
+  "resume": "Location d'un duplex 4 pièces à Songon Kassemblé, loyer 300 000 F par mois, 5 mois à payer plus 100 000 F d'agence. Contact par téléphone indiqué dans la légende. Logement en cours de finition (carrelage prévu).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
