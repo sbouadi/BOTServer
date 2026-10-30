@@ -5,6 +5,7 @@ Lit sources/recherches.txt, cherche des vidéos TikTok récentes pour chaque req
 - les comptes trouvés à data/comptes.json (surveillés à chaque passage).
 Inactif sans ANTHROPIC_API_KEY.
 """
+import hashlib
 import json
 import os
 import re
@@ -48,9 +49,10 @@ def main():
         return
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     today = time.strftime("%Y-%m-%d")
-    if state.get("derniere") == today:
+    signature = hashlib.sha1(QUERIES.read_bytes()).hexdigest()[:12]
+    if state.get("derniere") == today and state.get("requetes") == signature:
         print("[recherche] déjà faite aujourd'hui")
-        return
+        return  # une liste de requêtes modifiée relance la recherche le jour même
     import anthropic
 
     client = anthropic.Anthropic()
@@ -78,7 +80,7 @@ def main():
         print(f"[recherche] « {q} » : {len(urls)} résultats")
     FOUND.write_text("\n".join(sorted(videos)) + "\n")
     ACCOUNTS.write_text(json.dumps(sorted(accounts), ensure_ascii=False, indent=1))
-    STATE.write_text(json.dumps({"derniere": today, "nouveaux_comptes": new_acc, "nouvelles_videos": new_vid}))
+    STATE.write_text(json.dumps({"derniere": today, "requetes": signature, "nouveaux_comptes": new_acc, "nouvelles_videos": new_vid}))
     print(f"[recherche] {new_acc} nouveaux comptes, {new_vid} nouvelles vidéos")
 
 
