@@ -1,4 +1,5 @@
 name: logement-yopougon
+# Relance manuelle : onglet Actions > logement-yopougon > Run workflow (branche master).
 
 on:
   push:
