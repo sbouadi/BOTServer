@@ -1,5 +1,13 @@
 {
- "_note": "Filtres appliqués aux annonces affichées. age_max_jours : âge maximal de la vidéo (null = pas de limite). pieces : nombres de pièces gardés ([] = tous).",
+ "_note": "Filtres appliqués aux annonces affichées. age_max_jours : âge maximal de la vidéo (null = pas de limite). pieces : nombres de pièces gardés ([] = tous). lieux_exclus : annonces écartées si le quartier ou le lieu précis contient l'un de ces mots.",
  "age_max_jours": 21,
- "pieces": [3]
+ "pieces": [
+  3
+ ],
+ "lieux_exclus": [
+  "koweit",
+  "pmi",
+  "sodefor",
+  "chu"
+ ]
 }

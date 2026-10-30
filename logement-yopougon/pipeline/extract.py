@@ -291,6 +291,9 @@ def apply_filters(rec):
         age = (date.today() - datetime.strptime(rec["date"], "%Y%m%d").date()).days
         if age > max_age:
             rec["masquer"] = True
+    lieu = fold(" ".join(filter(None, [rec.get("quartier"), rec.get("precision_lieu")])))
+    if any(re.search(r"\b" + re.escape(fold(x)) + r"\b", lieu) for x in FILTRES.get("lieux_exclus") or []):
+        rec["masquer"] = True
     pieces = FILTRES.get("pieces") or []
     if pieces:
         n = rec.get("pieces")
