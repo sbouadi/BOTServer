@@ -1,0 +1,40 @@
+{
+ "id": "tt_7701298150451088660",
+ "source_url": "https://www.tiktok.com/@rtiinfo/video/7701298150451088660",
+ "url": "https://www.tiktok.com/@rtiinfo/video/7701298150451088660",
+ "platform": "TikTok",
+ "uploader": "rtiinfo",
+ "upload_date": "20261027",
+ "duration": 65,
+ "description": "Une entreprise de VTC a remis 100 véhicules électriques à ses chauffeurs partenaires. Cette initiative vise à réduire la pollution de l'air.  #RTIinfo  #cotedivoire🇨🇮225  #Société  #Environnement",
+ "transcript": "Sans véhicules électriques remis à des chauffeurs partenaires par une entreprise de VTC. Avec la mobilité électrique, aucun gaz polluant à l'échappement, moins de bruit et des économies possibles à d'énergie et d'entretien. Notre mission c'est donc de rendre la Côte d'Ivoire plus innovante, plus saine et surtout moins polluée. Aujourd'hui on estime à plus de 115 tonnes de CO2 qui ont été économisées et pas versées dans l'air en Côte d'Ivoire. 90% des émissions de CO2 et plus de dioxyde de carbone sont le fait des transports dans notre pays. Donc l'initiative d'aujourd'hui tout en appuyant le secteur privé nous permet aussi d'améliorer les conditions de vie de nos compatriotes. Nous permettent aussi d'améliorer et de prevenir certaines maladies respiratoques, mais surtout nous permettent de créer de nombreux emplois. Selon le ministère de l'Environnement et de la Transition écologique, le gouvernement ambitionne d'électrifier 10% du PAC à automobile de l'administration d'ici 2030.",
+ "ocr": [
+  "MOULAYE TABOURÉ",
+  "ASE CE,",
+  "REPORTAGE : GRÂCE KANDO / ARNAUD KOFFI",
+  "MONTAGE : MAX WELLOZO",
+  "REPORTAGE : GRÂCE KANDO / ARNAUD KOFFI °",
+  "MONTAGE : MAX WEL LOZO ‘="
+ ],
+ "thumb": "thumbs/tt_7701298150451088660.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Reportage TV RTI sur la remise de 100 véhicules électriques par une entreprise de VTC à ses chauffeurs partenaires en Côte d'Ivoire, pour réduire la pollution de l'air ; ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

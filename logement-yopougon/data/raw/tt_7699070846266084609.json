@@ -1,0 +1,33 @@
+{
+ "id": "tt_7699070846266084609",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7699070846266084609",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7699070846266084609",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261021",
+ "duration": 160,
+ "description": "#Yopougon Toit rouge ( collège segbé ) jolie studio au rez de chaussé avec grande terasse avant en bordure de voie secondaire bitume NB en départ pour la fin visite et réservation possible #Loyer 80.000 fcfa / Mois  résidence meuble passe 0788393888/ whastpp 0575303446 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7699070846266084609.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit rouge",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un studio au rez-de-chaussée à Toit rouge (collège Segbé), Yopougon, avec grande terrasse avant, en bordure de voie secondaire bitumée. Loyer 80 000 FCFA par mois, logement meublé. Visite et réservation possibles, contact par téléphone ou WhatsApp.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

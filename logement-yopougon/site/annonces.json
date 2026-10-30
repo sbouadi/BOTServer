@@ -61,6 +61,40 @@
   "publications": 1
  },
  {
+  "id": "tt_7701648555290742023",
+  "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7701648555290742023",
+  "plateforme": "TikTok",
+  "auteur": "jean.baptiste.ngu208",
+  "date": "20261028",
+  "thumb": "thumbs/tt_7701648555290742023.jpg",
+  "quartier": "Millionnaire",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 280000,
+  "equipements": [
+   "baie vitrée",
+   "chauffe-eau",
+   "climatiseur",
+   "climatisé",
+   "garage / parking",
+   "parking",
+   "plusieurs salles d'eau",
+   "staffé",
+   "étage"
+  ],
+  "resume": "Location d'un appartement de 3 pièces de bon standing au premier étage à Yopougon Millionnaire, 3 salles d'eau, baie vitrée, climatiseur, parking, accès facile à proximité de la voie. Loyer 280 000 F. Conditions : salaire exigé.",
+  "texte": "LOCATION 📍YOPOUGON MILLIONNAIRE ✅UN MAGNIFIQUE APPARTEMENT DE 3 PIÈCE BON STANDING DISPONIBLE STAFFER AU PREMIER ÉTAGE AU 1ER ÉTAGE 3 SALLES DEAU❤️ CHAUFFER EAUX BLACON BAIE VITRÉ CLIMATISEUR PARKING ACCES FACILE A PROXIMITÉ DE LA VOIE ✅LOYER: 280.000 Fcfa ✅CONDITIONS: SALAIRE EXIGÉ ☎ 0788393888/ WhatsApp 0575303446  .org",
+  "contacts": [
+   "0788393888",
+   "0575303446"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
   "id": "tt_7701712997664001298",
   "url": "https://www.tiktok.com/@toure.aly39/video/7701712997664001298",
   "plateforme": "TikTok",
@@ -316,6 +350,38 @@
   "publications": 1
  },
  {
+  "id": "tt_7700949029500308754",
+  "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7700949029500308754",
+  "plateforme": "TikTok",
+  "auteur": "jean.baptiste.ngu208",
+  "date": "20261026",
+  "thumb": "thumbs/tt_7700949029500308754.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "equipements": [
+   "2 douches WC",
+   "balcon",
+   "balcon / terrasse",
+   "staffer",
+   "staffé",
+   "étage"
+  ],
+  "resume": "Location d'un appartement de 3 pièces avec 2 douches WC, staffer et balcon, bien aéré, au 2e étage à Yopougon Maroc antenne, loyer 160 000 FCFA par mois. Contacts indiqués : [numéro masqué] et WhatsApp [numéro masqué].",
+  "texte": "Yopougon Maroc antenne, bel appartement de 3 pièces avec 2 douche WC,staffer avec balcon bien aéré très accessible au 2eme étage Loyer 160000 FCFA /Mois 0788393888 / WhatsApp 0575303446 ",
+  "contacts": [
+   "0788393888",
+   "0575303446"
+  ],
+  "precision_lieu": "Maroc antenne",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
   "id": "tt_7700983297194741000",
   "url": "https://www.tiktok.com/@toure.aly39/video/7700983297194741000?_r=1&_t=ZS-9Ay9CU86eQO",
   "plateforme": "TikTok",
@@ -449,6 +515,37 @@
   ]
  },
  {
+  "id": "tt_7699198459357842708",
+  "url": "https://www.tiktok.com/@gnali.olivier/video/7699198459357842708",
+  "plateforme": "TikTok",
+  "auteur": "gnali.olivier",
+  "date": "20261021",
+  "thumb": "thumbs/tt_7699198459357842708.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "frais_visite": 5000,
+  "equipements": [
+   "plusieurs salles d'eau",
+   "étage"
+  ],
+  "resume": "Appartement 3 pièces disponible à Maroc Lubafrique, Yopougon, en bordure de la grande voie, au 2e étage, utilisable comme bureau ou habitation. Loyer 150 000 F pour 6 mois (au moins), visite 5 000 F. Contacts : [numéro masqué] / [numéro masqué].",
+  "texte": "🛑 YOPOUGO MAROC LUBAFRIQUE !!!   🍃 APPARTEMENT DE TYPE 3 PIÈCES DISPONIBLES MAROC LUBAFRIQUE EN BORDURE DE LA GRANDE VOIE 2 SALLE D’EAU  Au 2em étage ✅LOYER  150 000 FR / 6mois+😎 ✅VISITE 5000 FR CONTACT : 0758399203/ 05 44573174 .org au ouhabitation que i ‘““ 4 #150-000fcfa \\ 0758599205 0544573174 Num: 0758399203 3Spieces bureau ou Moplubafrique e oyeri50.0€ bureaÿou ha im: 0758399 0544573 reau ou habitation Yop'Iübafric ve en bordure Loyer: 150.000fcfa 3pieces bureau ou habite Yop lubafrique en Loyer: 150.00 3pieces bureauou habitation Yop lubafrique en bordure “NUm: 0758399203 Spieces bureau ou habitation *Mop/lubafrique en bordure ù, ver: 150.000fcfa n: 0758399203",
+  "contacts": [
+   "0758399203",
+   "0544573174",
+   "0758599205"
+  ],
+  "mois_a_payer": 6,
+  "precision_lieu": "Maroc Lubafrique",
+  "source_extraction": "règles + IA",
+  "total_entree": 900000,
+  "publications": 1
+ },
+ {
   "id": "tt_7698722811161890068",
   "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7698722811161890068",
   "plateforme": "TikTok",
@@ -520,5 +617,36 @@
   "autres_liens": [
    "https://www.tiktok.com/@maison.du.bonheur82/video/7698101608239893780"
   ]
+ },
+ {
+  "id": "tt_7697720048412003585",
+  "url": "https://www.tiktok.com/@gnali.olivier/video/7697720048412003585",
+  "plateforme": "TikTok",
+  "auteur": "gnali.olivier",
+  "date": "20261017",
+  "thumb": "thumbs/tt_7697720048412003585.jpg",
+  "quartier": "Niangon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 170000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "étage"
+  ],
+  "resume": "Location de 2 appartements de 3 pièces à Niangon 27 Carrefour Dépôt (Yopougon), rez-de-chaussée et 1er étage, accès facile. Loyer 170 000 F, condition 5 mois + 100 000 F d'agence, visite 5 000 F. Contacts [numéro masqué] / [numéro masqué].",
+  "texte": "🛑 LOCATION 🎋 YOPOUGON NIANGON 27 CARREFOU DÉPÔT 2 APPARTEMENT DE 3PIECES DISPONIBLE NIANGON CARRFOU DÉPÔT AU REZ DE CHAUSSÉ ET 1er ÉTAGE ACCÈS FACILE    ✅LOYER: 170.000fcfa ✅CONDITION : 5MOIS+100mil ✅VISITE 5000 FR CONTACT :07 58 39 92 03 /05 44573174 je suis un consagre à nous de l'avenir c'est que quand elle m'asse dans le quartier son poil c'est l'our rapport humain de tâcher touche et couler les voisins le poids du, les aveugles le poids du doigt et les amis le poids du doigt, les voisins le poids du doigt, mamas le poids du doigt, les aveugles le poids du doigt et — 2 En de 3pieces mr Cartéfou dépôt “Loyer 170. 000fcfa 4 CES 2 Nom: 0758399203 771 T7 0544573174 2 appartements de 3piéces ** niangon.27 Carrefou dépôt 0544573174 2 appartements de apiecesf niangon 27 Carrefou dépôt® over: 170.000fcfa ments de Sbieces 7 Carre épôt ; OOfcfa Num: 0758399203 jm: 0758399203 2 appartements de 3pieces niangon 2/7 Carrefou.dépot Loyer: 170.000feta Num: 0758399205 um: 0758399205 artement : ients de 3pieces Carrefou dépôt 170.000fcfa 1758399203 5424573174 ements de 3piec 27 Carrefou dép r:170.000fcfa :0758399203 | 2appartements de Spieces niangon.2/ Carréfeuidépôt Loyer: 170.000fcfa 2 appartement de 3Spiec niangon 27 Carrefou dép hents de 3pieces 7 Carrefou dépôt",
+  "contacts": [
+   "0758399203",
+   "0544573174",
+   "0758399205"
+  ],
+  "precision_lieu": "Niangon 27 Carrefour Dépôt",
+  "source_extraction": "règles + IA",
+  "total_entree": 950000,
+  "publications": 1
  }
 ]

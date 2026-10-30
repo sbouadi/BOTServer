@@ -1,0 +1,43 @@
+{
+ "id": "tt_7699915064018488597",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7699915064018488597",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7699915064018488597",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261023",
+ "duration": 28,
+ "description": "🛑 LOCATION  🎋 YOPOUGON NIANGON 27 ROUTE AZITO CHIC STUDIO DISPONIBLE AZITO LOGEMENTS SOCIAUX  AU 2EM.ETAGE  ACCES FACILE    ✅LOYER: 70 000 FR ✅CONDITION : 6MOIS+40mil ✅VISITE 5000 FR CONTACT :07 58 39 92 03 /05 44573174",
+ "transcript": "Assoint Le flé et parι Le flé et parι Le flé et parι Le flé et parli",
+ "ocr": [
+  "Loyer: 70.000fcfa",
+  "Num: 0758399203",
+  "0544573174",
+  "Studio dispegi",
+  "io disponible Azito",
+  "ement sociaux",
+  "yer: 70.000fcfa",
+  "m: 0758399203",
+  ">onible Azito"
+ ],
+ "thumb": "thumbs/tt_7699915064018488597.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Azito (Yopougon Niangon, route d'Azito) au 2e étage, logement social, accès facile. Loyer 70 000 F, condition 6 mois + 40 000 F, visite 5 000 F. Contacts 07 58 39 92 03 / 05 44 57 31 74.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

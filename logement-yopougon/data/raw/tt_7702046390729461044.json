@@ -1,0 +1,40 @@
+{
+ "id": "tt_7702046390729461044",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702046390729461044",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702046390729461044",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261029",
+ "duration": 155,
+ "description": "À Louer : Yopougon Palais ( petit Paris 🗼)  dans un bel Immeuble en bordure bel appartement de 2 pièces avec 2 douche WC au 2eme étage, bien aéré vide  #Loyer 100.000 Fcfa / Mois NB BUREAU... RÉSIDENCE MEUBLE PASSE  ☎ 0788393888/whatsapp 0575303446 ",
+ "transcript": "c'est assez, c'est assez, c'est assez c'est sans patrice dans min et tu ne finances pas mais ce réveil est là, c'est la grâce du Dieu quand tu lui propose à surtout de disposer ici bas, où tu n'es que qu'à l'endroit tu n'as pas à dire où d'un temps ici bas, où tu n'es que mes chances et de la ici bas, où tu n'es que qu'à l'endroit ma vie au Saint-Toi-Homme",
+ "ocr": [
+  "RSS =",
+  "Lg IE BR NNS"
+ ],
+ "thumb": "thumbs/tt_7702046390729461044.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Palais (petit Paris)",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches WC",
+   "bien aéré",
+   "vide"
+  ],
+  "resume": "Location d'un bel appartement de 2 pièces avec 2 douches WC au 2e étage d'un immeuble à Yopougon Palais (petit Paris), bien aéré et vide, à 100 000 F par mois. Mention bureau possible (NB BUREAU). Contact par téléphone ou WhatsApp indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

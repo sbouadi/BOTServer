@@ -1,0 +1,38 @@
+{
+ "id": "tt_7700395339022486792",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7700395339022486792",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7700395339022486792",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261025",
+ "duration": 79,
+ "description": "OPPORTUNITÉ À NE PAS MANQUER – YOPOUGON TOIT ROUGE 🔥 (À deux pas du 4ème pont 🌉)    ​Loue superbe Studio moderne au 4ème étage, idéalement situé et sécurisé ! ​💡 Loyer tout compris à 105.000 FCFA / mois (Les charges de 15.000 FCFA comprennent : eau, gardien 24h/24, électricité et nettoyage des communs). ​🗓️ Visites et disponibilité dès le 1er Novembre 2026 ☎0788393888/ WhatsApp 0575303446 ",
+ "transcript": "Mais d'arcade, il m'a du boston Popole m'a pas sous la merveille boupée l'international Pas si n'anglais qu'il est effecté par weignan S'obacouf a marqué yabolimo Pas sanglés, il m'a qu'il a foula yannoué Pas bas fidèle, il m'a cotanama Sous yabolingo, ben fidèle, il m'a cholla Et des trucs qui ont diminué Effectifé à bâton Pas si n'anglais qu'il est effecté par weignan Sous yabolingo, ben fidèle, il m'a cholla",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700395339022486792.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 105000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "gardien 24h/24",
+   "eau",
+   "électricité",
+   "nettoyage des communs"
+  ],
+  "resume": "Studio moderne au 4ème étage à Yopougon Toit Rouge, près du 4ème pont, loyer tout compris 105 000 FCFA/mois dont 15 000 F de charges, disponible dès le 1er novembre 2026.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

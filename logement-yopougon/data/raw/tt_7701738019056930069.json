@@ -1,0 +1,39 @@
+{
+ "id": "tt_7701738019056930069",
+ "source_url": "https://www.tiktok.com/@rtiinfo/video/7701738019056930069",
+ "url": "https://www.tiktok.com/@rtiinfo/video/7701738019056930069",
+ "platform": "TikTok",
+ "uploader": "rtiinfo",
+ "upload_date": "20261028",
+ "duration": 84,
+ "description": "À Daloa, le ministre Kini Comoé au cœur des enjeux de la production rizicole #RTIinfo #cotedivoire🇨🇮225 #agriculture",
+ "transcript": "La quotidie voire veut atteindre l'autosuffisance à RIS. Pour relever ce défi, le ministre délégué chargé des religions vivrières visite les parcelles des risiculteurs bénéficiaires d'appui du gouvernement. Benakini Komou est sur les parcelles risicoles des Boghidiya, localité du département des Dalois. Il est venu s'enquérir des conditions de travail des risiculteurs. Nous avons reçu le matériel. Aujourd'hui, nous avons produit du RIS. Il est venu voir. L'inquiétude que nous avons, c'est la récorte actuellement, puisque le RIS va sortir en novembre. Nous demandons à l'État de nous aider avec des moissonnés bâteuses pour pouvoir mieux faire la récorte. Face aux difficultés liées aux matériels agricoles, Benakini Komou est promis un accompagnement concret. On était passé un jour pour un appui, donc on était passé pour regarder qu'est-ce qu'ils en ont fait de cet outil et quel était le comportement d'un décuture. Ici, on a rélevé cette haine de suffisance, notamment au thème d'outils de mécanisation. C'est au niveau du planting. On pense qu'il faut accélérer le planting et pas ça. Il faut utiliser le matériel qui fait du réplicage en grande quantité. Donc ça, je pense que ça nous manque. Cet autre soutien pourra permettre aux risiculteurs des Boghidiya d'améliorer leur condition et contribuer à l'autosuffisance en RIS.",
+ "ocr": [
+  "DJIBILOU TAMINI",
+  "RIZICULTEUR",
+  "COR | +",
+  "BERNARD KINI COMOÉ",
+  "MINISTRE DÉLÉGUÉ CHARGÉ DES PRODUCTIONS VIVRIÈRES."
+ ],
+ "thumb": "thumbs/tt_7701738019056930069.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Reportage sur la production rizicole à Daloa, visite du ministre délégué chargé des productions vivrières Kini Comoé auprès de riziculteurs bénéficiaires d'appui gouvernemental à Boghidiya ; il ne s'agit pas d'une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

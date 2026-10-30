@@ -1,0 +1,33 @@
+{
+ "id": "tt_7698811927010741522",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7698811927010741522",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7698811927010741522",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261020",
+ "duration": 48,
+ "description": "🛑 LOCATION  🎋 YOPOUGON  INSTITUT DES AVEUGLES  STUDIO DISPONIBLE YOPOUGON INSTITUT DES AVEUGLES SUR LA NOUVEL VOIE AU REZ DE CHAUSSÉE  ACCES FACILE EN BORDURE DE ROUTE    ✅LOYER: 70 000 FR ✅CONDITION : 3-3-1 ✅VISITE 5000 FR CONTACT :07 58 39 92 03 /05 44573174",
+ "transcript": "On est dans la zone, on contrôle le terrain C'est notre destin On change d'air et se gagne du soir au format La con de la concurrence est loin dans l'la Mon équipe est solide comme un bloc de béton Pendant que tu dors, nous on fait le pognon Manigans, quoi tes plans sont trop faciles On a déjà trois coups d'avance, c'est pas difficile Je sens la jalousie mais ça ne m'atteint pas Je reste dans ma bulle, je suis le bon appart Le gars chapelle le gars, tu connais la devise enfoirée Impossible qu'on échoue la victoire, il jurait Qui parle, il parle mais ne va pas le score Chaque jour on avance, on en veut encore plus fort",
+ "ocr": [],
+ "thumb": "thumbs/tt_7698811927010741522.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Institut des Aveugles",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 3,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Institut des Aveugles, au rez-de-chaussée, accès facile en bordure de route. Loyer 70 000 F, condition 3-3-1, visite 5000 F. Contact 07 58 39 92 03 / 05 44573174.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

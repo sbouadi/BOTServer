@@ -1,0 +1,38 @@
+{
+ "id": "tt_7702021608738819335",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702021608738819335",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702021608738819335",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261029",
+ "duration": 87,
+ "description": "À Louer : Yopougon toit rouge ( église st Marc)  grand studios disponible au rez de chaussé avec une cour 🏡 avant, Cuisine + 1 douche WC + placard, très très accessible #Loyer 80.000 Fcfa / Mois  ☎ 0788393888/ WhatsApp 0575303446",
+ "transcript": "Il est de la moitié, il est de l'aujourd'hui Il sera là-dedans, il ne sait que qu'on est Et pata aussi, il est de la moitié",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702021608738819335.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit rouge (église St Marc)",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche WC",
+   "placard",
+   "cour"
+  ],
+  "resume": "Location à Yopougon Toit rouge (près de l'église St Marc) d'un grand studio disponible au rez-de-chaussée avec cour, cuisine, douche WC et placard, à 80 000 F par mois. Contacts : 0788393888 / WhatsApp 0575303446.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7698663644724301064",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7698663644724301064",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7698663644724301064",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261020",
+ "duration": 215,
+ "description": "Vous cherchez le cadre idéal pour votre famille ou un investissement sûr à Abidjan ? Découvrez cette opportunité unique dans l'une des cités les plus prisées ! ​📍 Localisation idéale : Attecoubé Cité Addoha ​À seulement 5 minutes du 4ème Pont 🌉 ​À 15 minutes du Plateau 🏙️ ​Cité entièrement bitumée 🛣️ ​Espaces de jeux sécurisés pour le bonheur de vos enfants 🛝👨‍👩‍👧‍👦 ​Cadre de vie calme, agréable et sécurisé. ​🏠 Appartement de 4 pièces spacieux et lumineux. ​Prix de vente : 32.000.000 FCFA  ☎ 0788393888/0575303446 whastpp",
+ "transcript": "Belle Abidjan, toi rendez-vous des tranqueurs Abidjan, villes, des visiteurs Chasse de ton ciel, les nuages gris noirs Des capitales de la Côte d'Ivoire Belle Abidjan, fierté de l'Afrique Abidjan, au bord de l'Atlantique Qui popouait quand on atteint Côte d'Ivoire On se dit vivre à Oupouet-Poynit Belle Abidjan, maître Paul Que tu ressembles à Montréal Abidjan, qui a le monopole Quand on peuple et stile Abidjan, maître Paul Que tu ressembles à Ceu-l'hu",
+ "ocr": [
+  "Pom HAT LES"
+ ],
+ "thumb": "thumbs/tt_7698663644724301064.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Attécoubé",
+  "quartier": "Cité Addoha",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "espaces de jeux sécurisés",
+   "cité bitumée"
+  ],
+  "resume": "Vente d'un appartement de 4 pièces spacieux et lumineux à Attécoubé Cité Addoha, à 5 minutes du 4ème Pont et 15 minutes du Plateau, au prix de 32 000 000 FCFA.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7701648555290742023",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7701648555290742023",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7701648555290742023",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261028",
+ "duration": 116,
+ "description": "LOCATION 📍YOPOUGON MILLIONNAIRE ✅UN MAGNIFIQUE APPARTEMENT DE 3 PIÈCE BON STANDING DISPONIBLE STAFFER AU PREMIER ÉTAGE AU 1ER ÉTAGE 3 SALLES DEAU❤️ CHAUFFER EAUX BLACON BAIE VITRÉ CLIMATISEUR PARKING ACCES FACILE A PROXIMITÉ DE LA VOIE ✅LOYER: 280.000 Fcfa ✅CONDITIONS: SALAIRE EXIGÉ ☎ 0788393888/ WhatsApp 0575303446 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701648555290742023.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 280000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatiseur",
+   "chauffe-eau",
+   "baie vitrée",
+   "parking"
+  ],
+  "resume": "Location d'un appartement de 3 pièces de bon standing au premier étage à Yopougon Millionnaire, 3 salles d'eau, baie vitrée, climatiseur, parking, accès facile à proximité de la voie. Loyer 280 000 F. Conditions : salaire exigé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

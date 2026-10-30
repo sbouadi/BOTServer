@@ -1,0 +1,39 @@
+{
+ "id": "tt_7701675044568681735",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7701675044568681735",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7701675044568681735",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261028",
+ "duration": 187,
+ "description": "À Louer: Très belle maison de 2 pièces avec un très bon standing en maison basse, une cour avant avec 1 douche WC ( 2 entré) une cuisine type française À Yopougon Kenya très très accessible  #NB habitation ou Bureau  Loyer 150.000 Fcfa / Mois  ☎ 0788393888/ WhatsApp 0575303446 ",
+ "transcript": "Et avant toi j'ai placé ma foi Car il n'y a que toi qui sois digne de l'oiseau Mais c'est des mises sur ta bite dans l'ombre, il vient de voir Et avant toi j'ai placé ma foi Et avant toi qui sois digne de l'oiseau Mais c'est des mises sur ta bite Car il t'en a déjà mort pour faire vivre le pauvre Et la foi faire vivre l'espoir L'humilité caractérise le sage Et la cante d'au Dieu est le début de la sagesse",
+ "ocr": [
+  "itut"
+ ],
+ "thumb": "thumbs/tt_7701675044568681735.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Kenya",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cour avant",
+   "douche WC",
+   "cuisine type française"
+  ],
+  "resume": "Location d'une maison basse de 2 pièces à Yopougon Kenya, très bon standing, cour avant, douche WC (2 entrées), cuisine type française, utilisable comme habitation ou bureau, loyer 150 000 FCFA par mois.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
