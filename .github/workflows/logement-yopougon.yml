@@ -66,11 +66,14 @@ jobs:
           git add data site
           git diff --cached --quiet && echo "Rien de nouveau" && exit 0
           git commit -m "Collecte automatique $(date -u +%F_%H%M)"
-          git pull --rebase -q origin "$BRANCHE"
+          # deux collectes simultanées : la plus récente garde ses données
+          git pull --rebase -X theirs -q origin "$BRANCHE"
           git push origin "HEAD:$BRANCHE"
 
   publication:   # facultatif : ne fonctionne que si GitHub Pages est activé (Settings > Pages > GitHub Actions)
     needs: collecte
+    # GitHub Pages n'accepte par défaut que les publications depuis master (programmées ou push sur master)
+    if: ${{ !cancelled() && github.ref == 'refs/heads/master' }}
     runs-on: ubuntu-latest
     continue-on-error: true
     environment:
