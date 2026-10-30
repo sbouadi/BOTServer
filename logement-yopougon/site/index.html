@@ -93,7 +93,7 @@ function card(a) {
     ${a.thumb ? `<img loading="lazy" src="${esc(a.thumb)}" alt="">` : ""}
     <div class="body">
       <div class="price">${esc(fmt(a.loyer) || "Prix non trouvé")} ${a.loyer ? "<small>/ mois</small>" : ""}</div>
-      <div class="meta"><b>${esc(a.type || "Type ?")}</b> · ${esc(a.quartier || "Yopougon (quartier ?)")}</div>
+      <div class="meta"><b>${esc(a.type || "Type ?")}</b> · ${esc(a.quartier || "Yopougon (quartier ?)")}${a.precision_lieu ? ` <small>(${esc(a.precision_lieu)})</small>` : ""}</div>
       ${cond.length ? `<div class="meta">${esc(cond.join(" · "))}</div>` : ""}
       ${a.total_entree ? `<div class="entry">Pour entrer : <b>${esc(fmt(a.total_entree))}</b></div>` : ""}
       <div class="chips">${chips.join("")}</div>

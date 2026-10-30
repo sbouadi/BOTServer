@@ -264,6 +264,7 @@ def build(raw, corrections):
     if raw.get("origine") == "découverte" and (not rec["yopougon"] or rec["transaction"] == "vente"):
         rec["masquer"] = True  # vidéo trouvée automatiquement mais hors sujet
     rec.update(corrections.get(raw["id"], {}))
+    rec["type"] = TYPE_CANON.get(rec.get("type"), rec.get("type"))
     rec["total_entree"] = entry_cost(rec)
     return rec
 
@@ -281,25 +282,44 @@ def entry_cost(rec):
     return loyer * mois + (rec.get("frais_agence") or 0)
 
 
+TYPE_CANON = {  # une seule étiquette par taille de logement, pour que le filtre ne les sépare pas
+    "chambre salon": "2 pièces", "2 chambres salon": "3 pièces",
+    "3 chambres salon": "4 pièces", "4 chambres salon": "5 pièces",
+}
+
+
 def merge_llm(rec, ai):
-    """La lecture IA prime sur les règles quand elle a trouvé une valeur."""
+    """Combine règles et IA : chacune là où elle est la plus fiable (mesuré sur 61 vidéos).
+
+    - type et quartier : règles d'abord (motifs explicites, liste de quartiers de référence), IA en secours ;
+    - montants et conditions : IA d'abord (lit le contexte, ex. « 230 000 » vs « 1 230 000 »), règles en secours.
+    """
     if not ai:
         rec["source_extraction"] = "règles"
         return
     if ai.get("est_annonce") is False:
         rec["masquer"] = True
-    for key in ("transaction", "type", "pieces", "loyer", "caution", "avance", "agence", "mois_a_payer", "frais_agence", "frais_visite"):
+    if ai.get("transaction"):
+        rec["transaction"] = ai["transaction"]
+    for key in ("type", "pieces"):
+        if rec.get(key) is None and ai.get(key) not in (None, "", 0):
+            rec[key] = ai[key]
+    for key in ("loyer", "caution", "avance", "agence", "mois_a_payer", "frais_agence", "frais_visite"):
         if ai.get(key) not in (None, "", 0):
             rec[key] = ai[key]
     if ai.get("quartier"):
-        rec["quartier"] = find_quartier(fold(ai["quartier"])) or ai["quartier"].strip().title()
+        precis = ai["quartier"].strip()
+        if not rec.get("quartier"):
+            rec["quartier"] = find_quartier(fold(precis)) or precis.title()
+        if fold(precis) != fold(rec["quartier"]):
+            rec["precision_lieu"] = precis
     commune = fold(ai.get("commune") or "")
     if commune:
         rec["yopougon"] = "yop" in commune
     rec["equipements"] = sorted(set(rec["equipements"]) | set(ai.get("equipements") or []))
     if ai.get("resume"):
         rec["resume"] = strip_phones(ai["resume"])[:400]
-    rec["source_extraction"] = "IA"
+    rec["source_extraction"] = "règles + IA"
 
 
 def dedupe(annonces):
