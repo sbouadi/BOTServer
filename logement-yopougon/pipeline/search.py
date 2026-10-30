@@ -19,6 +19,7 @@ FOUND = ROOT / "data" / "videos_trouvees.txt"
 ACCOUNTS = ROOT / "data" / "comptes.json"
 CANDIDATES = ROOT / "data" / "comptes_candidats.json"
 STATE = ROOT / "data" / "recherche.json"
+STATS = ROOT / "data" / "recherche_stats.json"  # par requête : jours lancés, vidéos et comptes trouvés
 
 MODEL = os.environ.get("CLAUDE_MODEL") or "claude-haiku-5-5"
 TIKTOK_VIDEO = re.compile(r"https?://(?:www\.)?tiktok\.com/@([\w.\-]+)/video/(\d+)")
@@ -65,6 +66,7 @@ def main():
     cands = json.loads(CANDIDATES.read_text()) if CANDIDATES.exists() else {}
     videos = set(FOUND.read_text().split()) if FOUND.exists() else set()
     new_acc, new_vid = 0, 0
+    stats = json.loads(STATS.read_text()) if STATS.exists() else {}
     for q in queries_todo:
         try:
             urls = search(client, q)
@@ -73,17 +75,24 @@ def main():
             if isinstance(exc, (anthropic.BadRequestError, anthropic.AuthenticationError)):
                 break  # erreur de configuration : inutile de continuer
             continue
+        st = stats.setdefault(q, {"lancements": 0, "videos": [], "comptes": []})
+        st["lancements"] += 1
         for u in urls:
             if m := TIKTOK_VIDEO.match(u):
+                if m.group(2) not in st["videos"]:
+                    st["videos"].append(m.group(2))
                 url = f"https://www.tiktok.com/@{m.group(1)}/video/{m.group(2)}"
                 new_vid += url not in videos
                 videos.add(url)
             if m := TIKTOK_ACCOUNT.match(u):
                 acc = "@" + m.group(1)
+                if acc not in st["comptes"]:
+                    st["comptes"].append(acc)
                 if acc not in known and acc not in cands:
                     cands[acc] = None  # à examiner au prochain passage
                     new_acc += 1
         print(f"[recherche] « {q} » : {len(urls)} résultats")
+    STATS.write_text(json.dumps(stats, ensure_ascii=False, indent=1))
     FOUND.write_text("\n".join(sorted(videos)) + "\n")
     CANDIDATES.write_text(json.dumps(cands, ensure_ascii=False, indent=1))
     STATE.write_text(json.dumps({"derniere": today, "faites": sorted(done_today | set(queries_todo)),
