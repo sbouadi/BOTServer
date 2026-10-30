@@ -1,0 +1,38 @@
+{
+ "id": "tt_7697304865055198486",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7697304865055198486",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7697304865055198486",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261016",
+ "duration": 88,
+ "description": "2pieces 2dwc au 1ier etage YOPOUGON MAROC OBAMA 100.000 apel/wattsapp: 0143378277 #alouer #abidjan_tiktok #debloquemesvues #gbairai_qui_est_doux_la #yopougon ",
+ "transcript": "Toujours dans la maison. La combattante est jolie maison des babis. Je suis présentement là au niveau de Yopugon Maroc Obama dans deux pièces de douche. Vous voyez? Voilà, deux pièces de douche Yopugon Maroc Obama. C'est la cuisine une très grande cuisine. Il y a des mains à cuisine bien aérées. Il y en a d'une sur la maison. Vous voyez? Voilà. Vous voyez? Là, regardez. Il n'y a pas de problème d'eau, hein. Moi, ma maison n'a pas de problème d'eau. Toi, tu as pas de problème d'eau. Voilà. Ça, c'est la sainte terrasse d'abord, avant même d'aller au salon. Parce que le salon est là. Vous voyez? Le salon est bien grand. Ça, c'est le salon de trois pièces. Là, hein. C'est le salon de trois pièces même. Bien grand. Bien grand. Trois pièces. Parce qu'il y a la chambre. Une très grande chambre aussi. Vous avez la vue de la maison. La maison sera open. Une grande chambre. Très grande. Rien n'a dit sur la maison. Il y a des plaquettes. C'est comme un dressing, hein. Avec les toilettes. Voilà. Il y a de l'eau la chambre. Prophes. 100 000 fois le loyer au premier étage. Youpougomarok Obama. 100 000 le loyer. Quand on maison toujours, n'hésitez pas de vous abonner pour ne rien rater des papites. Dites dans ta maison. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7697304865055198486.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Obama",
+  "type": null,
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches",
+   "cuisine",
+   "terrasse",
+   "dressing"
+  ],
+  "resume": "Location d'un logement de 2 pièces avec 2 douches au 1er étage à Maroc Obama, Yopougon, pour 100 000 F par mois. Contact indiqué : 0143378277 (appel/WhatsApp).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7700190131227004182",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7700190131227004182",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7700190131227004182",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261024",
+ "duration": 52,
+ "description": "studio au 1ier etage  YOPOUGON MAROC CANARI 65.000 Apel/wattsapp: 0143378277 #yopougon #gbairai_qui_est_doux_la #debloquemesvues #abidjan_tiktok #alouer ",
+ "transcript": "Toujours dans ton maison, je suis au niveau de Yopugon, Maroc, Canaries, au premier étage dans le studio de 65.000, ça c'est la terrasse avant d'entrer dans le studio. Ils sont en train de faire les travaux avec un balcon, même la chambre, tout ça c'est la chambre, une grande chambre. 65.000 fois, vous voyez, c'est bien grand. Ils vont faire les travaux, voici le placard, ils vont faire tout ce qu'il y a pour travaux, les effets plombés et de peintre. Voilà, ça, ce sont des toilettes, une terrasse arrière pour pouvoir sécher les habits et tout, voilà. Toujours dans ton maison, bonus maintenant, c'est la chambre et le balcon, merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700190131227004182.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Canari",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes",
+   "terrasse arrière",
+   "placard"
+  ],
+  "resume": "Studio à louer au 1er étage à Yopougon Maroc Canari, loyer 65 000 F, contact par téléphone/WhatsApp 0143378277. Travaux de peinture et plomberie en cours selon la vidéo.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

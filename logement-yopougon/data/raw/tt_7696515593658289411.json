@@ -1,0 +1,38 @@
+{
+ "id": "tt_7696515593658289411",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7696515593658289411",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7696515593658289411",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261014",
+ "duration": 65,
+ "description": "Studio nouvelle construction jamais habitée bien en bordure YOPOUGON A DROITE 17IEME vers CSM 80.000 apel/wattsapp: 0143372877 #yopougon #gbairai_qui_est_doux_la #debloquemesvues #abidjan_tiktok #debloquemesvues ",
+ "transcript": "Je suis présentement au niveau de Yopu-Gon à droite dans la venue CSM, CSFIL et RETI. Dans un grand studio américain, nous voulons ne pas se jamais habiter comme vous pouvez le constater. Tout est joli dans la maison, la faune carollée, avec des louilles. Vous voyez, ça c'est le petit salon, le chien ici comme ça. Le petit salon qui met tout ici et qui a l'aise. Parce qu'il a une très grande chambre. Prop, prop, rien n'a dit avec des longues grilles. Admégo vous-même la maison. Ouais, admégo vous-même la maison. Prop, rien n'a dit. Regardez, 80 000 fonds de l'eau, ils venaient prendre ça. Il n'y a plus de nouvelles concessions en bord du mien. Prêt placé de voir près, si bien. Voilà, regardez vous-même l'aide par là. Regardez l'aide par là. Vous voyez, il n'y a pas de l'aide par là. Tantan maison a approuvé cette maison. La probataire des jolies maisons des babes. Ils venaient prendre ça rapidement. Trouvez-nous pour le loyer. Prop. Merci.",
+ "ocr": [
+  "ga. QUO LES",
+  "| LEA"
+ ],
+ "thumb": "thumbs/tt_7696515593658289411.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "à droite, venue CSM, CSFIL et RETI (vers CSM)",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "grilles aux fenêtres"
+  ],
+  "resume": "Studio neuf jamais habité à Yopougon, 17e, en bordure vers CSM, loyer 80 000 F, contact téléphonique/WhatsApp indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

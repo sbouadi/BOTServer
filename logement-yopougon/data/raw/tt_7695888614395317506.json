@@ -1,0 +1,39 @@
+{
+ "id": "tt_7695888614395317506",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7695888614395317506",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7695888614395317506",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261012",
+ "duration": 145,
+ "description": "4pieces 3dwc maison basse  YOPOUGON TERMINUS 40 180.000  Apel/wattsapp: 0143378277 #yopougon #gbairai_qui_est_doux_la #debloquemesvues #abidjan_tiktok #alouer ",
+ "transcript": "Je t'entends la maison, la probateuse est chogne, mais je n'ai pas vu. Je suis là dans une 4 pièces de 140.000 fois, ça c'est la terrassée. Yopougon Terminus 40, douche, vaissez, visiteur. Avec la cour arrière. Une 4 pièces, 3 douches, 3 vaissez. Le salon, un très grand salon. Très propre, rien n'a dit sur la maison. C'est une chambre qui est là, avec cette toilette. C'est une chambre avec cette toilette. Ça, c'est le potail qui s'en va vers la cour arrière. Le potail qui vient vers la cour arrière. Ce potail, là, débouge vers la cour arrière et là, il y a la cuisine. Oui, la cuisine, non. Une très grande maison. Il n'y a pas de problème d'eau ici, moi, mais il n'y a pas de problème d'eau. C'est gâtissement, mais il n'y a pas de problème d'eau. Là, il n'y a pas de problème d'eau. Ici, encore une autre chambre. Cette chambre, c'est commune et dépendante. Cette chambre, c'est commune et dépendante. Une très grande chambre, commune et dépendante. Il n'y a pas de commune et dépendante. Et dans cette chambre, il y a une terrasse arrière. Avec une bionderie, plus les toilettes. Plus les toilettes. Et là, ici, l'espace encore. Pour lui, c'est commune et dépendante. On peut faire une espace cuisine. Et là, ici, une autre chambre qui est là. Ça, c'est la dernière chambre. Bien propre. Il n'y a pas de problème d'eau. 180 000 fois la 4 pièces. Une 4 pièces bien propre. Venez prendre ça rapidement. Vous pouvez y arriver. Si vous n'attends pas quelqu'un pour prendre maison. Bonne nuit sur le salon. Merci beaucoup. Je vous abonne et à toute la maison.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7695888614395317506.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Terminus 40",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cour arrière",
+   "douche",
+   "WC",
+   "terrasse arrière",
+   "cuisine"
+  ],
+  "resume": "Location d'une maison basse de 4 pièces avec 3 douches-WC à Yopougon Terminus 40, cour arrière, très grand salon, loyer 180 000 F. Contact WhatsApp 0143378277.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7695720071112428822",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7695720071112428822",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7695720071112428822",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261012",
+ "duration": 79,
+ "description": "2pieces 2dwc au 1ier etage  YOPOUGON TEXACO 🔥EN BORDURE👈 100.000 apel/wattsapp: 0143378277 #gbairai_qui_est_doux_la #debloquemesvues #abidjan_tiktok #alouer ",
+ "transcript": "Je joue tout en maison la pour batterie des jolies lignes en combat. Je vous présente moi là au bout de Yopou-Gon, Texaco, dans une deux pièces. Voilà, en bord du devoir principal. Au premier étage, vous voyez quand même, mais bien, toujours lourd. Tant d'abord, mais c'est un putain de problème, donc, c'est bien ouvert. Voilà, ça c'est la première douche avec deux douches, vous voyez. Voilà, et voici le salon. Un grand salon, comme vous pouvez le constater, bien staffé. 100 000 fois, le loyer. Rien à dire sur la maison, prêt à être habité du paix dans le tecler. Yopou-Gon, Texaco, en bord du devoir principal, s'il vous plaît. Voici la chambre principale, vous voyez, ça c'est la chambre. Voilà, avec les placards et ce patin. Rien à dire sur la maison, tu paies, on te donne notre clé. Voilà, et ça c'est la douche de la chambre. Voilà, toujours dans ton maison. N'hésitez pas de vous abonner pour ne rien rater des pépites de ton ton maison. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7695720071112428822.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Texaco",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "placards",
+   "2 douches"
+  ],
+  "resume": "Location d'un 2 pièces au 1er étage à Texaco (Yopougon), en bordure de voie principale, avec 2 douches, salon et chambre avec placards, à 100 000 F par mois. Contact par WhatsApp au 0143378277.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
