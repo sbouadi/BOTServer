@@ -12,6 +12,8 @@ import re
 import time
 from pathlib import Path
 
+import couts
+
 ROOT = Path(__file__).resolve().parent.parent
 QUERIES = ROOT / "sources" / "recherches.txt"
 FOUND = ROOT / "data" / "videos_trouvees.txt"
@@ -35,6 +37,7 @@ def search(client, query):
                        f"(Abidjan, Côte d'Ivoire). Utilise la recherche web, par exemple « {query} tiktok ».",
         }],
     )
+    couts.record(MODEL, response.usage, "recherche")
     urls = []
     for block in response.content:
         if block.type == "web_search_tool_result" and isinstance(block.content, list):

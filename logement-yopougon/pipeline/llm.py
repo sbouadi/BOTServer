@@ -103,6 +103,9 @@ def read_listing(description, transcript, ocr, frames):
     except anthropic.APIError as exc:
         print(f"[ia] erreur : {exc}")
         return None
+    import couts
+
+    couts.record(MODEL, response.usage, "lecture")
     if response.stop_reason == "refusal":
         print("[ia] refus du modèle")
         return None
