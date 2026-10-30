@@ -1,0 +1,40 @@
+{
+ "id": "tt_7702457437357362440",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7702457437357362440",
+ "url": "https://www.tiktok.com/@brunesleger/video/7702457437357362440",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261030",
+ "duration": 55,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap}       [[ À louer]] une sublime 2 pièces à yopougon ananeraie antenne au 4 eme étage très belle maison ya rien à dire  👉 loyer 120 milles  👉 2 salles d’eau  👉 2 balcons  👉 staffés aérés avec des carreaux vitrifié et des sports lumineux. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "je pose ma caméra fâche et douce venez ce mobilier le jour où il y a un moment vrai bébé immobilier voilà, je vais vous donner des bouquins à l'amiré voilà, dans une deux pièces admettez-vous même la qualité et la fondance de cette pépille sur le biais vous voyez voilà là c'est la cuisine vous voyez la cuisine voilà, la cuisine est très propre voilà vous voyez là c'est la première douches la douches de visiteurs vous voyez la maison est bien propre voilà et là c'est la chambre très très très chambre bien aéré, bien spacieux avec sa douches éterne voilà très très très propre il n'y a absolument rien rien à signaler voilà n'oubliez pas de vous abonner à ma part brunesse immobilier",
+ "ocr": [
+  "13h45"
+ ],
+ "thumb": "thumbs/tt_7702457437357362440.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Antenne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "2 balcons",
+   "staffs",
+   "carreaux vitrifiés"
+  ],
+  "resume": "Location d'une 2 pièces au 4e étage à Yopougon Ananeraie Antenne, loyer 120 000 F, 2 salles d'eau, 2 balcons, staffs et carreaux vitrifiés, visite 5 000 F. Contact : 0153273240 / 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
