@@ -1,0 +1,5 @@
+{
+ "_note": "Filtres appliqués aux annonces affichées. age_max_jours : âge maximal de la vidéo (null = pas de limite). pieces : nombres de pièces gardés ([] = tous).",
+ "age_max_jours": 14,
+ "pieces": [3]
+}

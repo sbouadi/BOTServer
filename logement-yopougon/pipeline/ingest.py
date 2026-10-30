@@ -27,6 +27,16 @@ MAX_DISCOVERY_PER_PAGE = 15
 ACCOUNTS = ROOT / "data" / "comptes.json"
 MAX_NEW_PER_RUN = 60
 TIME_BUDGET_S = 40 * 60  # le reste est repris au passage suivant
+FILTRES = json.loads((ROOT / "sources" / "filtres.json").read_text())
+FOUND = ROOT / "data" / "videos_trouvees.txt"
+
+
+def tiktok_age_days(url):
+    """Âge d'une vidéo TikTok lu dans son identifiant (les 32 premiers bits = date de publication)."""
+    m = re.search(r"/video/(\d+)", url)
+    if not m:
+        return None
+    return (time.time() - (int(m.group(1)) >> 32)) / 86400
 
 
 def read_list(name):
@@ -190,12 +200,20 @@ def main():
     errors = json.loads(ERRORS.read_text()) if ERRORS.exists() else {}
     manual = read_list("urls.txt")
     discovered = discover(read_list("discovery.txt") + known_accounts())
+    discovered += FOUND.read_text().split() if FOUND.exists() else []
     candidates = manual + discovered
     def already(u):
         m = re.search(r"/video/(\d+)", u)
         return u in done_urls or (m and f"tt_{m.group(1)}" in done_ids)
 
-    queue = [u for u in dict.fromkeys(candidates) if not already(u) and errors.get(u, {}).get("tries", 0) < 3]
+    max_age = FILTRES.get("age_max_jours")
+
+    def too_old(u):  # écartée avant téléchargement : aucun coût
+        age = tiktok_age_days(u)
+        return max_age is not None and age is not None and age > max_age
+
+    queue = [u for u in dict.fromkeys(candidates)
+             if not already(u) and not too_old(u) and errors.get(u, {}).get("tries", 0) < 3]
     print(f"{len(queue)} annonces à traiter")
 
     new, start = 0, time.time()

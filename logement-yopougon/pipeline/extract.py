@@ -266,7 +266,30 @@ def build(raw, corrections):
     rec.update(corrections.get(raw["id"], {}))
     rec["type"] = TYPE_CANON.get(rec.get("type"), rec.get("type"))
     rec["total_entree"] = entry_cost(rec)
+    apply_filters(rec)
     return rec
+
+
+FILTRES = json.loads((ROOT / "sources" / "filtres.json").read_text())
+
+
+def apply_filters(rec):
+    """Filtres choisis dans sources/filtres.json : âge maximal et nombre de pièces."""
+    from datetime import date, datetime
+
+    max_age = FILTRES.get("age_max_jours")
+    if max_age is not None and rec.get("date"):
+        age = (date.today() - datetime.strptime(rec["date"], "%Y%m%d").date()).days
+        if age > max_age:
+            rec["masquer"] = True
+    pieces = FILTRES.get("pieces") or []
+    if pieces:
+        n = rec.get("pieces")
+        if n is None and rec.get("type"):
+            m = re.match(r"(\d) pièces", rec["type"])
+            n = int(m.group(1)) if m else None
+        if n not in pieces:
+            rec["masquer"] = True
 
 
 def entry_cost(rec):
