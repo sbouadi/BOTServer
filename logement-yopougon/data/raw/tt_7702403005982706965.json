@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702403005982706965",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7702403005982706965",
+ "url": "https://www.tiktok.com/@annilove225/video/7702403005982706965",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261030",
+ "duration": 70,
+ "description": "02 pièces 160k Yopougon ananeraie non loin du grand pressing en bordure avec parking interne disponible vide au 3eme étage bien placé  Contact: 0767314212 #maisonalouer #appartements #yopougon🇨🇮🎶 #ananeraie #airbnb  @Miii boutique🔔 @diby041immobilier ",
+ "transcript": "Je suis toujours toujours le même détecteur des faits pitants immobiliers, joli deux pièces, joli deux pièces mais on fout l'option. Voilà ça mais regarde là au cœur du Dadanamire, bien placé au troisième étage avec Parcimietaine. Voilà c'est très propre, au troisième étage mais au zéro immédiaté, on doit faire des travaux. Voilà c'est le troisième étage bien placé en bondage. Voilà la maison est en plus quasi, bien placé en bondage, bien placé en bondage. 160 cannes de loyer morceau avec des bouches, 160 cannes. Dès que tu payes tu dois, ça n'est pas facile. Il n'y a absolument rien à dire. Dès que tu payes tu dois, ça n'a rien à dire. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702403005982706965.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking interne"
+  ],
+  "resume": "Location d'un 2 pièces à Ananeraie (Yopougon), près du grand pressing, au 3e étage, disponible vide, loyer 160 000 F, avec parking interne. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

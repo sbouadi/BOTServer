@@ -1,0 +1,38 @@
+{
+ "id": "tt_7702407807781408006",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702407807781408006",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7702407807781408006",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261030",
+ "duration": 145,
+ "description": "#A Louer : appartement de type 2 pièces au 1er étage  bien aéré, avec 2 douche WC, balcon bien propre, Immeuble en bordure vide  Loyer 115000 Fcfa y compris l'eau  ☎ 0788393888 / WhatsApp 0575303446 ",
+ "transcript": "A toi maman, un billon Benimo, que poignée de haricots que j'ai eu la chance de partager Avec Amélie de Jonas You can go to Saint-Barre Le silence de France a n'oublié Avec dignité, on a poigné du noir Mon petit mausesseau Benimo, qu'est-ce qu'il y a ? Benimo, Benimo, qu'est-ce qu'il y a ? Patatos, choses étourées Même fériment, j'ai mal et à bout la guerre Que jamais j'ai besoin de vos prières J'ai besoin de vos prières Sur le chemin Il y a déjà qu'il n'a pas eu la chance de d'une autre rencontre Et moi, au nom de tous les miens faut résister Qui ont vers un son",
+ "ocr": [
+  "(A a \\ Lol |"
+ ],
+ "thumb": "thumbs/tt_7702407807781408006.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 115000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "2 douches WC"
+  ],
+  "resume": "Location d'un appartement de type 2 pièces au 1er étage, bien aéré, avec 2 douches WC et balcon, loyer 115 000 F eau comprise, contacts 0788393888 / 0575303446. Audio non pertinent (paroles de musique).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
