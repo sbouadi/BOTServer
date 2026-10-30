@@ -1,0 +1,39 @@
+{
+ "id": "tt_7702458425912921365",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702458425912921365",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702458425912921365",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261030",
+ "duration": 177,
+ "description": "Alain zegbehi vous présente une 5 pièces 230 mille au quatrième étage yopougon Lubafrique visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébéi, what am I say, Victor, je vous présente ici une carte pièce avec une chambre, regardez, regardez la maison appréciée, maison pour toute la famille, 230 000, regardez, regardez, appréciez, les gars, bonne maison, il y a les travaux à faire, voici la chambre des cousins, c'est pas qu'ils me privaient, dans ce qui vont laver la voiture, voici la chambre qui est ici, la cuisine, vous vous savez ça où, vous avez toujours l'occasion avec Alain Zébéi, voilà regardez, vous voyez, regardez la chambre, le restaurant qui est là, le restaurant vient diviser parce qu'il y a l'installer à manger, regardez, bonne maison ici, regardez le salon bien placé, Alain Zébéi toujours, barcon du salon, regardez, regardez le barcon du salon, yopougon lubafrique, Alain Zébéi toujours, aimer sa victoire, voilà regardez, appréciez, voilà, voici la cuisine ici, ici c'est la cuisine, oui, très vaste cuisine, c'est pas grâce à Vasse, voilà, vous voyez, c'est pas grâce à Vasse, voici le barcon de la cuisine, oui, il y a les travaux à faire, Alain Zébéi toujours, aimer sa victoire, il y a les travaux à faire, oui, voici le barcon encore bionnerie ici, oui, voilà, yopougon lubafrique, vous êtes tous séparés pour les visiteurs, vous voyez, là, voici ça, vaissez tous séparés pour les visiteurs, la chambre des enfants, la chambre des enfants ici, vous voyez, voici la chambre des enfants, avec les douches, les enfants biologiques, avec les douches, regardez, voilà, là c'est la douche ici, il y a les travaux à faire, il y a les travaux, voici la chambre des garçons ici, ça c'est la chambre des garçons, les hommes, voici la chambre ici, voilà, regardez, avec le placard, vous voyez, maintenant il me dirait de la chambre des décisions, la chambre principale, la principauté, là-bas où on décide tout, tout, tout, à venir des enfants, ça va voir, on décide tout, voilà, ça va, ça va dressing, vous voyez, une chambre spéciale pour les habits, vous voyez, là c'est la douche visiteur ici, voilà, regardez, voici la chambre principale ici, avec le dressing, regardez, regardez, regardez, voilà, regardez, là c'est le dressing, voici la douche ici, avec le baignoire, ici c'est 230 000€ pour le bafrit, 230 000, 230 000, allez-y, vous voyez toujours, ici c'est uniquement pour les lits, voilà, tout ça c'est pour les lits, tout ça c'est pour les lits, regardez comme le staff est, ça c'est poignant les gars, bonne maison, bonne maison, bonne ussule salon, allez-y, vous voyez toujours votre aimer à sa vitesse, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702458425912921365.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": 230000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "baignoire",
+   "dressing",
+   "balcon",
+   "cuisine"
+  ],
+  "resume": "Location d'un appartement de 5 pièces au 4e étage à Yopougon Lubafrique, 230 000 F, avec cuisine, salon, balcon, chambres dont une principale avec dressing et baignoire, travaux à prévoir, visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
