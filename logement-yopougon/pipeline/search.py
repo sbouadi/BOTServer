@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 QUERIES = ROOT / "sources" / "recherches.txt"
 FOUND = ROOT / "data" / "videos_trouvees.txt"
 ACCOUNTS = ROOT / "data" / "comptes.json"
+CANDIDATES = ROOT / "data" / "comptes_candidats.json"
 STATE = ROOT / "data" / "recherche.json"
 
 MODEL = os.environ.get("CLAUDE_MODEL") or "claude-haiku-5-5"
@@ -60,7 +61,8 @@ def main():
 
     client = anthropic.Anthropic()
     queries = [l.strip() for l in QUERIES.read_text().splitlines() if l.strip() and not l.startswith("#")]
-    accounts = set(json.loads(ACCOUNTS.read_text())) if ACCOUNTS.exists() else set()
+    known = set(json.loads(ACCOUNTS.read_text())) if ACCOUNTS.exists() else set()
+    cands = json.loads(CANDIDATES.read_text()) if CANDIDATES.exists() else {}
     videos = set(FOUND.read_text().split()) if FOUND.exists() else set()
     new_acc, new_vid = 0, 0
     for q in queries:
@@ -78,11 +80,12 @@ def main():
                 videos.add(url)
             if m := TIKTOK_ACCOUNT.match(u):
                 acc = "@" + m.group(1)
-                new_acc += acc not in accounts
-                accounts.add(acc)
+                if acc not in known and acc not in cands:
+                    cands[acc] = None  # à examiner au prochain passage
+                    new_acc += 1
         print(f"[recherche] « {q} » : {len(urls)} résultats")
     FOUND.write_text("\n".join(sorted(videos)) + "\n")
-    ACCOUNTS.write_text(json.dumps(sorted(accounts), ensure_ascii=False, indent=1))
+    CANDIDATES.write_text(json.dumps(cands, ensure_ascii=False, indent=1))
     STATE.write_text(json.dumps({"derniere": today, "requetes": signature, "nouveaux_comptes": new_acc, "nouvelles_videos": new_vid}))
     print(f"[recherche] {new_acc} nouveaux comptes, {new_vid} nouvelles vidéos")
 

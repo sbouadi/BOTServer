@@ -29,6 +29,7 @@ MAX_NEW_PER_RUN = 60
 TIME_BUDGET_S = 40 * 60  # le reste est repris au passage suivant
 FILTRES = json.loads((ROOT / "sources" / "filtres.json").read_text())
 FOUND = ROOT / "data" / "videos_trouvees.txt"
+CANDIDATES = ROOT / "data" / "comptes_candidats.json"
 
 
 def tiktok_age_days(url):
@@ -47,23 +48,35 @@ def read_list(name):
 
 
 def known_accounts():
-    """Comptes ayant déjà publié une annonce confirmée à Yopougon : on les surveille."""
-    out = json.loads(ACCOUNTS.read_text()) if ACCOUNTS.exists() else []
+    """Comptes ayant publié au moins une vraie annonce à Yopougon : surveillés à chaque passage."""
+    out = set()
     for p in RAW.glob("*.json"):
         d = json.loads(p.read_text())
-        url = d.get("url") or ""
-        m = re.search(r"tiktok\.com/(@[\w.\-]+)/", url)
+        m = re.search(r"tiktok\.com/(@[\w.\-]+)/", d.get("url") or "")
         text = (d.get("description", "") + " " + d.get("transcript", "")).lower()
-        if m and ("yop" in text) and m.group(1) not in out:
-            out.append(m.group(1))
-    ACCOUNTS.write_text(json.dumps(sorted(set(out)), ensure_ascii=False, indent=1))
-    return [f"https://www.tiktok.com/{a}" for a in out]
+        ia = d.get("llm") or {}
+        if m and "yop" in text and ia.get("est_annonce") is not False and "yop" in (ia.get("commune") or "yop").lower():
+            out.add(m.group(1))
+    ACCOUNTS.write_text(json.dumps(sorted(out), ensure_ascii=False, indent=1))
+    return [f"https://www.tiktok.com/{a}" for a in sorted(out)]
 
 
-def discover(pages):
+def candidate_accounts():
+    """Comptes trouvés par la recherche web, pas encore examinés : on regarde leurs 5 dernières vidéos, une fois."""
+    if not CANDIDATES.exists():
+        return []
+    cands = json.loads(CANDIDATES.read_text())
+    todo = [a for a, seen in cands.items() if not seen]
+    for a in todo:
+        cands[a] = time.strftime("%Y-%m-%d")
+    CANDIDATES.write_text(json.dumps(cands, ensure_ascii=False, indent=1))
+    return [f"https://www.tiktok.com/{a}" for a in todo]
+
+
+def discover(pages, depth=MAX_DISCOVERY_PER_PAGE):
     """Liste les vidéos des pages hashtag / compte, sans les télécharger."""
     urls = []
-    opts = {"quiet": True, "extract_flat": True, "playlistend": MAX_DISCOVERY_PER_PAGE, "ignoreerrors": True}
+    opts = {"quiet": True, "extract_flat": True, "playlistend": depth, "ignoreerrors": True}
     with yt_dlp.YoutubeDL(opts) as ydl:
         for page in pages:
             try:
@@ -200,6 +213,7 @@ def main():
     errors = json.loads(ERRORS.read_text()) if ERRORS.exists() else {}
     manual = read_list("urls.txt")
     discovered = discover(read_list("discovery.txt") + known_accounts())
+    discovered += discover(candidate_accounts(), depth=5)
     discovered += FOUND.read_text().split() if FOUND.exists() else []
     candidates = manual + discovered
     def already(u):
