@@ -29,3 +29,8 @@ Ajouter un lien par ligne dans `sources/urls.txt` (même depuis l'app GitHub sur
 ## Limites connues
 - Le téléchargement depuis TikTok / Facebook dépend de leurs protections anti-robots et de leurs conditions d'utilisation.
 - L'extraction par règles rate des formulations inhabituelles ; un modèle de langage (clé API) peut être branché ensuite.
+
+## Alertes Telegram
+1. Sur Telegram, écrire à **@BotFather** → `/newbot` → choisir un nom → copier le jeton.
+2. GitHub → Settings → Secrets and variables → Actions → **New repository secret** : `TELEGRAM_BOT_TOKEN` = le jeton.
+3. Écrire `/start` à son bot. Au passage suivant, le bot confirme puis envoie chaque nouvelle annonce.

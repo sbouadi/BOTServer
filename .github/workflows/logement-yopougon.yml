@@ -65,6 +65,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_WORKSPACE_ID: ${{ secrets.ANTHROPIC_WORKSPACE_ID }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+      - name: Alertes Telegram (nouvelles annonces)
+        run: python pipeline/alerte.py
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       - name: Enregistrer les résultats
         run: |
           git config user.name "logement-bot"
