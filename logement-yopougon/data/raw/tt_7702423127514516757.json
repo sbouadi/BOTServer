@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702423127514516757",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7702423127514516757",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7702423127514516757",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261030",
+ "duration": 60,
+ "description": "Rapide de chez rapide Studio disponible toit rouge à proximité du rond point ghandi en bordure de la garande voie  Loyer: 50.000fcfa au 1er étage avec balcons  Num: 0758399203/ 0544573174",
+ "transcript": "Ça vient d'en crée, t'as y'a pas l'image On se revient, on prend tout comme ça, y'a pas de cachet Pas de semblant, un fou le baby dans quatre matiques Elle habite solo et ça c'est fantastique, ça c'est méchant Y'a les baby C'est largé, c'est gris, moi telle mique Si je t'ai boussé, moi n'y peux Si comme le sap d'un yakuza Si tu marches with me babes c'est tout droit Ta carte et plaque disons allé louya Si comme le sap d'un yakuza Si tu marches with me babes c'est tout droit Ta carte et plaque disons allé louya Des bijelles et dalle vignes Vignes, vignes, pas la timide All'amboire vignes J'ai une sous-sac Canvée dans, dans, dans",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702423127514516757.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": "toit rouge, à proximité du rond point Ghandi, en bordure de la grande voie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Studio à louer au 1er étage avec balcons, quartier Toit Rouge près du rond point Ghandi, loyer 50 000 FCFA. Contacts : 0758399203 / 0544573174.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
