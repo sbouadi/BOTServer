@@ -1,0 +1,33 @@
+{
+ "id": "tt_7700280807449021729",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7700280807449021729",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7700280807449021729",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261024",
+ "duration": 37,
+ "description": "1 immeuble R+4 en vente à Yopougon millionnaire avec acd comme document Pour plus de détails je suis joignable au : 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #vente_appartement ",
+ "transcript": "...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7700280807449021729.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un immeuble R+4 à Yopougon (« millionnaire »), document ACD mentionné, contact par téléphone indiqué dans la légende. Prix non précisé, audio absent, images montrant une cour et des couloirs sans prix affiché.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702030742490074388",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7702030742490074388",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702030742490074388",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261029",
+ "duration": 90,
+ "description": "Magnifique et belle grande 2pieces 2douches disponibles 90mil en bordu ☎️🔑🏠🥰 90mil x7mois plus 60mil démarcheur  Détail: 3mois caution                3mois avance       1mois agence plus 60mil  Yopougon Academie carrefour Chambéry bien placé en bordu avec parking  Visite 5mil Appel: 0711392732  #2piece #fly #3piecesuit #vue #visibilité @Yopougon 🥰immobilier 🏠✅🔑 @diby041immobilier ",
+ "transcript": "C'est pour deux pièces. Après, la semaine, il faut faire des travaux. Tout ça pour toi, Roger. Ça, c'est deux douches de Russie. Ça, c'est le salon. Une très grande Russie. Tout ça, c'est arranger. Tout, tout, tout. Ça, c'est la chambre. Ça, c'est pas immédiat. Voilà, c'est pas immédiat. C'est mieux que comme cela. On doit juste activer les travaux. Et deux douches de Russie. C'est pas immédiat. C'est pas immédiat. C'est la douche de Donaçao. Le salon.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702030742490074388.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie carrefour Chambéry",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": 270000,
+  "avance": 180000,
+  "agence": 90000,
+  "mois_a_payer": 7,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "parking",
+   "2 douches"
+  ],
+  "resume": "Location d'un grand 2 pièces avec 2 douches à Yopougon Académie carrefour Chambéry, bien placé en bordure avec parking. Loyer 90 000 F, 7 mois à payer (90 000 x7) plus 60 000 F de démarcheur ; caution 3 mois, avance 3 mois, agence 1 mois plus 60 000 F. Visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

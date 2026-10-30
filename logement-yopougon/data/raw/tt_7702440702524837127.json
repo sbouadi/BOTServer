@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702440702524837127",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7702440702524837127",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7702440702524837127",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261030",
+ "duration": 49,
+ "description": "☎️:05.06.64.49.72 (What) 2 PIÈCES HAUT STANDING SONGON LEM AU 1ERE ETAGE LOYER: 75 000x5!PLUS 40 000 #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut tout. Je vous présente une 2 pièces, c'est un Blugey Annie. Voilà, regardez, la cuisine n'est pas trop grande, mais vous avez tout l'espace-là, vous voyez. C'est l'espace-là, on peut me conduire, tout, tout, ça m'en parle. Deux pièces sont à 15 000 francs, Blugey Annie, Blugey est bien serré. Voilà, c'est situé d'annicité. Voilà, vous voyez. Ça, c'est le salon qui est là, 15 000 francs. C'est pas cadeau qu'il a. Voilà, vous voyez. Je dis, c'est la semaine de Blugey Annie. Voilà, les petits-petits Blugey, bonne roue. Regardez. Vous voyez, ça, c'est la chambre qu'il a. Regardez, la chambre avec son placard. Placaté partout. Voilà. 115 000 francs avec, mais c'est tout le monde qui dit roue, Benny.",
+ "ocr": [
+  "À NE one À"
+ ],
+ "thumb": "thumbs/tt_7702440702524837127.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces haut standing à Songon Lem, au 1er étage, à 75 000 F par mois pour 5 mois plus 40 000 F de frais d'agence. Contact par téléphone indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

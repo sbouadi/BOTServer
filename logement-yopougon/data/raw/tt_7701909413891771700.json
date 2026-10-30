@@ -1,0 +1,40 @@
+{
+ "id": "tt_7701909413891771700",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7701909413891771700",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7701909413891771700",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261029",
+ "duration": 50,
+ "description": "🩶🩶 #Joli appartement de 2 #PCS & grand #Studio à louer à #Cocody Riviera #palmeraie non loin de quick . nouvelle . accès super  & .  - ascenseur - piscine - balcon dans la Chambre - climatiseurs installés - chauffe eau  - balcon - vigile h24 LOYER : (  ) : 300.000 F LOYER : (  ) : 270.000 & 300.000 F TEL 0759648430 ",
+ "transcript": "C'est que mon succès va lui montrer",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701909413891771700.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Riviera Palmeraie",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "ascenseur",
+   "piscine",
+   "balcon",
+   "climatiseurs",
+   "chauffe-eau",
+   "vigile 24h/24"
+  ],
+  "resume": "Location à Cocody Riviera Palmeraie, non loin de Quick : appartement de 2 pièces et grand studio, nouveau, avec ascenseur, piscine, balcon dans la chambre, climatiseurs installés, chauffe-eau et vigile 24h/24. Loyer annoncé 300 000 F, ou 270 000 F et 300 000 F selon le logement. Contact 0759648430.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

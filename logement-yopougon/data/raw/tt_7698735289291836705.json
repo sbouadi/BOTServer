@@ -1,0 +1,33 @@
+{
+ "id": "tt_7698735289291836705",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7698735289291836705",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7698735289291836705",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261020",
+ "duration": 13,
+ "description": "Magasin à louer à niangon texaco Loyer: 100.000 Contact: 05-45-44-96-05 #immobilierabidjan #locationyopougon #appartementabidjan #investirenafrique #yopougon🇨🇮 ",
+ "transcript": "Salut salut à tous ! Je vous présente le Manga Zé à Multi Posh Pirao Voilà ! Salut ! Voilà !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7698735289291836705.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à Niangon Texaco (Yopougon), loyer 100 000 F, contact téléphonique indiqué dans la légende. Images d'un petit local vide avec toilettes.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

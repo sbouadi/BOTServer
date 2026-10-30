@@ -1,0 +1,38 @@
+{
+ "id": "tt_7699872167424560404",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7699872167424560404",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7699872167424560404",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261023",
+ "duration": 49,
+ "description": "Magnifique et bonne belle 2pieces 70mil disponible au 2eme étages ✅🏠🥰🥰🔑 70mil x5mois plus 50mil démarcheur  Détail: 2mois caution               2mois avance         1mois agence plus 50mil  Yopougon Academie portail des mer au 2eme étages avec balcon  Visite 5mil Appel: 0711392732  Whatssap2: 0103269006 #2piece #3piecesuit #yopougon🇨🇮🎶 #visibilité #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Yopougan Immobilier. Quand on vous demande de vous abonner, c'est par rapport à toutes ces bonnes maisons là, c'est bon, rien à dire. Voilà, deux pièces au deuxième étage de 70 000 francs, la location. On vient de libérer. Voilà, très bonnes deux pièces, 70 000 francs disponibles à Yopougan Academy Porta de la Marine de Mer. Voilà, c'est dans le quartier, je répète encore. Très bonnes et deux pièces disponibles, voilà. Ils ont libéré la maison des travaux, on dit à un commencé, là c'est la chambre. Voilà, très bonnes deux pièces, il n'y a pas de placard dans la chambre avec la maison avec un parcours. Voilà, pour ceux qui ont fumé, voilà. Dans le quartier, voilà, là, c'est la douche à l'intérieur de la chambre. 70 000 francs, la location. Voilà.",
+ "ocr": [
+  "ETS qu _ dd"
+ ],
+ "thumb": "thumbs/tt_7699872167424560404.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "douche intérieure"
+  ],
+  "resume": "Location 2 pièces au 2ème étage à Yopougon Académie (portail de la Marine), loyer 70 000 F x5 mois plus 50 000 F démarcheur, caution 2 mois, avance 2 mois, 1 mois d'agence plus 50 000 F, visite 5 000 F, avec balcon et douche dans la chambre.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

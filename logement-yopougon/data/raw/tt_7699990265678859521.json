@@ -1,0 +1,43 @@
+{
+ "id": "tt_7699990265678859521",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7699990265678859521",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7699990265678859521",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261023",
+ "duration": 71,
+ "description": "TikTok video #7699990265678859521",
+ "transcript": "C'est le son qui va tourner en boucle, le nouveau standard tu vois, c'est comme ça et pas autrement, allez on y va C'est moi le boss qui contrôle la city, je débarque avec le flow qui tue c'est la mélodie, la mélodie Le game est à mes vieux, c'est mon nom qui vont se prender, c'est moi le roi de la soirée La vibe est lancée, la vibe est lancée Ils pensaient avoir gagné la partie mais j'ai plus d'un tour dans la city jaloux Non non, faire les fours juste du bluff, ils pourront jamais m'égaler Jamais, le trône je les valider c'est à moi et je continue de...",
+ "ocr": [
+  "3 pièces 1DWC 120.000F 6",
+  "mais plus 80.00 au 2eme",
+  "étage accès facile habitable",
+  "à lafin YOP sable derrière",
+  "SANGEL",
+  "EL 0759648430",
+  "120.:000F"
+ ],
+ "thumb": "thumbs/tt_7699990265678859521.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "sable derrière SANGEL",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "1DWC"
+  ],
+  "resume": "Location 3 pièces avec 1 DWC au 2e étage, accès facile, habitable à la fin, à Yopougon (sable derrière SANGEL), 120 000 F par mois, 6 mois à payer plus 80 000 F (agence probable, non précisé).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

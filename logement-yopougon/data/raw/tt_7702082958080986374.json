@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702082958080986374",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7702082958080986374",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702082958080986374",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261029",
+ "duration": 72,
+ "description": "Magnifique et superbe belle grande 3pieces 135mil disponible au 1er étages prêt à habiter 🏠🥰☎️🔑✅ 135mil x6mois plus 100mil démarcheur  Détail: 3mois caution               2mois avance        1mois agence plus 100mil  Yopougon Academie dans la cité saco bien placé en bordu de la route niangon à droite  Visite 5mil Appel: 0711391732  #3piecesuit #visibilité #fly #vue #yopougon🇨🇮🎶 @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au bout-bon, il y en a une très belle trois pièces dans une cité. On regarde 105 000 francs. Au premier étage, voilà le salon. Et là, on est à l'habité. Là, c'est la cuisine, elle est bien grande. Il y a assez d'espace. L'eau, au point qu'on vienne l'eau. Là, c'est la chambre des enfants. La chambre des enfants, il n'y a pas de placard. Il y a de l'espace pour mettre un placard. Là, c'est la douche visiteuse. Douche des enfants. Et puis, on a là la chambre principale. Voilà, la chambre principale. Elle est bien grande. La douche principale.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702082958080986374.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie / cité Saco",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 135000,
+  "caution": 405000,
+  "avance": 270000,
+  "agence": 135000,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Grand 3 pièces disponible au 1er étage, prêt à habiter, à Yopougon Academie (cité Saco), loyer 135 000 F, 6 mois à payer (3 mois caution, 2 mois avance, 1 mois agence) plus 100 000 F frais démarcheur, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

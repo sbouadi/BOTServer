@@ -1,0 +1,38 @@
+{
+ "id": "tt_7699173323447504160",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7699173323447504160",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7699173323447504160",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261021",
+ "duration": 56,
+ "description": "3 pièces nouvelle construction staffé avec 2 balcons et 3dwc au 4 étage bagnon en bordure  Loyer: 180.000  Contact: 05-45-44-96-05 #immobilierabidjan #locationyopougon #appartementabidjan #investirenafrique #yopougon🇨🇮 ",
+ "transcript": "Trois pieds, avec du pâle-torre, un bout du cul à trois. Et le stand-up. Ainsi, la chambre restante, là, reste à toucher. Une nouvelle position, j'ai envie d'inviter. D'accord. Ainsi, le salon. Ainsi, la touche de l'interne. Le salon. Ainsi, le salon. Qui est-ce que tu es là pour la position? Ainsi, la pour l'entreprise, là. Ainsi, le salon. Ainsi, le salon. Ainsi, le salon. Ainsi, le salon.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7699173323447504160.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 balcons",
+   "3 WC",
+   "nouvelle construction",
+   "staffé"
+  ],
+  "resume": "Location d'un appartement 3 pièces neuf (nouvelle construction, staffé) avec 2 balcons et 3 WC au 4e étage à Bagnon, bordure, Yopougon. Loyer 180 000 F. Contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

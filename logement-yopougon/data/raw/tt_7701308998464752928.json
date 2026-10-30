@@ -1,0 +1,35 @@
+{
+ "id": "tt_7701308998464752928",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7701308998464752928",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7701308998464752928",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261027",
+ "duration": 29,
+ "description": "1 terrain commercial en vente à Yopougon ananeraie  Superficie: 300m2 Document: titre foncier  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #vente_terrain ",
+ "transcript": "Salut salut à tous, nous sommes présentement à Youpogo en Angleterre et on présente un tiré en vente, un boitier de la vente principal. À ce moment-là, comment ça se termine ? 300 mètres carrés, c'est le tiré de la vente, 300 mètres carrés, avec type pensé comme du commentaire. Cette vente a marreur qui trouve le tiré aussi. Il fait la vente en Angleterre sur boite. Voilà, on va en passer le tiré en vente. Voilà, le tiré en vente.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701308998464752928.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "titre foncier"
+  ],
+  "resume": "Vente d'un terrain commercial de 300 m2 à Yopougon Ananeraie, document titre foncier, contact 05-45-44-96-05. Prix non précisé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

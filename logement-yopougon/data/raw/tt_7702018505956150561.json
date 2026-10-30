@@ -1,0 +1,36 @@
+{
+ "id": "tt_7702018505956150561",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7702018505956150561",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7702018505956150561",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261029",
+ "duration": 25,
+ "description": "Magasin 100.000 à la mairie de songon en bordure  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "C'est ce qu'il y a tous. Voilà, nous présentons un bâtiment de 100 000 en beaucoup de temps pour le poursuivre à 100 000 en toute activité passée. Voilà. Pour ceux qui cherchent aussi pour faire boutique aussi, c'est l'idéal. Mais dans la zone, il n'y a pas de boutique. Parce que je me raisonne question. 100 000, 100 000, 100 000, 100 000, 100 000, 100 000. Alors, vous êtes très grand. Voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702018505956150561.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes",
+   "douche"
+  ],
+  "resume": "Local commercial (magasin) à louer à la mairie de Songon, en bordure de route, pour 100 000 F, convenant à une boutique ; comprend des toilettes et une douche. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

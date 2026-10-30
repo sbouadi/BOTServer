@@ -1,0 +1,37 @@
+{
+ "id": "tt_7701893400559308053",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7701893400559308053",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7701893400559308053",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261029",
+ "duration": 70,
+ "description": "Magasin en mezzanine à louer à Cocody Riviera palmeraie non loin du marché guiro. En bordure de route. Dwc à l'intérieur.  LOYER : 350.000 F  Conditions : 350.000 F TEL 0759648430 ",
+ "transcript": "C'est mon rêve à moi",
+ "ocr": [],
+ "thumb": "thumbs/tt_7701893400559308053.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Riviera Palmeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "mezzanine",
+   "bordure de route",
+   "DWC à l'intérieur"
+  ],
+  "resume": "Magasin en mezzanine à louer à Cocody Riviera Palmeraie, non loin du marché Guiro, en bordure de route, avec DWC. Loyer 350 000 F. Contact 0759648430.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

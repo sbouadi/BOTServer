@@ -1,0 +1,39 @@
+{
+ "id": "tt_7702183151149403413",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7702183151149403413",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702183151149403413",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261029",
+ "duration": 71,
+ "description": "Magnifique et beau grand studio 60mil disponible au 1er étages ✅🥰🔑🏠☎️ 60mil x6mois plus 40mil démarcheur  Détail: 3mois caution               2mois avance        1mois agence plus 40mil  Yopougon Academie portail Academie des mer au carrefour lavage à la descente sur le côté gauche  Visite 5mil Appel: 0711392732  #visibilité #vue #studio #maison #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Yopugon est mobilier, quand on vous demande de vous abonner, là, c'est par rapport à tous ces bonnes pépines-là, c'est pour deux, rien à dire. Pour l'institut, vous prenez des taillots de 60.000 fois, on a besoin de l'estaphyl, l'hempécam, sauf qu'elle n'est pas séquence. Les carottes cassées, là, ils vont refaire. Voilà, on remet du joli carot, puis ils vont bien pour la baisseur, c'est très bien arranger. 60.000 fois la location, voilà, à Yopugon, à l'académie, au niveau du carot-fou, sac. Voilà, il peut y avoir du carot-sac et du carot-bamé. Voilà, les studios, là, voilà, c'est dans le quartier de l'académie, mais c'est facile à se faire. Voilà, il y a aussi des passées par les portes à l'académie, des prétidécies, donc au niveau du carot-fou, là, on va y aller. Voilà, c'est la douche qui est là. Voilà, l'eau, c'est facile. Voilà, l'eau, la douche qui est là. C'est une très bonne studio. Il n'y a pas qu'un problème d'eau ici. Voilà, le conférent, j'ai trouvé le courant à l'académie carouffe. Il ne peut pas aller pour taille, voilà, à 11% au carot-fou, là-bas. Alors, je vais remettre au niveau de la douche. Voilà, la douche qui est ici. Voilà, 60.000 fois au premier étage. En tout cas, je vous demande de vous abonner, là, c'est par rapport à tout ça, c'est pour ne rien rater.",
+ "ocr": [
+  "WOMOM",
+  "+400",
+  "222 AE"
+ ],
+ "thumb": "thumbs/tt_7702183151149403413.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 180000,
+  "avance": 120000,
+  "agence": 60000,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Grand studio au 1er étage à Yopougon Académie (portail Académie des mers, carrefour lavage, descente côté gauche), 60 000 F/mois ; 6 mois à payer (3 mois caution, 2 mois avance, 1 mois agence) plus 40 000 F démarcheur ; visite 5 000 F ; contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}

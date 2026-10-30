@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702064075207068949",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7702064075207068949",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702064075207068949",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261029",
+ "duration": 21,
+ "description": "Magnifique et beau magasin de 90mil disponible bien placé 🔑🏠🥰☎️ 90mil x5mois plus 60mil démarcheur  Yopougon Academie carrefour André girls bien placé  Nb: tout activité sauf Eglise et alcool 🥃  Visite 5mil Appel: 0711392732  #3piecesuit #visibilité #fly #magasin #vue @Yopougon 🥰immobilier 🏠✅🔑 @diby041immobilier ",
+ "transcript": "Yopoubon est un très beau marasin de 40 000 francs, disponible à Yopoubon Academy. Voilà sur la route du Pontaille, au niveau du Carrefour École André Gilles. Voilà bien placé en bordu-bordurale. Voilà le marasin, tout activité, pas sauf, et glisse et puis boisson. Voilà, paille, c'est pour une personne mais je m'en...",
+ "ocr": [
+  "ler 4"
+ ],
+ "thumb": "thumbs/tt_7702064075207068949.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Magasin à louer à Yopougon Académie, carrefour André Girls, bien placé, 90 000 F par mois, 5 mois à payer, 60 000 F de démarcheur, visite 5 000 F. Toute activité sauf église et alcool.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-30",
+ "origine": "découverte"
+}
