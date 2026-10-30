@@ -1,7 +1,7 @@
 name: logement-yopougon-ajout
 
-# Ajout d'annonces depuis le téléphone : créer une issue contenant un ou plusieurs liens
-# TikTok / Facebook. Seul le propriétaire du dépôt peut ajouter (anti-spam).
+# Ajout depuis le téléphone : créer une issue contenant des liens d'annonces TikTok / Facebook
+# et/ou des comptes d'agents (@nom ou lien de profil). Seul le propriétaire du dépôt peut ajouter (anti-spam).
 on:
   issues:
     types: [opened]
@@ -19,24 +19,29 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ccr-aa2a7c7e-yoi443
-      - name: Ajouter les liens
+      - name: Ajouter les liens et les comptes
         id: liens
         env:
           BODY: ${{ github.event.issue.title }} ${{ github.event.issue.body }}
         run: |
-          printf '%s\n' "$BODY" | grep -oE 'https?://[^ )>"]*(tiktok\.com|facebook\.com|fb\.watch)[^ )>"]*' | sort -u > /tmp/liens.txt || true
-          touch logement-yopougon/sources/urls.txt
+          cd logement-yopougon/sources
+          touch urls.txt comptes.txt
           n=0
-          while read -r u; do
-            grep -qxF "$u" logement-yopougon/sources/urls.txt || { echo "$u" >> logement-yopougon/sources/urls.txt; n=$((n+1)); }
-          done < /tmp/liens.txt
+          # liens d'annonces (vidéos TikTok, posts Facebook)
+          for u in $(printf '%s\n' "$BODY" | grep -oE 'https?://[^ )>"]*(tiktok\.com/@[^/ ]+/(video|photo)/[0-9]+|vt\.tiktok\.com/[A-Za-z0-9]+|facebook\.com/[^ )>"]+|fb\.watch/[^ )>"]+)' | sort -u); do
+            grep -qxF "$u" urls.txt || { echo "$u" >> urls.txt; n=$((n+1)); }
+          done
+          # comptes : @nom seul ou lien de profil TikTok (sans /video/)
+          for a in $(printf '%s\n' "$BODY" | sed -E 's#https?://(www\.)?tiktok\.com/@[^/ ]+/(video|photo)/[0-9]+##g' | grep -oE '@[A-Za-z0-9._-]+' | sort -u); do
+            grep -qxF "$a" comptes.txt || { echo "$a" >> comptes.txt; n=$((n+1)); }
+          done
           echo "n=$n" >> "$GITHUB_OUTPUT"
       - name: Enregistrer
         if: steps.liens.outputs.n != '0'
         run: |
           git config user.name "logement-bot"
           git config user.email "logement-bot@users.noreply.github.com"
-          git commit -am "Ajout de ${{ steps.liens.outputs.n }} lien(s) depuis l'issue #${{ github.event.issue.number }}"
+          git commit -am "Ajout de ${{ steps.liens.outputs.n }} lien(s)/compte(s) depuis l'issue #${{ github.event.issue.number }}"
           git push origin HEAD:ccr-aa2a7c7e-yoi443
       - name: Lancer la collecte
         if: steps.liens.outputs.n != '0'
@@ -48,5 +53,5 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           gh issue comment ${{ github.event.issue.number }} --repo ${{ github.repository }} \
-            --body "${{ steps.liens.outputs.n }} lien(s) ajouté(s). Ils seront traités par la prochaine collecte (lancée tout de suite si un lien a été ajouté)."
+            --body "${{ steps.liens.outputs.n }} lien(s) ou compte(s) ajouté(s). Ils seront traités par la prochaine collecte (lancée tout de suite si un lien a été ajouté)."
           gh issue close ${{ github.event.issue.number }} --repo ${{ github.repository }}
