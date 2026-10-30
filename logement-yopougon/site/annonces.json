@@ -598,7 +598,7 @@
   "auteur": "maison.du.bonheur82",
   "date": "20261028",
   "thumb": "thumbs/tt_7701806987935370502.jpg",
-  "quartier": "Niangon",
+  "quartier": "Lubafrique",
   "yopougon": true,
   "transaction": "location",
   "type": "3 pièces",
@@ -623,10 +623,7 @@
   "precision_lieu": "Niangon Lubafrique",
   "source_extraction": "règles + IA",
   "total_entree": 1200000,
-  "publications": 2,
-  "autres_liens": [
-   "https://www.tiktok.com/@maison.du.bonheur82/video/7699500491805445397"
-  ]
+  "publications": 1
  },
  {
   "id": "tt_7701250661739990293",
@@ -1203,6 +1200,43 @@
   "publications": 1
  },
  {
+  "id": "tt_7699500491805445397",
+  "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7699500491805445397",
+  "plateforme": "TikTok",
+  "auteur": "maison.du.bonheur82",
+  "date": "20261022",
+  "thumb": "thumbs/tt_7699500491805445397.jpg",
+  "quartier": "Niangon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 220000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "3 salles d'eau",
+   "buanderie",
+   "caméra de surveillance",
+   "carrelage vitrifié",
+   "carrelé",
+   "spots lumineux",
+   "staffé",
+   "vigile",
+   "étage"
+  ],
+  "resume": "Location d'un appartement 3 pièces haut standing, neuf, prêt à habiter, au premier étage, à Niangon d'Azito (carrefour policiers, proche cité Laurier 16). Loyer 220 000 F, conditions 5 mois + 100 000 F, paiement du loyer par virement. Contact [numéro masqué].",
+  "texte": "NOUVEL CONSTRUCTION 🛑LOCATION 🎋YOPOUGON NIANGON D’AZITO  ✅UN MAGNIFIQUE APPAREMMENT 3 PIÈCE  HAUT STANDING AU PREMIER ET ÉTAGE DISPONIBLE STAFFER  AZITO CARREFOUR POLICIERS NON LOIN DE LA CITÉ LAURIER 16 ACCESSIBLE ET BIEN PLACÉ  PRÊT HABITER  NB: LE PAIEMENT DU LOYER SE FAIT PAR VIREMENT    1ERE ETAGE  CARRELAGE VITRÉE  BUANDERIE SPOTE LUMINEUX CAMÉRA DE SURVEILLANCE   VIGILE 03 SALLES D'EAU ❤️  ACCÈS FACILE ✅LOYER: 220.000 FR  ✅CONDITIONS: 5MOIS+100mille  CONTACT: 0720363576 nes D.",
+  "contacts": [
+   "0720363576"
+  ],
+  "agence": 100000,
+  "precision_lieu": "Niangon d'Azito",
+  "source_extraction": "règles + IA",
+  "total_entree": 1200000,
+  "publications": 1
+ },
+ {
   "id": "tt_7699520298009447698",
   "url": "https://www.tiktok.com/@brunesleger/video/7699520298009447698",
   "plateforme": "TikTok",
@@ -1358,7 +1392,7 @@
   "auteur": "gnali.olivier",
   "date": "20261021",
   "thumb": "thumbs/tt_7699198459357842708.jpg",
-  "quartier": "Maroc",
+  "quartier": "Lubafrique",
   "yopougon": true,
   "transaction": "location",
   "type": "3 pièces",
