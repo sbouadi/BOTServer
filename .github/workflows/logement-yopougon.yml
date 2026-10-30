@@ -47,6 +47,12 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: whisper-small-v1
+      - name: Recherche de nouveaux comptes (1 fois par jour)
+        run: python pipeline/search.py
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
       - name: Collecte (téléchargement, transcription, OCR)
         run: python pipeline/ingest.py
         env:
