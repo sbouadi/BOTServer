@@ -1,0 +1,35 @@
+{
+ "id": "tt_7702872722962959636",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702872722962959636",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702872722962959636",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261031",
+ "duration": 97,
+ "description": "Alain zegbehi vous présente une 2 pièces 100 mille au premier étage yopougon Lokoa extension visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébéhiwot, MFVT, je vous présente ici, une deux pièces de 100 000 loquois extensions, vous voyez, très bien placé les gars, avec pas qu'une privée, vous voyez, voilà, très bien stafé, bien placé, bien disposé, loquois extensions les gars, bien placé, la terre est plate, il n'y a pas fait les nodations, il n'y a pas fait les milités de la maison, bonne position à la maison, la bonne place, vous voyez, il y a les travaux à faire, voici, la douche de visiteurs ici, c'est de douche. Vous voyez, regardez à quoi le salon, appréciez, vous voyez comme c'est bien stafé, voilà, regardez, regardez comme la mesure est bien stafé, regardez la chambre, très bonne chambre, très bonne chambre, vous voyez, il y avait de douze, 100 000 frais de loyer, il n'y avait pas qu'une privée, regardez le plâta, regardez la finition de la maison, bonne finition, des carreaux bien vitrifiés, tranquille, regardez la douche de la chambre, vous voyez, voilà, l'oquois extension, bien placé, assez très facile, 100 000 frais de loyer, ça c'est un budget bagoulet les gars, bien placé, voilà, le budget bété a évolué, vous voyez, regardez, le budget bété a évolué, il n'y a rien à dire, voilà, regardez, voilà, regardez, appréciez, bonus sur le salon. Alain Segway, toujours votre aimab serviteur, merci, donnez votre vie à Jésus.",
+ "ocr": [
+  "commis VO"
+ ],
+ "thumb": "thumbs/tt_7702872722962959636.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lokoa extension",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une 2 pièces au premier étage à Lokoa extension, Yopougon, à 100 000 F par mois, visite à 5 000 F. Logement présenté avec salon, chambre, douche de visiteurs et carrelage; travaux de finition signalés.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}

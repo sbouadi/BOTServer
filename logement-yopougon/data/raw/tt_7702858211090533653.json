@@ -1,0 +1,38 @@
+{
+ "id": "tt_7702858211090533653",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7702858211090533653",
+ "url": "https://www.tiktok.com/@annilove225/video/7702858211090533653",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261031",
+ "duration": 75,
+ "description": "02 pièces 160k Yopougon ananeraie non loin du grand pressing en bordure avec parking interne disponible vide au 3eme étage bien placé  Contact: 0767314212 #maisonalouer #appartements #yopougon🇨🇮🎶 #ananeraie #airbnb @Miii boutique🔔 @🔑 Elisée Immobilier @diby041immobilier @Le Détecteur🏡 des pépites 🏠 ",
+ "transcript": "Je suis toujours le même détecteur des pépites immobiliers, Monsieur Jolie Maison, Monsieur Austranding, Monsieur Femondomé, Monsieur Jassoumeil, Monsieur Tropdechose, Jolie appartement de type 2 pièces, Chamsalon, très très bien l'appartement, il y a absolument la vie. Monsieur Jolie, 164 sont les plus graves de la population. Dès que tu payes, tu dois, c'est la même chose qui est là sur le niveau de l'eau. Vous pouvez en aller dans l'eau du gros presseur. Voila, principalement, situé dans les environs du carrefour saubonne. Voila, c'est très très bien propre sur le troisième étage. Voila, Maison sous l'option 0 midi-té avec deux douches. Voila, c'est la maison qui est là. C'est très très propre. Il y a absolument rien à dire. Pas qu'il y a une teneur, 24, il y a un gazier qui est là 24 sur 24. Il y a absolument rien à dire. Bien placardé, bien aéri, il y a absolument rien à dire. 164 seulement. Dès que tu payes, tu dois boire les oeuvres de jamais. Tu as vu que tu as une récit. Voila, La Maison déjà prête à être habité. Pour la nez, il reste plus qu'à laver, dormir, et puis, il y a absolument rien à dire. Ça a vu que tu as essayé à faire le niveau de la description rapidement. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702858211090533653.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking interne",
+   "gazier 24h/24",
+   "placards",
+   "deux douches"
+  ],
+  "resume": "Location d'un 2 pièces (chambre salon) à Yopougon Ananeraie, près du grand pressing, 3e étage, vide, loyer 160 000 F, parking interne disponible, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}
