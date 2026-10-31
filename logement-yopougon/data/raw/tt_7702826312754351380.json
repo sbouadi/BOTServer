@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702826312754351380",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7702826312754351380",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7702826312754351380",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261031",
+ "duration": 109,
+ "description": "Alain zegbehi vous présente une 3 pièces 180 mille au premier étage baille tout corps visité 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok ! Salut, salut, c'est Alain Zegui, what am I serve you to, je vous le présente ici. Voilà, regardez. Une trois pièces au premier étage, bye pass. Uniquement bye. Voilà. Tu vois, 180 mines de loyer en vôtre de bye, cent secondes. Voilà. Bye au police, militaire, gendarme. voilà, oui, oui, voilà là sur le salon, au premier étage, au premier étage regardez, oui ça c'est là, Yopougon, Karifus, Jatac, oui, 180 000, le loyer, on veut tourner 150, vaissez de séparer pour les visiteurs, oui, voilà, regardez, voici ça c'est là, voilà, y'a les travaux à faire, voici la chambre des enfants, 180 000, le loyer, tourner 150 obligatoires, tourner 150 obligatoires, on veut gendarme, militaire, policier, tourner 150, Yopougon, Karifus, Jatac, c'est pas loin du 17ème arrondissement, c'est pas loin aussi du Karifus Academy, oui, voici la chambre principale, y'en a, vous voyez là, 180 000, le loyer, Yopougon, Karifus, Jatac, voici la douze de la chambre, c'est là, vous voyez, bonne nuit sur le salon, allez-y, vous voyez toujours votre aimer à ces visiteurs, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702826312754351380.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Karifus Jatac",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": 5000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au premier étage à Yopougon (Karifus Jatac) à 180 000 F par mois, visite à 5000 F, travaux à prévoir selon l'audio ; contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}

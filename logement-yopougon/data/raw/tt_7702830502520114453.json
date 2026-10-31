@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702830502520114453",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702830502520114453",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7702830502520114453",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261031",
+ "duration": 50,
+ "description": "🏠🔥 À LOUER : 2 PIÈCES À MAROC PÉTROCI 🔥🏠 📍 Localisation : Yopougon Maroc Pétroci 🏢 Étage : 2ᵉ étage 💰 Loyer mensuel : 100 000 F CFA 📋 Conditions : 6 mois + 50 000 F CFA 💧 Caution d’eau : 54 000 F CFA (garantie) 🚶 Frais de visite : 5 000 F CFA 🔥 CHAP CHAP ! Ça ne dure pas ! ⚡ Premier arrivé, premier servi ! 📞 WhatsApp ou appel : 07 67 64 46 18",
+ "transcript": "I just post in my land",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702830502520114453.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Pétroci",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": 54000,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au 2ᵉ étage à Maroc Pétroci (Yopougon) à 100 000 F/mois, 6 mois à payer + 50 000 F d'agence, caution d'eau de 54 000 F, frais de visite 5 000 F. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}

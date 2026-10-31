@@ -1,0 +1,46 @@
+{
+ "id": "tt_7702838617055579412",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702838617055579412",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7702838617055579412",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261031",
+ "duration": 208,
+ "description": "🛑LOCATION 🎋YOPOUGON ANANERAIE SORBONNE  ✅UNE MAGNIFIQUE 5 PIÈCE  BON STANDING AU 3EME  ÉTAGE DISPONIBLE STAFFER DANS  UN  BEAUX BATIMENT EN BORDURE DE LA ROUTE TRÈS ACCESSIBLE   HABITATION COMME BUREAU PASSE  3EME ÉTAGE 03 SALLES D'EAU ❤️  VIGILE  03 BALCON  BUANDERIE  CHAUFFE EAUX  PARKING  SPOTE LUMINEUX  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 300.000 FR ✅CONDITIONS: 5MOIS+150mille  CONTACT: 0720363576",
+ "transcript": "",
+ "ocr": [
+  "AVAAVAAYA AVE »",
+  "TION",
+  "= QUES",
+  "NRKN À (1111/17/77",
+  "be. Rs AAA L"
+ ],
+ "thumb": "thumbs/tt_7702838617055579412.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Anane Raie Sorbonne",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": 150000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "balcon",
+   "buanderie",
+   "chauffe-eau",
+   "parking",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'une 5 pièces de bon standing au 3e étage, dans un bel immeuble en bordure de route à Yopougon Anani Raie Sorbonne, 3 salles d'eau, 3 balcons, accès facile. Loyer 300 000 F, conditions 5 mois + 150 000 F d'agence, utilisable aussi comme bureau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}

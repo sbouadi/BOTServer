@@ -1,0 +1,47 @@
+{
+ "id": "tt_7702781885503540498",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7702781885503540498",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7702781885503540498",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261031",
+ "duration": 105,
+ "description": "YOP ANANERAIE A LOUER UNE 3 PIÈCES 175 k TRÈS GRANDE AVEC 2DWC ET BALCON + COUR AU 3E ÉTAGE  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #maison #appartementalouer #yopougon🇨🇮🎶 ",
+ "transcript": "Quand il voit ses matées, habitant c'est le soir, bichope immobilier, monsieur le détecteur et chémi mais au sens de l'esprit. Je suis au niveau de le poudon enniré, le poudon enniré, un fou-cheveau, dans une 3 pièces de 175 milliers, très grande. Il voit le salon, c'est très facile, il voit le palpant et il voit l'espace de l'aise, tout ça c'est l'espace de continuer, tout ça c'est l'espace. Alors ici c'est la cuisine, la lave, grande cuisine aussi, tout est bordeaux. Le tressin foie, pétrie, trésorébiens du roue, c'est situé au 3e étage. Ici c'est la chambre principal, la nourrie fou-méry, chambre principal très vrai, avec sa douche, la raccourie, qui est bien calme, c'est bien chic. Ici la douche, au lieu de la chine, des oeufs. Ici c'est la chambre de Jean-Paul, c'est une belle maison hein, très belle maison. Voilà, c'est la douche tout ça. Ici, intéressé, appelle directement. N'oublie pas de vous abonner, de partager et de mettre le coeur. Ici.",
+ "ocr": [
+  "ananer aie",
+  "ananeraie",
+  "ananerai",
+  "[ananeraie,",
+  "ananeraie.",
+  "ananerale",
+  "RAM RAC \\",
+  "ananerate"
+ ],
+ "thumb": "thumbs/tt_7702781885503540498.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 175000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "cour",
+   "2 WC",
+   "douche"
+  ],
+  "resume": "Location d'un grand 3 pièces au 3e étage à Ananeraie (Yopougon) à 175 000 F, avec 2 WC, balcon et cour, cuisine grande, chambre principale avec douche. Contact par téléphone 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}

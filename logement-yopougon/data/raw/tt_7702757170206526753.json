@@ -1,0 +1,39 @@
+{
+ "id": "tt_7702757170206526753",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7702757170206526753",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7702757170206526753",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261031",
+ "duration": 36,
+ "description": "2 pièces 100.000 au 1er étage staffé avec balcon individuel bien situé au Maroc elysé Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "C'est son nier, on m'a retrouvé par contre bien. On va s'y entrer, on peut faire ça là. T'en fais bien. On fruit les frappes, on fruit les frappes.",
+ "ocr": [
+  "DU que",
+  "Vale VAL A A"
+ ],
+ "thumb": "thumbs/tt_7702757170206526753.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Elysée",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon individuel",
+   "staffé"
+  ],
+  "resume": "Appartement 2 pièces au 1er étage avec balcon individuel, staffé, à Maroc Elysée (Yopougon), loyer 100 000 F. Contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-10-31",
+ "origine": "découverte"
+}
