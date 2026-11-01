@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703212279533276436",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703212279533276436",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703212279533276436",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261101",
+ "duration": 138,
+ "description": "Mise en location d'un studio de 80.000f au 4ème étage. Lieu: Yopougon Maroc vers le petit marché. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703212279533276436.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio de 80 000 F au 4ème étage à Yopougon Maroc, vers le petit marché. Visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

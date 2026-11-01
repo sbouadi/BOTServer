@@ -1,0 +1,35 @@
+{
+ "id": "tt_7703218601800650005",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703218601800650005",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703218601800650005",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261101",
+ "duration": 61,
+ "description": "Alain zegbehi vous présente un studio baoule 60 mille au premier étage yopougon naingon texaco visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébéi, un bon studio baoulet, oui, voici le studio baoulet c'est là, je vous ai dit que le studio baoulet n'a pas de petit salon, oui, studio baoulet, regardez, le café baoulet, café baoulet, studio baoulet, les baoulets ont tout créé, ils ont tout, oui, voici la cuisine, il y a l'eau, l'eau est là, l'eau est là, sans problème, voilà, c'est au premier état d'aller par convoi, il faut qu'on t'aise à court, bien placé, assez très facile, très facile, très facile, 60 000 bisous à nous, à terre, mais c'est un studio baoulet, regardez, bonne discussion, Alain Zébéi, toujours votre aimabse éviteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703218601800650005.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon Texaco",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau"
+  ],
+  "resume": "Location d'un studio au premier étage à Naingon Texaco (Yopougon), loyer 60 000 F, visite 5 000 F, avec accès à l'eau et cuisine. Contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

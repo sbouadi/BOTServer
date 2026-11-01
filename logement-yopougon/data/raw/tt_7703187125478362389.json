@@ -1,0 +1,37 @@
+{
+ "id": "tt_7703187125478362389",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7703187125478362389",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7703187125478362389",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261101",
+ "duration": 59,
+ "description": "Magnifique et beau grand studio au 2eme étages 70mil balcon arrière 🥰☎️🏠🔑 70mil x5mois plus 50mil démarcheur  Détail: 2mois caution              2mois avance        1mois agence plus 50mil  Yopougon Academie portail bien placé en bordu avec parking au 2eme étages studio avec balcon  Visite 5mil Appel: 0711392732  #studio #2piece #visibilité #yopougon🇨🇮🎶 #vue @Yopougon 🥰immobilier 🏠✅🔑 @diby041immobilier ",
+ "transcript": "Quand on vous demande de vous abonner, c'est par rapport à tous ces bonnes pépites-là, c'est venu, rien à dire. On est très là pour le studio disponible pour deuxième étage de 70 000 francs à Iofugon Académie Portage de la Marine des Meilles, souvent appelée école régionale de la marine de studio. Elle est là pour le deuxième étage. La maison est vraiment très belle avec un balcon. Voilà le studio de la cuisine. Elle est là. Très grosse cuisine. Elle est là pour le studio de 70 000 francs. Quand on vous demande de vous abonner, c'est par rapport à tous ces bonnes pépites-là, c'est venu, rien à dire. La maison est faite disponible au deuxième étage. Il est intéressé de bien visiter. Ça n'est pas clair. Parce qu'il n'y a pas de souci. Il n'y a pas de souci. Il n'oublie toujours la frappe. Voilà, la cuisine t'adouche. Voilà. La courante pour le studio de la cuisine. On va commencer. C'est une charge pour deuxième étage. Iofugon Académie Portage de la Marine des Meilles, bien placé en Bodieu, Bodieu-Homme.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703187125478362389.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "parking",
+   "cuisine"
+  ],
+  "resume": "Studio au 2e étage avec balcon arrière, portail bien placé en bordure avec parking, à Yopougon Académie. Loyer 70 000 F x5 mois plus 50 000 F de démarcheur ; 2 mois de caution, 2 mois d'avance, 1 mois d'agence plus 50 000 F. Visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

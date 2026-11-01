@@ -1,0 +1,40 @@
+{
+ "id": "tt_7702936464941681941",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7702936464941681941",
+ "url": "https://www.tiktok.com/@annilove225/video/7702936464941681941",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261031",
+ "duration": 78,
+ "description": "Supermarché à cédé Yopougon ananeraie antenne bien placé en bordure disponible au Rez de chaussée d’un bâtiment  Loyer: 200k Prix de cession: 20.000.000f  Contact: 0767314212 #supermacher #superette #opportunitédaffaires #investissementrentable #investissementEnAfrique",
+ "transcript": "Bref, il n'y a rien dans le bouquin. J'ai un petit million, j'ai un petit jet, je viens de l'investir. Voilà, actuellement, tous les jeux n'ont compris. Voilà, menace-toi de ta position. Tu veux rester bête comme avant. Il faut continuer d'élapider ton argent dans les différents maquilles. Voilà, actuellement, nous, on parle de projets. C'est un joli supermaché qui est là. Voilà, c'est disponible. C'est au niveau d'un aniré. Voilà, un très très grand supermaché. C'est bien placé en bordu. C'est très très bien situé en bordu. Et puis, le loyer n'est même pas chez. Vous voyez tout cet espace là. C'est en location à 200 000 francs seulement par mois. Voilà, la personne qui a pris l'aide avec tout le contenu. Voilà, le nombre de cautions. Pas des potes, il a acheté tout et tout. Voilà, c'est bien placé en bordu. Voilà, 20 plaques. Voilà. Pour le prix des sessions à débats. Voilà, elle ouvre à toutes sortes de propositions. Tu viens te intéresser. Il y a beaucoup de production de la partie. Mais en tout cas, le coin est bien situé. Le cadre est très agréable. Voilà, ensuite, avec tout ce que vous voyez à l'intérieur. Vous prenez tout ce qu'il y a à l'intérieur. Merci.",
+ "ocr": [
+  "Lh1/17/",
+  "vuun JAN"
+ ],
+ "thumb": "thumbs/tt_7702936464941681941.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "rez-de-chaussée",
+   "bien placé en bordure",
+   "équipements intérieurs inclus"
+  ],
+  "resume": "Cession d'un supermarché au rez-de-chaussée d'un bâtiment à Yopougon Ananeraie, bien situé en bordure, loyer de 200 000 F par mois, prix de cession de 20 000 000 F, avec le contenu/équipements intérieurs inclus. Contact : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

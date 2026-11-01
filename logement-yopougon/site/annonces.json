@@ -1,5 +1,63 @@
 [
  {
+  "id": "tt_7703174548472073479",
+  "url": "https://www.tiktok.com/@toure.aly39/video/7703174548472073479",
+  "plateforme": "TikTok",
+  "auteur": "toure.aly39",
+  "date": "20261101",
+  "thumb": "thumbs/tt_7703174548472073479.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 170000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "cour arrière",
+   "cour avant",
+   "douche visiteur"
+  ],
+  "resume": "Location d'un 3 pièces haut standing au rez-de-chaussée à Yopougon Maroc (collège La Bagoué), avec cour avant et cour arrière, loyer 170 000 F x5 mois plus 100 000 F d'agence.",
+  "texte": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC COLLÈGE LA BAGOUÉ AU REZ-DE-CHAUSSÉE COUR AVANT ET COUR ARRIÈRE LOYER: 170 000x5 PLUS 100 000. #location#maison#visibilité# Salut salut salut salut salut tout le temps et je vous présente une propre pièce 170 000 fois le Pougan Maroc Collège de l'Apagouais 160 000 fois ça c'est le salon 170 000 fois en rues de chaussures, coup avant coup arrière coup avant coup arrière, regardez la cour arrière, une très grande cour arrière une très très grande cour arrière 170 000 fois le Pougan Maroc Collège de l'Apagouais ça c'est la chambre principale avec sa douche ça c'est la douche visiteur, ça c'est la chambre visiteur",
+  "contacts": [
+   "0506644972"
+  ],
+  "agence": 100000,
+  "source_extraction": "règles + IA",
+  "total_entree": 950000,
+  "publications": 3,
+  "autres_liens": [
+   "https://www.tiktok.com/@toure.aly39/video/7702896776067419410",
+   "https://www.tiktok.com/@toure.aly39/video/7700946298131909906"
+  ]
+ },
+ {
+  "id": "tt_7703213275659504916",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703213275659504916",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261101",
+  "thumb": "thumbs/tt_7703213275659504916.jpg",
+  "quartier": "Songon, À Côté De La Cité Belle Horizon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "villa",
+  "pieces": 3,
+  "loyer": 150000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une villa basse de 3 pièces à 150 000 F à Yopougon Songon, à côté de la cité Belle Horizon. Frais de visite 5 000 F. Contact indiqué dans la légende.",
+  "texte": "Lise en location d'une villa basse de 3 pièces à 150.000f Lieu: Yopougon songon à côté de la cité belle horizon  Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux  J'ai un Dieu puissant là-haut Bon je quille Au revoir Et je suis Benon Benoît 1117",
+  "contacts": [
+   "0711489393"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
   "id": "tt_7702740604278672661",
   "url": "https://www.tiktok.com/@immobilieryopougon5/video/7702740604278672661",
   "plateforme": "TikTok",
@@ -252,37 +310,6 @@
   "source_extraction": "règles + IA",
   "total_entree": null,
   "publications": 1
- },
- {
-  "id": "tt_7702896776067419410",
-  "url": "https://www.tiktok.com/@toure.aly39/video/7702896776067419410",
-  "plateforme": "TikTok",
-  "auteur": "toure.aly39",
-  "date": "20261031",
-  "thumb": "thumbs/tt_7702896776067419410.jpg",
-  "quartier": "Maroc",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 170000,
-  "equipements": [
-   "WC",
-   "cuisine",
-   "douche",
-   "évier"
-  ],
-  "resume": "Location d'un 3 pièces au rez-de-chaussée à Maroc (Yopougon), près du collège Bagoué, loyer 170 000 F, avec cuisine, chambre principale avec douche et WC. Contact par WhatsApp au [numéro masqué].",
-  "texte": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC BAGOUÉ AU REZ-DE-CHAUSSÉE LOYER : 170 000. #location#maison#visibilité# Salut salut salut salut salut salut tout je vous présente une trois pièces 170 000 francs, le Pougon, Maroc, Bagouais au lieu de chosser quoi avant quoi regardez 170 000 francs, une très belle maison bien placée à côté du collège la Bagouais ah là vous voyez ça c'est la cuisine ici, il n'y a pas de problème là, il n'y a pas de problème là, il y a de la cuirier, ça c'est la cuirier, une très grande cuirier, la biandierie tout tout, 170 000 francs, Maroc, la Bagouais, ça c'est la chambre principale ouai, là c'est la chambre principale, avec sa douche s\\e ‘st came Anais UN A\\MAUU RE En ANNEE SRE EN",
-  "contacts": [
-   "0506644972"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
-  "publications": 2,
-  "autres_liens": [
-   "https://www.tiktok.com/@toure.aly39/video/7700946298131909906"
-  ]
  },
  {
   "id": "tt_7702907668284919060",

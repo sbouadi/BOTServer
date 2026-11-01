@@ -1,0 +1,38 @@
+{
+ "id": "tt_7703209647318060309",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703209647318060309",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703209647318060309",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261101",
+ "duration": 139,
+ "description": "Alain zegbehi vous présente une villa basse de 4 pièces parking privé 240 mille yopougon carrefour Amondji visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébéi, votre MF, c'est Victor, je vous présente ici, voilà, une quatre piètes de 240.000, oui. Yopugon Karifu Amundi, très bien placé pour bureau, Boddu Bodiral, oui, Coivain et Arié, 240.000, il y a deux salons, il y a des travaux à faire, oui, il y a deux salons, il y a des travaux à faire, toutes les chansons autonomes, oui, voici les salons. Gaia Salon, Alain Zébéi, toujours votre MF, c'est Victor, regardez, il y a des travaux à faire, toutes les chansons autonomes, vous voyez, voilà, regardez, 240.000, voilà, 240.000, il y a des travaux à faire. On va tout changer, les potes, oui, voilà, tout changer, tout changer, les potes, les fenêtres, plafond, tout va tout changer, oui, 240.000, Boddu Bodiral, c'est très bon, très bien placé, très bien placé, vous tu voulez faire clinique là, c'est très bon, vous tu voulez faire clinique là, c'est très très bon, très bien placé, très bien placé, toutes les chansons autonomes. Oui, voilà, 4 pièces, 241, regardez dans le salon, oui, 241, mais on basse, mais on guérison, voici le chemin ici, mais on basse, mais on guérison, voilà, toutes les chansons autonomes, voici une douche encore, oui, là, c'est une douche, il y a des travaux à faire, voici la cour arrière, oui. Vous pouvez enterrer ça, Boddu Bodiral, très bien placé, avec des ventues, voilà, regardez, avec des ventues, voici la biondie ici, qui vont tout refaire, il y a des travaux à faire, la poire de la cuisine est fermée, voilà. Voici la cuisine, il y a des travaux à faire, voici la plus visiteux ici, voilà. visiteux et qu'est-ce qu'il y a ici. Voilà. Bonne nuit sur le salon. Allez, vous avez toujours votre aimable serviteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [
+  "2771"
+ ],
+ "thumb": "thumbs/tt_7703209647318060309.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Amondji",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 240000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "parking privé",
+   "cour arrière"
+  ],
+  "resume": "Villa basse de 4 pièces à Yopougon Carrefour Amondji, loyer 240 000 F, parking privé, cour arrière, travaux à prévoir (fenêtres, plafond, sanitaires), visite 5 000 F, bien placé et utilisable comme bureau ou clinique selon l'agent. Contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

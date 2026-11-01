@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703206159896841493",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7703206159896841493",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7703206159896841493",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261101",
+ "duration": 77,
+ "description": "Magnifique et belle bonne nouvelle construction 2pieces 80mil ☎️🥰🔑🏠 80mil x7mois plus 60mil démarcheur  Nb: c’est une sous location  Détail: 3mois caution              3mois avance        1mois agence plus 60mil  Yopougon Academie portail au carrefour attieke  Visite 5mil Appel: 0711392732  #2piece #visibilité #yopougon🇨🇮🎶 #vue #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703206159896841493.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": 240000,
+  "avance": 240000,
+  "agence": 60000,
+  "mois_a_payer": 7,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces neuf à Yopougon Académie (portail au carrefour attiéké), sous-location, 80 000 F/mois x7 mois plus 60 000 F démarcheur, caution 3 mois (240 000 F), avance 3 mois (240 000 F), 1 mois d'agence plus 60 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}
