@@ -1,0 +1,37 @@
+{
+ "id": "tt_7703256762316508437",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703256762316508437",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703256762316508437",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261101",
+ "duration": 95,
+ "description": "Alain zegbehi vous présente une 2 pièces 100 mille au deuxième étage yopougon naingon à gauche phamarci Théodora visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok ! Salut ! Salut ! C'est Alain Zégué, MFVT, je vous présente ici une deux pièces, cinq mille aux deuxièmes étages. Yopougon Super Sonia. Vous voyez ? Ils voient les carottes aux forêts là, regardez. Les carottes aux frappes mais les carottes de la nouvelle génération. Voilà. Vous voyez ? Voici le balcon ici. Vous voyez ? Voilà, regardez. Yopougon Super Sonia. Vous voyez ? Super Sonia. 100 milles. Voilà. 100 milles, vous voyez ? Les fenêtres en baisse vitrée, les poids tout vont tout changer. Tous ces carottes aux forêts vont tout allumer. Voilà, regardez. Vous voyez ? C'est des douches. Ici, résidence, bureau, passe. C'est bon du bordurale. 100 milles. C'est une bonne mesure. Deux douches, ils vont tirer en due partout. Faire le travail normalement comme il s'est droit. Voilà. Tous ces carottes aux forêts vont tout changer. Regardez. Deux pièces, 100 milles. Voici la douze de la chambre. Ils vont faire tous ces barrages. Tout cela sera bien fait. Voilà. Allez-y, vous voyez, toujours votre MFVT. Bonne nuit sur le salon. Allez-y, vous voyez toujours votre MFVT. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703256762316508437.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "fenêtres en baie vitrée",
+   "douche"
+  ],
+  "resume": "Location d'un 2 pièces au deuxième étage à Yopougon (Naingon, près de la pharmacie Théodora), loyer 100 000 F, frais de visite 5 000 F, bureau comme habitation possible. Contact indiqué : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

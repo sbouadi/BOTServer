@@ -1,0 +1,38 @@
+{
+ "id": "tt_7703233980342095122",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7703233980342095122",
+ "url": "https://www.tiktok.com/@brunesleger/video/7703233980342095122",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261101",
+ "duration": 103,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap}      [[ À louer]] une sublime 5 pièces à yopougon ananeraie Sorbonne au 4 eme étage  👉 loyer 200 milles  👉 2 salles d’eau  👉 1 balcon  👉 une terrasse plus une salle à manger.  Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "Je pose ma caméra sans chêteuse brûlée ce mobilier toujours. Bonjour moi et à toi moi, dans les vrais pépites immobiliers. Voilà, je suis au sein d'une autre 5 pièces. A comme le vous même, la cuisine, voilà. Il y a trop de barrages, voilà, trop de barrages. Là, vous voyez, la cuisine est très grande, la cuisine est très grande. Vous voyez tous ces barrages, voilà, voilà. Une 5 pièces de 100 000 francs. Je dis bien 5 pièces de 100 000 là. Deux salons et trois chambres. Vous voyez, voilà. Ça c'est le premier salon qu'il y a là. Voilà, on va au nom du deuxième salon, on s'est dit que ça l'a mangé. Vous voyez, voilà, c'est la salle à manger qu'il y a là. Vous voyez la salle à manger, très bien arrêtée. Voilà, on revient encore au niveau du salon. Voilà, vous voyez, toujours le salon. Là, la première chambre. Vous voyez, la première chambre bien stafée, bien balèze. Voilà. On revient encore au niveau du salon. Voilà, bonne chance sur le salon. Voilà, vous voyez, là c'est la chambre principale. Vous voyez, la chambre principale là, bien grande. La chambre principale là est bien grande avec sa bouche. Il y a assez de travaux à faire, je dis bien, je précise bien. Il y a beaucoup de travaux à faire. Voilà, le sortant, il a tapé plus de 5 sèques dans la maison. Aujourd'hui, Dieu l'a béni, il a construit sa maison et il l'a réchauffé. Plus jamais, il va lui apporter des maisons. En moins que, voilà. Il a vendu sa propre maison. Voilà, sinon je n'avais pas vendu sa propre maison. Il va plus louer les maisons. Voilà, n'oubliez pas de vous abonner. À bas.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703233980342095122.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "terrasse",
+   "salle à manger",
+   "2 salles d'eau"
+  ],
+  "resume": "Location d'un 5 pièces au 4e étage à Ananeraie Sorbonne (Yopougon) à 200 000 F, avec 2 salles d'eau, 1 balcon, une terrasse et une salle à manger; visite à 5 000 F. L'audio évoque un 5 pièces à 100 000 F avec deux salons, trois chambres et travaux à prévoir, ce qui contredit la légende sur le prix et la configuration.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

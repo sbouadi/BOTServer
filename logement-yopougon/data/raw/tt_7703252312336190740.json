@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703252312336190740",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703252312336190740",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703252312336190740",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261101",
+ "duration": 79,
+ "description": "Mise en location d'un studio de 60.000f maison basse Lieu: Yopougon niangon à gauche carrefour dépôt. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "PASSEZ-VOUS !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703252312336190740.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio de 60 000 F en maison basse à Niangon (Yopougon), à gauche du carrefour dépôt. Frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}

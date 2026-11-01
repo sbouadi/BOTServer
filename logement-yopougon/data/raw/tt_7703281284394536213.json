@@ -1,0 +1,37 @@
+{
+ "id": "tt_7703281284394536213",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703281284394536213",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703281284394536213",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261101",
+ "duration": 167,
+ "description": "🏠🔥 À LOUER : 2 PIÈCES – 2 DWC 📍 Yopougon Niangon à droite, Académie Diop 🏢 Situé au 2ᵉ étage 💰 Loyer : 90.000 F CFA/mois 📌 Conditions : 5 mois + 50.000 F 🚶 Visite : 5.000 F ⚠️ NB : Travaux de peinture à prévoir. 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Location #Yopougon #Niangon #AcademieDiop #Appartement   ",
+ "transcript": "C'est la fin, je fais le constat, fais déjà des années constats, maintenant je peux m'ambiancer, car le feu a fait son combat. C'est la fin, je fais le constat, fais déjà des années constats, maintenant je peux m'ambiancer, car le feu a fait son combat.",
+ "ocr": [
+  "L'HUN",
+  "MIRE!",
+  "Bis:"
+ ],
+ "thumb": "thumbs/tt_7703281284394536213.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces (2 DWC) au 2ᵉ étage à Niangon, Yopougon (près de l'Académie Diop) à 90 000 F/mois, conditions 5 mois + 50 000 F d'agence, visite 5 000 F, travaux de peinture à prévoir.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-01",
+ "origine": "découverte"
+}
