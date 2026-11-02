@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703616958897392914",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7703616958897392914",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7703616958897392914",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261102",
+ "duration": 141,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES HAUT STANDING YOPOUGON AGBAYATÉ AU 4IEME ÉTAGES LOYER: 150 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Les bébés, la magie C'est week-end, viens on jump sur Asini Stop pas la station, faut que je choppe du martini Je m'basse sur Abidjan, donc je frayas J'ai raméné la couche, n'oublie pas ton bikini Sex on the bitch Oh, baish on me Balance ton cuit sous le soleil Baish on me Et quand je suis noir et dans ma colère Je peux compter sur elle pour le fun Je veux pas te créer de problèmes Elle dut enveloppée, tu fais des dents Nous floues dits dans mon sac, si elle met les dents Hey, potion de bain Je l'ai même si on a su y lâcher Mais c'est pas la poupée Et vous êtes bien dis, ça bête Ça bête Do it a la I T'achat do it a la I T'achat do it a la I T'achat do it a la I T'achat do it a la I T'achat do it a la I T'achat do it a la I Appelez C'est mon T.I.G.A. Je suis énevé en voie ta loca Au lieu de prier dans moi Ça dit que le vent pleine d'eux J'occupe tout le jour en nez jambes d'eux Pas tout Yeah Chacun c'est capacité Et c'est des quoi c'est capable Si vous voulez courir moi sois prêt Il vit pour le travail S'il n'est pour le travail Toute ma vie c'est pour le travail Contra de la belle Maudia La friche de Elon Maudia Mon machin c'est le frito",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703616958897392914.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayaté",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces haut standing à Agbayaté (Yopougon), au 4e étage. Loyer de 150 000 F × 5 mois plus 100 000 F d'agence. Contact indiqué par téléphone et WhatsApp.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7703548069702323476",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703548069702323476",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703548069702323476",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261102",
+ "duration": 90,
+ "description": "Nous vous présentons un joli bar en mezzanine à céder en bordure de route principale. Prix: 7 millions à débattre. Dernier prix 6 millions Loyer: 100.000francs/mois Nb: le nouvel acquéreur aura 1 millions de caution chez le propriétaire. Lieu: Yopougon sadiguiba en bordure de route principale. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Le grand chansonnier de l'ordre des rachetés Le piste de l'attitude",
+ "ocr": [
+  "le! anus li \\",
+  "+ Béton ke |",
+  "UNS ALU",
+  "LUN LE NDS FRA \""
+ ],
+ "thumb": "thumbs/tt_7703548069702323476.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Sadiguiba",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": 1000000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Cession d'un bar en mezzanine à Yopougon Sadiguiba, en bordure de route principale. Prix 7 millions à débattre (dernier prix 6 millions), loyer 100 000 F/mois, caution 1 million chez le propriétaire, visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

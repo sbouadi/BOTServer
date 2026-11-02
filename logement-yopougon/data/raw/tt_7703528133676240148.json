@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703528133676240148",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7703528133676240148",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7703528133676240148",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261102",
+ "duration": 53,
+ "description": "Magnifique et beau mini studio de 50mil disponible au 1er étages ☎️🥰🔑🏠 50mil x5mois plus 40mil démarcheur  Nb: caution d’eau 20mil  Détail: 3mois caution               1mois avance        1mois agence plus 40mil  Yopougon Academie diop dernière boutique à la descente dans le quartier au niveau de l’école ramât ou dans le dos de la villa de dj mouloukoukou  Visite 5mil Appel: 0711392732  #studio #2piece #yopougon🇨🇮🎶 #fly #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon, il m'oblige. Et comme dans le monde de vous entendez là, c'est par rapport à toutes ces bonnes pétites, mais veillez là, c'est pour ne rien rater. On a un studio de 60 000 francs disponibles au premier étage, à Rio Pougon, à l'académie Diop Demioput, à Bisson, dans le quartier, voilà. Il faut faire de l'école Ramax. C'est en Allemagne au niveau du restaurant. Est-ce qu'on ressemble ? Voilà, c'est un studio de 60 000 francs. Par contre, devant la vidéo, là, c'est le concept derrière la maison du Tijimungu. C'est dans le quartier, je vous le souhaite encore. Le studio est dans le quartier. C'est pour ne rien rater. Et au Pougon, à l'académie Diop Demioput, à la Bisson, dans le quartier, est le studio de 60 000 francs. Au premier étage, on a aussi un studio au Ré Deshaussées, de 60 000 francs. Donc on a deux studios de 60 000 francs. Quand on vous demande de vous entendez là, par rapport à toutes ces bonnes pétites maisons, c'est pour ne rien rater.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703528133676240148.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie Diop, dernière boutique à la descente, au niveau de l'école Ramât, derrière la villa de DJ Mouloukoukou",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 50000,
+  "caution": 150000,
+  "avance": 50000,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mini studio de 50 000 F par mois au 1er étage à Yopougon (Academie Diop). Caution de 3 mois (150 000 F), 1 mois d'avance (50 000 F), 1 mois d'agence plus 40 000 F de démarcheur, caution d'eau 20 000 F, visite 5 000 F. Contact 0711392732. Légende et audio divergent sur le loyer (50 000 vs 60 000 F) ; la légende est retenue.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

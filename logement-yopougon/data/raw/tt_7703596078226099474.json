@@ -1,0 +1,38 @@
+{
+ "id": "tt_7703596078226099474",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7703596078226099474",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7703596078226099474",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261102",
+ "duration": 58,
+ "description": "​À CÉDER : Supérette / Local commercial prêt à l'emploi à Yopougon Ananeraie ​Saisissez l'opportunité d'acquérir une supérette fonctionnelle et bien agencée, située dans un secteur dynamique à Yopougon Ananeraie. ​ ​Loyer mensuel : 200 000 FCFA ​Prix de cession : 12 000 000 FCFA (à débattre) ☎ 0140208506/0575303446 whastpp",
+ "transcript": "de mes barriots C'est pas ta faute si papa n'a rien heu C'est pas ta faute si mama n'a rien heu Mais cela sera de ta faute si t'es ma pauvre Ah tu as déjà mis tout des vannous pour que nous puissions tous rester ici Ca n'est les matines Il est l'heure d'aller se chercher Oh, il y a au Basile Si tu as senti les choses vénies Et être le plus malin que La Game A Et qui rembasse un blanc dépléré",
+ "ocr": [
+  "1542"
+ ],
+ "thumb": "thumbs/tt_7703596078226099474.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "réfrigérateurs",
+   "étagères"
+  ],
+  "resume": "Cession d'une supérette fonctionnelle et bien agencée à Yopougon Ananeraie, loyer mensuel 200 000 FCFA, prix de cession 12 000 000 FCFA à débattre, contact WhatsApp 0140208506 / 0575303446.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

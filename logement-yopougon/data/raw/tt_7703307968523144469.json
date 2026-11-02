@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703307968523144469",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703307968523144469",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703307968523144469",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261101",
+ "duration": 145,
+ "description": "Mise en location d'un appartement de 4 pièces à 180.000f Lieu: Yopougon amo DJI cité novalim. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "Si Dieu m'a mis un rêve dans ton cœur Écrile-le, garde-le comme à présent Quoi qu'on dise, protège la vision Avec passion, oh oui Quand tu sais, tu sais de tout ton air Que ce rêve ne vient pas de toi Même si tu ne vois que le contraire Vers ses vers, vers ses vers Vers ses vers, ses vers",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703307968523144469.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Amo DJI cité Novalim",
+  "type": null,
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 4 pièces à 180 000 F à Yopougon, Amo DJI cité Novalim, visite à 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tt_7703539246912539911",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7703539246912539911",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7703539246912539911",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261102",
+ "duration": 78,
+ "description": "YOP MAROC TRÈS BIEN SITUÉ 3 PIECS170 k AU REZ  AVEC 2 DWC ET COUR AVANT ET ARRIÈRE PRÊTE HABITÉ  INTERRESSE APPEL  CONTACT 0787407535 #appartementalouer #yopougon🇨🇮🎶 #maison #pourtoi ",
+ "transcript": "Voilà ! Quand il voit ses matées, habille bien serre le soir. Vichamp immobilier, monsieur le détecteur de jolies maisons sans esprit. Je suis au niveau du couvre maroc dans une trois pièces de 170 carres. Avec coure avant, voilà, c'est une belle maison, admirez vous-même. Voilà, regardez le salon. Ta-da ! Voilà, on va rapidement dans les chambres. Regardez d'abord la douche visiteuse et la douche des enfants. Voilà. Ici, nous avons la chambre principale. Tous tes grans, tous tes chics, c'est prêt à habiter. Tu payes, tu dors. Tu payes, tu dors. On va dans la chambre des enfants. Voilà. On va y. Toutes tes chics sont dans tous tes points. Voilà. Tu payes, tu dors. C'est la cuisine. Très grande cuisine. Voilà. Il y a une coure arrière encore. Voici la coure arrière. Admirez-vous-même. Toutes tes grans. Ça va pas durer un premier venu, premier servi. Voilà. N'oubliez pas de vous abonner, de partager et de mettre les coeurs. Appelez directement sur les tags. Si vous êtes intéressés, merci.",
+ "ocr": [
+  "NO & 94 040008"
+ ],
+ "thumb": "thumbs/tt_7703539246912539911.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 WC",
+   "cour avant",
+   "cour arrière",
+   "cuisine",
+   "douche visiteur",
+   "douche enfants"
+  ],
+  "resume": "Location d'un appartement 3 pièces de 170 m² au rez-de-chaussée à Yopougon Maroc, avec 2 WC, cour avant et arrière, prêt à habiter. Prix non indiqué. Contact : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

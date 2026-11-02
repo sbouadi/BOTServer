@@ -1,0 +1,50 @@
+{
+ "id": "tt_7703524755357306113",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703524755357306113",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703524755357306113",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261102",
+ "duration": 129,
+ "description": "Alain zegbehi vous présente une villa basse 5 pièces 300 mille yopougon millionnaire visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zégué, you want M-app serviteur, tu vous présentes ici? Voilà, regardez, une carte yes, avec garage, Yopougon millionaire, dans une cité de la place. Oui, regardez, yopougon millionaire, c'est du confort, regardez, Yopougon millionaire. Vous voyez, c'est 30000, 30000, il y a deux restaurants. Yopougon millionaire, bien placé, très bien placé, très bien placé. Il y a aussi la chambre principale ici, il n'y a pas d'humidité de la maison. C'est ce que m'est prêt dans cette, dans cette histoire. Voici ça, millionaire, millionaire, regardez ce qu'il y a là. 30000, vous l'avez préaux, vous l'avez vu. Vous l'avez déjà vu le préaux. Voici la chambre, là-dessus de la chambre, c'est là. Voilà, voici une chambre ici encore. Voilà, regardez, voici une chambre ici. Là, c'est une chambre ici, il y a les plaques, il y a les travaux à faire, regardez. Yopougon millionaire, bien placé. Là, c'est la deuxième chambre ici encore, avec douche. Voilà, regardez. C'est 30000, 30000, 30000. Voilà, voici la douche ici. Voilà, voici, ici, encore. Il y a les travaux à faire, voici la cuisine. Voilà, les gars, je monte au préaux. Voici le préaux, t'es là. Voici le préaux. Voici le préaux. Maintenant, voilà, il y a la chambre de ceux qui lèvent la voiture, ils vont laver la voiture là. Il y a des garots au garage là, c'est la chambre ici. Voilà, la cousine, la cousine. Là, c'est la chambre. Et ce sont les chambres qui sont au préaux. Oui, un lieu pour le borai ici, regardez. Un lieu pour le borai ici, rien n'a dit. Voilà, bonus sur le salon. Allez égouez toujours votre aimabseur vite. Merci, dans le niveau de vie à Jésus.",
+ "ocr": [
+  "FEES COX,",
+  "CLS,",
+  "VAVA",
+  "DOLOOKXS",
+  "NDOOOOOOOC OCR",
+  "Er SEE",
+  "OOOOOCX0",
+  "mL 0000",
+  "Jexerererere",
+  "s Jexérererere",
+  "OOOOCX",
+  "POCOOCK",
+  "Zeïeïererere",
+  "POOOOOC"
+ ],
+ "thumb": "thumbs/tt_7703524755357306113.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "villa",
+  "pieces": 5,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Villa basse de 5 pièces à louer à Yopougon Millionnaire pour 300 000 F, avec garage, préau et plusieurs chambres (dont une avec douche) ; travaux à prévoir. Visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

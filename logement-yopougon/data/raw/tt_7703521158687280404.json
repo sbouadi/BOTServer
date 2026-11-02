@@ -1,0 +1,36 @@
+{
+ "id": "tt_7703521158687280404",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703521158687280404",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703521158687280404",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261102",
+ "duration": 64,
+ "description": "Mise en location d'un appartement d'un appartement de 2 pièces à 110.000f au 1er étage avec 2 douches wc. Lieu: Yopougon terminus 27 Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "Yau !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703521158687280404.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "terminus 27",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "wc"
+  ],
+  "resume": "Location d'un appartement de 2 pièces au 1er étage à 110 000 F, avec 2 douches WC, à Yopougon terminus 27. Frais de visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

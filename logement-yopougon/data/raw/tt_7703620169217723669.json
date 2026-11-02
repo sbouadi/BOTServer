@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703620169217723669",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7703620169217723669",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7703620169217723669",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261102",
+ "duration": 36,
+ "description": "Magnifique et beau studio 60mil disponible au 1er Etates 🏠✅🔑🥰 60mil x4mois plus 40mil démarcheur  Nb: caution d’eau 30mil  Détail: 2mois caution               1mois avance          1mois agence plus 40mil  Yopougon Academie diop dernière boutique au 1er Etates à côté de laguna resort  Visite 5mil Appel: 0711392732  #studio #visibilité #yopougon🇨🇮🎶 #2piece #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon, il m'a bien dit, quand on vous demande de vous abonner, c'est par rapport à tous ces bonnes pipites-là, c'est pour nous rien à dire. Voilà ce que j'ai déjà prêt à biter, disponible à Yopogon Academy du Jopénie, au boutique de la langue au restaurant Laguna Resort. C'est au premier état, j'ai déjà prêt à biter d'une veste à caution, qui veste à caution, qui prend ta clé, j'ai lancé, on parle pas beaucoup, voilà le studio il est là. Bon là il n'y a aucun problème de blessement de moteur, tout à l'heure, on va en l'ouvrir à une pression, voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703620169217723669.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie Diop",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 60000,
+  "avance": 60000,
+  "agence": 60000,
+  "mois_a_payer": 4,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Academie Diop, dernière boutique au 1er étage à côté de Laguna Resort, 60 000 F par mois, 4 mois à payer plus 40 000 F de démarcheur, caution 2 mois, avance 1 mois, agence 1 mois, caution d'eau 30 000 F, visite 5 000 F, contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

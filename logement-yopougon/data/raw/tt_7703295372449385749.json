@@ -1,0 +1,43 @@
+{
+ "id": "tt_7703295372449385749",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7703295372449385749",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7703295372449385749",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261101",
+ "duration": 78,
+ "description": "🛑LOCATION 🎋YOPOUGON AGBAYATER  ✅UNE MAGNIFIQUE 2 PIÈCE  BON STANDING AU 4EME ÉTAGE DISPONIBLE STAFFER DANS L’UN DES PLUS BEAUX BATIMENT D’’AGBAYATER À L’ENTRÉE DES TRICYCLE NON LOINS DE EGLISE SAINT DES DERNIERS JOURS EN BORDURE 4EME ETAGE  02 SALLES D'EAU ❤️  VIGILE  PARKING  GRAND BLACON  CHAUFFE EAUX  SPOTE LUMINEUX  PLACRD AU SALON  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 150.000 FR ✅CONDITIONS: 6MOIS+100mille  CONTACT: 0720363576",
+ "transcript": "Il n'y a pas de puits chiens dans sa vie, c'est pour la guerre pour des certifs Je maîtrise, je maîtrise Le bleu, le veuil, le poème, je suis l'artiste Il faut que ça shine, il faut que ça brille Mon cas vu, c'est tout ce qui m'a tiré Toujours un câlin, c'est ça En fait, tout est si t'abandon Tout le panier, je suis passé Chaud, chaud, chaud, chaud Parce qu'elle fait, t'es l'aimé Sur un peu, pas puits, j'ai suivanté, suivanté Il n'y a pas de puits chiens. Il n'y a pas de puits chiens. Le boucher ! Il n'y a pas de puits chiens, Il n'y a pas de puits chiens. Il ne nousרת pas de l'albumsci Parfois, le titre de Son yelling Chiasse ! Am23 A Ben Lovely Adria verify",
+ "ocr": [
+  "(l ELLE",
+  "EUR 4 04 UE ON UN"
+ ],
+ "thumb": "thumbs/tt_7703295372449385749.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayater",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "parking",
+   "grand balcon",
+   "chauffe-eau",
+   "spots lumineux",
+   "placard au salon"
+  ],
+  "resume": "Location d'une 2 pièces de bon standing au 4e étage à Agbayater, Yopougon, avec 2 salles d'eau. Loyer 150 000 F, conditions 6 mois + 100 000 F d'agence. Contact : 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7703589548604935445",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7703589548604935445",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7703589548604935445",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261102",
+ "duration": 40,
+ "description": "Magnifique et beau grand studio 70mil disponible au 1er étages avec balcon 🔑🏠☎️🥰 70mil x5mois plus 50mil démarcheur  Détail: 2mois caution               2mois avance       1mois agence plus 50mil  Yopougon azito au carrefour boulangerie Jérusalem bien placé secteur goudronnée  Visite 5mil Appel: 0711392732  #yopougon🇨🇮🎶 #studio #fly #visibilité #maison @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougan, il m'obligez vous pour une très bonne studio, voilà, de au premier étage, à Iopougan, à Zito, au niveau du Karl-Fou, Boulangerie, Zerizalem, le studio est sur le balcon, voilà, un très beau studio, il reste à faire des travaux. Mais là, il n'y a pas de placard, par exemple, tu vas dans la vidéo, là, c'est comme ça, là, c'est pour exemple. Voilà, le studio est là, bien grand. Allons au niveau de la cuisine, voilà, la cuisine qui est là. La cuisine aussi elle est bien grande. Voilà, il n'y a pas de travaux, il n'y a aucun problème de s'estuer au Boulgerie-Boulgerie-Val. Facile d'assez aussi, facile de toilette ici, voilà, très beau studio.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703589548604935445.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Grand studio au 1er étage avec balcon à Azito (Yopougon), au carrefour boulangerie Jérusalem, secteur goudronné. Loyer 70 000 F ×5 mois + 50 000 F démarcheur ; 2 mois de caution, 2 mois d'avance, 1 mois d'agence + 50 000 F. Visite 5 000 F. Studio à rénover, sans placard, cuisine et toilettes présentes.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

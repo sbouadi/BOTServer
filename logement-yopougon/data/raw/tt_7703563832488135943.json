@@ -1,0 +1,41 @@
+{
+ "id": "tt_7703563832488135943",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7703563832488135943",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7703563832488135943",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261102",
+ "duration": 148,
+ "description": "☎️:05.06.64.49.72 (what) 4 PIÈCES DUPLEX HAUT STANDING SONGON DANS LA CITÉ BEL HORIZION LOYER: 350 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, toujours tout réalisé. Je vous présente un duplaît, là où vous voyez. Regardez ça, c'est le salon. La maison est prête à bider. Un duplaît de 5 pièces, là où vous voyez ça, c'est le salon. Ici, c'est côté table à manger. Là où vous voyez, avec une chambre, la chambre est autonome, ça c'est côté placa. Avec sa douche, ça c'est la première chambre. Regardez la cour arrière. Une très grande cour arrière, il y a une pote qui vient dans la cuisine. Vous voyez ça, c'est la cuisine, une très grande cuisine. La cuisine est grande, il n'y a rien à dire. Vous voyez 354 000 francs, du plaît 5 pièces. Vous voyez ça, c'est le garage, il y a deux voitures. À côté du garage, il y a une douche. Vous voyez. Des escaliers, ça c'est des chambres. Là où vous voyez, ça c'est la deuxième chambre. Ça c'est en haut, la deuxième chambre avec sa douche. Avec son balcon. Vous voyez. Ça c'est la troisième chambre. La troisième chambre. Ça c'est la troisième chambre. Avec son placard. Ça c'est la chambre, regardez. Ici c'est l'espace. Vous voyez. Ici ça peut être une salle de réception. Ça c'est la chambre principale. Ca y a chambre aussi, regardez. Ça c'est la chambre principale. On dirait salon. Vous voyez. Placard. La douche est la chambre principale. Regardez la chambre principale. Comment c'est grand et immense. Ça c'est la chambre principale. Vous voyez. Avec son balcon. Voilà, je vous montre maintenant le pro. Vous voyez. Ça c'est le pro, regardez. Ça c'est le pro. Vous voyez. Loire 350 000 fois dans la cité Belle-Orizon. Vous voyez. Ça c'est le pro. Loire 350 000 fois.",
+ "ocr": [
+  "/ 20 mie,"
+ ],
+ "thumb": "thumbs/tt_7703563832488135943.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Bel Horizon",
+  "type": "duplex",
+  "pieces": 4,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "garage",
+   "cour arrière",
+   "balcon",
+   "placard",
+   "douche"
+  ],
+  "resume": "Location d'un duplex 4 pièces haut standing à Songon, cité Bel Horizon, loyer 350 000 F par mois, 5 mois à payer plus 100 000 F d'agence. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7703499828969409812",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703499828969409812",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703499828969409812",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261102",
+ "duration": 101,
+ "description": "🏠 2 PIÈCES À LOUER 🔥 📍 Yopougon Niangon Sud – Allocodrome 📌 1er étage, bordure de voie 💰 Loyer : 80.000 F 📋 Conditions : 5 mois + 70.000 F 👔 Salariés exigés 🚶 Visite : 5.000 F 📞 WhatsApp : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Immobilier #Yopougon #Location #Abidjan",
+ "transcript": "Yeah Something is killing me slowly And I'm feeling so lonely Now I'm looking up to God Yeah, yeah Bet my tight, I bet my deals See distractions everywhere Not me feeling emotions I get different to so many things That I really wanna go Confusion in a broader hood Baba bless my family Bless my enemies Bless everybody Together we'll be smiling That's what me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go there, there beside me Me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go there, there beside me Yeah But they don't know what's up My God is bigger than him When they put man on top And they're waiting this",
+ "ocr": [
+  "1122"
+ ],
+ "thumb": "thumbs/tt_7703499828969409812.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud – Allocodrome",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location 2 pièces au 1er étage, bordure de voie, Niangon Sud (Allocodrome), Yopougon. Loyer 80 000 F, conditions 5 mois + 70 000 F, salariés exigés, visite 5 000 F. Contact WhatsApp 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

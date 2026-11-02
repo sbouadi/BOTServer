@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703549310033595669",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7703549310033595669",
+ "url": "https://www.tiktok.com/@annilove225/video/7703549310033595669",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261102",
+ "duration": 24,
+ "description": "Studio 60 mil Yopougon ananeraie antenne au 3eme étage disponible vide bien placé  Contact: 0767314212 #studio #maisonalouer #appartement #immobilier ",
+ "transcript": "Faut s'arrêter Fou fou fou fou fou Ay Ay Isabelle et Fanfou Arrêtez à chercher Gassou, s'il vous plaît Pour lui on est si chagés de la chance Gassou il peut être donné quoi Même ta vie dit tiens froid mais lui a même pas te casser Gassou ils sont trop tout comme nous Ils sont très tout comme nous Même fois mais son papa a dit ah bah vous pouvez s'en finir Ouais puis il finit",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703549310033595669.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon, quartier Ananeraie, au 3e étage, disponible vide, bien placé, loyer 60 000 F. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

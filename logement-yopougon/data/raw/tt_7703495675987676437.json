@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703495675987676437",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703495675987676437",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703495675987676437",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261102",
+ "duration": 145,
+ "description": "Mise en location d'une très grande et jolie 2 pièces 80.000f Lieu: Yopougon niangon à gauche carrefour allocodrome, en bordure de route. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "Quand mon ciel s'assombrit Quand l'ennemi veut me faire tomber Je lève les yeux vers les montagnes Vers le soleil de justice Il comme les bons, il est au peuple Il comme les bennets, mais tout mort Il n'a qu'à dire un seul mot Pour que ma situation change Ah, c'est pourquoi je ne crains rien Moi je ne crains rien, ne crains rien Parce qu'il est sur le port de lever Famille, ami, moi L'éternel m'a sautue pour lui tomber L'éternel l'avait dit Parce qu'il n'avait pas dit son dernier mot Son dernier mot Ils essaient toute la gloire",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703495675987676437.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une grande 2 pièces à 80 000 F à Niangon, à gauche du carrefour Allocodrome, en bordure de route. Visite à 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}

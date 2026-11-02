@@ -1,0 +1,36 @@
+{
+ "id": "tt_7703558773620673813",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703558773620673813",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703558773620673813",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261102",
+ "duration": 180,
+ "description": "À louer, Une grosse villa basse de 4 pièces avec garage et une grande cour.  Loyer: 250.000f/mois Nb: bureau, église et habitation passent. Lieu: Yopougon niangon Texaco, cité socovim. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703558773620673813.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Texaco, cité Socovim",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "garage",
+   "grande cour"
+  ],
+  "resume": "Location d'une grosse villa basse de 4 pièces avec garage et grande cour à Niangon Texaco, cité Socovim (Yopougon), loyer 250 000 F/mois, visite 5 000 F, usage bureau, église ou habitation accepté.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-02",
+ "origine": "découverte"
+}
