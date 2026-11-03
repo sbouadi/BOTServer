@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704008631758474517",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704008631758474517",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704008631758474517",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 49,
+ "description": "Yopougon azito carrefour palace, Nous disposons d'un appartement de 2 pièces 85.000f au 1er étage, nouvelle construction. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Je veux te rester pour tout Et jamais m'attends d'amour",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704008631758474517.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "azito carrefour palace",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au 1er étage, nouvelle construction, à Yopougon Azito Carrefour Palace, à 85 000 F. Frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7704050689449708807",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7704050689449708807",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7704050689449708807",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261103",
+ "duration": 53,
+ "description": "🏢 LOCAL COMMERCIAL À LOUER À BONAMOUSSADI ! Une belle opportunité en bordure de route, dans un bâtiment nouvellement construit. Spacieux, lumineux et avec des finitions de qualité, ce local dispose de trois entrées, d'une cuisine et d'une douche. Idéal pour restaurant, commerce, bureaux ou toute autre activité professionnelle. 📍 Bonamoussadi – Douala 5e. 📞 Pour plus d'informations sur le prix et organiser une visite, contactez-nous directement en inbox ou sur WhatsApp. G-K IMMOBILIER – Votre meilleur partenaire immobilier à Douala. #localcommercial  #bonamoussadi  #locationdouala  #immobilierdouala  #gkimmobilier ",
+ "transcript": "Décembre approche, je pense que c'est déjà le moment de préparer vos activités, de vous faire connaître au maximum. Alors, aujourd'hui, nous sommes toujours dans l'arrondissement de la cinquième, plus précisément à Bonamou Sadji et non loin du super magie Santa Lucia. On nous met dans votre disposition un magnifique local commercial, donc si vous recherchez une espace ou lancé, soit votre restaurant, soit un glacier ou une autre activité, assumez une bonne opportunité pour vous. Nous avons ici un superficie de 200 mètres carrés, un espace lumineux, assuie bien aménagé avec plusieurs pièces trois entrées, une cuisine et une coure arrière. Vous l'aurez compris, c'est un cadre qui se prépare parfaitement à l'installation d'un restaurant ou d'un glacier, mais qui peut également accueillir d'autres activités comme ça. Alors, si vous souhaitez vous lancer dans les affaires ou développer votre activité avant les faits de faire une année, ce local pourrait bien être ce qu'il vous faut. Pour plus d'informations sur le prix, contactez GK Immobilier pour",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704050689449708807.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala 5e",
+  "quartier": "Bonamoussadi",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "trois entrées",
+   "cuisine",
+   "cour arrière",
+   "bordure de route",
+   "bâtiment neuf"
+  ],
+  "resume": "Local commercial de 200 m² à louer à Bonamoussadi (Douala 5e), en bordure de route, dans un bâtiment neuf avec trois entrées, une cuisine et une cour arrière ; adapté à un restaurant, un glacier, un commerce ou des bureaux. Prix non indiqué, à demander par inbox ou WhatsApp auprès de G-K Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

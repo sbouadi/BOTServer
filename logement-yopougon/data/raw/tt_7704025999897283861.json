@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704025999897283861",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7704025999897283861",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7704025999897283861",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261103",
+ "duration": 59,
+ "description": "🛑 LOCATION  🎋 YOPOUGON AGBAYATER  GRANND APPARTEMENT DE 2PIECES BON STANDING DISPONIBLES AGBAYATER  AU 4EM ETAGE 2 SALLES D'EAU ❤️  ACCÈS FACILE A PROXIMITÉ DE LA VOIE    ✅LOYER: 150 000 FR ✅CONDITION : 6MOIS+😎 ✅VISITE 5000 FR CONTACT :07 58 39 92 03 /05 44573174",
+ "transcript": "On a du mal à dire quand ça va pas chez nous Et j'ai fixé sur toi comme un dernier recours On te connaît un peu toi tu nous connais beaucoup Y'a plus de mots pour la prière on a posé les genoux Et on m'a dit que tu qualifies ce que tu appelles Père je t'aime mais je suis loin d'un motel Mon fardeau c'est élevé dans ton panam On n'oublie pas la maille mais on fait ça pour les hommes Au Bangladesh donc ça fait 1 à 0 J'ai déjà 1 à 0 J'ai déjà 1 à 0 J'ai déjà 1 à 0 J'ai déjà tout ça fait 1 à 0 J'ai déjà 1 à 0",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704025999897283861.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayater",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un grand appartement de 2 pièces bon standing au 4e étage à Agbayater, Yopougon, avec 2 salles d'eau, accès facile à proximité de la voie. Loyer 150 000 F, condition 6 mois, visite 5000 F. Contacts 07 58 39 92 03 / 05 44573174.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

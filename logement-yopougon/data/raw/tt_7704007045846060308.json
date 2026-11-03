@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704007045846060308",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704007045846060308",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704007045846060308",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 37,
+ "description": "Mise en location d'un joli studio américain, nouvelle construction jamais habitée à 60.000f au 1er étage. Lieu: Yopougon azito carrefour palace en bordure de route. Nb: 5000f à payer chaque mois pour l'entretien et la sécurité du bâtiment. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "Et il n'y a pas de Dieu qu'on le soit",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704007045846060308.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour Palace",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio américain neuf, jamais habité, au 1er étage à Yopougon Azito carrefour Palace, en bordure de route, à 60 000 F par mois ; 5 000 F par mois pour entretien et sécurité du bâtiment ; frais de visite 5 000 F ; contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

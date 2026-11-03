@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704056063284301063",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7704056063284301063",
+ "url": "https://www.tiktok.com/@brunesleger/video/7704056063284301063",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261103",
+ "duration": 57,
+ "description": "Brunes immobilier toujours.       {{ 0153273240} whatsap} [[ À louer]] un sublime studio américain à yopougon Maroc non loin de l’autoroute au 1 er étage. 👉 loyers 65 milles  👉 1 salle d’eau  👉 1 balcon  👉 bien aéré  Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok #viralvideoviraltiktok🥰🤭 ",
+ "transcript": "Salut à tous mes messes mobiliers. Je vous mets en commande après mes papiers de simbobilière. Voilà, je suis au sein d'un studio au nouveau de Yopougan, Maroc. Voilà, à proximité de l'Odoroutin. Voilà, voilà, voilà, le balcon arrière. Loyer 65K au premier étage, très propre. Il y a absolument rien à dire. Voilà, la gauche. La douche est bien propre, bien gré également. Voilà. Là, c'est la cuisine. Voilà, magnifique cuisine. Il y a absolument rien à dire. Vous voyez, le studio respite du bonheur. Voilà. Vous voyez, ici, vous utilisez comme petit salant.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704056063284301063.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "salle d'eau",
+   "cuisine"
+  ],
+  "resume": "Location d'un studio américain au 1er étage à Yopougon Maroc, non loin de l'autoroute, avec 1 salle d'eau, 1 balcon, bien aéré, loyer 65 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

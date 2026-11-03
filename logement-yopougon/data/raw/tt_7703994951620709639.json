@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703994951620709639",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7703994951620709639",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7703994951620709639",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261103",
+ "duration": 35,
+ "description": "YOP MAROC STUDIO 60 k MAISON BASSE EN LOCATION APRÈS LE PETIT MARCHÉ DU MAROC  INTERRESSE APPEL  CONTACT 0787407535 #maison #yopougon🇨🇮🎶 #studio #immobilierabidjan ",
+ "transcript": "Quand il va se mater à Petit-En-Cè-Le-Soir, Bichot immobilier, M. le détecteur de Choulis, mais non sans l'esprit. Ici, là, vous venez de Maroc, vous venez ici, il y a de 60 ans, aujourd'hui, il est maroc. On t'aide après le Petit-Machin. On t'aide à la voir le Petit-Machin, à prendre le Petit-Machin. 60 ans, voilà. Vous avez bien su que c'est la douche que vous avez. Elle essaie d'appuyer rapidement, ça va continuer. Voilà, elle a appuyé. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703994951620709639.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio en location à Yopougon, quartier Maroc, après le petit marché du Maroc, maison basse, loyer 60 000 F. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

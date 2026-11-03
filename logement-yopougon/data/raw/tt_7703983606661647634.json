@@ -1,0 +1,42 @@
+{
+ "id": "tt_7703983606661647634",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7703983606661647634",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7703983606661647634",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261103",
+ "duration": 54,
+ "description": "🏢 APPARTEMENT 2 CHAMBRES À LOUER – BONAMOUSSADI Vous recherchez un appartement bien situé, propre et offrant de belles possibilités d'exploitation ? Cette opportunité pourrait vous intéresser ! Situé à Bonamoussadi, dans l'arrondissement de Douala 5e, cet appartement de deux chambres et deux salles de bain bénéficie d'un emplacement stratégique en bordure de route, idéal pour une activité professionnelle. ✨ Les caractéristiques : 2 chambres confortables 2 salles de bain avec chauffe-eau Cuisine équipée d'un chauffe-eau Balcon Belles finitions et cadre propre Gardien et caméras de surveillance Accès direct en bordure de route 🏢 Idéal pour : Un projet de location meublée Des bureaux professionnels Une habitation confortable 💰 Conditions de location : Loyer mensuel : 250 000 FCFA 10 mois de loyer 2 mois de caution 📍 Localisation : Bonamoussadi, Douala 5e. Un emplacement stratégique, une belle présentation et un potentiel intéressant pour les investisseurs ou les professionnels. 📞 Contactez G-K IMMOBILIER pour plus d'informations ou pour organiser une visite. #gkimmobilier  #bonamoussadi  #appartementalouer  #immobilierdouala  #locationmeublée ",
+ "transcript": "Bonjour chers clients, j'espère que vous allez bien ou voilà pour ceux qui recevront l'habitude de nous demander si nous avons des studios ou des appartements très bien touchés, pouvant servir de me obliger ou même faire au fils de bureau, voici une belle opportunité que je vais vous présenter. Nous sommes sur du dommage seulement de 2 à la 5e que précisez-moi à Bonamousadie, ou nous allons nous vous faire découvrir ce bel appartement de deux chambres, deux sols de bain avec balcon, situé en bord du de rôde. Je tiens encore à préciser que l'appartement est véritablement en bord du de rôde, ce qui représente ici un véritable montage pour ceux qui sont installés des bureaux ou même faire un appartement ou obliger. C'est un appartement au stand-in à la chauffe-au dans les salles de bain inclusif bien aménagé, un cadre magnifique et un emplacement particulièrement intéressant. Côté conditions, le lait m'en sollicite de 250 000 avec 10 mois d'avance et 2 mois de caution. Voilà, c'est beau, c'est chier que ce soit tout bien situé, donc si vous êtes intéressé, n'hésitez pas à nous contacter pour plus d'informations ou pour une éventuelle visite.",
+ "ocr": [
+  "Rand L 3",
+  "Bonamoussadi"
+ ],
+ "thumb": "thumbs/tt_7703983606661647634.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala 5e",
+  "quartier": "Bonamoussadi",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 250000,
+  "caution": 2,
+  "avance": 10,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 salles de bain avec chauffe-eau",
+   "cuisine équipée",
+   "balcon",
+   "gardien",
+   "caméras de surveillance"
+  ],
+  "resume": "Location d'un appartement de 2 chambres et 2 salles de bain à Bonamoussadi (Douala 5e), en bordure de route, utilisable en habitation ou en bureaux. Loyer de 250 000 FCFA, 10 mois d'avance et 2 mois de caution.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

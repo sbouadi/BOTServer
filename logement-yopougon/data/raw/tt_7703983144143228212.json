@@ -1,0 +1,35 @@
+{
+ "id": "tt_7703983144143228212",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703983144143228212",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703983144143228212",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 156,
+ "description": "Mise en location d'un appartement de 2 pièces à 100.000f Lieu: Yopougon Maroc saint Pierre Marie. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [
+  "rar (ll"
+ ],
+ "thumb": "thumbs/tt_7703983144143228212.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Saint Pierre Marie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 2 pièces à 100 000 F à Yopougon Maroc Saint Pierre Marie, visite 5 000 F, contact téléphonique indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

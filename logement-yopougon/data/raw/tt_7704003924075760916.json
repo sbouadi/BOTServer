@@ -1,0 +1,35 @@
+{
+ "id": "tt_7704003924075760916",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704003924075760916",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704003924075760916",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 147,
+ "description": "À louer, un appartement de 4 pièces haut standing au 3ème étage à 200.000f Lieu: Yopougon Maroc token Dja, marché charmel. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Je lève derrière les jours de peine Ta grâce coule dans mes veines Les gens me voient ils sont surpris Comment ce gars a changé sa vie Chaque prière une mélodie",
+ "ocr": [
+  "Lg “2188"
+ ],
+ "thumb": "thumbs/tt_7704003924075760916.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc token Dja, marché Charmel",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement 4 pièces haut standing au 3ème étage à Yopougon (Maroc token Dja, marché Charmel) à 200 000 F, frais de visite 5 000 F. Contact indiqué : 0711489393. Les images montrent un intérieur vide et dégradé avec des meubles abîmés et des gravats.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}
