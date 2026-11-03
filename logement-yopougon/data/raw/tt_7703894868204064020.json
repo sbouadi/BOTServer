@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703894868204064020",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703894868204064020",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703894868204064020",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 21,
+ "description": "Mise en location d'un studio américain de 70.000f au 3ème étage. Lieu: Yopougon azito carrefour conteneur. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Oh mon âme, toi Dieu n'a pas fini, d'écrire sa Bible, il a une histoire à écrire avec moi. Oh mon âme, souviens, toi Dieu n'a pas fini, d'écrire sa Bible, il a une histoire à écrire avec moi.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703894868204064020.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour conteneur",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio américain au 3ème étage à Yopougon Azito carrefour conteneur, loyer 70 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

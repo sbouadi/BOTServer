@@ -1,0 +1,38 @@
+{
+ "id": "tt_7703932887757802759",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7703932887757802759",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7703932887757802759",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261103",
+ "duration": 93,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING SONGON INSTITUT PASTEUR AU REZ-DE-CHAUSSÉE 3DWC COUR AVANT ET COUR ARRIÈRE LOYER: 200 000x6 PLUS 100 000. #location#maison#visibilité##",
+ "transcript": "Salut, salut, salut, salut, toujours tous les allers, vous voyez, ça c'est un Pâquinien. Nous sommes présentement à Sangon, voilà, Institue Pasteur, une trois pièces, 200 000 francs, ça c'est horreur de chausser, regardez là-haut avant, nouvelle construction, jamais habitée, horreur de chausser, trois pièces, 200 000 francs, ah là regardez, ça c'est le salon, c'est une maison qui respire le bonheur, je vous dis une maison qui respire le bonheur, trois douches, trois vécées, ah là regardez, ça c'est le salon staffé balafré, et tout quand il n'y a rien à dire, ah là vous voyez, regardez ça c'est la cuisine, le placard des rangements, tout, ça c'est une petite coure arrière, ou une petite coure arrière, voilà, une petite coure arrière aussi, avec une petite bouche, voilà avec sa bouche, je reviens encore, regardez, toutes les chambres sont autodobles, voilà ça c'est la chambre, regardez, tout est propre, il n'y a rien à dire, loyer 200 000 francs, je répète, ainsi tu passes, trois pièces au riz du chaussier loyer, 200 000 francs, voilà, tous les chambres sont autonomes.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703932887757802759.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "cour avant",
+   "cour arrière",
+   "3 douches",
+   "3 WC"
+  ],
+  "resume": "Location d'un 3 pièces haut standing neuf, jamais habité, au rez-de-chaussée à Songon Institut Pasteur, avec cour avant et cour arrière. Loyer 200 000 F x6 mois plus 100 000 F de frais d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

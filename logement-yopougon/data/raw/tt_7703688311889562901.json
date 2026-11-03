@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703688311889562901",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703688311889562901",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703688311889562901",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261102",
+ "duration": 57,
+ "description": "Alain zegbehi vous présente 2 pièces 75 mille yopougon bar CIE ( carrefour canal) visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "On va jamais tomber, c'est certain",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703688311889562901.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Canal",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces à Yopougon (carrefour canal, près de la CIE) à 75 000 F, frais de visite 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

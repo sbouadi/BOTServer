@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703908799198809365",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703908799198809365",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7703908799198809365",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261103",
+ "duration": 59,
+ "description": "🏠🔥 À LOUER – 5 PORTES DE STUDIOS 🔥 📍 Yopougon Banco 1 – Premier Terrain SI-BETON 📌 À 100 m de la route 🏗️ Nouvelle construction 💰 Loyer : 65.000 F/mois 📋 Conditions : 6 mois + 40.000 F 🚶 Visite : 5.000 F 🚨 CHAP CHAP ! ÇA NE DURE PAS ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Banco1 #StudioALouer #LocationAbidjan #ImmobilierCI   ",
+ "transcript": "Toi fais exprès mais tu m'as rendu fière de nous usera De devoir devenir une femme Rête jamais d'apprendre si tu savais tout ce qu'il a raté dans sa petite fille Est-ce que dans le fond on se ressemble est-ce que toi aussi tu ne laisseras pas les gens t'affaiblir Tu peux faire confiance à ta mère c'est moi qui l'ai choisi mais c'est elle qui sait tout faire Eh eh eh faut jamais énerver ta mère y'a presque rien à dire mais quelle sale caractère",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703908799198809365.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Banco 1",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de studios à Yopougon Banco 1, nouvelle construction en si-béton à 100 m de la route, loyer 65 000 F/mois, conditions 6 mois + 40 000 F, visite 5 000 F. Contact WhatsApp ou appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7703913082879249685",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703913082879249685",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703913082879249685",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261103",
+ "duration": 117,
+ "description": "Alain zegbehi vous présente une 2 pièces quatrième étage 150 mille yopougon Agbayate bien placé visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébéi, what's up, c'est Victor, tu vous présentes ici? Voilà, vous voyez, là c'est la douche visiteuse ici. Deux pièces cent cinquante mille. Deux pièces cent cinquante mille, regardez la cuisine, très bonne cuisine et grande cuisine. Youpougon abayaté, regardez. Très très grande cuisine, cent cinquante mille à deux pièces. Voilà, regardez, vous voyez. Cent cinquante mille à deux pièces. Youpougon abayaté, vous voyez. La maison a 100 mètres du goudron, regardez. Voici le salon, regardez le salon, appréciez. Gaillasse salon. Alain Zébéi, toujours votre MF, regardez. Appréciez. Il n'y a rien à dire, rien à dire. Rien à dire. Le salon est bien vaste. Regardez le salon. C'est une deux pièces cent cinquante mille. Ça c'est un budget bété. Alain Zébéi, toujours votre MF. Regardez. Voici le balcon ici. Vous voyez le balcon. Bonne maison ici, bien placé dans un beau bâtiment de la place. Visue des nuits et du jour. Le système de l'eau chaude est déjà installé. Plus besoin les gars, ce n'est pas pour les femmes par exemple. Le système de l'eau chaude est déjà installé. Voici le placard. Le placard pour garder les chaussures ici. La propriété du confort, rien que du confort. Vous voyez la chambre. Regardez la chambre. Vous voyez. Rien à dire. Vous voyez là. Regardez. Il y a des travaux à faire. Il n'y a pas d'unité de la maison. Il y a des travaux à faire. Vous voyez. Voici le placard. 4 battants. Ça c'est la douche de la chambre. C'est très grand de douche. Vous voyez la douche. Voilà. Rien à dire. Alain Zébéi, toujours votre MF. Viteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703913082879249685.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayate",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau chaude",
+   "placard",
+   "cuisine",
+   "balcon",
+   "douche"
+  ],
+  "resume": "Location d'un 2 pièces au 4e étage à Yopougon Agbayate, loyer 150 000 F, visite 5 000 F, avec cuisine, balcon, eau chaude installée et placard; quelques travaux à prévoir selon la vidéo.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

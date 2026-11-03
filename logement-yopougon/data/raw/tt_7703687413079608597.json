@@ -1,0 +1,33 @@
+{
+ "id": "tt_7703687413079608597",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7703687413079608597",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7703687413079608597",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261102",
+ "duration": 126,
+ "description": "Alain zegbehi vous présente une villa basse 250 mille yopougon naingon texaco visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Ali Zabehi, votre aimab serviteur. Tu vous présentes ici, voilà les gars. Une billabasse, voilà, avec coups. Vous t'y cherchez, mais donc avec coups, voilà ça tu es là. 250 000, le loyer. Yopougon, tesako, dans une cité de la place, voilà. Ali Zabehi, toujours votre aimab serviteur. C'est une table pièce. Voilà, regardez, regardez la coup. Très vaste, bureau passe comme habitation. Voilà, rien à dire. Dans une bonne cité de la place. Voilà, regardez. Voici une chambre ici. Ici c'est la chambre des cousins, ceux qui lavent la voiture là, avec les douches. Voilà. C'est du lave les véhicules là, avec les douches. Oui, c'est la chambre de cousin ici. Regardez encore la couvre. Très grande couvre, oui. Très grande couvre. Voilà, regardez. Oui, là, voilà. Voici la cuisine. La cuisine a deux entrées. Ali Zabehi, toujours votre aimab serviteur. Voici le salon. Oui, il y a deux salons. Apprécié. Très grand salon. Yopougon, tesako. Dans une cité de la place. Regardez, apprécié. Voilà, je mets des lits de la chambre. Oui, voilà, douze visiteurs ici. Vous voyez, rien à dire. Bonne maison ici. Voilà, une autre chambre ici, c'est la chambre principale. Voilà, regardez. Oui. Ali Zabehi, toujours votre aimab serviteur. Regardez. Voilà. Voici une autre chambre ici. Une autre chambre qui est là, avec plateaux de trois battants. Yopougon, tesako, dans une cité de la place. Voilà, regardez. Bonus sur le salon. Ali Zabehi, toujours votre aimab serviteur. Merci. Dans les voies de vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703687413079608597.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon Texaco",
+  "type": "villa",
+  "pieces": null,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Villa basse à louer à Yopougon (Naingon Texaco, cité) pour 250 000 F, visite 5 000 F. Plusieurs chambres, deux salons, grande cuisine à deux entrées, grande cour; utilisable aussi comme bureau. Contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

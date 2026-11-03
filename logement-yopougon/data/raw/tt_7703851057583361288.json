@@ -1,0 +1,36 @@
+{
+ "id": "tt_7703851057583361288",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7703851057583361288",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7703851057583361288",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261103",
+ "duration": 149,
+ "description": "DUPLEX DE 6 PIÈCES EN LOCATION  350 K À SONGON BIMBRESSO NOUVELLE CONSTRUCTION DANS UNE CITÉ INTERRESSÉ APPEL CONTACT 0787407535 #immobilierabidjan #songon #villa #duplex #location ",
+ "transcript": "J'en compte que sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi, sur toi Ma femme compte sur moi, ma femme compte sur moi Tout le monde compte sur moi, j'entente que c'est toi Hurt toi, réagir, j'entente que c'est toi",
+ "ocr": [
+  "LLLLLELLE",
+  "TITIL"
+ ],
+ "thumb": "thumbs/tt_7703851057583361288.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Bimbresso",
+  "type": "villa",
+  "pieces": 6,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Duplex de 6 pièces en location à Songon Bimbresso, 350 000 F, nouvelle construction dans une cité. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

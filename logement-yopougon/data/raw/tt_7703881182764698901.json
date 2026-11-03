@@ -1,0 +1,36 @@
+{
+ "id": "tt_7703881182764698901",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7703881182764698901",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7703881182764698901",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261103",
+ "duration": 176,
+ "description": "Mise en location d'une villa basse de 4 pièces avec cour avant et buanderie à 150.000f/mois Lieu: Yopougon azito carrefour policier dans le quartier bien placé. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": "VITOU",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703881182764698901.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour policier",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cour avant",
+   "buanderie"
+  ],
+  "resume": "Mise en location d'une villa basse de 4 pièces avec cour avant et buanderie à Yopougon, Azito carrefour policier, à 150 000 F par mois. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}

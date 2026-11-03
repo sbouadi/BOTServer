@@ -1,0 +1,37 @@
+{
+ "id": "tt_7703967108459220244",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7703967108459220244",
+ "url": "https://www.tiktok.com/@annilove225/video/7703967108459220244",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261103",
+ "duration": 40,
+ "description": "Résidence disponible yop maroc 15k chap chap  Contact: 0767314212 #maisonalouer #residence #appartement ",
+ "transcript": "une pépite qui vient de finir, voilà une pépite qui vient de se déclarer au niveau du Maroc tu veux trouver ton chéri, tu veux trouver ta femme, viens rapidement, voilà c'est bien placé au coeur du Maroc on pas trop donner la position, voilà on pas trop donner la position tu veux trouver ton mari, tu veux trouver ta femme, viens rapidement, c'est discret voilà il n'y a pas qu'une thème qui est là, voilà il y a une gardienne qui est là, c'est très très propre y a absolument rien à dire, dès que tu payes, tu dors, tu viens rapidement, tu dors, tu viens rapidement, tu dors c'est pas cher, c'est 15 cas absolument, voilà c'est pas cher, c'est pas cher, c'est bien discret, c'est bien caché absolument rien à dire, si tu as vu que j'intéressais, appelle le numéro en description rapidement, ça va pas durer merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7703967108459220244.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": "Maroc",
+  "type": "chambre simple",
+  "pieces": 1,
+  "loyer": 15000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatiseur",
+   "télévision",
+   "gardienne"
+  ],
+  "resume": "Location d'une chambre discrète au quartier Maroc à 15 000 F, paiement dès réservation, gardienne sur place, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-03",
+ "origine": "découverte"
+}
