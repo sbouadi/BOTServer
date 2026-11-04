@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704300026700369172",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704300026700369172",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704300026700369172",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 47,
+ "description": "À louer, un grand studio américain au 1er étage à 80.000f Lieu: Yopougon niangon à droite, internat zouglou. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux ",
+ "transcript": "Le grand chansonnier de l'Obre des rachetés Le pistolet à t'étudier",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704300026700369172.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un grand studio américain au 1er étage à Niangon (Yopougon, près de l'internat Zouglou) à 80 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

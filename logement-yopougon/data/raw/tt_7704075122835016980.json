@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704075122835016980",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7704075122835016980",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7704075122835016980",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261103",
+ "duration": 36,
+ "description": "Magnifique et beau studio 60mil disponible au 1er Etates 🏠✅🔑🥰 60mil x4mois plus 40mil démarcheur  Nb: caution d’eau 30mil  Détail: 2mois caution               1mois avance          1mois agence plus 40mil  Yopougon Academie diop dernière boutique au 1er Etates à côté de laguna resort  Visite 5mil Appel: 0711392732  #vue #studio #fly #yopougon🇨🇮🎶 #2piece @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Yo Pougon Immobilier, quand on vous demande de vous abonner, c'est par rapport à toutes ces bonnes pipites, on n'a rien raté. Voilà le studio déjà prêt à biter disponible à Yo Pougon Académie d'Octogne pour dire qu'on est allant au restaurant Laguna Riso. C'est au premier étage, le studio déjà prêt à biter, il veste à caution, il veste à caution, il prend ta clé directement, c'est un chap-chap, on ne parle pas beaucoup. Voilà le studio il est là. Voilà, il n'y a aucun problème de le laisser monter tout à l'heure, tu vas voir que l'on le vient à pression. Voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704075122835016980.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie Diop (Etates)",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 120000,
+  "avance": 60000,
+  "agence": 60000,
+  "mois_a_payer": 4,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer au 1er étage à Yopougon Académie Diop (Etates), à côté de Laguna Resort. Loyer 60 000 F, 4 mois à payer (60 000 x4) plus 40 000 F de démarcheur. Caution 2 mois (120 000 F), 1 mois d'avance, 1 mois d'agence plus 40 000 F. Caution d'eau 30 000 F. Visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

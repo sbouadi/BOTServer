@@ -1,0 +1,39 @@
+{
+ "id": "tt_7704304469084916999",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704304469084916999",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704304469084916999",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261104",
+ "duration": 101,
+ "description": "☎️:05.06.64.49.72 (What) VENTE 4 PIÈCES SONGON CITÉ ADO EN BORDURE DE AUTOROUTE. PRIX: 35 000 000. #vente#maison#visibilité#",
+ "transcript": "Salut salut salut salut toujours touré à Lyon. Aujourd'hui c'est pas l'occasion hein, voilà vous voyez. Je vous présente une quatre pièces à 20 assongons dans la cité Ado, en bordu de l'autoroute. Vous voyez ça c'est le salon. Vous voyez ça c'est le salon. Une cuisine ouverte hein, là vous voyez ça c'est la cuisine. Avec cette petite placa qui sont là, vous voyez ça c'est la cuisine. Il y a une porte de la cuisine qui sont sur le côté Véranda, voilà vous voyez. Ici il y a Belle Vitrée, vous voyez ça c'est la première chambre qu'elle a. Une quatre pièces dans la cité Ado, vous voyez ici c'est la première chambre qu'elle a. C'est une maison en vente, ça c'est la première chambre avec sa douche et le taux d'homme. Voilà vous voyez ça c'est la douche visiteur. Ça c'est l'une des chambres, ça c'est l'une des chambres avec sa douche aussi, vous voyez. Toutes les chambres sont autonomes, voilà vous voyez. Ça c'est la troisième chambre qu'elle a, la quatre pièces, vous voyez. Dans la cité Ado, je vais mettre le prix dans le commentaire. N'oubliez pas de commentaire aussi.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704304469084916999.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Songon",
+  "quartier": "Cité Ado",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "salon",
+   "cuisine ouverte",
+   "véranda",
+   "douche visiteur",
+   "chambres avec douche"
+  ],
+  "resume": "Vente d'une maison 4 pièces à Songon, cité Ado, en bordure d'autoroute, prix 35 000 000 F, contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

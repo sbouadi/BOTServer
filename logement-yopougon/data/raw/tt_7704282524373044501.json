@@ -1,0 +1,35 @@
+{
+ "id": "tt_7704282524373044501",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704282524373044501",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704282524373044501",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261104",
+ "duration": 64,
+ "description": "🏠🔥 2 PIÈCES À LOUER 🔥 📍 Yopougon 27 – Terrain Douglas 🏢 1er étage 🚿 2 DWC 💰 Loyer : 110.000 F 📋 Conditions : 5 mois + 75.000 F 🚨 CHAP CHAP ! Ça ne dure pas ! Premier arrivé, premier servi 🔑 📲 WhatsApp ou appel : 0767644618 #Yopougon #Location #Appartement #Immobilier225 #Cotedivoire🇨🇮  ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704282524373044501.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Terrain Douglas",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 75000,
+  "frais_visite": null,
+  "equipements": [
+   "2 DWC"
+  ],
+  "resume": "Location d'un 2 pièces au 1er étage à Yopougon Terrain Douglas, 2 DWC, loyer 110 000 F, 5 mois à payer plus 75 000 F de frais, contact WhatsApp 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

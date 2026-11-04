@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704302265695227156",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7704302265695227156",
+ "url": "https://www.tiktok.com/@annilove225/video/7704302265695227156",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261104",
+ "duration": 77,
+ "description": "04 pièces 170 mil Yopougon maroc hôpital des soeur disponible vide au Rez de chaussée bien placé  Contact: 0767314212 #maisonalouer #standing #immobilier #opportunitédaffaires ",
+ "transcript": "Au famille nombreuse, au famille nombreuse, au famille nombreuse, voici une opportunité pour vous à ne pas rater. Voilà, c'est toujours le détecteur, le détecteur des pépites immobilières. Monsieur Jolie Maison, Monsieur Austin, Monsieur Framon Dommy, Monsieur Jean Sommel, Monsieur Troye de Chose. Jolie carterses, j'ai dit jolie carterses, voilà, jolie carterses, bien placé au cas du Maron. Je peux voir Maron, non plus de l'hôpital de Seul, voilà, non plus de l'hôpital de Seul. La maison est heureuse de Chose, la maison respite tout à l'heure le bonheur. J'ai envie d'intéresser, viens pour ton appartement. 170 000 francs sur le marquipète, tu dors. 170 000 francs sur le marquipète, voilà, voici un petit tapis dame qui est là. C'est très propre, il n'y a rien à dire. La chambre des gassons, voilà. La chambre des gassonniers qui est là. C'est très propre, il n'y a rien à dire. La maison respite tout à l'heure le bonheur. 170 000 francs sur le marquipète, 12 visiteurs, 12 enfants en fait. C'est très propre, il n'y a absolument rien à dire. Dès que tu te payes, tu dors. Dès que tu te payes, tu dors. Je peux voir Maron, non plus de l'hôpital de Seul. Voilà, la touche. Voilà, vécis. C'est très propre ça. Je n'ai pas 170 000 francs. 170 000 francs seulement tu payes, tu dors. 170 000 francs seulement, tu payes, tu dors. C'est très propre, la maison respite tout à l'heure le bonheur. Je t'ai envie d'intéresser. Appelez-nous mon appartement. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704302265695227156.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc (près hôpital des Soeurs)",
+  "type": null,
+  "pieces": 4,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un logement de 4 pièces à Yopougon Maroc, près de l'hôpital des Soeurs, au rez-de-chaussée, disponible vide, à 170 000 F par mois. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

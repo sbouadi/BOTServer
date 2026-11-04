@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704340203611213076",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704340203611213076",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704340203611213076",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 155,
+ "description": "Mise en location d'un appartement de 2 pièces à 100.000f au 2ème étage. Lieu: Yopougon académie église catholique saint Jean d'arc, vers la cité caistab. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux ",
+ "transcript": "S'en confondre",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704340203611213076.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie, vers la cité Caistab",
+  "type": null,
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 2 pièces au 2ème étage à Yopougon (Académie, église catholique Saint Jean d'Arc, vers la cité Caistab) à 100 000 F, visite 5000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

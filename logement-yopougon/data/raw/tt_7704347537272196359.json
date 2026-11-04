@@ -1,0 +1,46 @@
+{
+ "id": "tt_7704347537272196359",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7704347537272196359",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7704347537272196359",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261104",
+ "duration": 51,
+ "description": "YOP ANANERAIE STUDIO AMERICAIN 65 k AU 1ER ETAGE PRÊTE À HABITÉ  INTERRESSE APPEL  CONTACT 0787407535 #studio #yopougon🇨🇮🎶 #maison ",
+ "transcript": "Voilà. Quand il voit ce matin à Big Jansen le soir, pitch shop immobilier, monsieur le détecteur de Choli Maison Sans Esprit. Voilà. Monsieur le Vaudier, vous pouvez l'en dire, oasis. Dans un choli studio américain, de 65 ans, avec placard. Bien chic. Et de 65 ans à part, je le prête à m'éteindre, tu payes, tu prends tes clés. Voilà. Je vais dans la cuisine, non? Monsieur. Voilà. Et les toilettes qui sont là. Pas sur le petit salon. Voilà. Et puis, voici la cuisine. Voilà. C'est une belle maison. 65 ans. Voilà. Interessé, appel. Première venue, première sa vie. Voilà. Merci.",
+ "ocr": [
+  "| SUeLe |",
+  "américain",
+  "| Studio",
+  "Studio)",
+  "américain. !",
+  "per NE © EE En",
+  "Studio",
+  "‘américain"
+ ],
+ "thumb": "thumbs/tt_7704347537272196359.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Anane",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "placard",
+   "cuisine",
+   "toilettes"
+  ],
+  "resume": "Studio américain à louer à Yopougon (Anane), au 1er étage, prêt à habiter, à 65 000 F, avec placard, cuisine et toilettes. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

@@ -1,6 +1,6 @@
 {
  "Yopougon banco nord": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7509452676120268037",
    "7509085131530014008"
@@ -11,7 +11,7 @@
   ]
  },
  "Maison à louer millionnaire": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7387690592895044869",
    "7460664083008752918",
@@ -24,12 +24,12 @@
   ]
  },
  "Millionnaire 3 pieces": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [],
   "comptes": []
  },
  "Villa millionnaire": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7605583877884644630",
    "7411848695022456096"
@@ -40,7 +40,7 @@
   ]
  },
  "yopougon millionnaire": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7655305512640089362"
   ],
@@ -49,17 +49,21 @@
   ]
  },
  "3 pieces a louer a yopougon millionnaire": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [],
   "comptes": []
  },
  "maison yopougon millionaire": {
-  "lancements": 4,
-  "videos": [],
-  "comptes": []
+  "lancements": 5,
+  "videos": [
+   "7578175192682253579"
+  ],
+  "comptes": [
+   "@jean.baptiste.ngu208"
+  ]
  },
  "3 pieces a louer yopougon": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7395946764597005573",
    "7440519793343499575"
@@ -70,12 +74,12 @@
   ]
  },
  "appartement 3 pieces yopougon tiktok": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [],
   "comptes": []
  },
  "3 pieces a louer yopougon maroc": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -84,7 +88,7 @@
   ]
  },
  "3 pieces a louer yopougon niangon": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7515109014699625784",
    "7428999622699257093",
@@ -97,12 +101,12 @@
   ]
  },
  "3 pieces a louer yopougon toit rouge": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [],
   "comptes": []
  },
  "3 pieces a louer yopougon siporex": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575",
    "7510329372205747462"
@@ -113,7 +117,7 @@
   ]
  },
  "3 pieces a louer yopougon sicogi": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -122,7 +126,7 @@
   ]
  },
  "3 pieces a louer yopougon ananeraie": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7451157513732443398"
   ],
@@ -131,7 +135,7 @@
   ]
  },
  "3 pieces a louer yopougon selmer": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -140,7 +144,7 @@
   ]
  },
  "3 pieces a louer yopougon gesco": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -149,7 +153,7 @@
   ]
  },
  "3 pieces a louer yopougon andokoi": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -158,11 +162,12 @@
   ]
  },
  "3 pieces a louer yopougon bagnon": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575",
    "7395946764597005573",
-   "7455670970666257686"
+   "7455670970666257686",
+   "7451157513732443398"
   ],
   "comptes": [
    "@edmond.edmond59",
@@ -171,10 +176,11 @@
   ]
  },
  "3 pieces a louer yopougon academie": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7451157513732443398",
-   "7395946764597005573"
+   "7395946764597005573",
+   "7440519793343499575"
   ],
   "comptes": [
    "@edmond.edmond59",
@@ -182,7 +188,7 @@
   ]
  },
  "3 pieces a louer yopougon agbayate": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -191,16 +197,18 @@
   ]
  },
  "3 pieces a louer yopougon azito": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
-   "7440519793343499575"
+   "7440519793343499575",
+   "7428999622699257093"
   ],
   "comptes": [
-   "@edmond.edmond59"
+   "@edmond.edmond59",
+   "@le.bon.coin_immobilier"
   ]
  },
  "3 pieces a louer yopougon sideci": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -209,7 +217,7 @@
   ]
  },
  "3 pieces a louer yopougon wassakara": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],
@@ -218,16 +226,7 @@
   ]
  },
  "3 pieces a louer yopougon kouté": {
-  "lancements": 4,
-  "videos": [
-   "7440519793343499575"
-  ],
-  "comptes": [
-   "@edmond.edmond59"
-  ]
- },
- "3 pieces a louer yopougon nouveau quartier": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575",
    "7451157513732443398"
@@ -236,8 +235,21 @@
    "@edmond.edmond59"
   ]
  },
+ "3 pieces a louer yopougon nouveau quartier": {
+  "lancements": 5,
+  "videos": [
+   "7440519793343499575",
+   "7451157513732443398",
+   "7428999622699257093",
+   "7444931152592522551"
+  ],
+  "comptes": [
+   "@edmond.edmond59",
+   "@le.bon.coin_immobilier"
+  ]
+ },
  "3 pieces a louer yopougon sable": {
-  "lancements": 4,
+  "lancements": 5,
   "videos": [
    "7440519793343499575"
   ],

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7704338374223514901",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7704338374223514901",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7704338374223514901",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261104",
+ "duration": 14,
+ "description": "GRAND MAGASIN À LOUER AVEC DWC COMPTEUR INDIVIDUEL EN BORDURE DE ROUTE 🛣️ SITUÉ A YOPOUGON MARCHÉ WASSAKARA SUR LA ROUTE DE FIGAYO LOYER 170.000F CONDITIONS 6 MOIS PLUS 100.000F TEL 0759648430 ",
+ "transcript": "The world is full of...",
+ "ocr": [
+  "ira\""
+ ],
+ "thumb": "thumbs/tt_7704338374223514901.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Wassakara",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "DWC",
+   "compteur individuel"
+  ],
+  "resume": "Grand magasin à louer en bordure de route à Yopougon, marché Wassakara, route de Figayo. Loyer 170 000 F, 6 mois à payer plus 100 000 F d'agence. Contact 0759648430.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7704245743023820053",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704245743023820053",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704245743023820053",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 127,
+ "description": "🏠 À LOUER : APPARTEMENT 4 PIÈCES 🏠 📍 Yopougon Nouveau Marché, Porbouet 2, Carrefour Maquis 🏢 1er étage 🚿 2 DWC + placards 💰 Loyer : 250.000 F Visite:5000f Contact:0711489393 🔥 CHAP CHAP ! Premier arrivé, premier servi !",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704245743023820053.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Nouveau Marché, Porbouet 2, Carrefour Maquis",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 WC",
+   "placards"
+  ],
+  "resume": "Appartement 4 pièces à louer au 1er étage à Yopougon Nouveau Marché (Porbouet 2, Carrefour Maquis), 2 douches/WC avec placards, loyer 250 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

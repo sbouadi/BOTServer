@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704241380998122759",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7704241380998122759",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7704241380998122759",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261104",
+ "duration": 28,
+ "description": "Deux mois de caution à l'entrée… mais à la sortie, plus rien ?  Locataires de Douala, racontez-nous votre expérience. Votre caution vous a-t-elle déjà été remboursée intégralement ? Partagez cette vidéo, elle pourrait aider quelqu'un. #immobilierdouala  #locationdouala  #caution  #droitdulocataire  #gkimmobilier ",
+ "transcript": "Ici à Doala il y a quelque chose que nous ne comprend pas. Quand tu voulons la maison, on t'est demandé deux mois de consent que tu payes souvent ça à une suite. Mais au moment de l'hypérer, même si tu as bien entretenu la maison, même si tu as tout mis propre, tu remis un état comme à la entrée, pour qu'on te ramouse les deux mois de consent c'est un véritable problème. Et la propédale a toujours prouvé quoi dire, vous qui avez déjà été dans cette situation, si là vous avez fait comment pour que le pautier puisse vous ramousser vos deux mois de consent. Parce que là je ne comprends pas, l'être est non justice.",
+ "ocr": [
+  "2 mois de caution jamais",
+  "remboursés!!!",
+  "remboursés!!! |"
+ ],
+ "thumb": "thumbs/tt_7704241380998122759.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo de sensibilisation d'un homme à Douala sur la caution de deux mois non remboursée à la sortie du logement, sans offre de location ni de vente.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

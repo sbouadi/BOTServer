@@ -1,0 +1,36 @@
+{
+ "id": "tt_7704291973787651348",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7704291973787651348",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7704291973787651348",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261104",
+ "duration": 138,
+ "description": "Alain zegbehi vous présente une 3 pièces au premier étage 170 mille yopougon naingon à gauche visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alizébé, what's up ma serviteur tu vous présentes ici une trois pièces 170 000 ici on demande bulletin de salaire voilà à ta session travail bulletin de salaire ou bien 14% avec bulletin de salaire voilà 170 000 au premier étage je vous gagne au sud à gauche voilà c'est pas loin de l'église Saint-Pierre c'est pas loin de du Veset c'est pas loin de l'école glorice oui 170 000 voilà c'est le balcon ici c'est deux balcon trop à douche tout le monde a servi voilà ici là il n'y a pas fait du noteur il y a quelqu'un dans la douche les enfants c'est là tout le monde c'est là c'est bon vous tous au temps même temps voilà regardez voici la chambre principal ici la chambre des décisions la principauté Alizébé il toujours est ma serviteur voici la douche de la chambre principale regardez la principauté 170 000 ça c'est budget baoulé les gars regardez la chambre budget baoulé ils sont très frais les travaux là dit la chambre principal est un balcon il s'est là dit que si les enfants font trop de bruit toi tu as choisi à ton balcon pour respirer voilà tranquille voilà rien d'ici parce que le balcon de la chambre ici 170 000 c'est pour gagne au sud à gauche c'est pas loin de l'église Saint-Pierre c'est pas loin du Veset c'est pas loin de l'école glorice vous voyez vous qui travaille au tournoi rouge au plateau c'est bon pour vous voilà c'est très bon pour vous vous voyez c'est le vrai point il se répète sur le neveu depuis doubaille ils sont pépins voilà c'est le fait d'un petit de la maison blanche à diesel là vous voyez ils sont très pépins ici voilà regardez tout ce que tu as besoin de vous rappeller rapidez moi il va faire un petit son très pépin ici très très très efficace ils font petit sensualité propre rien à dire bonnes sur le salon Alizébé toujours votre aimabse et viteur merci donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704291973787651348.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": 5000,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "douche"
+  ],
+  "resume": "Location d'un 3 pièces au premier étage à Naingon (Yopougon), à 170 000 F, proche de l'église Saint-Pierre et de l'école Glorice. Chambre principale avec douche et balcon. Visite à 5000 F. Bulletin de salaire demandé. Contacts 0767082208 / 0501744553. Logement en travaux à l'image.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

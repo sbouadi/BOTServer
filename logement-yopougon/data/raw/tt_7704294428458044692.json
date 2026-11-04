@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704294428458044692",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7704294428458044692",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7704294428458044692",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261104",
+ "duration": 40,
+ "description": "Magnifique et beau grand studio 60mil disponible au 1er étages avec balcon 🔑🏠☎️🥰 60mil x5mois plus 40mil démarcheur  Détail: 2mois caution               2mois avance       1mois agence plus 40mil  Yopougon azito au carrefour boulangerie Jérusalem bien placé secteur goudronnée  Visite 5mil Appel: 0711392732  #studio #2piece #fly #yopougon🇨🇮🎶 #maison @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon, immobilier vous présentez une très bonne studio, voilà, de au premier étage à Yopougon, Asito, au niveau du Carrefour, Boulangerie, Giserie, Zalem. Les studios sont balcon, voilà, une très bonne studio, il reste à faire les travaux. La maison est là, il n'y a pas de placard, de toute façon tu vois dans la vidéo là, c'est comme ça, la maison c'est cohésente. Voilà, le studio est là, bien grand. Alors au niveau de la cuisine, voilà, la cuisine qui est là, la cuisine aussi elle est bien grande, voilà, il reste à faire les travaux. Il n'y a aucun problème d'eau, c'est studio au bord du bord du ral, facile d'assez aussi, facile de toilette ici, voilà, très bon studio.",
+ "ocr": [
+  "TPE En,"
+ ],
+ "thumb": "thumbs/tt_7704294428458044692.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": 120000,
+  "avance": 120000,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Grand studio au 1er étage avec balcon à Azito (Yopougon), près du carrefour boulangerie Jérusalem, secteur goudronné. Loyer 60 000 F x5 mois plus 40 000 F démarcheur ; 2 mois de caution, 2 mois d'avance, 1 mois d'agence plus 40 000 F. Visite 5 000 F. Travaux à prévoir.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

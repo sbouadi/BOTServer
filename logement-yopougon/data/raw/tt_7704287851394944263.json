@@ -1,0 +1,39 @@
+{
+ "id": "tt_7704287851394944263",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7704287851394944263",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7704287851394944263",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261104",
+ "duration": 26,
+ "description": "Attention ! arnaque 🥶⛔️❌ #conseil #immobilierabidjan #pourtoi #arnaque #attention ",
+ "transcript": "Mais arrêtez de vous faire naquer, parce que souvent, vous allez voir des basions où vous montrez une maison, trois pièces chouly, deux balcones, deux douches, souvent même trois douches bien chiques. Dans un pont quartier, puis on te dit 100 000 de loyer, et puis tant si tu coupes, tu t'en vas là-bas. Ah vous aussi. Faites pas vous vous faire naquer. Il y a beaucoup de menteurs, c'est le travail qu'il y a là, c'est l'activité qu'ils ont eu. On fait attention les gars, sinon ils vont vous en naquer quand même.",
+ "ocr": [
+  "Arrete de te",
+  "fais arnaquer",
+  "Arrete dette",
+  "1444",
+  "fais DÉTUERNE"
+ ],
+ "thumb": "thumbs/tt_7704287851394944263.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo de conseil de prévention contre les arnaques immobilières à Abidjan : l'auteur met en garde contre de fausses annonces de logements (trois pièces, deux balcons, plusieurs douches) à bas loyer dans un bon quartier, présentées pour attirer les victimes et leur soutirer de l'argent. Aucune annonce concrète de bien à louer ou vendre n'est proposée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

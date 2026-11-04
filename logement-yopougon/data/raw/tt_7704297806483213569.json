@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704297806483213569",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7704297806483213569",
+ "url": "https://www.tiktok.com/@brunesleger/video/7704297806483213569",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261104",
+ "duration": 41,
+ "description": "Brunes immobilier toujours.     {{ 0153273240} whatsap} [[ À louer]] un sublime studio à yopougon carrefour jatak au 1 er étage tré trés belles maisons. 👉 loyer 80 milles  👉 1 balcon  👉 une salle d’eau  👉 carrelé aéré avec des carreaux vitrifié et des sports lumineux.    Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok #viralvideoviraltiktok🥰🤭 ",
+ "transcript": "Je pose ma caméra, sans l'ouche, c'est toujours de l'espoir. Toujours moins qu'à moi d'aller le faire, il m'obligeait. Voilà, je suis au sein de le studio. Adnez-vous même, la rouche est très proche. Vous voyez, le studio est bien proche, il n'y a absolument rien à dire. Vous voyez, voilà, très très très proche. Il a dit, la maison Glesbys du Bonheur, la maison Glesbys du Bonheur, voilà, il a absolument rien à dire. N'oubliez pas de vous abonner à ma base, je vous remercie et m'oubliez, vous laissez vite, à venir, je vous aime.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704297806483213569.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Jatak",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "salle d'eau",
+   "carrelage"
+  ],
+  "resume": "Location d'un studio au 1er étage à Yopougon Carrefour Jatak, loyer 80 000 F, 1 balcon, une salle d'eau, carrelage aéré avec carreaux vitrifiés et sols lumineux, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

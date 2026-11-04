@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704282217144421652",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704282217144421652",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704282217144421652",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 54,
+ "description": "Mise en location d'un studio de 65.000f Lieu: Yopougon Maroc Kimi Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux ",
+ "transcript": "Ne t'inquiète de rien, et n'est aucune crainte, La joie vient le matin, les problèmes ne durent qu'un temps, Car il y a un ami non mais Jésus qui essuira toute telle âme, Et si ton cœur est brisé, lève les mains et déclare, Oui je sais que je réussirai, Oui je sais que je résisterai, Quelque soit ce qui arrivera, Ma vie est dans tes mains, Quelque soit ce qui arrivera, Ma vie est dans tes mains,",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704282217144421652.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio à Yopougon Maroc Kimi, loyer 65 000 F, frais de visite 5 000 F, contact 0711489393. Images d'un couloir carrelé, de toilettes et d'une pièce vide.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

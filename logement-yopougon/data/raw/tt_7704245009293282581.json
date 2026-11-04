@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704245009293282581",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704245009293282581",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704245009293282581",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 59,
+ "description": "🏠🔥 À LOUER – 5 PORTES DE STUDIOS 🔥 📍 Yopougon Banco 1 – Premier Terrain SI-BETON 📌 À 100 m de la route 🏗️ Nouvelle construction 💰 Loyer : 65.000 F/mois 📋  Visite : 5.000 F Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704245009293282581.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Banco 1",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 5 studios dans une nouvelle construction à Yopougon Banco 1, à 100 m de la route, loyer 65 000 F/mois, frais de visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

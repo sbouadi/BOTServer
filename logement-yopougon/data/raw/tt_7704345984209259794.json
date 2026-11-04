@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704345984209259794",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704345984209259794",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704345984209259794",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261104",
+ "duration": 32,
+ "description": "☎️:05.06.64.49.72 (What) MAGASIN À LOUER YOPOUGON MAROC PETROCI EN BORDURE LOYER: 100 000. PART: 4 500 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut tout le temps je vous présente un magasin maro pétrocy voilà en bord du loyer 100 000 francs c'est la douche hein loyer 100 000 francs maro pétrocy en bord du pas de portes 4 500 000 je répète bien maro pétrocy en bord du de la voie loyer 100 000 francs pas de portes 4 500 000 à débattre",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704345984209259794.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc PétrocI",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à Yopougon Maroc Pétroci, en bordure de voie, loyer 100 000 F, pas de porte 4 500 000 F à débattre. Local vide en cours de finition (carrelage posé, murs à peindre).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

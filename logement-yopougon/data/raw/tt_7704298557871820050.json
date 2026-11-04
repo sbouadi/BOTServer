@@ -1,0 +1,40 @@
+{
+ "id": "tt_7704298557871820050",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7704298557871820050",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7704298557871820050",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261104",
+ "duration": 82,
+ "description": "YOP MAROC MOSQUÉE 3 PIÈCES 150 k AU 1ER ETAGE AVEC BALCON UNE 1DWC SEPARÉ TRES BELLE MAISON INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #3piece #yopougon🇨🇮🎶 #maison ",
+ "transcript": "Voilà. Quand tu vois c'est maté. Ah bien c'est le soir. Bichop immobilier. Monsieur le détecteur de Choli Maison. Sans esprit. Je suis aujourd'hui dans une maison de 150 000. On me demande 150 000. On veut 150 000, 3 pièces. 3 pièces. Aujourd'hui je suis dans une 3 pièces de 150 000. Le balcon, vous voyez belle vue au premier étage. Voilà. Youpougon. Maroc. Youpougon. Maroc. Youpougon. Maroc. Maroc. Mosquée. Dans le quartier. Voilà. Regardez. C'est une belle maison. C'est le salon qui est là. Regardez la cuisine aussi. Voilà. Regardez. Tout ça c'est la cuisine. Tout ça c'est la cuisine. Ici c'est une douche. C'est Paris. Ça veut dire douche et à pas. Voilà. Dese et à pas. Et puis douche et à pas. Et puis c'est à peine de libérer. Voici la chambre. Voici la première chambre. Vous voyez toutes les grandes. Voilà. Voilà. Voilà. Il n'y a pas de douze à la chambre. C'est à pas, douche à pas, visse à pas. Pardon. Ne me posez pas. Question. Est-ce que la douche est dans la chambre ou ça? Voilà. Ici visse à pas, touche à pas. Tu as intérêt. Tu as paix directement. Voilà. 150 000 de loyer. 150 000 seulement. Merci.",
+ "ocr": [
+  "Does",
+  "RARE De"
+ ],
+ "thumb": "thumbs/tt_7704298557871820050.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Mosquée",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "WC séparé",
+   "douche"
+  ],
+  "resume": "Location d'un appartement 3 pièces au 1er étage avec balcon et WC séparé à Maroc Mosquée, Yopougon, pour 150 000 F par mois. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}
