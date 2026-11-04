@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704396383523999028",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704396383523999028",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704396383523999028",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261104",
+ "duration": 55,
+ "description": "☎️:05.06.64.49.72 (What) VENTE 3 PIÈCES SONGON CITÉ ADO EN BORDURE DE AUTOROUTE. PRIX:35 000 000 . #vente#maisn#visibilité#",
+ "transcript": "Salut salut salut toujours, je vous présente une quatre pièces à vente à Sengon vous voyez ça c'est le salon, Sengon dans la cité à deux en bord du de l'autoroute voilà vous voyez ça c'est le salon, très très grand salon vous voyez une quatre pièces à vente à Sengon dans la cité à deux, vous voyez ça c'est la cuisine, vous voyez ça c'est la cuisine ça c'est la douche, ça c'est l'une des chambres une très grande chambre, dans la cité à deux bien placée en bord du de l'autoroute ça c'est la chambre principale avec son placa, vous voyez ça c'est l'une, vous voyez ça c'est la douche, ça c'est l'une des chambres aussi en tout cas toutes les chambres sont grandes, vous voyez avec son placa, ça c'est la troisième chambre dans la cité à deux voilà le prix est à 35 millions",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704396383523999028.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Songon",
+  "quartier": "Cité ADO",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un logement de 4 pièces à Songon, Cité ADO, en bordure d'autoroute, prix 35 000 000 F. Contact 05.06.64.49.72. Légende indique 3 pièces, audio et description indiquent 4 pièces.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}

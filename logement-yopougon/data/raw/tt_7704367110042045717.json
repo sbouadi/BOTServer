@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704367110042045717",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704367110042045717",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704367110042045717",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261104",
+ "duration": 89,
+ "description": "Mise en location d'une 2 pièces à 100.000f, maison basse Lieu: Yopougon petit toit rouge pharmacie béraca. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [
+  "ALLKIILZ",
+  "Anar:",
+  "isinnasi"
+ ],
+ "thumb": "thumbs/tt_7704367110042045717.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "petit toit rouge pharmacie béraca",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces à 100 000 F en maison basse à Yopougon, petit toit rouge pharmacie Béraca. Visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-04",
+ "origine": "découverte"
+}
