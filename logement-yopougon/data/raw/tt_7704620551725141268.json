@@ -1,0 +1,35 @@
+{
+ "id": "tt_7704620551725141268",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704620551725141268",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704620551725141268",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261105",
+ "duration": 51,
+ "description": "À louer, un studio de 65.000f maison basse. Lieu: Yopougon agbayaté Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux ",
+ "transcript": "Je lève derrière les jours de peine Ta grâce coule dans mes veines Les gens me voient ils sont surpris Comment ce gars a changé sa vie Chaque prière une mélodie",
+ "ocr": [
+  "LE aie. —"
+ ],
+ "thumb": "thumbs/tt_7704620551725141268.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "agbayaté",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon agbayaté, maison basse, loyer 65 000 F, frais de visite 5 000 F. Contact 0711489393. Les images montrent un logement en travaux ou très dégradé (sol encombré, murs humides, déchets).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

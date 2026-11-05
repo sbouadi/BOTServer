@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704626075346668808",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704626075346668808",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704626075346668808",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261105",
+ "duration": 47,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC TIKEN AVEC 1ERE ETAGE EN BORDURE LOYER:200 000. #location#maison#visibilité#",
+ "transcript": "Je vous présente une trois pièces au premier étage Marot Ikenya, en bordu de la voie. Ça ne du pas, hein. Mes abonnés du pays nous appellent 200 000 francs. Regardez le salon comment c'est immense. Gaia même. Gaia de Gaia. Ça c'est la cuisine. Une très grande cuisine. Je vous présente les chambres. En tout cas, la reine a dit, c'est très facile en bordu de la voie. Ah là vous voyez. Ah là. Ça du pas. Ah là vous voyez. Ça c'est la chambre. Ah là. Ils sont en train de faire la peinture. Vous voyez les peaux de peinture.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704626075346668808.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Tiken",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces haut standing au premier étage en bordure de voie à Maroc Tiken (Yopougon), loyer de 200 000 F. Logement en cours de peinture lors de la visite, avec salon, cuisine et chambres.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

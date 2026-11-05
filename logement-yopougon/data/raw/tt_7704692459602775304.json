@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704692459602775304",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704692459602775304",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704692459602775304",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261105",
+ "duration": 25,
+ "description": "☎️:05.06.64.49.72 (What) MAGASIN A LOUER YOPOUGON MAROC PETROCI EN BORDURE LOYER: 100 000. PART DE PORTE: 4 500 000. NB: MOIS AGENCE OBLIGATOIRE #location#magasin#visibilité#",
+ "transcript": "Salut salut salut salut tout je voudrais aller voir là je vous présente un magasin loyer 100 000 francs et voilà pas des potes 4,5 millions à débattre légèrement voilà vous voyez en bord du de la voie maropète aussi un très très très très grand magasin vous voyez le magasin grand il n'y a rien à dire",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704692459602775304.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Pétroci",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à Yopougon Maroc Pétroci en bordure de voie, loyer 100 000 F, part de porte 4 500 000 F, mois d'agence obligatoire. Local vide en cours de finition (carrelage, murs peints).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

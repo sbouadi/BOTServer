@@ -1,0 +1,35 @@
+{
+ "id": "tt_7704613481571486997",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704613481571486997",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704613481571486997",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261105",
+ "duration": 35,
+ "description": "À louer, un grand magasin avec douche à l'intérieur à 170.000f Lieu: Yopougon wassakara Nb: bureau passe et on peut revoir le prix. Visite:5000f Contact:0711489393 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Et il n'y a pas de Dieu qu'on le soit",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704613481571486997.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Wassakara",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Location d'un grand magasin avec douche à l'intérieur à Wassakara (Yopougon) pour 170 000 F, bureau possible et prix négociable. Frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704623007750245652",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7704623007750245652",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7704623007750245652",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261105",
+ "duration": 111,
+ "description": "Alain zegbehi vous présente une 3 pièces 180 mille au premier étage yopougon Maroc anador visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéhi, votre MFViteur, tout dedans d'ici. Voilà, vous voyez. Une ou trois pièces, regardez le salon. C'est ça, on dit Gaia Salon, Alain Zébéhi, toujours votre MFViteur, regardez. On vient pas de les déménager, les gars. La personne n'est partie de sa propre maison, il y a un son de construissance d'ici. Regardez le balcon. Oui, regardez. Tout ça là sur le balcon. Il y a les travaux à faire. Yougur Maroc Anador, bien placé, assez très facile les gars. Rien à dire. Alain Zébéhi toujours votre MFViteur. Voilà, regardez, regardez la cuisine. Wow, Gaia cuisine, tout est Gaia. Oui, et c'est Loé, c'est 180 000, 180 000. Ah oui, la maison est grande. Oui, très grande maison, regardez le salon. 180 000, regardez. Voilà, regardez. Voici la douche. Il y a les travaux à faire. C'est trop à douche. Toutes les chansons autonomes. Rien à dire. Yougur Maroc Anador, bien placé, assez très facile. Au premier étage. Voici la douche encore. Au premier étage. Gaia du chaussis. Tout est Gaia ici. Voilà, regardez, c'est Loé. Voici la chambre ici. Il y a nos champs en côté là. Loé. 180 000, 180 000. Regardez encore. Gaia du chaussis. Bonne nuit sur le salon. Alain Zébéhi toujours votre MFViteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704623007750245652.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Anador",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au premier étage à Yopougon Maroc Anador, loyer 180 000 F, visite 5 000 F, avec salon, cuisine et chambre; travaux à prévoir selon l'audio.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

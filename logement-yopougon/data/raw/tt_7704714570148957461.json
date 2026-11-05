@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704714570148957461",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7704714570148957461",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7704714570148957461",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261105",
+ "duration": 42,
+ "description": "Alain zegbehi vous présente un studio Tagbana 50 mille yopougon naingon à gauche visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain, c'est Bayou, et moi c'est Victor, je vous présente ici. Voilà. Voici d'un studio tagbana, budget tagbana. C'est 4000, rien à dire. Regarde-y. Il y a un ramo à faire. Yopougan y'a aussi à gauche. C'est 4000. Oui. Voilà. Regarde-y. Il y a de la douche. Il y a de la douche ici. Oui. Voilà. Budget tagbana, studio tagbana. Venez sur la chambre. Allez-y, bayou, toujours votre aimabse et Victor. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704714570148957461.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Tagbana",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Tagbana (Yopougon, côté gauche de Naingon) à 50 000 F par mois, frais de visite 5 000 F. Contacts indiqués dans la légende : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

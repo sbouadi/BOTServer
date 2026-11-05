@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704643188832668948",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7704643188832668948",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7704643188832668948",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261105",
+ "duration": 105,
+ "description": "Mise en location d'une 2 pièces 80.000f maison basse. Lieu: Yopougon agbayaté Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "Au mon âme, le Toi Dieu n'a pas fini, d'écrire sa Bible, il a eu une histoire à écrire avec moi. Au mon âme, le souviens, Toi Dieu n'a pas fini, d'écrire sa Bible, il a eu une histoire à écrire avec moi. Au mon âme, le souviens Toi, les montées d'eux, les ternes et de l'eux, le sympa, les épuisées. Au mon âme, le souviens, Toi Dieu n'a pas fini, d'écrire sa Bible, il a eu une histoire à écrire avec moi.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704643188832668948.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "agbayaté",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces (maison basse) à Yopougon agbayaté à 80 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

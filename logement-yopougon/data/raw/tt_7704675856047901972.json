@@ -1,0 +1,40 @@
+{
+ "id": "tt_7704675856047901972",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7704675856047901972",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7704675856047901972",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261105",
+ "duration": 39,
+ "description": "Alain zegbehi vous présente un terrain de 600 mètres carrés en vente 175 millions a revoir yopougon Lubafrique visite 10.000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébéhiwot MF Saviteur, je vous le présente ici, un terrain commercial en vente, 600 m2 à 175 millions à revoir légèrement avec ACDI, voilà, c'est un terrain commercial, voilà, sur le terrain que vous voyez là comme ça, 600 m2, c'est Alain Zébéhiwot MF Saviteur, merci, donnez votre vie à Jésus.",
+ "ocr": [
+  "à COLLEGE PRIVE",
+  "NILANTIQUEZ",
+  "Er 770",
+  "F Zadi",
+  "COLLESE PAVE",
+  "ATCANTIQUEZ"
+ ],
+ "thumb": "thumbs/tt_7704675856047901972.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [],
+  "resume": "Vente d'un terrain commercial de 600 m² à 175 millions de FCFA à Lubafrique (Yopougon), à revoir ; visite à 10 000 F. Contact : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

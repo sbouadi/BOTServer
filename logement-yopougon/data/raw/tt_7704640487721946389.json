@@ -1,0 +1,35 @@
+{
+ "id": "tt_7704640487721946389",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7704640487721946389",
+ "url": "https://www.tiktok.com/@annilove225/video/7704640487721946389",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261105",
+ "duration": 51,
+ "description": "Studio 75 mil Yopougon maroc dans la cité Élysée disponible vide bien placé au Rez de chaussée  Contact: 0767314212 #maisonalouer #appartement #immobilier #maroc #yopougon ",
+ "transcript": "C'est le batteur, c'est le batteur, oh yes, c'est le batteur, oh yes, joli studio, joli studio, joli studio, bien placé dans la cité Elisa, en Maroc. Voilà! Tu as vu t'intéresser, tu viens pour ton studio rapidement, c'est très très bien fait sur les des chaussiers. Tu as vu t'intéresser, appelle le numéro en description rapidement, 60 000 francs ne du pas. Joli studio, 115 000 bien placé, t'as la cité Elisa. On va faire un travaux. Tu as vu t'intéresser, viens pour ton studio rapidement. Voilà! Viens prendre ton studio rapidement. Bonne maison ne dit jamais. Bonne maison ne dit jamais. C'est toujours chez le détecteur de Fepi qui m'oubliait, mais c'est toujours chez lui, mais c'est toujours chez lui, il faut l'option. Tu as vu t'intéresser, viens pour ton appartement rapidement. Soit c'est 15 cas seulement, tu payes, tu donnes. Soit c'est 15 cas seulement, tu payes, tu donnes. Merci.",
+ "ocr": [
+  "2144"
+ ],
+ "thumb": "thumbs/tt_7704640487721946389.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Maroc, cité Élysée, vide, bien placé au rez-de-chaussée, loyer 75 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

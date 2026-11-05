@@ -1,0 +1,36 @@
+{
+ "id": "tt_7704449201924508949",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704449201924508949",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704449201924508949",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261104",
+ "duration": 35,
+ "description": "🏪🔥 GRAND MAGASIN À LOUER ! 📍 Yopougon Marché Wassakara 🛣️ Route de Figayo, en bordure de route ✅ Grand magasin avec DWC ⚡ Compteur individuel 💰 Loyer : 170.000 F 📋 Conditions : 6 mois + 100.000 F 🚨 CHAP CHAP ! OCCASION À SAISIR ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Wassakara #MagasinALouer #LocationMagasin #ImmobilierAbidjan  ",
+ "transcript": "It's been so long, I haven't seen your face I'm trying to be strong, but the strength I have is washing away It won't be long, long Before I get you by my side And just hold you",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704449201924508949.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Wassakara",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "DWC",
+   "compteur individuel"
+  ],
+  "resume": "Grand magasin à louer à Yopougon Marché Wassakara, route de Figayo, en bordure de route, avec DWC et compteur individuel. Loyer 170 000 F, 6 mois à payer + 100 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}
