@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704733762914913544",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7704733762914913544",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7704733762914913544",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261105",
+ "duration": 74,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES MAISON BASE HUT STANDING YOPOUGON CHARLE DIBI LOYER: 110 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, salut, tout, je vous présente une trois pièces 110 000 francs, yopougon, chadibi, voilà, ça c'est une des chamens, voilà, avec son placard, 110 000 francs Yoripet, trois pièces, 110 000 francs, yopougon, voilà, vous voyez ici, c'est côté veranda, ça c'est la douche Voilà, regardez, y a pas problème d'eau ici, y a pas problème d'eau ici, 110 000 francs, ça c'est le salon, ça c'est le salon, 110 000 francs, yopougon, chadibi, voilà, 110 000 francs, ça c'est la douche, c'est des douches hein, ça c'est la douche visiteuse, ici au salon comme ça, je rentre dans la chambre principale avec sa douche, la chambre principale avec sa douche, en tout cas la chambre est grande, y a rien à dire, 110 000 francs, chadibi, déresse, c'est ça quoi, voilà, en face de pétroïvois dans les rêves",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704733762914913544.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Chadibi",
+  "type": null,
+  "pieces": 3,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "placard",
+   "douche",
+   "veranda"
+  ],
+  "resume": "Location d'une maison de 3 pièces à Chadibi, Yopougon, à 110 000 F. Chambre principale avec douche, salon, douche visiteur, veranda et placard. Pas de problème d'eau signalé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

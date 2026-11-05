@@ -1,0 +1,40 @@
+{
+ "id": "tt_7704766791528058132",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704766791528058132",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704766791528058132",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261105",
+ "duration": 84,
+ "description": "🏠🔥 À CÉDER – STUDIO MEUBLÉ 🔥 📍 Yopougon Maroc Rodin 🏢 1er étage 🛋️ Studio meublé avec tout le contenu 💰 Loyer : 60.000F/mois 📋 Caution propriétaire : 150.000F 💵 Cession : 1.600.000F à revoir légèrement 📌 Frais d'agence : 60.000F 🚨 CHAP CHAP ! OPPORTUNITÉ À SAISIR ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #MarocRodin #StudioMeublé #ÀCéder #ImmobilierAbidjan   ",
+ "transcript": "",
+ "ocr": [
+  "} von",
+  "AANOOUU",
+  "QLLE CETTE"
+ ],
+ "thumb": "thumbs/tt_7704766791528058132.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Maroc Rodin",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": 150000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": 60000,
+  "frais_visite": null,
+  "equipements": [
+   "meublé",
+   "tout le contenu"
+  ],
+  "resume": "Cession d'un studio meublé avec tout le contenu au 1er étage à Maroc Rodin (Yopougon). Loyer 60 000 F/mois, caution propriétaire 150 000 F, cession 1 600 000 F à revoir légèrement, frais d'agence 60 000 F. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

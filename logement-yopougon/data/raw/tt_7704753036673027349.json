@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704753036673027349",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704753036673027349",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704753036673027349",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261105",
+ "duration": 59,
+ "description": "🏠🔥 À LOUER – 3 GRANDES PORTES DE STUDIOS COMME 2 PIÈCES 🔥 📍 Yopougon Niangon Sud – Centre Social 🏗️ Nouvelle construction 💰 Loyer : 75.000 F/mois (à confirmer) 📋 Conditions : 6 mois + 40.000 F 👀 Visite : 5.000 F 🚨 3 PORTES DISPONIBLES ! CHAP CHAP ! 🏃🏽‍♂️ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 0767644618 #Location #Yopougon #NiangonSud #CentreSocial #Studio    ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704753036673027349.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud – Centre Social",
+  "type": "studio",
+  "pieces": 2,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 3 studios comme 2 pièces, nouvelle construction, à Yopougon Niangon Sud (Centre Social). Loyer 75 000 F/mois (à confirmer), conditions 6 mois + 40 000 F, visite 5 000 F. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

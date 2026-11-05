@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704755574629518644",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7704755574629518644",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7704755574629518644",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261105",
+ "duration": 31,
+ "description": "🛑 LOCATION  🎋 SONGHON BIMBRESSO  APPARTEMENTS DE 3PIECES DISPONIBLES BIMBRESSO CENTRE POLYVALENT EN VORDURE DE ROUTE  AU REZ ET 3EM ETAGE 3 SALLES D'EAU ❤️  COUR AVANT/ ARRIÈRE  ACCÈS FACILE EN BORDURE    ✅LOYER: 130.000 FR ✅CONDITION : 5MOIS+60MIL ✅VISITE 5000 FR CONTACT :07 58 39 92 03 /05 44573174",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704755574629518644.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bimbresso",
+  "quartier": "Songhon Bimbresso",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "3 salles d'eau",
+   "cour avant/arrière",
+   "accès facile en bordure de route"
+  ],
+  "resume": "Location d'appartements de 3 pièces à Songhon Bimbresso, au rez-de-chaussée et au 3e étage, loyer 130 000 F, 5 mois à payer + 60 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

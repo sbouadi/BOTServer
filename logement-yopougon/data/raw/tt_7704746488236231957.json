@@ -1,0 +1,37 @@
+{
+ "id": "tt_7704746488236231957",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7704746488236231957",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7704746488236231957",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261105",
+ "duration": 111,
+ "description": "Alain zegbehi vous présente une 2 pièces 150 mille au quatrième étage yopougon Agbayate visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéiwot, MFC Viteur, je vous présente ici une deux pièces cent cinquante mille, yopougo, agbayaté, très bien placé, oui, voilà, regardez la cuisine, très grande cuisine, le système de locher est déjà installé, c'est au 4ème étage, oui, agbayaté, prête à biter, prête à porter, oui, tu vesses à consulter, récupérer, oui, voilà, regardez le salon, oui, wow, joli maison, joli maison, joli maison, rien n'a dit, regardez, regardez, oui, oui, là, regardez un balcon ici, oui, y'a le vent de la maison, y'a rien n'a dit, y'a le vent, voilà, regardez cent cinquante mille lois, au 4ème étage, yopougo, agbayaté, au 4ème étage, oui, oh, wow, Alain Zébéiwot, MFC Viteur, voici les plateaux pour les chaussures, voilà, plateaux de chaussures ici, je vais rendre la chambre, regardez la chambre, très grand chambre, très grand chambre, regardez la chambre, regardez, regardez la chambre, rien n'a dit, regardez le placard, voilà, c'est la douzée la chambre, oui, cent cinquante mille yopougo, agbayaté, bien placé, agbayaté, premier carré fou, regardez, regardez, donut sur le salon, Alain Zébéiwot, MFC Viteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704746488236231957.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayate",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "balcon",
+   "placard"
+  ],
+  "resume": "Location d'un 2 pièces au 4e étage à Agbayaté, Yopougon, à 150 000 F. Cuisine spacieuse, balcon, placard dans la chambre. Visite à 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

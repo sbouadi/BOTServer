@@ -1,0 +1,38 @@
+{
+ "id": "tt_7704769395565874453",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704769395565874453",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704769395565874453",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261105",
+ "duration": 27,
+ "description": "🏠🔥 À LOUER – PLUSIEURS APPARTEMENTS DE 3 PIÈCES 🔥 📍 Songon Brimbresso – Centre Polyvalent 🏢 Disponibles du rez-de-chaussée au 3ᵉ étage 💰 Loyer : 130.000 F/mois 📋 Conditions : 5 mois + 80.000 F 👀 Visite : 5.000 F 🚨 Plusieurs appartements disponibles ! 🔥 CHAP CHAP, ça ne dure pas ! 📲 WhatsApp ou appel : 0767644618 #Songon #Brimbresso #AppartementÀLouer #3Pièces #ImmobilierAbidjan  ",
+ "transcript": "19 septembre, vénégieste et prophète Coup de visite par si, le canon parlant Tous s'étonner en nous annonce la mode évoquant Mais c'est un hyaciné, et du général guéillot De certaines personnes sont en baisette, nous l'avons On était choqués, on a beaucoup pleuré",
+ "ocr": [
+  ": it441} à",
+  "NALUTUP",
+  "NOT PA lhÿi 1",
+  "il BAL"
+ ],
+ "thumb": "thumbs/tt_7704769395565874453.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Brimbresso",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de plusieurs appartements de 3 pièces à Songon Brimbresso (Centre Polyvalent), disponibles du rez-de-chaussée au 3e étage, loyer 130 000 F/mois, conditions 5 mois + 80 000 F, visite 5 000 F, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

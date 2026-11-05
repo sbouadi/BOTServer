@@ -227,6 +227,75 @@
   "publications": 1
  },
  {
+  "id": "tt_7704733762914913544",
+  "url": "https://www.tiktok.com/@toure.aly39/video/7704733762914913544",
+  "plateforme": "TikTok",
+  "auteur": "toure.aly39",
+  "date": "20261105",
+  "thumb": "thumbs/tt_7704733762914913544.jpg",
+  "quartier": "Charles Dibi",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 110000,
+  "equipements": [
+   "douche",
+   "placard",
+   "veranda"
+  ],
+  "resume": "Location d'une maison de 3 pièces à Chadibi, Yopougon, à 110 000 F. Chambre principale avec douche, salon, douche visiteur, veranda et placard. Pas de problème d'eau signalé.",
+  "texte": "☎️:05.06.64.49.72 (what) 3 PIÈCES MAISON BASE HUT STANDING YOPOUGON CHARLE DIBI LOYER: 110 000. #location#maison#visibilité# Salut, salut, salut, salut, salut, salut, tout, je vous présente une trois pièces 110 000 francs, yopougon, chadibi, voilà, ça c'est une des chamens, voilà, avec son placard, 110 000 francs Yoripet, trois pièces, 110 000 francs, yopougon, voilà, vous voyez ici, c'est côté veranda, ça c'est la douche Voilà, regardez, y a pas problème d'eau ici, y a pas problème d'eau ici, 110 000 francs, ça c'est le salon, ça c'est le salon, 110 000 francs, yopougon, chadibi, voilà, 110 000 francs, ça c'est la douche, c'est des douches hein, ça c'est la douche visiteuse, ici au salon comme ça, je rentre dans la chambre principale avec sa douche, la chambre principale avec sa douche, en tout cas la chambre est grande, y a rien à dire, 110 000 francs, chadibi, déresse, c'est ça quoi, voilà, en face de pétroïvois dans les rêves",
+  "contacts": [
+   "0506644972"
+  ],
+  "precision_lieu": "Chadibi",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 2,
+  "autres_liens": [
+   "https://www.tiktok.com/@toure.aly39/video/7702093062880742663"
+  ]
+ },
+ {
+  "id": "tt_7704734328009329940",
+  "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7704734328009329940",
+  "plateforme": "TikTok",
+  "auteur": "maison.du.bonheur82",
+  "date": "20261105",
+  "thumb": "thumbs/tt_7704734328009329940.jpg",
+  "quartier": "Azito",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "3 salles d'eau",
+   "balcon",
+   "balcon / terrasse",
+   "buanderie",
+   "spot lumineux",
+   "staffé",
+   "étage"
+  ],
+  "resume": "Location d'un appartement 3 pièces bon standing au 2ème étage à Azito Carrefour Police, non loin de la Cité Laurier 16, prêt à habiter. Loyer 180 000 F, conditions 5 mois + 100 000 F d'agence.",
+  "texte": "🛑LOCATION 📍 YOPOUGON AZITO CARREFOUR POLICE ✅UN MAGNIFIQUE APPAREMMENT 3 PIÈCE  BON STANDING AU 2EME ETAGE DISPONIBLE STAFFER A  AZITO CARREFOUR POLICE NON LOIN DE LA CITÉ LAURIER 16 ACCESSIBLE ET BIEN PLACÉ PRÊT À ETRE HABITER .   AU 2EME ETAGE  BUANDERIE 02 BALCON  SPOTE LUMINEUX 03 SALLES D'EAU ❤️  ACCÈS FACILE ✅LOYER: 180.000 FR ✅CONDITIONS: 5MOIS+100mille  CONTACT: 0720363576 .org",
+  "contacts": [
+   "0720363576"
+  ],
+  "agence": 100000,
+  "precision_lieu": "Azito Carrefour Police",
+  "source_extraction": "règles + IA",
+  "total_entree": 1000000,
+  "publications": 2,
+  "autres_liens": [
+   "https://www.tiktok.com/@maison.du.bonheur82/video/7704754854274567445"
+  ]
+ },
+ {
   "id": "tt_7704239642308103444",
   "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704239642308103444",
   "plateforme": "TikTok",
@@ -2566,33 +2635,6 @@
   "precision_lieu": "Academie / cité Saco",
   "source_extraction": "règles + IA",
   "total_entree": 910000,
-  "publications": 1
- },
- {
-  "id": "tt_7702093062880742663",
-  "url": "https://www.tiktok.com/@toure.aly39/video/7702093062880742663",
-  "plateforme": "TikTok",
-  "auteur": "toure.aly39",
-  "date": "20261029",
-  "thumb": "thumbs/tt_7702093062880742663.jpg",
-  "quartier": "Charles Dibi",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 110000,
-  "equipements": [
-   "2 douches",
-   "placard",
-   "staffé"
-  ],
-  "resume": "Location d'un 3 pièces à Yopougon (Charles Dibi), loyer 110 000 F, deux douches, placard, sans problème d'eau, contact WhatsApp [numéro masqué].",
-  "texte": "☎️:05.06.64.49.72 (What) 3 PIÈCES YOPOUGON YOPOUGON CHARLE DIBI 2DWC LOYER: 110 000. #location#maison#visibilité# Salut, salut, salut, salut, salut, salut tout, je te réagirai, voilà. Je vous présente une trois pièces Bligé à niais, voilà, vous voyez non? Ça c'est le salon, avec son placard Bligé à niais, loyer 110 000 francs Ah là, des douches, regardez, il n'y a pas de problème d'eau, ici il n'y a pas de problème d'eau Charles Dibi, en face des pétrolyvoides à niais, vous voyez ici c'est le salon, vous voyez ici c'est le salon bien staffé, il n'y a rien à dire, ici c'est le salon bien staffé, il n'y a rien à dire, vous voyez c'est des douches, vous voyez, 110 000 francs, Charles Dibi, c'est des douches, il n'y a rien à dire, loyer 110 000 francs Bligé à niais, trois pièces, deux douches, 110 000 francs, ça ne doit pas placater partout, voilà regardez la douche, 110 000 francs",
-  "contacts": [
-   "0506644972"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
   "publications": 1
  },
  {

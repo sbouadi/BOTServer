@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704793624764058900",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704793624764058900",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704793624764058900",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261105",
+ "duration": 30,
+ "description": "🚗🔥 DACIA DUSTER À VENDRE ! ✅ Très bon état ✅ Carte grise à jour ✅ Assurance 3 mois 💰 Prix : 6.000.000 F CFA à débattre 📍 Yopougon 👀 Visite à tout moment ! 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Occasion à saisir ! #DaciaDuster #VoitureAVendre #VenteVoiture #Yopougon #Abidjan  ",
+ "transcript": "J'aime les amis, j'aime les chaloux Car il met pas mal de m'encourager Il met pas mal d'activants",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704793624764058900.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un Dacia Duster d'occasion en très bon état, carte grise à jour, assurance 3 mois, prix 6 000 000 F CFA à débattre, à Yopougon. Contact WhatsApp ou appel.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}

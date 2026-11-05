@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704788346496748808",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7704788346496748808",
+ "url": "https://www.tiktok.com/@brunesleger/video/7704788346496748808",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261105",
+ "duration": 53,
+ "description": "Brunes immobilier toujours.      {{ 0153273240} whatsap} [[ À louer]] Sublime studio américain 100 milles  yopougon ananeraie Kimi en bordure au 1 er étage très belle maison. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok #deblocagedevuetikto ",
+ "transcript": "Je pose ma caméra, salut chez tous, vous dînez ce mobilier. Bonjour et à tout le monde dans les prepé-pits immobiliers. Voilà, je suis au sein de studio américain. Admirez-vous ma cuisine. Magnifique cuisine, hein. Voilà. Vous voyez, là c'est la douche. Voilà, la maison est cendée. Voilà, vous voyez. C'est un studio qui a été cendée. Voilà, en deux pièces. Voilà, vous voyez. Voilà. Très, très, très, très grand. Y'a absolument rien à dire. Voilà. Vous voyez, là c'est le balcon. Magnifique balcon, hein. Très propre. Y'a absolument rien à dire.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704788346496748808.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Kimi",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio américain à Yopougon Ananeraie Kimi, en bordure, au 1er étage, à 100 000 F par mois ; visite à 5 000 F. Contact 0153273240 / 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-05",
+ "origine": "découverte"
+}
