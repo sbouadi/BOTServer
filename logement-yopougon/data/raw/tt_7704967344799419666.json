@@ -1,0 +1,40 @@
+{
+ "id": "tt_7704967344799419666",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7704967344799419666",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7704967344799419666",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261106",
+ "duration": 64,
+ "description": "YOP MAROC OBAMA UNE JOLIE MINI CAVE -BAR A CÉDÉ, PLACER EN BORDURE DE VOIE PRINCIPAL  LOYER 60 k PAR MOIS  PRIX DE CESSION 3,5 ML A REVOIR LÉGÈREMENT  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #cave #restaurant #magasin #evenement ",
+ "transcript": "Voila, quoi du voir c'est ma taille, habitant c'est mes soirs. Bichon qui m'oublie, monsieur le détecteur de jeudi, mais j'en sens un sprig. Voila. Vous pouvez voir, là je suis présentement dans une cave à Cédé. C'est une cave à même temps un bas à l'intérieur, vous voyez. Voila, on voit le vieux poucon. Maroc. On a l'air vêté zako. Voila, on a l'air vêté zako. On a les toilettes ici. Voila, comme vous pouvez le voir. Près des sessions, c'est 3-5. 3-5, on peut revoir légèrement. C'est placé en produit de voie. Et le loyer est à 80K, vous voyez. On cède avec tout ça. Avec tout ça, c'est une période de fête. C'est les grandes opportunités qui sont là. Voila, ça ne t'apparaît pas pour tout. D'un premier vénus, premier sevilliers. Merci, n'oublie pas de vous abonner. Merci.",
+ "ocr": [
+  "Opportuuité “A Ÿ",
+  "decembre",
+  "| Opportun",
+  "cembre"
+ ],
+ "thumb": "thumbs/tt_7704967344799419666.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Abidjan",
+  "quartier": "Cédé",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes"
+  ],
+  "resume": "Cession d'une mini cave-bar en bordure de voie principale à Abidjan (Cédé), loyer 60 000 F par mois, prix de cession 3,5 millions F à revoir légèrement, contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

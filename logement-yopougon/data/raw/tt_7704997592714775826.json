@@ -1,0 +1,36 @@
+{
+ "id": "tt_7704997592714775826",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7704997592714775826",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7704997592714775826",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261106",
+ "duration": 78,
+ "description": "YOP ANANERAIE EN BORDURE GRAND MAGASIN EN LOCATION  LOYER 125 k PAR MOIS  PAR DE PORTE 1,5 ML + LA CAUTION  INTERRESSE APPEL  CONTACT 0787407535 #magasin #yopougon🇨🇮🎶 #espace #bureau #pourtoi ",
+ "transcript": "Voix. Quand il voit ses matées, un pijan sert le soir. Pis chat qu'il m'oblirait. Monsieur le détecteur des chaux-lits mais au sens esprit. Je suis au lourdeux, un peu en arrière, en taine. Empendu pour du rail. Dans un magasin. Un caillat ! Un magasin de 150 cas. 150 cas. C'est un magasin placé en bordu de voie. Si vous pouvez faire le bureau, il y a une sortie arrière. Voici les toilettes. Voil. C'est un magasin qui est situé en bordu de voie. Ça va pas durer. Pas de potant. 1,5 battons. 1,5 battons. 1,5 battons. 1,5 battons. C'est même pas cher. Et à la potion normale à payer. Voil. C'est un bordu de voie. Pour mon anniversaire, ça va pas durer. Bienvenue, premier service. Je dis bien en bordu. Avec une belle démondure. Regardez la démondure. Attention. Voila. Voila. C'est la démondure qui est là. Première venue. Première service. N'oubliez pas de vous abonner, de mettre un et de partager. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704997592714775826.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 125000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes",
+   "sortie arrière"
+  ],
+  "resume": "Grand magasin en location en bordure de voie à Ananeraie (Yopougon), environ 150 m², utilisable aussi comme bureau, loyer 125 000 F par mois, pas-de-porte 1,5 million F plus caution, contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705074550601534740",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7705074550601534740",
+ "url": "https://www.tiktok.com/@annilove225/video/7705074550601534740",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261106",
+ "duration": 60,
+ "description": "08 portes de studio Yopougon Niangon nord dans la cité verte nouvelle construction disponible vide au 1er étage au 2ème étage  Loyer: 100k  Contact: 0767314212 #studio #appartement #maisonalouer #yopougonmaroc #citeverte ",
+ "transcript": "Ok famille, tout ce qui est derrière moi c'est le studio Wouah, là il y en a où il y en a un au premier ou deuxième sous le haut du studio, il y a plusieurs points, il y a 4 points en bas Admirer les Pepits, admirer les Pepits, il y en a eu Wouah, plusieurs points du studio 5 à 5 à 5 à 5 à 5 à prix cassé 5 à 5 à 1, wouah, c'est très très proble Il y a beaucoup, il y a beaucoup, c'est des vets dans la cité vets, dans la cité vets T'en veux voir? Dans la cité vets, dans la cité vets, tu baies, tu dors Wouah, c'est très très très proble Nouvelle construction, il n'y a pas un peu quelqu'un qui est dans Nouvelle construction, il n'y a pas un peu quelqu'un qui est dans, tu baies, tu dors C'est très très très très proble Laissez-lui boire tes cheaux, ta gueule est rapidement Les cheaux ne peuvent venir rapidement C'est très très très très proble Il n'y a absolument rien à dire Dès que tu baies, tu dors rapidement, rapidement ta gueule Laissez-lui",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705074550601534740.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Nord, Cité Verte",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Niangon Nord (Cité Verte), nouvelle construction, vide, disponible au 1er et 2ème étage, loyer 100 000 F. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

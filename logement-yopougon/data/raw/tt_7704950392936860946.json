@@ -1,0 +1,44 @@
+{
+ "id": "tt_7704950392936860946",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7704950392936860946",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7704950392936860946",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261106",
+ "duration": 85,
+ "description": "500 000 FCFA par mois à Kotto : est-ce que cet appartement vaut réellement son prix ?  Deux chambres, trois salles de bain, de belles finitions et des équipements de qualité. À vous de juger ! Vous recherchez un appartement de standing à Douala ? Contactez G-K IMMOBILIER pour plus d'informations ou pour organiser une visite. 💬 Et vous, combien seriez-vous prêt à payer pour cet appartement ? #gkimmobilier  #ImmobilierDouala #appartementdouala  #locationdouala  #kotto ",
+ "transcript": "500 000 francs s'effacent par mois, soit environ une demi-million, sur le prix qu'il faut pour dévenir le futur locaté de cet appartement. Est-ce que ça vaut ? On va visiter ensemble et je vous donnerai mon appréciation à la fin de cette vidéo. Nous sommes toujours dans le monde de ce monde, et d'ailleurs c'est un peu précisément à court temps, ou nous vous proposons ce magnifique appartement des deux chambres trop salles de beurre. Dès l'entrain de couvres vaste se joue particulièrement le menu de crâne de baie vitrée et un crâne balcon. Les deux chambres disposent chacun de leurs propres salles de beurre avec la benedouche. Le salaire est également équipé de magnifiques lustres que le donne rendu particulièrement élégant suite au soirée. Côté équipement, nous avons une cuisine déjà équipée, un groupe électrogène, une connexion éficitale, une caméra de surveillance et un vaste parking. Mais ce qui retient particulièrement l'attention ici, ce sont les finitions, la qualité des matériaux, la peinture, les mules, les lustres, l'architecture, l'aération et même la disposition des espaces. On sent au moins si c'est que le propriétaire court d'une attention particulière ici au détail. Maintenant parlons des conditions, le propriétaire demande de s'insermer par mot avec dix mois de loyer, deux mois de caution. En ce moment, on regarde la qualité des matériaux, des finitions, de la sécurité et surtout la proximité avec la route. Je pense que la prestation propose de s'en reprendre en considération pour apprécier ce prix. Toutefois, le prix reste légèrement négociable et ce qui est plutôt une bonne chose. On aurait dû me commenter si cet appartement vaut son prix ou pas. Si vous êtes intéressé, n'hésitez pas à me contacter pour les informations au moment de cette visite.",
+ "ocr": [
+  ". cmt |"
+ ],
+ "thumb": "thumbs/tt_7704950392936860946.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Kotto",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 500000,
+  "caution": 2,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine équipée",
+   "groupe électrogène",
+   "connexion internet",
+   "caméra de surveillance",
+   "parking",
+   "lustres",
+   "baie vitrée",
+   "balcon"
+  ],
+  "resume": "Appartement de deux chambres avec salle de bain pour chaque chambre à Kotto (Douala), loyer de 500 000 FCFA par mois, finitions soignées, cuisine équipée, groupe électrogène, caméra de surveillance et parking. Caution de deux mois, avance d'environ dix mois de loyer demandée selon l'audio, prix légèrement négociable. Contact via G-K IMMOBILIER.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

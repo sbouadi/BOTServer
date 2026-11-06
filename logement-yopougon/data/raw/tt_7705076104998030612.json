@@ -1,0 +1,35 @@
+{
+ "id": "tt_7705076104998030612",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7705076104998030612",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705076104998030612",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261106",
+ "duration": 54,
+ "description": "Magnifique et superbe bonne 2pieces 70mil disponible au 2eme étages ✅🔑🏠☎️ 70mil x5mois plus 50mil démarcheur  Nb: caution d’eau 35mil  Détail: 2mois caution              2mois avance       1mois agence plus 50mil  Yopougon Academie diop dernière boutique en allant à Laguna resort à côté de l’école petit savant  Visite 5mil Contact: 0711392732  #3piecesuit #2piece #fly #vue #visibilité ",
+ "transcript": "Et au Pougon immobilier, quand on vous demande de vous abonner là, c'est par rapport à tous ces bonnes pépites là, c'est pour ne rien rater. Voilà, je suis à la maison, c'est à fait du souvenir, au deuxième étage de soixante-dix mille fonds là, l'occasion. Voilà, la maison est là, j'ai envie d'inviter, j'en finis les travaux. Voilà, l'eau, aucun problème d'eau ici. Il y a au Pougon académique, du genre dernier boutique, au niveau du restaurant, l'abouna à la chambre, ça va aller là. La touche est centrée, bon c'est dans le quartier, un peu de l'écoute pétite ça va. Voilà, c'est dans les quartiers, la chambre est là là, j'en finis à inviter, il y a plein de placards à la chambre. Il n'y a pas de placards à la chambre. Vous pouvez voir dans la vidéo, là, c'est comme ça la maison s'est présente. Une deuxième maison dix mille fonds, au deuxième étage de la paie en midi.",
+ "ocr": [
+  "LAN [1 7"
+ ],
+ "thumb": "thumbs/tt_7705076104998030612.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie Diop",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location 2 pièces au 2e étage à Yopougon Académie Diop, 70 000 F par mois ; 5 mois à payer, caution 2 mois, avance 2 mois, agence 1 mois + 50 000 F démarcheur, caution d'eau 35 000 F, visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

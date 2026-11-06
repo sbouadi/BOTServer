@@ -1,0 +1,33 @@
+{
+ "id": "tt_7704992225129762068",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704992225129762068",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7704992225129762068",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261106",
+ "duration": 58,
+ "description": "🏪🔥 À LOUER GRAND MAGASIN 🔥 📍 Yopougon Ananeraie – Antenne 🛣️ En bordure de voie principale 💰 Loyer : 125.000 F 📋 Conditions : 5 mois + 100.000 F 🔑 Part de porte : 1.500.000 F ❌ PAS D'ALCOOL ! 🚨 CHAP CHAP ! CHAP CHAP ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #Ananeraie #MagasinALouer #ImmobilierAbidjan #LocationCommerciale  ",
+ "transcript": "Le vide est habillant, c'est pas petit affaire Tu parles, tu es au marché haut, tu manges rien payé haut Tous les choses il est chéri, pari tout, pari tout, pari tout 50 francs à checker, oh, ça rambule pas mon boussé haut Barandao, il est chéri, Maniocchi, il est chéri Deri, on parlait pas, même Pima là Il est chéri, Barandao, il est chéri Maniocchi, il est chéri Deri, on parlait pas, même Pima là Il est chéri, oh, mon amie Je vais partir dans mon village Je vais poser la baie Tranquille, avec mon femme et mon enfant Tranquille, avec mon femme et mon enfant Ça vaut mieux, tranquille, avec mon femme et mon enfant",
+ "ocr": [],
+ "thumb": "thumbs/tt_7704992225129762068.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie – Antenne",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 125000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un grand magasin en bordure de voie principale à Ananeraie (Yopougon), loyer 125 000 F, 5 mois à payer + 100 000 F, part de porte 1 500 000 F, pas d'alcool. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

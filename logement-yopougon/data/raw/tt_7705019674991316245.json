@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705019674991316245",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705019674991316245",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705019674991316245",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261106",
+ "duration": 90,
+ "description": "Mise en location d'une villa basse de 4 pièces à 170.000f Lieu: Yopougon terminus 40. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "On avance, on avance",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705019674991316245.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "terminus 40",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une villa basse de 4 pièces à 170 000 F à Yopougon terminus 40, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

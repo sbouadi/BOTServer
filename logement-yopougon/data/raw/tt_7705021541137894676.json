@@ -1,0 +1,37 @@
+{
+ "id": "tt_7705021541137894676",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705021541137894676",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705021541137894676",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261106",
+ "duration": 67,
+ "description": "Mise en location d'un appartement de 3 pièces haut standing à 120.000f au 1er étage avec 2 balcons. Visite:5000F Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705021541137894676.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "haut standing",
+   "2 balcons",
+   "1er étage"
+  ],
+  "resume": "Mise en location d'un appartement de 3 pièces haut standing au 1er étage avec 2 balcons, loyer 120 000 F, visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

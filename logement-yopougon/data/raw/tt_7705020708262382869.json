@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705020708262382869",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705020708262382869",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705020708262382869",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261106",
+ "duration": 77,
+ "description": "Mise en location d'un studio américain de 90.000f au rez-de-chaussée. Lieu: Yopougon millionnaire cité BHCI. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705020708262382869.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire cité BHCI",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio américain au rez-de-chaussée à Yopougon Millionnaire cité BHCI, loyer 90 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

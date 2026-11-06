@@ -1,0 +1,50 @@
+{
+ "id": "tt_7705079101790457108",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7705079101790457108",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7705079101790457108",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261106",
+ "duration": 159,
+ "description": "🛑LOCATION 📍 YOPOUGON MAROC KIMI  ✅UNE MAGNIFIQUE 4 PIÈCE  BON STANDING AU 1ERE ÉTAGE DISPONIBLE STAFFER DANS  UN  BEAUX BATIMENT EN BORDURE DE LA ROUTE TRÈS ACCESSIBLE  BORDURAL HABITATION COMME BUREAU PASSE  1ERE ÉTAGE 03 SALLES D'EAU ❤️  VIGILE  03 BALCON  BUANDERIE  CHAUFFE EAUX  PARKING  SPOTE LUMINEUX  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 250.000 FR ✅CONDITIONS: 6MOIS+150mille  CONTACT: 0720363576",
+ "transcript": "Si tu me dis que tu ne peux pas vivre sans moi, tous les jours je te dirai pardon bébé c'est je te lance en moi mon coeur te demande pardon on verra les fausses au moins les états ne brûlent que dans le noir et mon coeur s'ennuiait comme j'allais les copes mon coeur s'ennuiait comme j'allais les coucoues",
+ "ocr": [
+  "LIRE",
+  "toverreee",
+  "errriree",
+  "mens",
+  "cuvvvrvvrrr?",
+  "Sobrereerereons",
+  "> 160660 TI",
+  "2 Al OTT LL èéée",
+  "822299066644"
+ ],
+ "thumb": "thumbs/tt_7705079101790457108.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 150000,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "buanderie",
+   "chauffe-eau",
+   "parking",
+   "vigile",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'un 4 pièces de bon standing au 1er étage, bâtiment en bordure de route, 3 salles d'eau, 3 balcons, buanderie, chauffe-eau, parking et vigile. Loyer 250 000 F, conditions 6 mois + 150 000 F. Logement utilisable aussi comme bureau. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

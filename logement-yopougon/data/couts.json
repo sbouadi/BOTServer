@@ -110,5 +110,21 @@
    "recherches_web": 0,
    "cout_usd": 0.022
   }
+ },
+ "2026-11-06": {
+  "recherche": {
+   "appels": 27,
+   "jetons_entree": 539631,
+   "jetons_sortie": 55737,
+   "recherches_web": 41,
+   "cout_usd": 0.4919
+  },
+  "lecture": {
+   "appels": 40,
+   "jetons_entree": 125843,
+   "jetons_sortie": 8895,
+   "recherches_web": 0,
+   "cout_usd": 0.0172
+  }
  }
 }

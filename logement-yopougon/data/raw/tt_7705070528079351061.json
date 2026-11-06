@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705070528079351061",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7705070528079351061",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7705070528079351061",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261106",
+ "duration": 74,
+ "description": "Alain zegbehi vous présente une 2 pièces 110 mille au rez-de-chaussée yopougon Lubafrique visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébé, MFZ Viteur, je vous présente ici. Une deux pièces, 110 000 Yopougon Lubafric, voilà, c'est Mathieu, Yopougon Lubafric c'est Mathieu, ouai, au redéchaussé, 110 000, voilà, Yopougon Lubafric c'est Mathieu, voilà, c'est le salon, ouai, 110 000 le loyer, 110 000 le loyer, ouai, Yopougon Lubafric, 110 000 le loyer, voilà, au redéchaussé, 110 000 deux pièces, voilà, c'est la chambre, c'est la chambre, c'est la chambre, ouai, 110 000 le loyer, voilà, regardez, là c'est la chambre. Bonne nuit sur le salon, Alain Zébé, nous jouons à MFZ Viteur, merci, dans les voies de vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705070528079351061.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au rez-de-chaussée à Lubafrique, Yopougon, à 110 000 F par mois ; frais de visite de 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705053234662083861",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705053234662083861",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705053234662083861",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261106",
+ "duration": 33,
+ "description": "🏪🔥 À LOUER – GRAND MAGASIN 🔥 📍 Yopougon Ananeraie – Mamie Adjoua 🚨 Bien placé, idéal pour vos activités commerciales ! 💰 Loyer : 300.000 F/mois 📋 Conditions : 6 mois + 150.000 F 💵 Part de porte : 1.000.000 F 🔥 CHAP CHAP ! BON EMPLACEMENT, BELLE OPPORTUNITÉ ! 📢 Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #Ananeraie #MamieAdjoua #MagasinALouer #LocalCommercial     ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705053234662083861.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie – Mamie Adjoua",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 150000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un grand magasin commercial à Yopougon Ananeraie – Mamie Adjoua, loyer 300 000 F/mois, 6 mois + 150 000 F, part de porte 1 000 000 F, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

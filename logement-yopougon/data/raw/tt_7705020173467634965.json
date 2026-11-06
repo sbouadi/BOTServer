@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705020173467634965",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705020173467634965",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705020173467634965",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261106",
+ "duration": 44,
+ "description": "Mise en location de deux portes d'appartement de 2 pièces 80.000f du 1er au 2ème étage. Lieu: Yopougon académie cité marine. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Il m'a emprunté la malédiction Pour me faire soin à la part des rois Il m'a couronné de quoi au papa Il m'a montré le chemin de la vie Il m'a emprunté la malédiction Pour me faire soin à la part des rois Il m'a couronné de quoi au papa Il m'a emprunté le chemin de la vie Jésus et Io Jésus et Io C'est le son des pour atter la vie Jésus et Io Jésus et Io C'est le son des pour atter la vie Jésus et Io Jésus et Io Jésus et Io Jésus et Io",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705020173467634965.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie cité marine",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location de deux appartements de 2 pièces à 80 000 F, du 1er au 2ème étage, à Yopougon Académie cité marine. Visite à 5 000 F. Contact fourni dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

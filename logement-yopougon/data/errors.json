@@ -6,5 +6,9 @@
  "https://www.tiktok.com/@gnali.olivier/video/7702467711640718599": {
   "tries": 3,
   "last_error": "DownloadError: ERROR: [TikTok] 7702467711640718599: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+ },
+ "https://www.tiktok.com/@paul.rochel.loba/video/7705040822730886420": {
+  "tries": 1,
+  "last_error": "CalledProcessError: Command '['ffmpeg', '-loglevel', 'error', '-i', '/home/runner/work/BOTServer/BOTServer/logement-yopougon/work/7705040822730886420.mp4', '-ac', '1', '-ar', '16000', '-f', 's16le', '-']' returned non-zero exit status 234."
  }
 }
