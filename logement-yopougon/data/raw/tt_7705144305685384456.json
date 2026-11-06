@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705144305685384456",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7705144305685384456",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7705144305685384456",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261106",
+ "duration": 42,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO HAUT STANDING SONGON DOMAK AU 2IEME ÉTAGES NON LOIN DE AUTOROUTE NOUVELLE CONSTRUCTION LOYER: 65 000. #location#maison#visibilité#",
+ "transcript": "Salut tout le monde, je vous présente un studio américain, 65 000 francs, regardez ça c'est la vie, 65 000 francs, ici, vous voyez les espaces, ça c'est le petit salon, un studio de 65 000 francs, c'est une nouvelle construction jamais habité, vous voyez, ça c'est, regardez, ça c'est la chambre, 65 000 francs, ça c'est la chambre du son d'Omak.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705144305685384456.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Domak",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio haut standing en location à Songon Domak, 2e étage, non loin de l'autoroute, nouvelle construction jamais habitée, loyer 65 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}

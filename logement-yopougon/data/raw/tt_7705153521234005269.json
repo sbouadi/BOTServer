@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705153521234005269",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7705153521234005269",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7705153521234005269",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261106",
+ "duration": 44,
+ "description": "Alain zegbehi vous présente un studio baoule 80 mille maison basse yopougon texaco visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok salut salut c'est Alizez Beirut On va se retrouver sur Youtube Et si Dieu ne veut qu'on se soit jamais habitées Je peux vous en mettre à court On va y trouver un meilleur Mais en bas Si Dieu ne veut qu'on se met à court On va se la dire ici Voilà c'est un si Dieu pas au loin Très bon si Dieu pas au loin C'est un si Dieu pas au loin Voilà regardez Voilà T'as prouvé un petit peu pour qu'on t'aise à court Bonne chance Alizez-beirut Toujours votre aimer serviteur Merci Donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705153521234005269.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Texaco",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Texaco (maison basse), loyer 80 000 F, frais de visite 5 000 F. Contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-06",
+ "origine": "découverte"
+}
