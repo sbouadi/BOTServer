@@ -1,0 +1,37 @@
+{
+ "id": "tt_7705353219790212384",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7705353219790212384",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7705353219790212384",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261107",
+ "duration": 51,
+ "description": "2 pièces 86.000 y comprit l’eau a songon mairie  Contact: 04-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "Salut, salut à tous. Voilà, je vous présente une deux pièces au nom de Sangon Méré à 80 000. 80 000. Et 6 000 boulots. Salut. Quand on fait les 45, chaque fois qu'on voit. Voilà, c'est à dire. Et qu'on ne peut pas avoir le temps. Au revoir. Au revoir. Au revoir, Adidas. Maintenant, le salon, au revoir, le salon. Au revoir. Au revoir. Au revoir. Adidas. Au revoir.",
+ "ocr": [
+  "AR ia PURE ps,"
+ ],
+ "thumb": "thumbs/tt_7705353219790212384.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 86000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "eau incluse"
+  ],
+  "resume": "Location d'une 2 pièces à Songon (mairie), 86 000 F incluant l'eau, contact 04-45-44-96-05. L'audio mentionne 80 000 F, ce qui contredit la légende ; le montant retenu est celui de la légende. Images : façade, couloir et placard intégré.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

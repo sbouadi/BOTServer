@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705358685203205396",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705358685203205396",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705358685203205396",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261107",
+ "duration": 64,
+ "description": "Mise en location d'une 2 pièces staffé à 90.000f au 1er étage. Lieu: Yopougon niangon à gauche terminus 27 carrefour calebasse. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705358685203205396.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces staffée à 90 000 F au 1er étage à Niangon (Yopougon), près du terminus 27 et du carrefour Calebasse. Visite à 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

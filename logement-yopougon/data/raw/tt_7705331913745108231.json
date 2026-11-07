@@ -1,0 +1,41 @@
+{
+ "id": "tt_7705331913745108231",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7705331913745108231",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7705331913745108231",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261107",
+ "duration": 48,
+ "description": "A LOUER YOP ANANERAIE  👉Un grand MAGASIN EN BORDURE DE VOIX PRINCIPALE  PRIX: 125.000F 👉PART DE PORTE: 1MLLN 500 ❌N.B: PAS D'ALCOOL #magasin #immobilierabidjan #bureau #restaurant #espace ",
+ "transcript": "Voilà. Regardez vous même où le magasin est situé. En bordu de voie. Voilà. En bordu bordurale. Cet un magasin de 155K. Pas de 125K, pas 155K. 125K. 125K. Avec pas de portes. 1,5 million. 1,5 million. Voilà. Et la caution normale. C'est un grand magasin. Toutes activités passent sous alcool. On ne fait pas d'alcool ici. On n'a pas de poisson. Intéressé appel. Intéressé appel. C'est une opportunité de descente. Ça va pas durer. Je vous assure que ça va pas durer. Merci. N'oubliez pas de vous abonner. Et de partager. Merci.",
+ "ocr": [
+  "AYOROUGON",
+  "YOPOUGON",
+  "BORDURE",
+  "CZT LP",
+  "ANANERAIE,EN",
+  "4 AUS DE ,",
+  "ANANERAIE!EN"
+ ],
+ "thumb": "thumbs/tt_7705331913745108231.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 125000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un grand magasin en bordure de voie principale à Ananeraie, Yopougon, à 125 000 F par mois, part de porte 1 500 000 F ; pas d'activité liée à l'alcool. Caution non précisée clairement dans la légende ni l'audio.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

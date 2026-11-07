@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705432383905926421",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705432383905926421",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705432383905926421",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261107",
+ "duration": 99,
+ "description": "🏠🔥 À LOUER – 3 PIÈCES 🔥 📍 Yopougon Maroc Pétroci 🏢 1er étage 🛠️ Travaux à faire 💰 Loyer : 150.000 F 📋 6 mois + 100.000 F 💧 Caution eau : 54.000 F 🚶 Visite : 5.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 🚨 CHAP CHAP ! Ça ne dure pas ! #Yopougon #Maroc #Location #Immobilier #Appartement",
+ "transcript": "Yeah Something is killing me slowly And I'm feeling so lonely Now I'm looking up to God Yeah, yeah Bet my tight, I bet my deals See distractions everywhere Not me feeling emotions I get different to so many things That I really want confusion in a broader hood Baba bless my family Bless my enemies Bless everybody Together we'll be smiling That's what me tell them say Jesus Baba, Jesus Baba, Jesus Baba You promise I'll never be lonely You go there, there beside me Me tell them say Jesus Baba, Jesus Baba, Jesus Baba You promise I'll never be lonely You say you go there, there beside me Yeah, yeah But they don't know what's up My God is bigger than him Where they put money",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705432383905926421.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Pétroci",
+  "type": "chambre salon",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": 54000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Appartement 3 pièces à louer à Yopougon Maroc Pétroci, 1er étage, travaux à faire. Loyer 150 000 F, 6 mois à payer + 100 000 F, caution eau 54 000 F, visite 5 000 F. Contact WhatsApp ou appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

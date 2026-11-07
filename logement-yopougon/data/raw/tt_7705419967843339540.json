@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705419967843339540",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7705419967843339540",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7705419967843339540",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261107",
+ "duration": 91,
+ "description": "Alain zegbehi vous présente une 3 pièces 140 mille au troisième étage yopougon ananeraie oiasic visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zébouilou, et moi c'est Victor, je vous présente ici une trois pièces bugets à nids, sans carottes, les loyers. Regardez, oui, voici le salon, bordu, bordu ral, je pouvais en aller, bien placé, regardez, voilà les gars, bordu, bordu ral, regardez, 140 000, c'est un buget à nids, deux Balkans, il y a les travaux à faire, regardez la cuisine, oui, voici la cuisine ici, oui, 140 000 bugets à nids, sur troisième étage, oui là, voilà, c'est deux Balkans, oui là, regardez encore le salon, oui, très très bien placé, bordu, bordu ral, il y a les travaux à faire, voici la chambre principale, regardez, il y a des chambres, cahiers chambres, oui, deux douches, bordu, bordu ral, il y a les travaux à faire, rien à dire, oui, il n'y a pas de humilité dans la maison, voilà, voici la deux visiteurs ici, oui, il n'y a pas de humilité dans la maison les gars, il y a les travaux à faire, oui, là, il y a des 140 000 bugets à nids, voilà, regardez, bonne nuit sur le salon, allez, vous éveillez toujours votre aimabseur viteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705419967843339540.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au 3e étage à Yopougon Ananeraie (Oiasic) à 140 000 F, travaux à prévoir, visite 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

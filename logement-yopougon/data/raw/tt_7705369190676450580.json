@@ -1,0 +1,38 @@
+{
+ "id": "tt_7705369190676450580",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705369190676450580",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705369190676450580",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261107",
+ "duration": 161,
+ "description": "🏠🔥 **À LOUER – 2 PIÈCES 🔥** 📍 Yopougon Niangon Sud – Centre Social 📌 Après le collège Germinal 🏢 1er étage 🚿 2 DWC ✨ Appartement staffé 💰 **LOYER : 100.000 F** 📋 **CONDITIONS : 5 MOIS + 60.000 F** 👀 **VISITE : 5.000 F** ⚠️ NB : APPARTEMENT EN TRAVAUX 🔥 CHAP CHAP, ÇA NE DURE PAS ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #Niangon #LocationAbidjan #Immobilier225 #AppartementALouer  ",
+ "transcript": ".org",
+ "ocr": [
+  "Lil (rt"
+ ],
+ "thumb": "thumbs/tt_7705369190676450580.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud – Centre Social",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 DWC",
+   "appartement staffé"
+  ],
+  "resume": "Location d'un 2 pièces au 1er étage à Niangon Sud (Centre Social, après le collège Germinal), loyer 100 000 F, conditions 5 mois + 60 000 F d'agence, visite 5 000 F. Appartement en travaux. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

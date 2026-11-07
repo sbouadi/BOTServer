@@ -1,0 +1,42 @@
+{
+ "id": "tt_7705360767247322375",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7705360767247322375",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7705360767247322375",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261107",
+ "duration": 94,
+ "description": "🏨 GRAND HÔTEL À LOUER À SONGON – CITÉ LEM Une belle opportunité d'affaires à ne pas manquer ! Nous mettons en location un grand hôtel situé dans la commune de Songon, précisément à la Cité LEM. ✨ COMPOSITION DE L'HÔTEL : - 15 chambres climatisées. - 2 grandes piscines. - 1 grande salle de cérémonie. - 5 salles de douche pour la salle de cérémonie. - 1 grande salle de sport. - 2 chambres de rechange. - 2 douches supplémentaires. - 1 salle de laverie. 💰 Loyer mensuel : 2 000 000 FCFA 📌 Conditions : 6 mois. NB : En raison de la grandeur de l'établissement, je n'ai pas pu filmer toutes les installations dans la vidéo. Toutefois, pour toute personne sérieusement intéressée, une visite des lieux est possible afin de découvrir l'ensemble de l'hôtel et mieux apprécier son potentiel. 📞 Pour plus d'informations et pour organiser une visite, contactez-nous : ☎️ 05 06 64 49 72 (WhatsApp) Une belle opportunité pour vos projets hôteliers et événementiels !",
+ "transcript": "salut salut salut tout je vais aller je vous présente hôtel à louer vous voyez ça c'est sale de vénement hôtel à louer avec deux grands piscines à la deux grands piscines séparés ici ça c'est sale d'événement ça va peut-être continuer plus de 100 personnes vous voyez avec des douches il y a plus de quatre douches qu'elles à la ça c'est à son nom son nom dans la cité l'aime vous voyez à la son nom dans la cité l'aime contenu de la grandeur à la contenu de la grandeur je n'ai pas pu filmer tout il a installé sport vous voyez ici c'est voilà ici c'est pour la réception vous voyez regardez ça c'est la piscine contenu de la grandeur je n'ai pas pu filmer tout il ya sale des sports voilà il n'y a pas d'élaverie aussi en tout cas il y a tout pour tout ce qui s'est des opportunités c'est des opportunités on n'est pas raté c'est elle plus trois si chaque pallier il y a cinq chambres d'hôtel si chaque pallier il y a cinq chambres d'hôtel tout est climatisé voilà tout est climatisé vous voyez ça c'est l'une des chambres voilà ça c'est l'une des chambres si chaque pallier il y a cinq chambres donc le total fait 15 chambres au total vous voyez situé à son nom",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705360767247322375.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Cité LEM",
+  "type": null,
+  "pieces": null,
+  "loyer": 2000000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "15 chambres climatisées",
+   "2 grandes piscines",
+   "1 grande salle de cérémonie",
+   "5 salles de douche pour la salle de cérémonie",
+   "1 grande salle de sport",
+   "2 chambres de rechange",
+   "2 douches supplémentaires",
+   "1 salle de laverie"
+  ],
+  "resume": "Location d'un grand hôtel à Songon, Cité LEM, avec 15 chambres climatisées, 2 piscines, salle de cérémonie et salle de sport, loyer mensuel de 2 000 000 FCFA sur 6 mois, visite possible sur contact WhatsApp.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

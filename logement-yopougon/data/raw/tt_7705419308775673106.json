@@ -1,0 +1,35 @@
+{
+ "id": "tt_7705419308775673106",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7705419308775673106",
+ "url": "https://www.tiktok.com/@brunesleger/video/7705419308775673106",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261107",
+ "duration": 71,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]]  une sublime 2 pièces à yopougon cité batim au 3 eme étage. 👉 loyers 120 milles  👉 2 salles d’eau  👉 maison bien aéré avec des sports lumineux. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Je pose ma caméra sans toucher tout ce brinette mobilier, toujours moins. Toujours moins comme moi dans la vraie paix pizza et mobilier. Voilà, je suis au sein d'une deux pièces à l'aubrogan batiment. Voilà, admirez-vous même, là c'est la première douche. Magnifique douche hein, voilà, très belle cuisine, y'a absolument rien à dire. Vous voyez, voilà, le salon est bien propre. Voilà, vous voyez la chambre, la chambre est très très très très très vaste. Je dis, la chambre est bien vaste, je dis, tu peux me bler, tu peux me lire. Faut te dire, en tout cas, la maison espèce du bonheur, la douche est également très vaste. Voilà, on peut tout faire au sein de la douche hein, tout ce que vous imaginez. Voilà, la chambre est allée loin, tu peux faire ton salon vieil qui est dans la chambre. Voilà, n'oublie pas de vous abonner à ma page Brunesse Immobilier.",
+ "ocr": [
+  "CAT]"
+ ],
+ "thumb": "thumbs/tt_7705419308775673106.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Batim",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une 2 pièces au 3e étage à Yopougon, cité Batim, avec 2 salles d'eau, loyer 120 000 F, visite 5 000 F. Annonce de Brunes Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

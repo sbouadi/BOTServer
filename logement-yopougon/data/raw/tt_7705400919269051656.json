@@ -1,0 +1,37 @@
+{
+ "id": "tt_7705400919269051656",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7705400919269051656",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7705400919269051656",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261107",
+ "duration": 56,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES YOPOUGON BANCO MAISON BASE ACCÈS FACILE COUR AVANT ET COUR ARRIÈRE LOYER: 110 000x6 PLUS 70 000. #locaction#maison#visibilité#",
+ "transcript": "ça c'est la poudre c'est individuel 110 000 francs pour la pièce 110 000 francs voilà 3 pièces 110 000 francs vous voyez banco 2, ça c'est le salon il répète bien 3 pièces 110 000 francs banco 2, ça c'est le salon ça c'est la poudre vous voyez ça c'est ça c'est la cuisine 110 000 francs ou arrière ou avant banco 2 vous savez qu'on est petit obligé vous voyez 110 000 francs voilà vous voyez c'est une douche centrale",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705400919269051656.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Banco",
+  "type": null,
+  "pieces": 3,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 70000,
+  "frais_visite": null,
+  "equipements": [
+   "douche centrale",
+   "cour avant",
+   "cour arrière"
+  ],
+  "resume": "Location d'une maison de 3 pièces à Banco, Yopougon, accès facile, cour avant et arrière, loyer 110 000 F x6 mois plus 70 000 F d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

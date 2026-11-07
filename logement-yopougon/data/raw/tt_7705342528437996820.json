@@ -1,0 +1,35 @@
+{
+ "id": "tt_7705342528437996820",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705342528437996820",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705342528437996820",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261107",
+ "duration": 34,
+ "description": "Mise en location d'un grand studio américain de 70.000f maison basse. Lieu: Yopougon lokoa extension. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [
+  "VTT)!"
+ ],
+ "thumb": "thumbs/tt_7705342528437996820.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lokoa extension",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un grand studio américain en maison basse à Yopougon Lokoa extension, loyer 70 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

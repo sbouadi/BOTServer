@@ -1,0 +1,44 @@
+{
+ "id": "tt_7705383360893422869",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705383360893422869",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705383360893422869",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261107",
+ "duration": 166,
+ "description": "🏠🔥 À LOUER – 4 PIÈCES 🔥 📍 Yopougon Maroc – Pétroci 📌 Très bien placé ! 🏢 Rez-de-chaussée 🛋️ 2 salons 🚿 3 douches ✅ Idéal pour entreprise ✅ Église acceptée ⛪ ✅ Bureau accepté ✅ Habitation acceptée 💰 LOYER : 300.000 F CFA 📋 CONDITIONS : 6 MOIS + 130.000 F 👀 VISITE : 5.000 F 🔥 CHAP CHAP, ÇA NE DURE PAS ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #Maroc #Petroci #Immobilier225 #LocationAbidjan   ",
+ "transcript": "",
+ "ocr": [
+  "NES) A",
+  "LAC)",
+  "ji AIT [ul"
+ ],
+ "thumb": "thumbs/tt_7705383360893422869.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc - Pétroci",
+  "type": null,
+  "pieces": 4,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 130000,
+  "frais_visite": 5000,
+  "equipements": [
+   "rez-de-chaussée",
+   "2 salons",
+   "3 douches",
+   "église acceptée",
+   "bureau accepté",
+   "habitation acceptée"
+  ],
+  "resume": "Location 4 pièces au rez-de-chaussée à Yopougon Maroc (Pétroci), 2 salons, 3 douches, usage habitation, bureau ou église accepté. Loyer 300 000 F, 6 mois à payer + 130 000 F de frais d'agence, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705440383903206708",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705440383903206708",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705440383903206708",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261107",
+ "duration": 15,
+ "description": "🏠 2 PIÈCES – 2 DOUCHES À LOUER 📍 Yopougon Niangon à gauche, Azito Hôtel Akwaba, au rez-de-chaussée 💰 110.000 F 📋 5 mois + 70.000 F 📄 Dossier : 20.000 F 🚶 Visite : 5.000 F 🚨 Départ imminent ! CHAP CHAP ! 📞 07 67 64 46 18",
+ "transcript": "M'a bien aimé l'emmen M'a chérimité",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705440383903206708.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 20000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location 2 pièces avec 2 douches à Yopougon Niangon, au rez-de-chaussée près de l'Azito Hôtel Akwaba. Loyer 110 000 F, 5 mois à payer + 70 000 F d'agence, dossier 20 000 F, visite 5 000 F. Contact 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}
