@@ -1,0 +1,45 @@
+{
+ "id": "tt_7705468101147725076",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7705468101147725076",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705468101147725076",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261107",
+ "duration": 84,
+ "description": "Magnifique et belle grande 2pieces 130mil disponible nouvelle construction ☎️🥰🔑 130mil x5mois plus 100mil démarcheur  Détail: 2mois caution                2mois avance          1mois agence plus 100mil  Yopougon carrefour caféier bien placé au 3eme étages  Nous avant 3portes disponibles staffer baie vitré propre  Visite 5mil Contact: 0711392732  #2piece #fly #3piecesuit #vue #visibilité @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Le pougon, il m'a fini. Quand vous demandez vous abonner à cette appartement à tous ces belles pépites-là, c'est pour ne rien rater. Nous avons décidé de construire une construction différente de 170 000 francs avec de trois pièces de 250 000 francs à la location. Voilà là, c'est ta maison. La maison, elle est propre, elle est belle au troisième étage. Que des pépites ici là, qui sont centrés, 170 000 francs à la location. C'est intéressant de vous voir. Ça fait plaisir de vous négocier un peu, voilà. Très belle maison, ça fait bien pour bien beau. Aïe au pougon, c'est pour café. On boit du bordurage de la route. Voilà, faci danser au niveau du bon waiting-touch de café. Voilà, la maison est faci danser, elle est bien placée au bord du bordurage. Voilà, là, il n'y a aucun problème de ici. Allons au niveau de la douche et du balcon. Là, c'est le balcon qui danse sur le salon. Très belle maison. 170 000 francs à la location. La maison, c'est à fait. Tous les jours qui m'appellent, je pourrais m'obliger tout le monde. Très belle maison, c'est à fait au stand-in. Quelle est ça, le coup du loyer? Je viens pour voir ça ici. Chôle de maison, là, c'est la chambre. Voilà, là, c'est la chambre, c'est la chambre, c'est la chambre. La maison, c'est à fait. Elle est belle, elle est splendide. Elle est rayonnante, elle resplande cent ans. Très bonne maison, nouvelle construction. Etant vous, demandez-vous, apprendez-la. C'est un rapport à toutes ces bonnes pépites-là. C'est pour ne négater.",
+ "ocr": [
+  "Négocier à 130mil",
+  "Négocier à cier à 130mil BB",
+  "PATTERN : Pl",
+  "Wu ANLPATAUAI",
+  "El ’ JNLMMATELUMT",
+  "bre {lp till F ll",
+  "à 130mil",
+  "égocier",
+  "mere"
+ ],
+ "thumb": "thumbs/tt_7705468101147725076.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Caféier",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": 260000,
+  "avance": 260000,
+  "agence": 130000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "baie vitrée"
+  ],
+  "resume": "Location 2 pièces neuve au 3e étage à Yopougon carrefour Caféier, 130 000 F par mois, 5 mois à payer plus 100 000 F de démarcheur, caution 2 mois, avance 2 mois, agence 1 mois, visite 5 000 F, 3 portes disponibles.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

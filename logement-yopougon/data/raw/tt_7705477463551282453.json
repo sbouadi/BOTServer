@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705477463551282453",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705477463551282453",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705477463551282453",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261107",
+ "duration": 212,
+ "description": "À louer, Yopougon niangon sud à gauche, terminus 27, maison basse de 6 pièces à 180.000f Nb: Église, bureau et habitation passent. Visite:5000f Contact:0711489393",
+ "transcript": "YAAA",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705477463551282453.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud",
+  "type": null,
+  "pieces": 6,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une maison basse de 6 pièces à Niangon Sud (Yopougon, à gauche du terminus 27) à 180 000 F ; usage église, bureau ou habitation accepté ; visite 5 000 F ; contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

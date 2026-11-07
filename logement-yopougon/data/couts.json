@@ -136,11 +136,11 @@
    "cout_usd": 0.4696
   },
   "lecture": {
-   "appels": 36,
-   "jetons_entree": 105621,
-   "jetons_sortie": 8035,
+   "appels": 45,
+   "jetons_entree": 133764,
+   "jetons_sortie": 10189,
    "recherches_web": 0,
-   "cout_usd": 0.015
+   "cout_usd": 0.0191
   }
  }
 }

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7705507675391511815",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7705507675391511815",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7705507675391511815",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261107",
+ "duration": 32,
+ "description": "🏪 MAGASIN À CÉDER À YOPOUGON – CARREFOUR MARQUIS Vous êtes à la recherche d'un magasin déjà aménagé pour démarrer votre activité ? Voici une belle opportunité à saisir ! 📍 Localisation : Yopougon, Carrefour Marquis. ✨ Avantages : - Accès facile. - Magasin bénéficiant déjà d'un travail d'aménagement effectué. - Idéal pour poursuivre une activité commerciale. 💰 Loyer mensuel : 85 000 FCFA. 💵 Prix de cession : 650 000 FCFA. ⚠️ NB : Le magasin est cédé sans l'ensemble des matériels et équipements. La cession concerne principalement le magasin et les travaux déjà réalisés par l'occupante. 📞 Pour plus d'informations, contactez-nous : 05 06 64 49 72 (WhatsApp).",
+ "transcript": "salut salut salut salut tout je vous tourais aller je vous présente un marasin à céder voilà c'est pas à céder avec tout la dame prend tout ces choses c'est contenu des travaux qu'elle a fait là voilà dans le marasin avec elle a deux mois de caution elle prend tous ses assises soit avec deux mois chez deux mois de caution chez le propriétaire voilà à céder 600 000 francs situé à yopougon car il faut maquille bien placé un très grand marasin avec une douche loyer 80",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705507675391511815.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Marquis",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Cession d'un magasin déjà aménagé à Yopougon, Carrefour Marquis, loyer mensuel 85 000 FCFA, prix de cession 650 000 FCFA (cédé sans l'ensemble des matériels et équipements, travaux de l'occupante inclus). Contact WhatsApp 05 06 64 49 72. Audio évoque 600 000 F et loyer 80 000, divergeant de la légende ; deux mois de caution mentionnés à l'audio.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}

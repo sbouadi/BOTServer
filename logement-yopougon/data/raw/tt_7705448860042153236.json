@@ -1,0 +1,45 @@
+{
+ "id": "tt_7705448860042153236",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7705448860042153236",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7705448860042153236",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261107",
+ "duration": 81,
+ "description": "🛑LOCATION 📍 YOPOUGON MAROC KIMI  ✅UNE MAGNIFIQUE 4 PIÈCE  BON STANDING AU 1ERE ÉTAGE DISPONIBLE STAFFER DANS  UN  BEAUX BATIMENT EN BORDURE DE LA ROUTE TRÈS ACCESSIBLE  BORDURAL HABITATION COMME BUREAU PASSE  1ERE ÉTAGE 03 SALLES D'EAU ❤️  VIGILE  03 BALCON  BUANDERIE  CHAUFFE EAUX  PARKING  SPOTE LUMINEUX  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 250.000 FR ✅CONDITIONS: 6MOIS+150mille  CONTACT: 0720363576",
+ "transcript": ".org",
+ "ocr": [
+  "(060600090009",
+  "8 + Triés",
+  "PeLTLiée",
+  "PEPTLTLLibe."
+ ],
+ "thumb": "thumbs/tt_7705448860042153236.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": 150000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "balcon",
+   "buanderie",
+   "chauffe-eau",
+   "parking",
+   "salles d'eau"
+  ],
+  "resume": "Location d'un 4 pièces de bon standing au 1er étage à Yopougon Maroc Kimi, en bordure de route, utilisable comme habitation ou bureau. 3 salles d'eau, 3 balcons, buanderie, chauffe-eau, parking, vigile. Loyer 250 000 F, 6 mois à payer + 150 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-07",
+ "origine": "découverte"
+}
