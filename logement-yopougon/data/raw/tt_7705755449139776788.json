@@ -1,0 +1,47 @@
+{
+ "id": "tt_7705755449139776788",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7705755449139776788",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705755449139776788",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261108",
+ "duration": 75,
+ "description": "Magnifique et superbe belle grande 2pieces nouvelle construction 130mil bail 🚨🚓 et civil  Bail: 130mil x3mois plus 100mil démarcheur  Nb: Relecat 6mois  Civil: 130mil x5mois plus 100mil démarcheur  Détail: 2mois caution                2mois avance         1mois agence plus 100mil  Yopougon Carrefou cash Cafeir bien placé nouvelle construction au 3eme étages  Visite 5mil Contacte: 0711392732  #2piece #3piecesuit #vue #police #visibilité @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon Immobilier, quand on vous demande de vous abonner là, c'est par rapport à toutes ces belles pépites là, toutes ces belles nouvelles constructions, c'est vous ne rien rater. Voilà une très belle 2 pièces de nouvelles constructions disponibles au 3ème étage de 130 000 fonds d'allocations. Je répète encore, tout type de corps passe dessus et civile. La maison, elle est là, c'est une nouvelle construction. Au niveau du cache des cafeillers, souvent appelés carrufous poubelles. Voilà la maison, elle est là, 130 000 fonds d'allocations. Voilà là, c'est la douche. Voilà, la douche elle est bien grande. Très belle nouvelle construction, 130 000 fonds civiles et corps habillés. Civile et corps habillés. Voilà là, c'est la cuisine, très bonne cuisine. Voilà la maison, elle est là, après, tu as habité, tu vesses ta caution automatiquement, tu prends ta clé. Tu vesses ta caution, tu prends ta clé. Voilà, aucun problème d'eau ici. Il y a au Pougon cafeillers. Voilà, bien placé, on borde du bordeur. Là, c'est la chambre qui est là. Très belle maison, prêt à bider. Quand vous demandez vous abonner, là, c'est par rapport à tout ça. Là, c'est pour ne rien rater.",
+ "ocr": [
+  "Bail 24",
+  "Et civil",
+  "Bail 804",
+  "4 Et civil",
+  "Bail 84",
+  "Bail 3",
+  "Bail 8£ |",
+  "| Et civil",
+  "Bail 44"
+ ],
+ "thumb": "thumbs/tt_7705755449139776788.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Cafeier",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": 260000,
+  "avance": 260000,
+  "agence": 100000,
+  "mois_a_payer": 3,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "cuisine",
+   "placard"
+  ],
+  "resume": "Location 2 pièces neuve au 3ème étage à Yopougon Carrefour Cafeier. Bail : 130 000 x3 mois + 100 000 démarcheur ; civil : 130 000 x5 mois + 100 000 démarcheur. Caution 2 mois, avance 2 mois, 1 mois d'agence + 100 000. Visite 5 000. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-08",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7705796732201848084",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7705796732201848084",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705796732201848084",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261108",
+ "duration": 140,
+ "description": "Mise en location d'un appartement de 3 pièces à 120.000f au 1er étage. Lieu: Yopougon Maroc anador, collège labagoué Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [
+  "can 5",
+  "TE EME:"
+ ],
+ "thumb": "thumbs/tt_7705796732201848084.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Anador",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 3 pièces au 1er étage à Yopougon Maroc Anador (collège Labagoué) à 120 000 F, frais de visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-08",
+ "origine": "découverte"
+}

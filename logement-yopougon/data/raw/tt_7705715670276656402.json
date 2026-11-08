@@ -1,0 +1,36 @@
+{
+ "id": "tt_7705715670276656402",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7705715670276656402",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7705715670276656402",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261108",
+ "duration": 65,
+ "description": "💎 #INVESTISSEURS, CE BIEN EST FAIT POUR VOUS !  ​Vous cherchez un investissement immobilier hyper rentable et totalement sécurisé à Abidjan ? ​Découvrez ce magnifique complexe composé de 2 immeubles jumelés idéalement situés à Yopougon Toit Rouge. ​✅ Bâti sur : 525 m² avec ACD ✅ Composition : 12 appartements (3 pièces) + 3 magasins commercialisés 📊 Rapport mensuel : 4 000 000 FCFA / mois (Revenus locatifs garantis !) ​💰 Prix initial : 500 000 000 FCFA (À débattre) 🎯 Dernier prix (KO) : 450 000 000 FCFA ​📲 Appelez dès maintenant pour réserver une visite : JB immobilier 0788393888/ WhatsApp 0575303446",
+ "transcript": "T'as baban de lui, je râchera de foir Aie qu'on est ma faiblesse",
+ "ocr": [
+  "DURLLLLEL",
+  "TUE |"
+ ],
+ "thumb": "thumbs/tt_7705715670276656402.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un complexe de 2 immeubles jumelés à Yopougon Toit Rouge, bâti sur 525 m² avec ACD, composé de 12 appartements (3 pièces) et 3 magasins commercialisés, rapportant 4 000 000 FCFA par mois ; prix initial 500 000 000 FCFA, dernier prix 450 000 000 FCFA, contact JB immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-08",
+ "origine": "découverte"
+}
