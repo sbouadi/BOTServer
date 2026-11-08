@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705845153897909536",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7705845153897909536",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7705845153897909536",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261108",
+ "duration": 28,
+ "description": "3 pièces haut standing au 4em étage à Yopougon bagnon en bordure habitation comme bureau  Loyer: 135.000 Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "Trois pièces de nouvelle construction. Stoffe 1, ready, douche. 130,000 fois, parce que j'ai pas vu ça. Je n'ai jamais habité à un nombre de temps. On a dû le viscer. 4 000 fois, je suis en train de faire un enfant. Stoffe 1, chambre pour le transport. Capitale, 10, 20, 40. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705845153897909536.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 135000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces haut standing au 4e étage à Yopougon Bagnon, en bordure d'habitation, utilisable comme bureau. Loyer 135 000 F. Contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-08",
+ "origine": "découverte"
+}
