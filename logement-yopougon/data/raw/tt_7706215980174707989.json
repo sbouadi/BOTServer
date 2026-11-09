@@ -1,0 +1,40 @@
+{
+ "id": "tt_7706215980174707989",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7706215980174707989",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7706215980174707989",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261109",
+ "duration": 243,
+ "description": "Alain zegbehi vous présente une duplex de 8 pièces 550 mille avec garage deux voitures bingerville phamarci Akandje visite 10000 mille infos 0767082208/0501744553",
+ "transcript": "ok salut salut c'est Alain Zibi what Emma serviteur et je vous présente ici une huit pièce du presse huit pièce avec garage à Bégeville à Candille vous voyez voilà j'y rentre là-bas du presse voilà regardez voici l'entrée voici la cour vous voyez la cour c'est 550 000 huit pièces voilà regardez voilà j'y rentre là ici c'est la bien dirige la cour arrière oui voilà ok voici le salon Alain Zibi toujours what Emma serviteur regardez oui 550 000 avec ça la manger Alain Zibi toujours regardez là oui c'est là ça la manger là regardez le salon ici le salon très belle maison ici oui là voilà c'est la cuisine regardez la cuisine oui la cuisine oui là du confort oui église habitation tout passe oui voilà regardez voilà une chambre ici là c'est pour la sèvente ici tout le monde est sèvée sèvente vousz ne veut nièce tout le monde est sèvée ici oui là là c'est pour la sèvente ici voilà voilà je suis là voilà regardez j'ai monté ce chambre ok à l'escalier ok voici nos chambres en côte ici regardez très belle maison les gars allez aiguille toujours votre emmab serviteur regardez oui là barquons de cette chambre vous voyez là avec une douche voilà regardez belgeville à congé bien placé église comme habitation tout passe il a dit la chambre principale et regardez gaillet à chambre allez aiguille toujours regardez encore apprécier c'est la chambre oui là c'est pas salon c'est la chambre oui là c'est pas salon bureau comme habitation église passe regardez belgeville à congé voici le barquon de la chambre vous voyez là voilà oui ok voici voilà ok regardé encore regardé encore j'ai pas fini dressing voici ici la douche vous voyez la douche de la chambre voilà dressing qui vont poser des placards ici voici nos chambres en côte ici j'ai utilisé une 8 pièces 8 pièces voilà toutes les chambres sont autonomes vous voyez là voilà 570 mille oui voici la douche ici voilà ça vous voulez regarder apprécier voici et nos chambres en côte ici ça pousse la vie des salles ça des réunions ici voilà oui allez aiguille toujours avec toujours avec une douche regardé voilà ça pousse la vie des salles des réunions voilà voilà c'est une chambre encore ici pareil et ça a l'aiguille toujours voilà c'est une 8 pièces tout le monde et c'est 550 mille belgeville à congé vous voyez voilà regardé voilà il n'y a rien à dire je me dirai dans le deuxième salon voici le deuxième salon les gars regardé à l'aise aiguille toujours et ma serviteur vous voyez voilà rien à dire il n'a dit vous voyez pas sur le balcon du salon encore du deuxième salon vous voyez là c'est une duplesse c'est une duplesse les gars ok bonne nuit sur le salon allez aiguille toujours votre aimab serviteur mais si donnez votre vie à jésus",
+ "ocr": [
+  "ALLO TS"
+ ],
+ "thumb": "thumbs/tt_7706215980174707989.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bingerville",
+  "quartier": "Akandjé",
+  "type": "duplex",
+  "pieces": 8,
+  "loyer": 550000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [
+   "garage deux voitures",
+   "cour",
+   "cuisine",
+   "douche"
+  ],
+  "resume": "Duplex de 8 pièces avec garage deux voitures à Bingerville (Akandjé), loyer 550 000 F, frais de visite 10 000 F. Chambres autonomes avec douche, deux salons, cuisine, cour; utilisable aussi comme bureau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706167298884685076",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706167298884685076",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706167298884685076",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261109",
+ "duration": 131,
+ "description": "🏠🔥 3 PORTES DE 2 PIÈCES À LOUER ! 📍 Yopougon Niangon Sud – Centre Social 🏗️ Nouvelle construction ! 📅 Disponibles cette semaine ! 💰 Loyer : 80.000 F/mois 📋 Conditions : 6 mois + 40.000 F 👀 Visite : 5.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 🚨 CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! #Yopougon #NiangonSud #LocationAbidjan #Immobilier",
+ "transcript": "",
+ "ocr": [
+  "DEMEr æY"
+ ],
+ "thumb": "thumbs/tt_7706167298884685076.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 3 portes de 2 pièces en nouvelle construction à Niangon Sud (Yopougon), loyer 80 000 F/mois, 6 mois à payer + 40 000 F de frais d'agence, visite 5 000 F, disponibles cette semaine, contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

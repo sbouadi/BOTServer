@@ -1,5 +1,356 @@
 [
  {
+  "id": "tt_7706088615482264853",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706088615482264853",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706088615482264853.jpg",
+  "quartier": "Niangon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 125000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "balcon / terrasse",
+   "étage"
+  ],
+  "resume": "Location d'un appartement de 3 pièces à 125 000 F avec 2 balcons au 2ème étage, à Yopougon Niangon menuisier. Visite 5 000 F. Contact [numéro masqué].",
+  "texte": "Mise en location d'un bel appartement de 3 pièces à 125.000f avec 2 balcons au 2ème étage. Lieu: Yopougon niangon menuisier. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #tiktokcotedivoire🇨🇮tiktok225  .org",
+  "contacts": [
+   "0711489393"
+  ],
+  "precision_lieu": "Niangon menuisier",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706093765651401992",
+  "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7706093765651401992",
+  "plateforme": "TikTok",
+  "auteur": "jean.baptiste.ngu208",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706093765651401992.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "equipements": [],
+  "resume": "Location d'une grande maison de type 3 pièces (F3) à Yopougon Maroc Obama, vide et prête à habiter, à 160 000 FCFA par mois. Contacts : [numéro masqué]8 et WhatsApp [numéro masqué].",
+  "texte": "Très belle et grande maison de type 3 pièces ( F3) Disponible à  Yopougon Maroc Obama  très très accessible, vide et prêt habiter  #Loyer 160.000 fcfa / Mois ☎ 078839388 WhatsApp 0575303446  wap ah ouh c'est bon ah ! c'est bon si, si, si, si, si, si, si, si, si, si YAMAAO YAMAAO YAMAAO @ Shot on ANESOME A80 ©. Shot on ANESOME A80 © © Shot on ANESOME A80 : È k À res 4 Lue=—4 ©, Shot on ANESOME A80 :@ Shot on ANESOME A80 © © Shot on ANESOME @ . Shot on ANESOME A80 Ot on ANESUME A8O ‘© ANESOME A80 Shot on ANESOME A8O 1 ©. Shot on ANESOME A8O !© Shot on ANESOME A80 © Shoton Er 2 En",
+  "contacts": [
+   "0575303446"
+  ],
+  "precision_lieu": "Maroc Obama",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 2,
+  "autres_liens": [
+   "https://www.tiktok.com/@jean.baptiste.ngu208/video/7700949029500308754"
+  ]
+ },
+ {
+  "id": "tt_7706121047703080212",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706121047703080212",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706121047703080212.jpg",
+  "quartier": "Azito",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "frais_visite": 5000,
+  "equipements": [
+   "cour arrière",
+   "cour avant"
+  ],
+  "resume": "Location d'une 3 pièces au rez-de-chaussée avec cour avant et arrière à Yopougon Azito carrefour policier, à 30m de la route, 140 000 F, visite 5 000 F.",
+  "texte": "Mise en location d'une 3 pièces 140.000f au rez-de-chaussée avec cour avant et arrière. Lieu: Yopougon azito carrefour policier, à 30m de la route. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225  jour parfait pour essayer sans plus tarder j'ai si beau mon trésor tu es prêt maintenant ? un, deux, un petit boom tu te relèves plus fort",
+  "contacts": [
+   "0711489393"
+  ],
+  "precision_lieu": "Azito carrefour policier",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706123045882334485",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706123045882334485",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706123045882334485.jpg",
+  "quartier": "Cité Verte",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement haut standing de 3 pièces au rez-de-chaussée à Yopougon, Cité verte (mosquée Rama), loyer 200 000 F, visite 5 000 F.",
+  "texte": "Mise en location d'un appartement haut standing de 3 pièces au rez-de-chaussée à 200.000f  Lieu: Yopougon cité verte mosquée rama. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+  "contacts": [
+   "0711489393"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706137593682857237",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706137593682857237",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706137593682857237.jpg",
+  "quartier": "Lièvre Rouge",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "frais_visite": 5000,
+  "equipements": [
+   "étage"
+  ],
+  "resume": "Mise en location d'un appartement de 3 pièces au 1er étage à Yopougon Lièvre Rouge, près du goudron, loyer 140 000 F, visite 5 000 F, contact [numéro masqué].",
+  "texte": "Mise en location d'un appartement de 3 pièces à 140.000f au 1er étage. Lieu: Yopougon lièvre rouge à quelque mettre du goudron. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽  Mila mon côté Dis Mila ma droite je déclare Je ne serai pas atteint Quand j'ai par le sang de Jésus Personne peut m'attendre Il a fait de moi il crole en des feux Oui qu'il peut m'éteindre Aucune flèche ne peut m'attendre Il a élargi mes limites Mais qu'en bas il a tout vaincu À la quoi il a tout accompli Oui mamie au large Au large Jésus m'a prise en charge En charge Dans mes combats il s'en vache En vache En vache Mes ennemis ils s'en charge En charge En charge Moussambikoyo LUS j-ù A FREE",
+  "contacts": [
+   "0711489393"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706162337320881429",
+  "url": "https://www.tiktok.com/@immobilieryopougon5/video/7706162337320881429",
+  "plateforme": "TikTok",
+  "auteur": "immobilieryopougon5",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706162337320881429.jpg",
+  "quartier": "Académie",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 140000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "WC",
+   "balcon",
+   "balcon / terrasse",
+   "staffé",
+   "étage"
+  ],
+  "resume": "Location 3 pièces staffer au 1er étage à Yopougon Academie diop, dernière boutique, près du terminus Diop. Loyer 140 000 F, 5 mois à payer plus 100 000 F démarcheur, caution 2 mois, avance 2 mois, agence 1 mois, frais de dossier 20 000 F, visite 5 000 F. Deux douches/WC, balcon avant et arrière.",
+  "texte": "Magnifique et superbe belle grande 3pieces staffer bai vitre 140mil disponible au 1er étages 🥰🔑☎️✅🏠 140mil x5mois plus 100mil démarcheur  Nb: frais de dossier 📁 20mil  Détail: 2mois caution               2mois avance         1mois agence plus 100mil  Yopougon Academie diop dernière boutique bien placé au 1er Etates au terminus diop facile d’accès mais mais le quartier  Visite 5mil Contacte: 0711392732  #3piecesuit #2piece #vue #yopougon🇨🇮🎶 #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑  Et au poudan immobilier. Quand on vous demande de vous abonner, là, c'est par rapport à tous ces bonnes pépites là, c'est pour ne rien rater. On est en tour, pièce disponible au premier étage, de 140 nœuds pour la location de la maison. Elle est vraiment tout sauvée, elle est propre, elle est clean, elle est beau. Très belle trois pièces, balcon à beau, balcon arrière, et la cousine, elle est bien galère. Façon qu'il va dans la vidéo, là, c'est comme ça, la maison s'est présente. Façon qu'il va dans la vidéo, c'est comme ça, la maison s'est présente. Très belle trois pièces, ça fait dix bonnes maisons, de 140 nœuds pour la location au premier étage. Elle est au poudan académique de la dernière boutique, voilà, juste au carreau de la dernière boutique, là, c'est un bionniérique, dans le dos du balcon. Allons directement dans l'inscription, voilà, deux douches, deux bécées, deux douches, deux bécées. Alors là, c'est la douche des enfants, douche visiteurs, voilà, là, c'est la chambre des enfants, elle est bien grande. Il n'y a rien qui est pétis ici, tout est grand, tout est beau, tout est grand, tout est beau. Quand on vous demande de vous abonner à cet rapport, tout ça, là, ça vous ne rien rater. La maison a été libérée, oui seulement, voilà, oui seulement, elle a été libérée, ça fait froid. Au premier étage, elle est au poudan académique de la dernière boutique, facile d'assurer. Là, elle est déshonnête pour la maison. mal | ur |",
+  "contacts": [
+   "0711392732"
+  ],
+  "precision_lieu": "Academie diop",
+  "source_extraction": "règles + IA",
+  "total_entree": 800000,
+  "publications": 2,
+  "autres_liens": [
+   "https://www.tiktok.com/@immobilieryopougon5/video/7705015200298093844"
+  ]
+ },
+ {
+  "id": "tt_7706168228770270516",
+  "url": "https://www.tiktok.com/@alainzegbehi10/video/7706168228770270516",
+  "plateforme": "TikTok",
+  "auteur": "alainzegbehi10",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706168228770270516.jpg",
+  "quartier": "Niangon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon / terrasse",
+   "cuisine",
+   "étage"
+  ],
+  "resume": "Location d'un 3 pièces au 2ème étage à Yopougon Naingon (à gauche du carrefour Saint Pierre), loyer 160 000 F, visite 5 000 F. Salon, cuisine avec balcon, chambre principale avec douche, chambre d'enfants et douche visiteur.",
+  "texte": "Alain zegbehi vous présente une 3 pièces  160 mille au deuxième étage yopougon naingon à gauche carrefour saint pierre visite 5000 mille infos 0767082208/0501744553 Ok, salut salut, c'est Alain Zégoi, votre MFViteur qui vous présente ici, une 3 pièces, 160.000 au 2ème étage. Yopougan, église, ses pieds. Regardez, vous voyez là, 160.000 bugets baoulés. Voilà, regardez. Voilà, bordu, bordurale. Regardez, 160.000 bugets baoulés. Vous voyez, voici la cuisine ici. C'est le balcon, le balcon de la cuisine. Voilà, voici la cuisine. Voilà, 160.000, voici le balcon de la cuisine. Voilà. Yopougan, y'a aussi l'église, ses pieds. Vous voyez le salon. 160.000 bugets baoulés. Voici la douche, la chambre principale ici. Vous voyez la chambre principale. Très bonne chambre. Rien à dire. Bordu, bordurale. Alain Zégoi, toujours votre MFViteur. 3 pièces, 160.000 bugets baoulés. Vous voyez, y'a la fenêtre pour éviter les rétours. Voilà. Regardez encore. Douche visiteur ici. Vous voyez, la fenêtre pour éviter les rétours. Voilà. Voici la chambre des enfants. Très grande chambre. Ça a préparé les 3 places. 160.000. Voilà. Bonne nuit sur le salon. Alain Zégoi, toujours votre MFViteur. Merci. Donnez votre vie à Jésus. +: lents",
+  "contacts": [
+   "0767082208",
+   "0501744553"
+  ],
+  "precision_lieu": "Naingon",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706174476991401223",
+  "url": "https://www.tiktok.com/@brunesleger/video/7706174476991401223",
+  "plateforme": "TikTok",
+  "auteur": "brunesleger",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706174476991401223.jpg",
+  "quartier": "Cité Verte",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "frais_visite": 5000,
+  "equipements": [
+   "3 salles d'eau",
+   "caméra de surveillance",
+   "carrelage vitrifié",
+   "cour arrière",
+   "cour avant",
+   "cuisine",
+   "cuisine full option",
+   "interphone",
+   "plusieurs salles d'eau",
+   "sanitaires avec douche",
+   "staffé"
+  ],
+  "resume": "Location d'un 3 pièces à Yopougon Cité verte, près de la mosquée Ramat, à 200 000 F par mois, avec 3 salles d'eau, cours avant et arrière, caméra de surveillance et interphone. Visite à 5 000 F. Contact par téléphone ou WhatsApp.",
+  "texte": "Brunes immobilier toujours. {{ 0153273240} whatsap}     [[ À louer]] une sublime 3 pièces à yopougon cité verte non loin de la mosquée Ramat. Très belle appartement. 👉 loyer 200 milles  👉 3 salles d’eau  👉 cours avant et arrière  👉 staffer aéré avec des carreaux vitrifié et des sports lumineux. 👉 caméra de surveillance plus interphone. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt  Je pose ma caméra, ça luchait tout ce brunesse mobilier toujours. Toujours moins comme moi dans le vrai pipit immobilier. Comme vous pouvez le voir, je suis au Saint-Juine, 3 pièces, au St-Dinga, à Yopukon, St-Vetta. Voilà, admirez vous-même la cuisine. Magnifique cuisine, absolument rien a dit, il est dit, mais en full option. Vous voyez, là, c'est la cour arrière. Très, très, très pro-viédie. La maison d'exemple du bonheur. Très pro-viédie, la caméra, des sujets, un chose haut. Un téléphone, il y a tout à l'intérieur. C'est pas cadeau, ça. Vous voyez, voilà, là, c'est la première chambre. Toutes les chansons autonomes, je dis bien. Les chansons autonomes, très, très, très pro-vié, absolument rien a signalé. Vous voyez, là, c'est la deuxième chambre. Voilà, la deuxième chambre avec sa douche. Vous voyez, voilà, maison full option. Maisons 0 défaut. Voilà. Avec brunesse mobilier, c'est la qualité et non la quantité.",
+  "contacts": [
+   "0153273240",
+   "0777789059"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706205939933678869",
+  "url": "https://www.tiktok.com/@adorateuremmnuel/video/7706205939933678869",
+  "plateforme": "TikTok",
+  "auteur": "adorateuremmnuel",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706205939933678869.jpg",
+  "quartier": "Bagnon",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "villa",
+  "pieces": 3,
+  "loyer": 185000,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "accessible",
+   "balcon",
+   "balcon / terrasse",
+   "climatisation",
+   "cuisine",
+   "garage / parking",
+   "parking externe",
+   "plusieurs salles d'eau",
+   "staffé",
+   "vigile 24h/24",
+   "étage"
+  ],
+  "resume": "Location d'un 3 pièces au 2e étage à Yopougon Bagnon côté Maroc, en bordure de l'autoroute, avec 3 salles d'eau, balcons, staff, aéré, vigile 24h/24, parking externe. Loyer 185 000 F, 6 mois à payer plus 100 000 F de frais d'agence, visite sur RDV 5 000 F. Contacts [numéro masqué] / [numéro masqué] (Sinaï immobilier).",
+  "texte": "0103831435((WAPSAP)) [[ALOUER]] 3PIECES 185 MLLE YOPOUGON BAGNON CÔTÉ MAROC 🇲🇦 TRÈS BIEN PLACÉ EN BORDURE DE L’AUTOROUTE  PRÈS À HABITER AU 2 EM ÉTAGE AVEC :  👉 3 SALLES D’EAUX  👉 BALCONS  👉 STAFFER  👉 AÉRÉ  👉 ACCESSIBLE ☑️ 👉 VIGILE 24h//24 👉 STORE  👉 PARKING EXTERNE  ✅ LOYER : 185 MLLE  ✅ VISITE SUR RDV : 5000 fR ✅ 6 MOIS PLUS 100 Mlle  ☎️: 0103831435//0706134282 Sinaï immobilier toujours #sinaïimmobiliertoujours #viraltiktok Sans le chien, tout ça, c'est une haïe immobilière toujours. Toujours moins encore moi, dans la vraie pépite immobilière. Comme vous pouvez le voir, je suis au sein du 3 pièces. Très propre, très beau appartement au niveau 2. Il y a beaucoup d'ambagnards côté Maroc. Au bord du de l'automouth. Joli maison, il n'y a rien à dire. Il y a des cuisines. Quand il y a une cuisine comme celle-là, il n'y a rien à dire. Ça c'est un petit village qu'on appelle Bourgogne. C'est la cuisine qui est là. Il n'y a pas de problème d'eau. L'eau est là comme dans les guéricots. Voilà, joli carré. Très beau appartement. Joli salon bien grand avec chambres. Il y a 3 douches, 3 salles d'eau. 3 douches vécées. Ça c'est la chambre à chambres des enfants. Avec les salles de bien. Comme vous pouvez le voir. Voilà. Tout droit, c'est la chambre principale. La chambre principale. Les travaux n'ont pas quoi être effectué. Voilà. La touche. La carte vitrée. Voilà. C'est là, il m'oublie toujours. A M 120 M ENICOMME DISRONIBLI DISRONIBLEPE ENCONMENMAIE min] & DISRONIBLERE AENCOMMENTAIRE DISRONELEEA ENCONMENAIE 16: i{min DISRONIBLEPE, ENICOMMENTAIRE 16:11lmin DISRONIBLEPE. BRPONELES DISPONELER ENCOMMENVARE n6:11lmins PSRONELEEA ENCONMENAXE 16:11[min] DISPONIBLE ?? ENTCOMMENTAIRE 16:11 min n6:11lmin) BLUES ENCOMMENTARE CAUSE DISRONEN ENCOMMEN _—— DISRONTEILE 881 ENCOMMENTAIRE 16ilmin} DISFPONELE 82 d T4 ENCONMENARE 4 : RUES À à ) Ÿ ! À ” ALT? DISFONELE FA ENCOMMENARE Léilmin CARUeS EN COMMENTAIRE DISRONIBLE ?? ONAUES DÉFONMETEEE EN SSMMENTAIRE DISPONIBLEPE, DISRONIBIIE, ENCOMENAR",
+  "contacts": [
+   "0103831435",
+   "0706134282"
+  ],
+  "agence": 5000,
+  "precision_lieu": "Bagnon, côté Maroc",
+  "source_extraction": "règles + IA",
+  "total_entree": 1210000,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706237198697368838",
+  "url": "https://www.tiktok.com/@toure.aly39/video/7706237198697368838",
+  "plateforme": "TikTok",
+  "auteur": "toure.aly39",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706237198697368838.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 185000,
+  "equipements": [
+   "cuisine"
+  ],
+  "resume": "Location d'un 3 pièces haut standing à Maroc, Yopougon, en bordure, 3 WC, loyer 185 000 F. Grande cuisine, travaux à prévoir dans la chambre principale.",
+  "texte": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC EN BORDURE 3DWC LOYER: 185 000. #location#maison#visibilité# Salut, salut, salut, salut, salut, toujours tout à l'heure. Je vous présente une trois pièces. 185 000 francs. Voilà. Vous voyez. Le Pougon, Maroc. En face de la pharmacie moirée, à l'opposé de la pharmacie moirée. Voilà. Côté Maroc, hein. Vous voyez. Regardez là, c'est une très très grande cuisine. Vous voyez. Il n'y a rien à dire. Très grande cuisine. Ça, c'est la chambre principale. Il y a des travaux à faire. La chambre principale, il y a des travaux à faire. Vous voyez. Ça, c'est la douche de la chambre principale. Ça, c'est la douche visiteuse. Vous voyez, la douche visiteuse. Il y a trois douches. Il y a trois douches. Là, vous voyez. Vous voyez.",
+  "contacts": [
+   "0506644972"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 1
+ },
+ {
+  "id": "tt_7706238455033957652",
+  "url": "https://www.tiktok.com/@adorateuremmnuel/video/7706238455033957652",
+  "plateforme": "TikTok",
+  "auteur": "adorateuremmnuel",
+  "date": "20261109",
+  "thumb": "thumbs/tt_7706238455033957652.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "accessible",
+   "aéré",
+   "balcon",
+   "balcon / terrasse",
+   "cuisine",
+   "garage / parking",
+   "parking externe",
+   "plusieurs salles d'eau",
+   "staffé",
+   "store",
+   "vigile 24h/24",
+   "étage"
+  ],
+  "resume": "Location 3 pièces au 1er étage à Maroc (Yopougon), en bordure d'autoroute, 3 salles d'eau, loyer 200 000 F, visite sur RDV 5000 F, 6 mois plus 100 000 F. Contact Sinaï immobilier.",
+  "texte": "0103831435((WAPSAP)) [[ALOUER]] 3PIECES 185 MLLE YOPOUGON MAROC 🇲🇦 TIKEN DJA TRÈS BIEN PLACÉ EN BORDURE DE L’AUTOROUTE  PRÈS À HABITER AU 1ER  ÉTAGE AVEC :  👉 3 SALLES D’EAUX  👉 BALCONS  👉 STAFFER  👉 AÉRÉ  👉 ACCESSIBLE ☑️ 👉 VIGILE 24h//24 👉 STORE  👉 PARKING EXTERNE  ✅ LOYER : 200 MLLE  ✅ VISITE SUR RDV : 5000 fR ✅ 6 MOIS PLUS 100 Mlle  ☎️: 0103831435//0706134282 Sinaï immobilier toujours #sinaïimmobiliertoujours #viraltiktok Salut chers tous, ce sonnail immobilier toujours, toujours moyen comme moi dans la vraie pépique immobilière. Je suis embordu, embordu, embordu de la grande fois. Je peux donc avoir foutu qu'il n'y a pas de trois pièces au stand-in. Gaillasse à long, je n'ai pas tiré cabarelle à 0.5K, c'est la vraie dimension de la maison que tu vois comme ça. Peu l'appartement, voilà. Je suis dans la cuisine, bien placardé, bien déposé. Voilà. Tout ça c'est l'infirante, voilà. Regardez comment il s'appelle un Gaillat. Toi aussi. Très propre, embordu, embordurale. Gaillat maison, bien chic. Voilà. Budget actuel, au stand-in. Voilà. Je suis ici dans la chambre principale. Il y en a aussi Gaillat. Gaillat. Très propre, très propre, très propre, très propre. Père, bidet. Tu vaches, tu dors, tu vaches, tu dors. Gaillat, tu n'as pas de remontée. Tout est propre, tu t'es clé ici. Decent mille loyers. Voilà, très propre, bien chouli. Voilà, douche de coco, là, le coco, là, le coco, là. Chambres des enfants. Bien propre, bien chic. Placaré, vaisselle, des plurals. Je suis sur les fonds des femmes paulées. Tout est là. Voilà l'appartement. Très propre appartement. Très beau appartement. Je vous remercie. Je vous remercie. Ciao ciao. DISFONELE 5? ENCOMMENTARE OMNAU2S DISFPONELE 89 EN COMMENTATE \\ DISPONIBLES? ONE } ANCOMMENVAIRE ONURS sDISRONELE EE NCOMEANMARE 118:20/mon] DSFONELE RE EANCOMMENTARE, 120 mon DSFONELEEE À CAE | e COURS | pe DÉFONELEEE ANCOMMENVARE OYAVI2E) mon) DISRONIBLER NCOMMENTARE O926) 18:20mon] LÉFONELEEE NCOMMENARE 18:20lmont DISFONELE 8 DÉSFONELE 8 A",
+  "contacts": [
+   "0103831435",
+   "0706134282"
+  ],
+  "agence": 5000,
+  "source_extraction": "règles + IA",
+  "total_entree": 1300000,
+  "publications": 3,
+  "autres_liens": [
+   "https://www.tiktok.com/@adorateuremmnuel/video/7700242373397220628",
+   "https://www.tiktok.com/@adorateuremmnuel/video/7699910137531600149"
+  ]
+ },
+ {
   "id": "tt_7705796732201848084",
   "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705796732201848084",
   "plateforme": "TikTok",
@@ -175,6 +526,37 @@
   "precision_lieu": "Niangon Nord-A Droite (cité Saint Rita)",
   "source_extraction": "règles + IA",
   "total_entree": 1100000,
+  "publications": 1
+ },
+ {
+  "id": "tt_7705903702317600021",
+  "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705903702317600021",
+  "plateforme": "TikTok",
+  "auteur": "immobilieryopougon5",
+  "date": "20261108",
+  "thumb": "thumbs/tt_7705903702317600021.jpg",
+  "quartier": "Carrefour Menuiserie",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 125000,
+  "caution": 375000,
+  "avance": 375000,
+  "agence": 125000,
+  "mois_a_payer": 7,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon / terrasse"
+  ],
+  "resume": "Location en sous-location d'un 3 pièces au 2e étage à Yopougon carrefour menuiserie, loyer 125 000 F sur 7 mois plus 80 000 F de démarcheur, caution 3 mois, avance 3 mois, 1 mois d'agence, visite 5 000 F.",
+  "texte": "Magnifique et superbe belle grande 3pieces prêt a habiter 125mil au 2eme étages 🥰✅🔑☎️ 125mil x7mois plus 80mil démarcheur  Détail: 3mois caution                3mois avance         1mois agence plus 80mil  Nb: c’est une sous location  Yopougon carrefour menuiserie bien placé en bordure de centre ville au 2eme étages  Visite 5mil Contact: 0711392732  #3piecesuit #2piece #vue #visibilité #yopougon🇨🇮🎶 @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑  c'est une très belle maison à du balcon",
+  "contacts": [
+   "0711392732"
+  ],
+  "source_extraction": "règles + IA",
+  "total_entree": 955000,
   "publications": 1
  },
  {
@@ -570,41 +952,6 @@
   "agence": 80000,
   "source_extraction": "règles + IA",
   "total_entree": 730000,
-  "publications": 1
- },
- {
-  "id": "tt_7705015200298093844",
-  "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705015200298093844",
-  "plateforme": "TikTok",
-  "auteur": "immobilieryopougon5",
-  "date": "20261106",
-  "thumb": "thumbs/tt_7705015200298093844.jpg",
-  "quartier": "Académie",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 140000,
-  "caution": 280000,
-  "avance": 280000,
-  "agence": 140000,
-  "mois_a_payer": 5,
-  "frais_agence": 100000,
-  "frais_visite": 5000,
-  "equipements": [
-   "balcon",
-   "balcon / terrasse",
-   "cuisine",
-   "étage"
-  ],
-  "resume": "Location 3 pièces à Yopougon Académie cité marine, disponible au 1er et 4e étages, 140 000 F par mois, 5 mois à payer plus 100 000 F démarcheur, caution 2 mois, avance 2 mois, agence 1 mois plus 100 000 F, visite 5 000 F, deux balcons, chambre principale avec douche.",
-  "texte": "Magnifique et superbe belle grande 3pieces 140mil disponible au 1er étages et au 4eme étages 🔑🥰✅☎️ 140mil x5mois plus 100mil démarcheur  Détail: 2mois caution               2mois avance         1mois agence plus 100mil  Yopougon Academie cité marine dans le dos de la cité au 1er et au 4eme étages deux balcon  Visite 5mil Contacte: 0711392732  #3piecesuit #fly #2piece #vue #visibilité @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑  Il faut qu'on oublie. Quand on vous demande de vous abonner, là, c'est par rapport à tous ces bonnes pépites-là, c'est pour ne rien rater. 3 pièces 140000 fois disponibles au premier étage à Yopouton, académique le taux de la Sphère Marie. C'est faire le poids à extension au Canfou, au Tête-Bénice. Alors là, c'est la cuisine, là, tout le monde, elle est déjà prête à habiter. Il n'y a pas de jeu d'affaire. Voilà, très bon 3 pièces au premier étage à Yopouton. Toujours que tu m'appelles, tu peux oublier par les 1es 4 pièces disponibles au premier étage au rejet de choses. Voilà, c'est si. Aucun problème d'ici. Voilà, cour avant cour arrière, maintenant avant bancom parrière. Alors, je vais aller au salon. Cailleur, salon, comme vous le savez, le plaisir. Fassons de voir la vidéo, c'est comme ça la maison se présente. Fassons de voir la vidéo, c'est comme ça la maison se présente. 3 pièces de 140.000 francs disponibles au premier étage à Yopouton. Par exemple, dans le dos de la cité Marine, on soit à la cour à extension, Carrefour, Hôtel, Bénice. Voilà, on a aussi une cour à pièces au 4ème étage. Donc on a 2 cour à pièces sur le bâtiment. 1 au premier étage et 1 au 4ème étage. Voilà, là, c'est la chambre principale. Là, c'est la chambre principale. Les planèges deviennent et là, c'est la douche de la chambre principale qu'elle a. Alors, on doit vraiment en cours de la chambre des enfants, voilà. 140.000 francs la location, la cour à pièces, elle est là. Voilà.",
-  "contacts": [
-   "0711392732"
-  ],
-  "precision_lieu": "Academie cité marine",
-  "source_extraction": "règles + IA",
-  "total_entree": 800000,
   "publications": 1
  },
  {
@@ -4066,38 +4413,6 @@
   "publications": 1
  },
  {
-  "id": "tt_7700949029500308754",
-  "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7700949029500308754",
-  "plateforme": "TikTok",
-  "auteur": "jean.baptiste.ngu208",
-  "date": "20261026",
-  "thumb": "thumbs/tt_7700949029500308754.jpg",
-  "quartier": "Maroc",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 160000,
-  "equipements": [
-   "2 douches WC",
-   "balcon",
-   "balcon / terrasse",
-   "staffer",
-   "staffé",
-   "étage"
-  ],
-  "resume": "Location d'un appartement de 3 pièces avec 2 douches WC, staffer et balcon, bien aéré, au 2e étage à Yopougon Maroc antenne, loyer 160 000 FCFA par mois. Contacts indiqués : [numéro masqué] et WhatsApp [numéro masqué].",
-  "texte": "Yopougon Maroc antenne, bel appartement de 3 pièces avec 2 douche WC,staffer avec balcon bien aéré très accessible au 2eme étage Loyer 160000 FCFA /Mois 0788393888 / WhatsApp 0575303446 ",
-  "contacts": [
-   "0788393888",
-   "0575303446"
-  ],
-  "precision_lieu": "Maroc antenne",
-  "source_extraction": "règles + IA",
-  "total_entree": null,
-  "publications": 1
- },
- {
   "id": "tt_7700983297194741000",
   "url": "https://www.tiktok.com/@toure.aly39/video/7700983297194741000?_r=1&_t=ZS-9Ay9CU86eQO",
   "plateforme": "TikTok",
@@ -4316,43 +4631,6 @@
   "source_extraction": "règles + IA",
   "total_entree": null,
   "publications": 1
- },
- {
-  "id": "tt_7700242373397220628",
-  "url": "https://www.tiktok.com/@adorateuremmnuel/video/7700242373397220628",
-  "plateforme": "TikTok",
-  "auteur": "adorateuremmnuel",
-  "date": "20261024",
-  "thumb": "thumbs/tt_7700242373397220628.jpg",
-  "quartier": "Maroc",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 200000,
-  "frais_visite": 5000,
-  "equipements": [
-   "2 balcons",
-   "2 salles d'eau",
-   "balcon / terrasse",
-   "plusieurs salles d'eau",
-   "près habitations",
-   "staffer et spots lumineux",
-   "staffé",
-   "étage"
-  ],
-  "resume": "Location d'un 3 pièces au 2e étage à Yopougon Maroc, près du petit marché d'Antenne, bien propre, loyer 200 000 F, visite sur rendez-vous à 5000 F, agence Sinaï immobilier.",
-  "texte": "0103831435((WAPSAP)) [[ALOUER]] 3PIECES 200 MLLE YOPOUGON MAROC 🇲🇦 ANTENNE PETIT MARCHÉ AU 2EM ÉTAGE BIEN PROPRE AVEC :  👉 2 SALLES D’EAUX  👉 2 BALCONS  👉 STAFFER & SPOTE LUMINEUX 👉 PRÈS HABITER  👉 GRANDE CHAMBRE  ✅ LOYER : 200 MLLE  ✅ VISITE SUR RDV : 5000 fR  ☎️: 0103831435//0706134282 Sinaï immobilier toujours #sinaïimmobiliertoujours  Ils ont beaucoup d'argent, l'ordre des suspendus, le PCA, attitude de...",
-  "contacts": [
-   "0103831435",
-   "0706134282"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
-  "publications": 2,
-  "autres_liens": [
-   "https://www.tiktok.com/@adorateuremmnuel/video/7699910137531600149"
-  ]
  },
  {
   "id": "tt_7700284301551832327",
@@ -4730,66 +5008,5 @@
   "source_extraction": "règles + IA",
   "total_entree": null,
   "publications": 1
- },
- {
-  "id": "tt_7697813673254948097",
-  "url": "https://www.tiktok.com/@kouassiimmobilier1/video/7697813673254948097",
-  "plateforme": "TikTok",
-  "auteur": "kouassiimmobilier1",
-  "date": "20261018",
-  "thumb": "thumbs/tt_7697813673254948097.jpg",
-  "quartier": "Maroc",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 130000,
-  "equipements": [],
-  "resume": "Location d'un magnifique 3 pièces à Yopougon Maroc, 130 000 F par mois payable sur 4 mois, frais d'agence de 5 000 F à payer obligatoirement avant toute visite. Contact : [numéro masqué].",
-  "texte": "TikTok video #7697813673254948097 Toi et moi, même énergie, sous les néons de la nuit Le destin nous a réunis, le soin nous guide, c'est l'infini C'est notre alchimie, contre tous folies Juste vieux, juste ma voix, c'est plus fort que nous saisis Mouche ton corps, peut bien s'effacer dans tes bras, je suis révélé C'est notre alchimie, contre tous folies Juste vieux, juste ma voix, c'est plus fort que nous saisis Magnifique 3 pièces disponibles Yopougon Maroc # 130.000 | X4 mois Frais d'agence : 5.000f À payer obligatoirement avant toute visite | Contact : 0584094189 \\ Magnifique 3 pièces M disponibles Yabeuson LA _ O00Of | X4 mois | À payer obligatoirement : : ! avant toute visite | Contact : 0584094189 Maroc 130.000f avant e- visite F2S ——. 0584094189 +: Maroc !{ te À 130.000f - Frais d'agence : 5. 000f Contact : 0584094189 | == Maroc F1] 130.000f 1 Ÿ ) Yopougon s Proc 000f c X4 mois Frais d'agence : 5.000f > E avant toute visite | Yopougon M Maroc ! x Contact : 0584094189 Magnifique 3 pièces ! MN disponibles | X4 mois Frais d'agence : 5.000f % À payer obligatoirement {4 ALES Contact : 0584094189 | À payer obligatoirement ! > avant toute visite =. | _ Contact : 0584094189 = Magnifique 3 pièces | | disponibles ” Maroc avant toute visite 47 APPEL a .. E - 0584094189 ‘ 130.000 X4 mois ps L d'agence : 5. 000f gr = À payer obligatoirement : or ” avant toute visite 3£ Contact : 0584094189 A : Yopougon Frais s d'agence : 5. 000f À LS RAYE obligatoirement | - avant toute visite fi = 0584094189 Maroc = 130.000f * . X4 mois _ d'agence : 5.000f h À D EEVS! obligatoirement # > avant toute visite M 1 À Ÿ Contact : 0584094189 + * Magnifique 3 pièces » Maroc 7\" Tlln. À payer obligatoirement ha » avant toute visite Eu\" M Magnifique 3 à disponibles 8 Yopougon ”” + 130.000f avant toute visite ee | Magnifique 3 pièces »… 7 disponibles Yopougon | Maroc M > avant toute visite ! . mer 2 Maroc , D À payer obligatoirement # Sn e _e sat - avant toute visite 1\" ni EPA “ Contact :0584094189 ",
-  "contacts": [
-   "0584094189"
-  ],
-  "mois_a_payer": 4,
-  "frais_agence": 5000,
-  "source_extraction": "règles + IA",
-  "total_entree": 525000,
-  "publications": 1
- },
- {
-  "id": "tt_7698100899780119829",
-  "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7698100899780119829",
-  "plateforme": "TikTok",
-  "auteur": "maison.du.bonheur82",
-  "date": "20261018",
-  "thumb": "thumbs/tt_7698100899780119829.jpg",
-  "quartier": "Niangon Sud",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 170000,
-  "mois_a_payer": 5,
-  "frais_agence": 100000,
-  "equipements": [
-   "buanderie",
-   "plusieurs salles d'eau",
-   "salle d'eau",
-   "staffé",
-   "étage"
-  ],
-  "resume": "Location d'un appartement 3 pièces de bon standing au 1er étage ou rez-de-chaussée à Niangon, carrefour Dépôt, accessible, 3 salles d'eau et buanderie. Loyer 170 000 FCFA, conditions 5 mois + 100 000 FCFA. Réservé aux salariés. Contact [numéro masqué].",
-  "texte": "LOCATION 📍 YOPOUGON NAIANGON CARREFOUR DÉPÔT  ✅UN MAGNIFIQUE APPAREMMENT 3 PIÈCE  BON STANDING AU 1ER ÉTAGE  ET AU REZ DE CHAUSSÉE DISPONIBLE STAFFER À YOPOUGON À GAUCHE NIANGON À GAUCHE  CARREFOUR DÉPÔT ACCESSIBLE TRÈS BIEN PLACÉ  NB: SALARIÉS EXiGER  AU 1ER ÉTAGE ET REZ DE CHAUSSÉE  02 BLACON  3 SALLE D'EAU BUANDERIE  ACCÈS FACILE EN BORDURE LOYER: 170.000 FCFA CONDITIONS : 5MOIS+100MILLE  CONTACT: 0720363576  .org Load | mmmatiiitée Ÿ",
-  "contacts": [
-   "0720363576"
-  ],
-  "agence": 100000,
-  "precision_lieu": "Niangon",
-  "source_extraction": "règles + IA",
-  "total_entree": 950000,
-  "publications": 2,
-  "autres_liens": [
-   "https://www.tiktok.com/@maison.du.bonheur82/video/7698101608239893780"
-  ]
  }
 ]

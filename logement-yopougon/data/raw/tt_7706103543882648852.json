@@ -1,0 +1,42 @@
+{
+ "id": "tt_7706103543882648852",
+ "source_url": "https://www.tiktok.com/@adorateuremmnuel/video/7706103543882648852",
+ "url": "https://www.tiktok.com/@adorateuremmnuel/video/7706103543882648852",
+ "platform": "TikTok",
+ "uploader": "adorateuremmnuel",
+ "upload_date": "20261109",
+ "duration": 74,
+ "description": "0103831435(( WAPSAP))  [[ALOUER ]] 2PIECES 160 MLLE YOPOUGON ANANERAIE SORBONNE AU 3 EM ÉTAGE EN BORDURE AVEC :  👉 2 SALLES D’EAUX  👉 STAFFER  👉 SPOTE LUMINEUX  👉 PARKING 🅿️ INTERNE  👉 VIGILE 24h//24  ✅ LOYER : 160 MLLE  ✅ VISITE SUR RDV : 5000 fR  ☎️ : 0103831435//0706134282 Sinaï immobilier toujours #viral ",
+ "transcript": ".org",
+ "ocr": [
+  "sine À",
+  "= LS 7 LS Per"
+ ],
+ "thumb": "thumbs/tt_7706103543882648852.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "staff",
+   "spots lumineux",
+   "parking interne",
+   "vigile 24h/24"
+  ],
+  "resume": "Location d'un 2 pièces au 3e étage en bordure à Yopougon Ananeraie Sorbonne, 160 000 F par mois, avec 2 salles d'eau, staff, spots lumineux, parking interne et vigile 24h/24. Visite sur rendez-vous à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

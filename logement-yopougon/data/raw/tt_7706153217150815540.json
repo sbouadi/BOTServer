@@ -1,0 +1,37 @@
+{
+ "id": "tt_7706153217150815540",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706153217150815540",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706153217150815540",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261109",
+ "duration": 117,
+ "description": "🏠🔥 À LOUER – APPARTEMENT DE 4 PIÈCES 📍 Yopougon Niangon Sud – Cité CIE, Pâtisserie Flora 🏢 3ᵉ étage 🚿 3 DWC 💰 Loyer : 180.000 F/mois 📋 Conditions : 5 mois + 100.000 F 👀 Visite : 5.000 F ⚠️ NB : Appartement en cours de rénovation. 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP ! Ça ne dure pas ! #Yopougon #NiangonSud #LocationAbidjan #Immobilier",
+ "transcript": "C'est pas ça, c'est pas ça",
+ "ocr": [
+  "LATE"
+ ],
+ "thumb": "thumbs/tt_7706153217150815540.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "3 DWC"
+  ],
+  "resume": "Appartement de 4 pièces à louer au 3ᵉ étage à Yopougon Niangon Sud (Cité CIE, Pâtisserie Flora), loyer 180 000 F/mois, conditions 5 mois + 100 000 F, visite 5 000 F, en cours de rénovation, 3 DWC.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

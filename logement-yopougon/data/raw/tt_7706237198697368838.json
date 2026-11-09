@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706237198697368838",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706237198697368838",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706237198697368838",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261109",
+ "duration": 77,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC EN BORDURE 3DWC LOYER: 185 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, toujours tout à l'heure. Je vous présente une trois pièces. 185 000 francs. Voilà. Vous voyez. Le Pougon, Maroc. En face de la pharmacie moirée, à l'opposé de la pharmacie moirée. Voilà. Côté Maroc, hein. Vous voyez. Regardez là, c'est une très très grande cuisine. Vous voyez. Il n'y a rien à dire. Très grande cuisine. Ça, c'est la chambre principale. Il y a des travaux à faire. La chambre principale, il y a des travaux à faire. Vous voyez. Ça, c'est la douche de la chambre principale. Ça, c'est la douche visiteuse. Vous voyez, la douche visiteuse. Il y a trois douches. Il y a trois douches. Là, vous voyez. Vous voyez.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706237198697368838.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 185000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces haut standing à Maroc, Yopougon, en bordure, 3 WC, loyer 185 000 F. Grande cuisine, travaux à prévoir dans la chambre principale.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

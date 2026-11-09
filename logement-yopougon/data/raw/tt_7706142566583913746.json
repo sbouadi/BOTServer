@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706142566583913746",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7706142566583913746",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7706142566583913746",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261109",
+ "duration": 64,
+ "description": "YOPOUGON MAROC APRÈS LE PETIT MARCHÉ STUDIO 60 k MAISON BASSE  SA NE DUR PAS  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #maison #studio #yopougon🇨🇮🎶 ",
+ "transcript": "Voila, c'est maté à bidon, c'est le soir. Bishop immobilier, monsieur le détecteur de Joli Maisons Sans Esprit. Je suis au niveau de Iopougon, Maroc. Iopougon, Maroc, antenne, après le petit marché, juste après le petit marché dans les instituts des 60 cas. C'était 65 cas. Le loyer a été revu à la baisse à 60 cas. Parce qu'on a négocié beaucoup, beaucoup, beaucoup, beaucoup. Et le propriétaire a fini par accepter. Donc, c'est un cadeau du matin. C'est un cadeau du mois du novembre. 60 cas, premier veli, premier servi. Je garde pas maison. On ne dit pas que Bishop ne m'a pas gardé la maison. Voila, appelle rapidement. Voila, voici la cuisine qui est là. Tout est propre. Tout gars, il n'y a rien à dire. Et puis, c'est bien situé. Donc, on est intéressé, appelle rapidement. Merci. N'oublie pas de vous abonner. Je vais me mettre les coeurs et les partager. Merci. Jésus vous aime.",
+ "ocr": [
+  "__ _ déadadadans"
+ ],
+ "thumb": "thumbs/tt_7706142566583913746.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Maroc, après le petit marché, loyer 60 000 F, maison basse, contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

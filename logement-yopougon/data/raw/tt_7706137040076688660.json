@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706137040076688660",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7706137040076688660",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706137040076688660",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261109",
+ "duration": 106,
+ "description": "Mise en location d'un appartement de 2 pièces à 90.000f au 1er étage avec balcon arrière et avant. Lieu: Yopougon lièvre rouge, à la gare des taxis  Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706137040076688660.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lièvre Rouge",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon avant",
+   "balcon arrière"
+  ],
+  "resume": "Location d'un appartement de 2 pièces au 1er étage à Yopougon Lièvre Rouge, à la gare des taxis, pour 90 000 F, avec balcon avant et arrière; visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

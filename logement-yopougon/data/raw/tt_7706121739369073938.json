@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706121739369073938",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706121739369073938",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706121739369073938",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261109",
+ "duration": 37,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES SONGON DOMAK AU 3IEME ÉTAGES NON LOIN DE LA ROUTE LOYER: 80 000. #location#maison#visibilité#",
+ "transcript": "Je vous présente une des pièces des douches à la roue, à Sangon, à la roue, kilomètres 17 dommage même, des douches hein, Sangon dommage, ça c'est la première douches 80 000 francs de loyer, des douches 80 000 francs de loyer, ça c'est le salon, je répète bien 80 000 francs de loyer, ça c'est la deuxième douches. Alors regardez, ça c'est le salon, tu as trouvé 20 000 francs de loyer, voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706121739369073938.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Domak",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au 3e étage à Domak (Songon), non loin de la route, loyer 80 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

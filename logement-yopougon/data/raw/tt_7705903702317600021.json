@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705903702317600021",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7705903702317600021",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7705903702317600021",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261108",
+ "duration": 126,
+ "description": "Magnifique et superbe belle grande 3pieces prêt a habiter 125mil au 2eme étages 🥰✅🔑☎️ 125mil x7mois plus 80mil démarcheur  Détail: 3mois caution                3mois avance         1mois agence plus 80mil  Nb: c’est une sous location  Yopougon carrefour menuiserie bien placé en bordure de centre ville au 2eme étages  Visite 5mil Contact: 0711392732  #3piecesuit #2piece #vue #visibilité #yopougon🇨🇮🎶 @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "c'est une très belle maison à du balcon",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705903702317600021.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "carrefour menuiserie",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 125000,
+  "caution": 375000,
+  "avance": 375000,
+  "agence": 125000,
+  "mois_a_payer": 7,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location en sous-location d'un 3 pièces au 2e étage à Yopougon carrefour menuiserie, loyer 125 000 F sur 7 mois plus 80 000 F de démarcheur, caution 3 mois, avance 3 mois, 1 mois d'agence, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

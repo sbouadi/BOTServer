@@ -1,0 +1,36 @@
+{
+ "id": "tt_7705983962354650388",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7705983962354650388",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7705983962354650388",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261109",
+ "duration": 66,
+ "description": "Alain zegbehi vous présente une cave aloue 100 mille Cocody Rivera anono visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok salut salut c'est Alain Zébéhiwot MFS Viteur je vous prie d'ici une cave ça ici c'est pas assidie c'est location voilà location vous voyez location voilà avec une douche à l'intérieur c'est la douche ici c'est pas le poubeau c'est le rivier à announeau rivier à announeau ouai c'est le rivier à announeau ouai voilà avec des ventuifs c'est caution et avance caution et avance c'est location c'est pas assidie il n'y a pas pas de porte là c'est location merci Alain Zébéhiwot MFS Viteur merci donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705983962354650388.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Riviera Anono",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "ventilateurs"
+  ],
+  "resume": "Location à Riviera Anono (Cocody) d'une cave avec douche intérieure, ventilateurs, loyer 100 000 F, caution et avance demandées, frais de visite 5000 F. Contacts : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

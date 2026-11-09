@@ -1,0 +1,35 @@
+{
+ "id": "tt_7703661131168058631",
+ "source_url": "https://www.tiktok.com/@lagouteuse/video/7703661131168058631",
+ "url": "https://www.tiktok.com/@lagouteuse/video/7703661131168058631",
+ "platform": "TikTok",
+ "uploader": "lagouteuse",
+ "upload_date": "20261102",
+ "duration": 38,
+ "description": "Le spot by Genesis zone 4 rue Paul langevin en haut de zino cigares tres chic et élégant idéal pour boire un verre fumer un cigare et vous retrouverez egalement quelques tapas charcuterie etc 📞 0710020023",
+ "transcript": ".org",
+ "ocr": [
+  "fill ŒTEYYTT"
+ ],
+ "thumb": "thumbs/tt_7703661131168058631.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Présentation d'un bar à cigares et lieu de dégustation appelé The Spot by Genesis, zone 4 rue Paul Langevin, proposant verres, cigares et tapas/charcuterie ; ce n'est pas une annonce immobilière de location ou vente.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

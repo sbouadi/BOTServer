@@ -1,0 +1,41 @@
+{
+ "id": "tt_7702099516165590290",
+ "source_url": "https://www.tiktok.com/@lagouteuse/video/7702099516165590290",
+ "url": "https://www.tiktok.com/@lagouteuse/video/7702099516165590290",
+ "platform": "TikTok",
+ "uploader": "lagouteuse",
+ "upload_date": "20261029",
+ "duration": 40,
+ "description": "Pour la beauté de mes ongles et de mes yeux c’est Beauty accès Abj salon de beauté zone 4 rue Fleming Abidjan 📞 0759349248",
+ "transcript": ".org",
+ "ocr": [
+  "# COFFEE ACCESS",
+  "lee Ca Late",
+  "© CAPUCCINO CHIC",
+  "Cappuceino",
+  "y CHAI & CHILI",
+  "Chal Latte",
+  "RELAX-REFRESH *GLOW"
+ ],
+ "thumb": "thumbs/tt_7702099516165590290.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Publication promotionnelle d'un salon de beauté (Beauty Access Abidjan, zone 4, rue Fleming) proposant soins des ongles, cils et un menu de cafés ; ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

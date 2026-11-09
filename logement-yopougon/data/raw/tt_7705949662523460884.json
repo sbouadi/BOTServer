@@ -1,0 +1,36 @@
+{
+ "id": "tt_7705949662523460884",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705949662523460884",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7705949662523460884",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261108",
+ "duration": 9,
+ "description": "🏡🔥 VILLA TRÈS HAUT STANDING À VENDRE 🔥🏡 📍 Cocody Ambassade – Hôtel Ivoire 🌊 PIED DANS L’EAU ! 📐 Superficie : 3 000 m² 🏠 Villa de 11 pièces 📄 Document : ACD 💰 Prix : 3,5 MILLIARDS FCFA 👀 Visite à la charge du client. 📞 WhatsApp ou appel : 07 67 64 46 18 🚨 VILLA DE PRESTIGE ! CLIENT SÉRIEUX UNIQUEMENT. #Immobilier #Cocody #VillaDeLuxe #Abidjan #VenteImmobiliere ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705949662523460884.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Cocody",
+  "quartier": "Ambassade – Hôtel Ivoire",
+  "type": "villa",
+  "pieces": 11,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "pied dans l'eau",
+   "piscine"
+  ],
+  "resume": "Vente d'une villa de prestige de 11 pièces sur 3 000 m² à Cocody Ambassade (Hôtel Ivoire), pieds dans l'eau, document ACD, prix 3,5 milliards FCFA, visite à la charge du client, contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

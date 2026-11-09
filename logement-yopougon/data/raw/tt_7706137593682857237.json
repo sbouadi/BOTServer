@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706137593682857237",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7706137593682857237",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706137593682857237",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261109",
+ "duration": 137,
+ "description": "Mise en location d'un appartement de 3 pièces à 140.000f au 1er étage. Lieu: Yopougon lièvre rouge à quelque mettre du goudron. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "Mila mon côté Dis Mila ma droite je déclare Je ne serai pas atteint Quand j'ai par le sang de Jésus Personne peut m'attendre Il a fait de moi il crole en des feux Oui qu'il peut m'éteindre Aucune flèche ne peut m'attendre Il a élargi mes limites Mais qu'en bas il a tout vaincu À la quoi il a tout accompli Oui mamie au large Au large Jésus m'a prise en charge En charge Dans mes combats il s'en vache En vache En vache Mes ennemis ils s'en charge En charge En charge Moussambikoyo",
+ "ocr": [
+  "LUS j-ù A",
+  "FREE"
+ ],
+ "thumb": "thumbs/tt_7706137593682857237.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lièvre Rouge",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 3 pièces au 1er étage à Yopougon Lièvre Rouge, près du goudron, loyer 140 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

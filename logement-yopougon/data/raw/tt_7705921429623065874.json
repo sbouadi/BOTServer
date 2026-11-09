@@ -1,0 +1,36 @@
+{
+ "id": "tt_7705921429623065874",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7705921429623065874",
+ "url": "https://www.tiktok.com/@brunesleger/video/7705921429623065874",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261108",
+ "duration": 54,
+ "description": "RÉSIDENCE DISPONIBLE  Pour vos longs ou courts séjour dans un cadre propre et agréable, très calme,une véritable cachette pour vos repos, RÉSIDENCE MOAYE est une référence.   Lieux yopougon ananeraie coopec rue Youssou N’Dour  plus d’infos contactez nous au: 0153273240//0777789059 # MOAYE résidence  #Yopougon coopec",
+ "transcript": "c'est qui lui la va tu le connais pas c'est le big boss ah ouais il a l'air sérieux sérieux ? attend de voir quand il sort la carte le big boss est dans le cul sa force est son compte en banque viens galut, il ne discute pas le prix une seule part, oh les les serveurs sont oses",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705921429623065874.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Coopec",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "télévision",
+   "climatisation"
+  ],
+  "resume": "Résidence meublée à Yopougon Ananeraie Coopec, rue Youssou N'Dour, proposée pour longs ou courts séjours dans un cadre calme et propre. Contact téléphonique indiqué dans la légende. Loyer et conditions non précisés; la transcription audio est hors sujet (musique/paroles sans rapport).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

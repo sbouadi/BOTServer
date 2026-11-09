@@ -1,0 +1,42 @@
+{
+ "id": "tt_7706229240202595602",
+ "source_url": "https://www.tiktok.com/@louer.maison/video/7706229240202595602",
+ "url": "https://www.tiktok.com/@louer.maison/video/7706229240202595602",
+ "platform": "TikTok",
+ "uploader": "louer.maison",
+ "upload_date": "20261109",
+ "duration": 28,
+ "description": "#tiktoklive #live #maisonpropre #fypシ゚viral ",
+ "transcript": "En Siguilles, je semi- Kinder. Les gens qui veulent mon numéro, ils vont aller sur la page en Siguille. Je suis une motifienne, j'ai un tricot pour le chien. Je suis un très bon chien, mais comme je vais mon numéro je va défemente mon chapitre sur le petit plus gros là-dessus. En s'il va vous dire, je n'ai pas un numéro que je m'appelle. Il n'y a pas honte de pas respecter ce chiffre, c'est quand même des fois les gens qui me pouront me dire que je suis à la télé. Je vais vous faire ce que j'ai pour le petit plus grand. Il s'agit de 40.000 franc de vélo. La construction, c'est jamais empoisonnable, j'ai un chien de très grand propre. pour tout en tirer la vidéo, si c'est bon, il m'a bien dit que c'est un zigzag, un zigzag perre de tes coutures.",
+ "ocr": [
+  "Studio 40.000fr",
+  "Y'a l’eau et courant",
+  "\\ Caution x5",
+  "Caution x5",
+  "Y'a l’eau et courant E"
+ ],
+ "thumb": "thumbs/tt_7706229240202595602.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Siguiri",
+  "quartier": null,
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 40000,
+  "caution": 200000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "eau",
+   "électricité"
+  ],
+  "resume": "Location d'un studio à 40 000 F par mois, eau et courant inclus, caution de 5 mois (200 000 F). Quartier indiqué comme « Siguilles » dans la transcription audio, probablement Siguiri, peu fiable.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

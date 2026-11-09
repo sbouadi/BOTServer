@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706133992902282517",
+ "source_url": "https://www.tiktok.com/@bigdouahouofficiel/video/7706133992902282517",
+ "url": "https://www.tiktok.com/@bigdouahouofficiel/video/7706133992902282517",
+ "platform": "TikTok",
+ "uploader": "bigdouahouofficiel",
+ "upload_date": "20261109",
+ "duration": 38,
+ "description": "Ivoir golf club piscine 7000 Fcfa cocktail 3000 Fcfa 🥰🇨🇮",
+ "transcript": "",
+ "ocr": [
+  "Tourisme"
+ ],
+ "thumb": "thumbs/tt_7706133992902282517.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo touristique montrant une piscine de l'Ivoire Golf Club avec un bar ; la légende indique un accès piscine à 7000 F et un cocktail à 3000 F. Ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

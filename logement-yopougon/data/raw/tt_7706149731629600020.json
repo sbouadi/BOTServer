@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706149731629600020",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7706149731629600020",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706149731629600020",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261109",
+ "duration": 72,
+ "description": "Mise en location d'une 2 pièces à 110.000f Lieu: Yopougon nouveau marché de coopec ananerai. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706149731629600020.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "nouveau marché de coopec ananerai",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un 2 pièces à 110 000 F à Yopougon, nouveau marché de Coopec Ananeraie, visite 5000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

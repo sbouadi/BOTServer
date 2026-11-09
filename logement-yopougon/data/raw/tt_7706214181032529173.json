@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706214181032529173",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7706214181032529173",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7706214181032529173",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261109",
+ "duration": 47,
+ "description": "Magnifique et superbe belle 2pieces 80mil avec 2douches au 1er étages 🔑☎️🏠✅ 80mil x5mois plus 60mil démarcheur  Nb: caution d’eau 50mil  Détail: 2mois caution               2mois avance          1mois agence plus 60mil  Yopougon Academie diop carrefour bawin bien placé au 1er étages  Visite 5mil Contact: 0711392732  #2piece #3piecesuit #yopougon🇨🇮🎶 #fly #visibilité @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Quand on vous demande de vous abonner, là, c'est par rapport à tout cette bonne maison-là, c'est venu rien rater. Voilà une 2 pièces de 40 000 fonds disponibles au premier étage à Yopougon Akademi. Voilà, au niveau du kanfu barouin. Une 2 pièces avec 2 douches. La maison, elle est là disponible au premier étage. Là, c'est la première douches et là, c'est à bon salon. Voilà, très bonne 2 pièces de 40 000 fonds à la maison. Elle est faite disponible à Yopougon Akademi, au niveau du kanfu barouin. Voilà, j'en ai vu, la maison, ça fait très beau. On met la maison en métal. Là, c'est le placard et là, c'est la deuxième douches. C'est le salon, la chambre qui est là. Très bonne 2 pièces.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706214181032529173.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie Diop, carrefour Bawin",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": 160000,
+  "avance": 160000,
+  "agence": 80000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches",
+   "placard"
+  ],
+  "resume": "Location d'une 2 pièces avec 2 douches au 1er étage à Yopougon Académie Diop, carrefour Bawin, à 80 000 F par mois ; 2 mois de caution, 2 mois d'avance, 1 mois d'agence, plus 60 000 F de démarcheur, caution d'eau 50 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

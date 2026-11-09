@@ -1,0 +1,40 @@
+{
+ "id": "tt_7706150997026032917",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706150997026032917",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706150997026032917",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261109",
+ "duration": 154,
+ "description": "🏠 À LOUER – 4 PIÈCES 📍 Yopougon Cité Novalim ✅ Maison basse ✅ Garage ✅ Cour avant et arrière 💰 Loyer : 200.000 F 📋 Conditions : 7 mois + 100.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP, ça ne dure pas ! #Location #Yopougon #ImmobilierAbidjan #MaisonALouer",
+ "transcript": "Ouh, bring it on Pour des hits et dynamique On crée fichaux Pour le mixo Take a look at me now Take a look at me now Where you from, what you do Just as long as you chasing money Do what's right, never give up on it How you try, don't you ever fall Standing tall Keep it high, lie high It's life you know easy So much hustlin' up hustlin' Everyone is struggling So making all the beliefs Since everyone is chasing You're never gonna make it Never say no And for sure",
+ "ocr": [
+  "NANTERRE TE",
+  "[IRCRN MT)",
+  "Venu sv"
+ ],
+ "thumb": "thumbs/tt_7706150997026032917.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Novalim",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 7,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "garage",
+   "cour avant et arrière"
+  ],
+  "resume": "Location d'une maison basse de 4 pièces à Yopougon Cité Novalim, avec garage et cour avant et arrière, loyer de 200 000 F, conditions 7 mois + 100 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}

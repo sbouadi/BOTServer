@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705986329359682837",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7705986329359682837",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7705986329359682837",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261109",
+ "duration": 49,
+ "description": "Alain zegbehi vous présente un terrain en vente 224 mètres carrés à 50 millions yopougon Maroc antenne bien placé vec ACD visite 10 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zibi, what am I serve ? Tu me présentes ici un terrain en vente, 224 mètres carrés à 50 millions avec A.C.D. Voilà, Yopugum, Maroc, Antenne, bien placé les gars, très bien placé, terrain bien placé, opportunité n'est pas opportunité les gars. Voilà, c'est 224 mètres carrés avec A.C.D. Yopugum, Maroc, Antenne, bien placé, Maroc, Antenne, Cité, Élysée, bien placé, très bien placé, assez très facile. Voilà, c'est à 20 mètres du goudron de la voie principale, voilà. Alain Zibi, toujours votre M.A.V. Merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705986329359682837.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Maroc Antenne",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [],
+  "resume": "Vente d'un terrain de 224 m² à Yopougon (Maroc Antenne, Cité Élysée) au prix de 50 millions F, avec ACD, situé à 20 m de la voie goudronnée principale ; visite à 10 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-09",
+ "origine": "découverte"
+}
