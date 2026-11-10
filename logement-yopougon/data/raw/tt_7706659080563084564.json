@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706659080563084564",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7706659080563084564",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7706659080563084564",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261110",
+ "duration": 65,
+ "description": "#2pièces_160mil_à_angré   Appartement 2 pièces disponible au 2e étage  à Cocody Angré chateau derrière la pharmacie redemption   parking interne Loyer 160 000fcfa Contact 0759648430 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706659080563084564.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Angré",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking interne"
+  ],
+  "resume": "Appartement 2 pièces au 2e étage à Angré Château, derrière la pharmacie Redemption, avec parking interne, loyer 160 000 FCFA. Contact 0759648430.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

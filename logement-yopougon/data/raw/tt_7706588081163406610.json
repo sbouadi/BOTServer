@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706588081163406610",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706588081163406610",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706588081163406610",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261110",
+ "duration": 58,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON MAROC GRANITE AU 1ERE ETAGE NOUVELLE CONSTRUCTION LOYER: 180 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut salut tout je vous présente une trois pièces 180 000 francs voilà Yopougon Maroc Petite Maché Ah là où va-il ? 180 000 francs là c'est le salon il y a la cuisine la maison s'est prête avant la fin de ce mois voilà où va-il ? ça c'est la chambre principale d'en côté placard les pizzas ont déjà installé ah là où va-il ? voilà",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706588081163406610.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "granite"
+  ],
+  "resume": "Location d'un 3 pièces haut standing au 1er étage d'une nouvelle construction à Yopougon Maroc, loyer 180 000 F, salon, cuisine, chambre principale avec placard, maison prête avant la fin du mois.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

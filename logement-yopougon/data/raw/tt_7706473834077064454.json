@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706473834077064454",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7706473834077064454",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706473834077064454",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261110",
+ "duration": 88,
+ "description": "Mise en location d'une 2 pièces staffé nouvelle construction au rez-de-chaussée à 80.000f avec 2 douches wc Lieu: Marie de Songon Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "Hey, voya, voya !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706473834077064454.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Marie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches",
+   "wc"
+  ],
+  "resume": "Location d'un 2 pièces staffé neuf au rez-de-chaussée à 80 000 F avec 2 douches et wc, à Marie (Songon). Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706592547321269525",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7706592547321269525",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7706592547321269525",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261110",
+ "duration": 59,
+ "description": "Magnifique et bonne grande 2pieces disponibles au 1er Etates 100mil ☎️🔑✅🏠 100mil x6mois plus 70mil démarcheur  Nb: garentie l’eau 50mil  Détail: 3mois caution               2mois avance         1mois agence plus 70mil  Nb: il vont changer tout les carreaux de la chambre et mettre la maison en étant comme une nouvelle construction 🦺  Yopougon Academie portail bien placé à côté de la Pharmacie Saint Joseph au 1er étages en bordu bordural  Visite 5mil Contact: 0711392732  #2piece #yopougon🇨🇮🎶 #fly #visibilité #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon, il m'oublie, quand on vous demande de vous abonner là, c'est par rapport à toute cette bonne maison là, c'est venu, rien raté. Voilà une 2 pièces disponibles au Bodjib Bodjura de la route à Yopugon Academy de l'Eco-Rugin de la Marine. Parce qu'il est au bout donc il est là, bien placé, facile d'accès. Voilà, au 2ème étage, très bonne 2 pièces, on vient de Libyria, ça va être grave. La maison sera mis en parfait état et on fait la peinture, tout ce qui doit changer sera changé. Voilà, 2 pièces au 2ème étage à Yopugon Academy d'Eco-Rugin de la Marine de la Marine. Voilà, bien placé en Bodjib Bodjura. Alors là, c'est la chambre qui est là, la 2 pièces, le placard, 3 battances, voilà. Et puis ici, à l'arrière, on a la douche et la cuisine. Alors là c'est la cuisine et puis ici c'est la douche.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706592547321269525.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": 300000,
+  "avance": 200000,
+  "agence": 100000,
+  "mois_a_payer": 6,
+  "frais_agence": 70000,
+  "frais_visite": 5000,
+  "equipements": [
+   "placard"
+  ],
+  "resume": "Location d'une 2 pièces au 1er étage à Yopougon Academie, près de la Pharmacie Saint Joseph, à 100 000 F par mois. Caution 3 mois, avance 2 mois, agence 1 mois plus 70 000 F de démarcheur, garantie eau 50 000 F. Visite 5 000 F. Maison remise à neuf (peinture, carrelage). Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

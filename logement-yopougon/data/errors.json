@@ -10,9 +10,5 @@
  "https://www.tiktok.com/@paul.rochel.loba/video/7705040822730886420": {
   "tries": 2,
   "last_error": "CalledProcessError: Command '['ffmpeg', '-loglevel', 'error', '-i', '/home/runner/work/BOTServer/BOTServer/logement-yopougon/work/7705040822730886420.mp4', '-ac', '1', '-ar', '16000', '-f', 's16le', '-']' returned non-zero exit status 234."
- },
- "https://www.tiktok.com/@paul.rochel.loba/video/7706473834077064454": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7706473834077064454: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  }
 }
