@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706288896400772373",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7706288896400772373",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7706288896400772373",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261109",
+ "duration": 126,
+ "description": "Alain zegbehi vous présente une nouvelle résidence disponible à 50  mille yopougon millionnaire infos 0501744553",
+ "transcript": ".org .org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706288896400772373.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Annonce de location d'une nouvelle résidence à Yopougon (Millionnaire) à 50 000 F, contact 0501744553 (Alain Zegbehi). Type et détails absents ; images montrant un salon moderne et une chambre.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

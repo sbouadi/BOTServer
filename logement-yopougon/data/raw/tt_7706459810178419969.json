@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706459810178419969",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706459810178419969",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706459810178419969",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261110",
+ "duration": 177,
+ "description": "🏠🔥 À LOUER – 4 PIÈCES 🔥 📍 Cité Laurier 14 💰 Loyer : 250.000 F/mois 📋 Conditions : 5 mois + 100.000 F 🚨 CHAP CHAP ! ÇA NE DURE PAS ! 🏃🏾‍♂️ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Location #Immobilier #CitéLaurier14 #Appartement #Yopougon   ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706459810178419969.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Laurier 14",
+  "type": null,
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un appartement 4 pièces à Cité Laurier 14, Yopougon, à 250 000 F/mois. Conditions : 5 mois à payer + 100 000 F d'agence. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

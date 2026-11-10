@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706554400428297490",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706554400428297490",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706554400428297490",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261110",
+ "duration": 42,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES HAUT STANDING YOPOUGON MAROC GRANITE AU 1ERE ETAGE NOUVELLE CONSTRUCTION OYER: 130 000 #location#maison#visibilité#",
+ "transcript": "salut salut salut salut salut salut salut salut tout je tourne aller je vous présente une deux pièces 130 000 francs avec climatisaires déjà installés vous voyez ça c'est la chambre avec sa 12 130 000 francs maroc à la vous voyez maroc à l'antenne petite maché vous voyez ça c'est le salon 130 000 francs en nouvelle convention jamais habité ça serait prêt à la fin de ce mois on peut visiter baissez la portion",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706554400428297490.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation"
+  ],
+  "resume": "Location d'un 2 pièces neuf en haut standing au 1er étage à Maroc, Yopougon, granité, jamais habité, climatisation installée, loyer 130 000 F, disponible fin de mois, visite possible.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

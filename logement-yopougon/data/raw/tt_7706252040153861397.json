@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706252040153861397",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706252040153861397",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706252040153861397",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261109",
+ "duration": 150,
+ "description": "🏠🔥 **À LOUER – APPARTEMENT DE 3 PIÈCES** 🔥 📍 **SONGON GRAVIER** 🏢 2e étage 🚗 Parking disponible 🛣️ Accès facile 💰 **Loyer : 180.000 F/mois** 📋 Conditions : 5 mois + 100.000 F 👀 Visite : 5.000 F 🚨 CHAP CHAP ! ÇA NE VA PAS DURER ! 🔥 PREMIER ARRIVÉ, PREMIER SERVI ! 📲 WhatsApp ou appel : **0767644618** #Location #Songon #Gravier #Appartement #3Pieces     ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706252040153861397.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Gravier",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [
+   "parking"
+  ],
+  "resume": "Location d'un appartement de 3 pièces au 2e étage à Songon Gravier, loyer 180 000 F/mois, conditions 5 mois + 100 000 F, visite 5 000 F, parking disponible, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

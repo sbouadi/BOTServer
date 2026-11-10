@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706462107318930709",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706462107318930709",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706462107318930709",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261110",
+ "duration": 89,
+ "description": "🏠🔥 16 PORTES DE 3 PIÈCES À LOUER ! 📍 Songon Institut Pasteur – Carrefour École 🏗️ Nouvelle maison 🏡 ✅ Du rez-de-chaussée au 4ᵉ étage ✅ Appartements staffés ✅ Habitable pour la fin 💰 Loyer : 140.000 F et 160.000 F 📋 Conditions : 5 mois + 80.000 F 🚨 CHAP CHAP ! ÇA NE VA PAS DURER ! 🏃🏾‍♂️ Premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Location #Songon #InstitutPasteur #Appartement #ImmobilierCI ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706462107318930709.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur – Carrefour École",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": 80000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location de 16 appartements de 3 pièces dans une nouvelle maison à Songon Institut Pasteur – Carrefour École, du rez-de-chaussée au 4e étage, appartements staffés, habitables pour la fin des travaux. Loyer 140 000 F et 160 000 F ; conditions 5 mois + 80 000 F. Contact WhatsApp ou appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

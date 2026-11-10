@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706511773767077140",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7706511773767077140",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706511773767077140",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261110",
+ "duration": 68,
+ "description": "Mise en location d'un studio de 60.000f Lieu: Yopougon azito carrefour conteneur. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "S'en confondre",
+ "ocr": [
+  "£ : ose"
+ ],
+ "thumb": "thumbs/tt_7706511773767077140.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour conteneur",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio à Yopougon Azito carrefour conteneur, loyer 60 000 F, frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

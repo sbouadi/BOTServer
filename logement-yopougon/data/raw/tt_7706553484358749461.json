@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706553484358749461",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7706553484358749461",
+ "url": "https://www.tiktok.com/@annilove225/video/7706553484358749461",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261110",
+ "duration": 59,
+ "description": "Résidence meublée disponible Yopougon maroc collège Rodin bien placé  Jour ouvrable: 17.000f  Week-ends: 20.000f  Contact: 0767314212 #airbnb #hotel #residence #appartement #yopougon🇨🇮🎶 ",
+ "transcript": "La distance n'est même pas normale Je peux même pas te check ça me fait mal Je suis dans un tourbillon infernal Mande tous ces connards Tous ceux qui vont faire ces banales Je voulais qu'ils soient ma baby mama Je voulais pas jouer, je voulais pas jouer Howdy house, hey Seven days, no sleep Missing you, lady Are you coming home, baby Howdy house, hey Seven days, no sleep Missing you, lady Are you coming home, baby",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706553484358749461.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc collège Rodin",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "meublé"
+  ],
+  "resume": "Résidence meublée à louer à Yopougon, Maroc collège Rodin. Tarif jour ouvrable 17 000 F, week-ends 20 000 F. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

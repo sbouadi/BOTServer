@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706548674482162964",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7706548674482162964",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7706548674482162964",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261110",
+ "duration": 116,
+ "description": "Alain zegbehi vous présente une 3 pièces 200 mille au premier étage yopougon Maroc canari visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain Zégoi et Marcel Viteur, tu vous présentes ici, voilà, une trois pièces 200 000 au premier état joué, voilà, Youpougon Maroc, bien placé, assez très facile les gars, Youpougon Maroc, cette maison est bien placé, c'est pas loin du collège Nadia T, c'est pas loin du collège Rodin, regardez le salon, très grand salon, comme on l'a dit, Gaia Salon, Alain Zégoi toujours votre M-Abserviteur, regardez encore le salon, appréciez-lui, voilà, regardez, voilà, 200 000 le loyer, 200 000 le loyer, Alain Zégoi toujours votre M-Abserviteur, Youpougon Maroc, Canary, bien placé, assez très facile, regardez là, il y a des très bonnes besoins, voici la 12 jujito ici, vous voyez, chambre des enfants, vous voyez la chambre des enfants, 200 000 le loyer, 200 000 bordu bordurale, assez très facile, voici la chambre principale ici, Gaia Chamb, vous voyez, 200 000 le loyer, voilà, regardez, voici la 12 de la chambre, voilà, voilà, bonne nuit sur le salon, Alain Zégoi toujours votre M-Abserviteur, merci, donnez votre vie à Jésus.",
+ "ocr": [
+  "AT NEA",
+  "MP OPTOET."
+ ],
+ "thumb": "thumbs/tt_7706548674482162964.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc canari",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au premier étage à Yopougon Maroc Canari, loyer 200 000 F, visite 5000 F, proche des collèges Nadia T et Rodin, avec grand salon, chambre des enfants et chambre principale.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}

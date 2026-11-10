@@ -1,0 +1,33 @@
+{
+ "id": "tt_7706271404697668885",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706271404697668885",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7706271404697668885",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261109",
+ "duration": 41,
+ "description": "🏠 2 PIÈCES À LOUER 🔥 📍 Yopougon Azito – Secteur Calebasse ✅ Au rez-de-chaussée 💰 Loyer : 90.000 F 📋 Conditions : 5 mois + 70.000 F 👀 Visite : 5.000 F 🚨 CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! 📞 WhatsApp ou appel : 0767644618 #Yopougon #Azito #LocationAbidjan #ImmobilierCI",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706271404697668885.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito - Secteur Calebasse",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 70000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location 2 pièces au rez-de-chaussée à Yopougon Azito (secteur Calebasse), loyer 90 000 F, conditions 5 mois + 70 000 F, visite 5 000 F, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-10",
+ "origine": "découverte"
+}
