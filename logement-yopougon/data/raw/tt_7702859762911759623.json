@@ -1,0 +1,33 @@
+{
+ "id": "tt_7702859762911759623",
+ "source_url": "https://www.tiktok.com/@luxury_home_abidjan/video/7702859762911759623",
+ "url": "https://www.tiktok.com/@luxury_home_abidjan/video/7702859762911759623",
+ "platform": "TikTok",
+ "uploader": "luxury_home_abidjan",
+ "upload_date": "20261031",
+ "duration": 42,
+ "description": "Un T3 qui coche toutes les cases. ✨ APPARTEMENT ANGIE • Cocody Vallon Vous vous voyez vivre ici ? Dites-nous en commentaire.  +225 27 22 238 380 +225 07 49 871 713 +225 07 49 876 501 LHA,  L’immobilier en Afrique, Autrement. #lha  #luxuryhomeabidjan🇨🇮  #appartementhautstanding  #alouer  #abidjan225🇨🇮 ",
+ "transcript": "Bérit ! T'as bêlé, non ? Mi-sé-sé, mi-sé-sé, mi-sé-sé, mi-sé...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7702859762911759623.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Vallon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Appartement de type T3 en location à Cocody Vallon, présenté comme appartement haut standing par l'agence LHA. Loyer et conditions financières non précisés dans l'annonce.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

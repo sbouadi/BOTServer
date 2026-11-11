@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706933163104144658",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706933163104144658",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706933163104144658",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261111",
+ "duration": 44,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO SONGON DOMAK AU 3IEME ÉTAGES ACCÈS FACILE LOYER: 70 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut salut salut salut salut salut tout je tourais alli Ah là vous voyez je vous présente un studio au troisième étage, son nom de Mac Vous voyez un studio au troisième étage avec un balcon son nom de Mac Un très très grand studio, même résidence passe Ah là vous voyez, regardez le salon, pardon regardez la chambre Vous voyez, ça c'est la chambre, bien à l'aérée 70K, 70 000 fois Ah là vous voyez",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706933163104144658.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Domak",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Location d'un studio au 3e étage à Domak (Songon), accès facile, avec balcon, loyer 70 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

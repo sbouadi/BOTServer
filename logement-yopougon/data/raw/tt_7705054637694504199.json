@@ -1,0 +1,48 @@
+{
+ "id": "tt_7705054637694504199",
+ "source_url": "https://www.tiktok.com/@luxury_home_abidjan/video/7705054637694504199",
+ "url": "https://www.tiktok.com/@luxury_home_abidjan/video/7705054637694504199",
+ "platform": "TikTok",
+ "uploader": "luxury_home_abidjan",
+ "upload_date": "20261106",
+ "duration": 72,
+ "description": "À première vue, c’est un appartement. En réalité, c’est un cadre de vie. ✨ Situé à Angré Château, l’Appartement Porto T4 vous offre des espaces pensés pour votre confort : 3 chambres autonomes, un grand balcon, une résidence sécurisée avec conciergerie et parking. Alors, dites-nous… vous vous y voyez vivre ? 🤩 Écrivez-nous en privé pour organiser votre visite. +225 27 22 238 380 +225 07 49 871 713 +225 07 49 876 501 LHA,  L’immobilier en Afrique, Autrement. #lha  #luxuryhomebidjan  #appartementalouer #realestate  ##abidjan225🇨🇮 ",
+ "transcript": "Jiffle le feeling, Ice, Ice 10 bands gone, look at the ceiling, K I'm seeing it clearer, haters in the back, in the rear I just leave, sky's the limit I turned the dial and circle small You chasing clouds",
+ "ocr": [
+  "APPARTEMENT eu",
+  "APPARTEMENT. PORTO - T4",
+  "ANGRÉ CHÂTEAU",
+  "APPARTEMENTIPORTOËT A)",
+  "ANGRÉICHÂTEAU",
+  "LUXURY HOME ABIDJAN",
+  "+225 27 22 238 380",
+  "+225 07 49 876 609",
+  "+225 07 49 871 713"
+ ],
+ "thumb": "thumbs/tt_7705054637694504199.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Angré Château",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "résidence sécurisée",
+   "conciergerie",
+   "parking"
+  ],
+  "resume": "Location d'un appartement Porto T4 à Angré Château, 3 chambres autonomes, grand balcon, résidence sécurisée avec conciergerie et parking. Annonce de Luxury Home Abidjan (LHA). Loyer non précisé dans la vidéo ni la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

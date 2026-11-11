@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706905581013028117",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7706905581013028117",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7706905581013028117",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261111",
+ "duration": 76,
+ "description": "Alain zegbehi vous présente un entrepôt à louer 500 mille songon agban gendarmerie visite 10000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébéi, votre MFVT, tu vous présentes ici, regardez. Voilà, un entrepôt, voilà, pour les commerçants, les libanais, les bénignois, tous les gars, tu connais vraiment, les vrais moments, les hommes des projets. Voilà ça, un entrepôt en location. Son gong assemblé, c'est la Genamérie, là, oui, c'est la petite la Genamérie, là, c'est la route, là c'est la voie principale qui est là, qu'assemblée. C'est la Genamérie, voilà, regardez. Je me dirige dans l'entrepôt. Voilà, les gars, voilà ça, l'entrepôt se trouve à 50 mètres de l'autoroute, c'est très propre, regardez l'entrepôt, vous voyez. Mais j'aime, j'aime, les projets, regardez l'entrepôt, vous voyez. Voilà, tous ceux qui ont les projets, ceux qui ont les magasins, ils veulent garder les bagages qu'ils parlent ici. C'est l'entrepôt que tu vois là, comme ça. C'est l'entrepôt, vous voyez. Vas-y, l'entrepôt, vas-y, l'entrepôt, t'es là, vous voyez. Il est grand dans le magasin, regardez là, vous voyez là. Vous voyez, c'est deux magasins, tout bon dans trois magasins, vous voyez. Vas-y, là, coude l'entrepôt. Tout ici là, c'est pour vous. Vous pouvez garder ça là, tout ça là, c'est pour vous. Pour garder les affaires. Vous t'avez les trucs au poil, les containers au poil, voilà ça, c'est là. C'est à son nom qu'a assemblé, Alain Zébé, toujours votre M-app serviteur. Merci.",
+ "ocr": [
+  "DNS NS"
+ ],
+ "thumb": "thumbs/tt_7706905581013028117.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Agban, près de la gendarmerie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 500000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [],
+  "resume": "Entrepôt à louer à Agban (Songon), près de la gendarmerie, à 50 mètres de l'autoroute, pour commerçants et stockage de marchandises ou containers. Loyer 500 000 F, frais de visite 10 000 F. Contacts indiqués : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

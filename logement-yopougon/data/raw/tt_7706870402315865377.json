@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706870402315865377",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7706870402315865377",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7706870402315865377",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261111",
+ "duration": 112,
+ "description": "Une cour commerciale en vente à Yopougon ananeraie bâtit sur 300m2 avec fondation R+2  Document: titre foncier  Prix: 90 millions à débattre  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "Salut, salut, salut à tous. Voilà, nous sommes présentement à Yopou Anomeraire. Je vous présente une cour commerciale en rente, bâti 6,3 mètres taré à l'étude français comme document. Ou un peu la zone un peu, ou un peu cette zone d'études anciennes. Ensuite là, ça commence là. Voilà. Il y a aussi Marazin là. Celui-là. Et celui-là. Ça c'est limite là. Voilà. Là, on prie pour que vous puissiez voir les autres appartements. Ça c'est l'entreprise qui est là. En vente spéciale, vente. En bâti, c'est la vente que je fais sur l'auteur. Voilà. Ça c'est une porte qui est là. J'aime ça, des pièces. C'est bâti ici, 300 mètres taré. Avec confonation 1 plus 2. Ça c'est un peu la cour. Voilà, il n'y a pas que aussi. On a 3 couches. Avec sa douche. Compens modifiés. Voilà. C'est bien. Ça c'est un peu des chambres, ça, non? Ah, il n'y a pas 3 couches là-bas aussi. Voilà. On a son R-cousin. C'est joe, normal. Over. On a aussi une pièce étroite. Des chambres salantes dans la finition. Voilà. Relation R-plus 3. On a une petite façade. On avance à faire chaleur de ça pour nous. On va les chambres.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706870402315865377.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "titre foncier"
+  ],
+  "resume": "Cour commerciale à vendre à Yopougon (Ananeraie), bâtie sur 300 m2 avec fondations R+2, titre foncier, prix 90 millions à débattre, contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

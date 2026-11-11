@@ -1,0 +1,41 @@
+{
+ "id": "tt_7706801302906490120",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7706801302906490120",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7706801302906490120",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261111",
+ "duration": 56,
+ "description": "🏡 CHAMBRE MEUBLÉE HAUT STANDING À BONAMOUSSADI ! Offrez-vous un séjour dans une résidence neuve et moderne avec piscine, terrasse au 6ᵉ niveau, ascenseur, groupe électrogène et parking. Profitez également d'une sécurité assurée jour et nuit. 💰 Studios : dès 40 000 FCFA/nuit. Appartements : 60 000 FCFA/nuit. 📍 Bonamoussadi, en bordure de route. 📞 Réservations : G-K IMMOBILIER. #bonamoussadi #chambremeublée  #meubléhautstanding  #douala  #gkimmobilier ",
+ "transcript": "Salut à son chèque, j'espère que vous allez bien. Présentez-vous dans la plus belle chambre de neufs bleus de doigts-là. Si jamais quelqu'un connaît une chambre plus belle que celle que je vais vous présenter ici. Et c'est ce que vous n'avez pas dit. Il y a une groupe électrogène, il y a l'ascenseur, il y a une piscine, il y a des caméras de surveillance, il y a un wifi styling et c'est très bien celui-ci. Nous sommes ici là en bourge de roues. Je vous fais voir. Vous me dites si vous avez vu une chambre plus belle que celle de doigts-là. Tu sais en effet qu'une seule fois dans la vie est la mienne que j'ai décidé de faire avec mon amie. C'est la promesse devant ma famille. Parce que...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706801302906490120.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Bonamoussadi",
+  "type": "chambre simple",
+  "pieces": null,
+  "loyer": 40000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "piscine",
+   "ascenseur",
+   "groupe électrogène",
+   "parking",
+   "caméras de surveillance",
+   "wifi",
+   "terrasse"
+  ],
+  "resume": "Chambre meublée haut standing en résidence neuve à Bonamoussadi (Douala), avec piscine, terrasse au 6e niveau, ascenseur, groupe électrogène, parking et sécurité jour et nuit. Studios dès 40 000 FCFA/nuit, appartements 60 000 FCFA/nuit. Réservations via G-K Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

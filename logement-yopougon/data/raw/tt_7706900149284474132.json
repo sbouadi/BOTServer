@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706900149284474132",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7706900149284474132",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7706900149284474132",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261111",
+ "duration": 58,
+ "description": "Magnifique et bonne 2pieces 85mil disponible maison basse  🔑☎️🏠🥰 85mil x5mois plus 50mil démarcheur  Nb: frais de dossier 📁 25mil  Détail: 2mois caution               1mois avance           1mois garantie l’eau           1mois agence plus 50mil Yopougon niangon lokoa extension au terminus un peu dans le quartier 🏘️  Visite 5mil Contact: 0711392732  #2piece #yopougon🇨🇮🎶 #visibilité #vue #3piecesuit ",
+ "transcript": "Et au poubon et mobilier, quand on vous demande de vous abonner, c'est par rapport à tous ces bonnes petites classes pour ne rien rater. Bonne deux pièces de carton, un signe de formes, mais on déjà prie à l'inviter, tu vesses la position automatiquement, tu prends ta clé, disponible pour ne pas le croire, est-ce qu'on sient au terminus légèrement dans le quartier. Voilà, là c'est la douche, et puis ici tu as vu la cuisine, voilà, aucun problème d'eau ici, par exemple au bas, voilà, aucun problème d'eau. Bonne deux pièces déjà prérabilité, diverses informations, automatiquement tu prends ta clé de 45000 fonds là pour la location. Et au poubon, nous avons le droit à attention au terminus, voilà. Après le terminus, il y a légèrement dans le quartier, la vision, il a dit qu'on juste tout droit. Voilà, là c'est la chambre, c'est la très bonne chambre. Alors nous nous sommes parfaitement dans la maison. 45000 fonds là pour la location.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706900149284474132.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Lokoa",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": 170000,
+  "avance": 85000,
+  "agence": 135000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [
+   "garantie eau 1 mois"
+  ],
+  "resume": "Location d'une 2 pièces à Niangon Lokoa (Yopougon), maison basse, près du terminus. Loyer 85 000 F, 5 mois à payer plus 50 000 F de démarcheur. Caution 2 mois, avance 1 mois, garantie eau 1 mois, agence 1 mois plus 50 000 F. Frais de dossier 25 000 F, visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}

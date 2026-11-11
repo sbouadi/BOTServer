@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706776092572503316",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7706776092572503316",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7706776092572503316",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261111",
+ "duration": 146,
+ "description": "A LOUER ANGRÉ CHÂTEAU SECTEUR L'HÔTEL ALADJÉ APPARTEMENT D'UN GRAND STUDIO. AU 3ÈME ÉTAGE AVEC BALCON  LOYER 150 000F 5MOIS Tel 0759648430 ",
+ "transcript": "Tu vois ma story, tu penses que je vais répondre Moi je suis en soirée, j'oublie ton monde Tu like toutes mes photos, tu crois que ça m'impressionne J'ai changé de méro, change de personne Je ne lis plus tes messages, tu crois que j'ai le temps Moi je vis ma belle vie loin de tes sentiments C'est trop tard, trop tard, t'as manqué le départ mon gars Je suis sur une autre orbite bien au-delà On est les bosses de la nai nai nai dans la place Dans la place Si tu cherches la bosse de la nai nai nai dans la place Dans la place Tu ne m'ouvres que les vols Scroll, scroll, tu perds ton sommeil Tu crois que je suis ton soleil, c'est plus pareil Ne m'appelles plus ni un mot, ni un hélo J'ai tourné la page et gagné le gros lot Quand tu me vois prier dans la foule Il faudrait t'habiter, t'as manqué le départ mon gars Je suis sur une autre orbite bien au-delà On est les bosses de la nai nai nai dans la place Tu cherches la bosse de la nai nai nai dans la place Dans la place",
+ "ocr": [],
+ "thumb": "thumbs/tt_7706776092572503316.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Angré",
+  "quartier": "Château, secteur L'Hôtel Aladjé",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Location à Angré Château (secteur L'Hôtel Aladjé) d'un grand studio au 3ème étage avec balcon, loyer 150 000 F pour 5 mois. Contact 0759648430. L'audio est de la musique sans rapport, ignorée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}
