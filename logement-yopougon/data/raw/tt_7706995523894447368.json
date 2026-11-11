@@ -1,0 +1,36 @@
+{
+ "id": "tt_7706995523894447368",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7706995523894447368",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7706995523894447368",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261111",
+ "duration": 40,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO SONGON INSTITUT AU 1ERE ETAGE NOUVELLE CONSTRUCTION LOYER: 75 000X5 PLUS 50 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, salut, salut, toujours tout est à l'île. Je vous présente un studio de 75 000 francs à Sangon Institute Pasteur. Vous voyez, une nouvelle construction, jamais habité. Ça, c'est la cuisine. Regardez la chambre. Une très, très, très grande chambre. Voilà, vous voyez. Ça, c'est la chambre. Un studio de 75 000 francs, Sangon Institute Pasteur. Voilà, vous voyez. Nouvelle construction, jamais habité. Regardez la cuisine, une très grande cuisine. Elle part dans une très grande douche, assis de moi. Voilà, ça, c'est la douche.",
+ "ocr": [
+  "CN cs | CFE",
+  "Let TT | N ."
+ ],
+ "thumb": "thumbs/tt_7706995523894447368.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio en location à Songon Institut Pasteur, nouvelle construction jamais habitée, au 1er étage. Loyer 75 000 F, 5 mois à payer plus 50 000 F d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-11",
+ "origine": "découverte"
+}
