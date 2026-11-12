@@ -1,0 +1,42 @@
+{
+ "id": "tt_7707320599789505799",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7707320599789505799",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7707320599789505799",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261112",
+ "duration": 92,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES SONGON DERRIÈRE LA CITÉ BEL HORIZION AU 2IEME ÉTAGES LOYER: 105 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut. Vous voyez, les portes sont individuelles. Deux pièces, 105 000 francs. À Sombon, des relais, la cité belle-horizon. Des bouches de baisser. Vous voyez. Voilà, ça c'est la cuisine, c'est une très grande cuisine. Nouvelle construction, jamais invité. Il y a dialogue déjà. Voilà. Ça c'est le salon. Ça c'est le salon, 105 000 francs. Des douches de baisser. Vous regardez, la chambre. Je suis toujours au salon. Voilà. Ça c'est la chambre. Vous voyez, ça est son placard. Regardez la chambre. Avec sa douche. Avec un petit balcon derrière.",
+ "ocr": [
+  "A TITEUI",
+  "DRE PS | l | fALRS",
+  "pur qi e"
+ ],
+ "thumb": "thumbs/tt_7707320599789505799.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Cité Belle Horizon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 105000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "placard",
+   "balcon"
+  ],
+  "resume": "Location d'un 2 pièces (salon et chambre) au 2e étage à Songon derrière la Cité Belle Horizon, loyer 105 000 F, 5 mois à payer plus 100 000 F d'agence, nouvelle construction avec cuisine, douche et petit balcon.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

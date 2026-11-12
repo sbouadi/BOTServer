@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707205909881163028",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707205909881163028",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707205909881163028",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261112",
+ "duration": 65,
+ "description": "Mise en location d'une 2 pièces 80.000f Lieu: Yopougon abobodoumé terminus des gbacars vers la marine. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707205909881163028.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Abobodoumé",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un 2 pièces à 80 000 F à Abobodoumé (Yopougon), près du terminus des gbakas vers la Marine. Frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

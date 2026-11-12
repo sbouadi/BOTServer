@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707263160595533077",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707263160595533077",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707263160595533077",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261112",
+ "duration": 93,
+ "description": "Alain zegbehi vous présente une 3 pièces 180 mille maison basse yopougon Maroc derrière Petroci visite 5000 pièces infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéhi, what's up, serviteur, tu vous présentes ici? Une trois pièces, 180 000, vous voyez? Yopugon Maropetrocy, très bien placé, regardez. Vous voyez, il y a le salon, voilà. Voici la cuisine ici, y compris la bionderie, il y a là, c'est la bionderie. Voilà, voici la cuisine ici. 180 000, la budget Bahoule, regardez. Voilà, maison basse, maison de raison. Yopugon Maropetrocy. Regardez, apprécié. Rien à dire. Rien à dire, voici la douche visiteur ici. Maison basse, maison de raison. Prête à poter, prête à biter. Y'a rien à dire, voici la chambre des enfants ici. Voici, voilà, c'est la chambre des enfants, vous voyez là. Très grande chambre. Vous ne t'avez pas dit si tu peux poser là. Voici la chambre des enfants, vous voyez. 180 000, vous voyez. 180 000, maison basse, maison de raison. Yopugon Maropetrocy. Voici la chambre principale. La précipité, regardez. Regardez la précipité. Très, très, très, très, très, très, très, très grand chambre. Voilà, bonne chambre bien placée. Regardez, voilà. Voici la douche de la chambre ici. Voici la douche de la chambre. OK. Bonne nuit sur le salon. Allez-y. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707263160595533077.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc derrière Petroci",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une maison basse de 3 pièces (salon, cuisine, chambres, douche) à 180 000 F à Yopougon Maroc derrière Petroci, frais de visite 5000 F, contact 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

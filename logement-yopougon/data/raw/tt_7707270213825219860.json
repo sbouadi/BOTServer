@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707270213825219860",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707270213825219860",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707270213825219860",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261112",
+ "duration": 91,
+ "description": "Mise en location d'un appartement de 2 pièces à 100.000f au 3ème étage. Lieu: Yopougon ananerai Oasis en bordure de route. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "J'écoute cette vibe au son là",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707270213825219860.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Oasis",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 2 pièces à 100 000 F au 3ème étage à Yopougon Ananeraie Oasis, en bordure de route. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707272517353786645",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707272517353786645",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707272517353786645",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261112",
+ "duration": 65,
+ "description": "Mise en location d'un studio américain de 85.000f au rez-de-chaussée. Lieu: Yopougon millionnaire résidentiel. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707272517353786645.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "millionnaire résidentiel",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio américain au rez-de-chaussée à Yopougon millionnaire résidentiel, loyer 85 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

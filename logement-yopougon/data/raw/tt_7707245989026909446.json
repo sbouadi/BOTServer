@@ -1,0 +1,38 @@
+{
+ "id": "tt_7707245989026909446",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7707245989026909446",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7707245989026909446",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261112",
+ "duration": 73,
+ "description": "Magnifique et bonne 2pieces 100mil nouvelle construction au 3eme étages 🏠🥰❤️🔑 100mil x5mois plus 80mil démarcheur  Nb: mutation d’eau 30mil  Détail: 2mois caution               2mois avance          1mois agence plus 80mil  Yopougon Academie cité marine à côté du terrain manadja ou à côté de l’immeuble bamba 3eme étages  Visite 5mil Contact: 0711392732  #2piece #visibilité #yopougon🇨🇮🎶 #vue #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pugan immobilier, quand on vous demande de vous abonner, là, c'est par rapport à tous ces bonnes pépites, là, tous ces bonnes maisons, c'est pour ne rien rater. Voilà, très belle nouvelle construction, chambres salons disponibles au troisième étage, tout le bâton qu'il y a à voir dans la vidéo, là, c'est parti. Très bonne chambres salons de 100 000 fois, là, une location, c'est une nouvelle construction. C'est qu'il y a un bideur pour venir aller au Pugan d'Amélie, mais donc bien stretch, bien beau. Bien ici, nous sommes allés au Pugan Académie, système marin, à côté du terrain manager. Voilà, tout l'espace du parcours qu'il y a, voilà, tout là, c'est pour toi. Bien placé au bord du bord de l'aile. Il y a les caractéristiques déjà pour bien briser qu'il y a là. Voilà, c'est facile d'assez. Alors, attends, ça, là, la maison n'est pas assez grande, le salon n'est pas assez grand, mais la maison vaut le coup. Très bonne maison avec assez d'espace, tout ça, c'est pour toi. Voilà, là, c'est la douche, la douche à deux entrées. Voilà, bien grande, bien beau, bien frais, deux entrées, une entrée dans la chambre, et puis une entrée au niveau du salon. Voilà, là, c'est la chambre maintenant. Très bonne maison, nouvelle construction. Quand on vous demande de vous abonner, c'est par rapport à tous ces belles pépites-là, c'est pour nous, rien à dire. Placar, toi, battant, tout est bon, tout est frais.",
+ "ocr": [
+  "GUN!",
+  "SIL, /"
+ ],
+ "thumb": "thumbs/tt_7707245989026909446.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie cité marine",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": 200000,
+  "avance": 200000,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche à deux entrées"
+  ],
+  "resume": "Location d'une 2 pièces (chambre salon) neuve au 3e étage à Yopougon Académie, cité marine, à côté du terrain Manadja ou de l'immeuble Bamba. Loyer 100 000 F, 5 mois à payer (500 000 F), 2 mois de caution, 2 mois d'avance, 1 mois d'agence, plus 80 000 F pour le démarcheur, mutation d'eau 30 000 F, visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

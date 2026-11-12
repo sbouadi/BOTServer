@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707318362874891541",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707318362874891541",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707318362874891541",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261112",
+ "duration": 79,
+ "description": "Alain zegbehi vous présente une 2 pièces 140 mille au troisième étage yopougon naingon cité sipim visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alézé Gwiywoté, ma serviteur, je vous préviens d'ici, vous voyez, une deux pièces 140 mille. Voici là que j'ai d'ici, au troisième étage. Yopougon, Yopougon, à droite, oui, dans une cité, au sein de la cité Sipim. 140 mille au troisième étage avec Balgon. Vous voyez qu'il y a l'eau, il y a l'eau qui montre son suppresseur dans le bâtiment. Et il y a 20 dans le bâtiment. Voilà, regardez ici. Voilà, voilà, oui. Voilà, le pas qui n'est pas loin de vous. Vous avez du bec d'arrêter votre voiture à côté du bâtiment même. Voilà, voilà. Je me dirige maintenant de la douche visiteur ici. Ici, c'est la douche visiteur. Voilà, regardez la douche visiteur. 140 mille, vous voyez. Yopougon, cité Sipim. Voilà. Cité Sipim, 140 mille, vous voyez. Voici la douche de la chambre. Oui. Voilà, regardez. Bonus sur le salon. Allez, vous voyez, toujours votre aimant visiteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707318362874891541.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon cité Sipim",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces à 140 000 F au troisième étage à Yopougon, Naingon cité Sipim, visite à 5 000 F. Eau disponible selon l'audio. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

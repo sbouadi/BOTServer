@@ -1,0 +1,38 @@
+{
+ "id": "tt_7707272855158918408",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7707272855158918408",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7707272855158918408",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261112",
+ "duration": 187,
+ "description": "Yopougon keneya.  Très t'es belle maison de type 2 pièces en maison basse avec une cour avant, 1 dwc 2 entré avec une cuisine française propre et très accessible Loyer 130000 FCFA / Mois  ☎ 0788393888  WhatsApp 0575303446 ",
+ "transcript": "Je vous dis à soleil !",
+ "ocr": [
+  "itut"
+ ],
+ "thumb": "thumbs/tt_7707272855158918408.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Keneya",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cour avant",
+   "cuisine française"
+  ],
+  "resume": "Location d'un 2 pièces en maison basse à Keneya (Yopougon) avec cour avant, un WC-douche et une cuisine française, loyer 130 000 FCFA par mois. Contacts indiqués : 0788393888 et WhatsApp 0575303446.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}
