@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707371661657574676",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707371661657574676",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707371661657574676",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261112",
+ "duration": 65,
+ "description": "Alain zegbehi vous présente un magasin à accède 2. Millions le loyer à 50 mille yopougon assanvon visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alain, c'est Guillaume, et moi c'est Victor, je vous présente ici un magasin ACD Regardez, regardez la série, regardez le prix, le prix est très bien placé Oui oui, 50 000, 50 000 les gars, voilà C'est un budget à l'île, c'est bon pour bien réaliser vos projets Yopougon ensemble, bien placé, beau du devoir, vous voyez C'est un magasin ACD, plus des sessions de plate Voilà, 2 millions plus des sessions, vous voyez, on peut les voir légèrement C'est un magasin qui est bien placé, voilà, très bien placé, un beau du devoir Voilà, regardez, vous voyez là, voilà, regardez, regarde, tout ça c'est ACD Tout ça c'est ACD Voilà, regardez, voilà, vous voyez là, voilà, regardez Bonne nuit sur le magasin, Alain Zébéli, toujours votre MAPS et Victor, merci Donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707371661657574676.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Assanvon",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un magasin à Assanvon (Yopougon) à 50 000 F par mois, avec 2 millions de caution ou d'avance (lecture incertaine), visite à 5 000 F. Contacts indiqués dans la légende. Les images montrent un local commercial aménagé en salon de coiffure/perruques.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

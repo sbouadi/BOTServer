@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707330735878999303",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7707330735878999303",
+ "url": "https://www.tiktok.com/@brunesleger/video/7707330735878999303",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261112",
+ "duration": 43,
+ "description": "Brunes immobilier toujours.     {{ 0153273240} whatsap} [[ À louer]] un sublime studio américain à yopougon ananeraie Sorbonne au  3 eme étage. 👉 loyer 75 milles  👉 staffer aéré avec des sports lumineux et des carreaux vitrifié. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Je suppose que ma caméra s'enchaîte tout sous l'hôpital, toujours moins en commande à la bref et vite. Il m'oubliait qu'on peut le voir, je suis au sein d'un studio américain. Il a couru le moment. Voilà, très propre. Voilà, il a fallu mariner l'hôpital. Voyez, il fait la douche. Préveil douche. Voilà, voyez le studio. Voilà. Voilà. Ils sont là, bien grand. Voilà. La maison est très propre. Voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707330735878999303.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Location d'un studio américain à Yopougon, Ananeraie Sorbonne, au 3e étage. Loyer 75 000 F, visite 5 000 F. Décrit comme aéré avec sols carrelés vitrifiés et lumineux. Contacts téléphoniques indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-12",
+ "origine": "découverte"
+}

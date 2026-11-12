@@ -268,6 +268,36 @@
   ]
  },
  {
+  "id": "tt_7707399531302014229",
+  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707399531302014229",
+  "plateforme": "TikTok",
+  "auteur": "paul.rochel.loba",
+  "date": "20261112",
+  "thumb": "thumbs/tt_7707399531302014229.jpg",
+  "quartier": "Niangon Sud",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "frais_visite": 5000,
+  "equipements": [
+   "étage"
+  ],
+  "resume": "Location d'un appartement de 3 pièces au 2ème étage à Niangon (Yopougon), près du terminus 27, à 150 000 F, visite 5 000 F.",
+  "texte": "Yopougon niangon à gauche terminus 27. Nous mettons en location un appartement de 3 pièces à 150.000f au 2ème étage. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+  "contacts": [
+   "0711489393"
+  ],
+  "precision_lieu": "Niangon",
+  "source_extraction": "règles + IA",
+  "total_entree": null,
+  "publications": 2,
+  "autres_liens": [
+   "https://www.tiktok.com/@paul.rochel.loba/video/7705346680555638037"
+  ]
+ },
+ {
   "id": "tt_7706829248249613589",
   "url": "https://www.tiktok.com/@paul.rochel.loba/video/7706829248249613589",
   "plateforme": "TikTok",
@@ -1674,35 +1704,6 @@
   ],
   "source_extraction": "règles + IA",
   "total_entree": 955000,
-  "publications": 1
- },
- {
-  "id": "tt_7705346680555638037",
-  "url": "https://www.tiktok.com/@paul.rochel.loba/video/7705346680555638037",
-  "plateforme": "TikTok",
-  "auteur": "paul.rochel.loba",
-  "date": "20261107",
-  "thumb": "thumbs/tt_7705346680555638037.jpg",
-  "quartier": "Niangon Sud",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 150000,
-  "frais_visite": 5000,
-  "equipements": [
-   "balcon / terrasse",
-   "cour arrière",
-   "terrasse avant"
-  ],
-  "resume": "Location d'une maison basse de 3 pièces avec terrasse avant et cour arrière à 150 000 F à Niangon (à droite du carrefour Super Sonia), visite à 5 000 F.",
-  "texte": "Mise en location d'une maison basse de 3 pièces avec terrasse avant et cour arrière à 150.000f Lieu: Yopougon niangon à droite carrefour super Sonia. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225  S'en confondre",
-  "contacts": [
-   "0711489393"
-  ],
-  "precision_lieu": "Niangon",
-  "source_extraction": "règles + IA",
-  "total_entree": null,
   "publications": 1
  },
  {
