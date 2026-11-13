@@ -1,0 +1,41 @@
+{
+ "id": "tt_7707569613302713621",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707569613302713621",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707569613302713621",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261113",
+ "duration": 42,
+ "description": "🚨🔥 TERRAINS APPROUVÉS EN VENTE À SONGON AGBAN 🔥 📍 Localisation : Songon Agban, à 2 km du carrefour Jacqueville, en empruntant la Y4 en direction de Songon Adonkoi. 📐 Superficie : 400 m² par lot ✅ Site déjà borné ✅ Poteaux déjà posés ✅ Terrain prêt à construire ✅ Guide et lettres disponibles 📑 ACD en cours 💰 Prix : 5.000.000 F CFA par lot 🔥 Plusieurs lots disponibles ! Saisissez cette opportunité pour investir ou construire votre maison. 📞 WhatsApp ou appel : 07 67 64 46 18 #TerrainEnVente #SongonAgban #ImmobilierCI #Investissement #TerrainApprouvé ",
+ "transcript": ".org",
+ "ocr": [
+  "— pre",
+  "PTS >"
+ ],
+ "thumb": "thumbs/tt_7707569613302713621.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Songon",
+  "quartier": "Songon Agban",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "site borné",
+   "poteaux posés",
+   "guide et lettres disponibles",
+   "ACD en cours"
+  ],
+  "resume": "Vente de terrains approuvés de 400 m² par lot à Songon Agban, à 2 km du carrefour Jacqueville (Y4 vers Songon Adonkoi), au prix de 5 000 000 F CFA par lot, plusieurs lots disponibles. Contact WhatsApp/appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

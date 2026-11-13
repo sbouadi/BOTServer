@@ -1,0 +1,38 @@
+{
+ "id": "tt_7707686166769962258",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7707686166769962258",
+ "url": "https://www.tiktok.com/@brunesleger/video/7707686166769962258",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261113",
+ "duration": 61,
+ "description": "Brunes immobilier toujours.     {{ 0153273240} whatsap} [[ À louer]] un sublime studio américain 80 milles à yopougon carrefour 27 en bordure Rez de chaussée au 1 er étage très belle maison. Nb: résistance passe pas. Visite 5 mille  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Je pose ma caméra sans lucher tout ce brunesse mobilier toujours. Le jour moyen comme on est dans la vraie pépite immobilière. Comme vous pouvez le voir, je suis au sein d'un studio admire vous-même. La cuisine, magnifique cuisine avec chauffe-eau installée. Vous voyez? Voilà, très propre. Il n'y a absolument rien à dire. Voilà, vous voyez, un studio très très très pro. Il est bien très pro avec son placard magnifique. Avec le carreau qui brille. Vous voyez, là c'est la douche. Magnifique douche également. Voilà. Avec le brunesse mobilier, on n'est pas jamais potos. Toujours de la vraie pépite immobilière. Je vous aime à bientôt.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707686166769962258.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour 27",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "chauffe-eau",
+   "placard",
+   "douche"
+  ],
+  "resume": "Location d'un studio américain à Yopougon Carrefour 27, rez-de-chaussée au 1er étage, loyer 80 000 F, visite 5 000 F. Contacts 0153273240 / 0777789059. Cuisine avec chauffe-eau, placard et douche.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

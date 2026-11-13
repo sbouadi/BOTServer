@@ -1,0 +1,36 @@
+{
+ "id": "tt_7707690268396440838",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707690268396440838",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707690268396440838",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261113",
+ "duration": 79,
+ "description": "Alain zegbehi vous présente un studio baoule 80 mille au premier étage yopougon naingon à gauche carrefour allocodrom visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébé, vous êtes aimé à cette victoire que je vous présente ici? Oui, voilà du confort. C'est le plus chocot, c'est pour les enfants des bosses, ceux qui ont le vrai projet, ceux qui réalisent le projet, les gens qui toquent, les gens qui ont fait les ventes en ligne, du confort, c'est un beau cideo de 80 millions pour les enfants à gauche. Alain Zébé est toujours allé, système lotion est déjà installé, il n'y a pas besoin. Voilà, les enfants paraissent ceux qui n'aiment pas chauffer l'eau, c'est pour vous, voilà. Regardez, il y a aussi la chambre ici, oui, résidence ne passe pas à la zivarelle, mais c'est, oui, le plein est très bon, pour résidence, ça passe pas, oui. Il y a deux plateaux, c'est deux bâtons, regardez, il y a deux plateaux, il y a de la chambre aussi. C'est 80 millions pour les gens à gauche, c'était résidence, le problème, habitation, il y a aussi la douche ici, oui, voilà. 80 millions ici, c'est un cideo, ici c'est un cideo baoulé, peut-être que le cideo baoulé n'a pas des salons, regardez, mais c'est joli, c'est joli, c'est joli. Voilà, c'est joli comme là. Miss Côte d'Ivoire, 1988, propre, il y a rien à dire, Alain Zébé est toujours votre aimer serviteur. Merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707690268396440838.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "système de chauffe-eau installé"
+  ],
+  "resume": "Studio à louer au premier étage à Naingon, Yopougon (à gauche du carrefour Allocodrom), 80 000 F, visite 5 000 F, avec douche et système de chauffe-eau déjà installé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707582464599887112",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7707582464599887112",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7707582464599887112",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261113",
+ "duration": 65,
+ "description": "SONGON CARREFOUR JACQ-VILLE AU 1ER LAVAGE  2 PIECES 70 k BIEN GRANDE  SA DURE PAS  INTERRESSE APPEL  CONTACT 0787407535 #maisonalouer #songon #immobilierabidjan #jacqueville #maison ",
+ "transcript": "Voilà. Quand il voit ses matées, ah, pis, tiens, c'est le soir. Pis, chocs immobiliers, mais sur le détecteur de choli mais sans esprit. Je suis au nouveau de Chambon, car il faut Jean-Ville. Voilà. Au premier laban, je suis la voix de Jean-Ville. Dans une deux pièces, chambres salon de 70 quart. Regardez tout le même. 70 quart. Tous ça, 70 quart. Chambres salon de 70 quart. Voilà. C'est très bien situé aussi. C'est pas trop loin de la voix. Voilà. Voilà. 70 quart. Voici ça. Ok. Ici, c'est là. C'est là, tout se baisser. C'est bien grand. Voici la cuisine. Voilà. Si tu es intéressé, il faut appuyer rapidement, ça ne va pas durer. Ça ne va pas durer. Je suis là. Bien rapide. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707582464599887112.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Jacqueville, au 1er lavage",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un logement de 2 pièces (chambre salon) à Songon Carrefour Jacqueville, au 1er lavage, à 70 000 F par mois, bien grand, à saisir rapidement. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

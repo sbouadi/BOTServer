@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707632882319330562",
+ "source_url": "https://www.tiktok.com/@brutafrique/video/7707632882319330562",
+ "url": "https://www.tiktok.com/@brutafrique/video/7707632882319330562",
+ "platform": "TikTok",
+ "uploader": "brutafrique",
+ "upload_date": "20261113",
+ "duration": 60,
+ "description": "🇧🇫🇨🇮 Le mandat a été annoncé vendredi 13 novembre par le procureur général près la Cour d’appel de #Ouagadougou. Camille Makosso est poursuivi pour des faits présumés de terrorisme et d’apologie du terrorisme à travers ses publications sur les réseaux sociaux. 🇧🇫🇨🇮 Au total, plus de 45 personnes sont visées par ces procédures, dont la majorité réside à l’étranger. Des mandats d’arrêt internationaux et des demandes d’extradition ont notamment été adressés à la #CôtedIvoire, aux #ÉtatsUnis et à la #France. Le parquet a aussi sollicité les autorités américaines pour que Meta identifie et supprime les pages concernées.",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707632882319330562.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Actualité judiciaire au Burkina Faso : mandat visant Camille Makosso pour terrorisme et apologie de terrorisme liés à ses publications en ligne, avec plus de 45 personnes visées, dont des demandes d'extradition. Ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

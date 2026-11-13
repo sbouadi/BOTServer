@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707647052137680149",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707647052137680149",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707647052137680149",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261113",
+ "duration": 57,
+ "description": "Alain zegbehi vous présente un studio baoule 90 mille au rez-de-chaussée yopougon Obama visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zegwey, MF serviteur qui vous présente ici. Un très bon studio Baoulay, vous voyez, voilà. Je vous ai dit que le studio Baoulay n'a pas d'un salon, mais c'est très facile. La chemise est tellement vaste que vous avez la possibilité de diviser, voilà. Pour faire un salon où on ne pas assez avoir de liens autour. Vous voyez là, les gars d'ailleurs, voici le studio là, voici le studio. C'est là, tu touches ici, diviser là tranquillement. Pour faire vos chambres, vous voyez là. Si le studio Baoulay, ça, je trouve, il y a beaucoup de marocs au Bama. Bien placé, vous voyez. Prête à côté, prête à bîter. Tu vends cette question, tu récupères tes clés. Regardez, vous voyez là. Regardez. Regardez. Si le studio Baoulay, c'est très bon, il y a beaucoup de marocs au Bama. Bien placé. Au rei des chaussées, vous voyez. Bonne oscillation. Alain Zegwey, toujours votre MF serviteur. Merci, dans le niveau de Via Jésus.",
+ "ocr": [
+  "Da 077"
+ ],
+ "thumb": "thumbs/tt_7707647052137680149.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Obama",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio en location au rez-de-chaussée à Yopougon Obama, loyer 90 000 F, visite 5 000 F. Présenté comme studio type « baoulé » sans salon, pouvant être divisé. Contacts indiqués : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

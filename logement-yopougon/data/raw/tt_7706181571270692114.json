@@ -1,0 +1,39 @@
+{
+ "id": "tt_7706181571270692114",
+ "source_url": "https://www.tiktok.com/@bancobv/video/7706181571270692114",
+ "url": "https://www.tiktok.com/@bancobv/video/7706181571270692114",
+ "platform": "TikTok",
+ "uploader": "bancobv",
+ "upload_date": "20261109",
+ "duration": 22,
+ "description": "De corrida, os irmãos Felipe e Vitor Baptista sabem tudo. Mas quando o assunto é crédito, aí é com a gente. Aproveita pra conhecer o Empréstimo com Garantia de Veículo BV, simule já! #BVNaPista #bancoBV #FelipeBaptista #StockCar",
+ "transcript": "Qu'est-ce qui dirige le meilleur ? Qu'est-ce qui cruse la ligne d'arrivée ? Qu'est-ce qui économise le plus ? Qu'est-ce qui planète le meilleur futur ? Qu'est-ce qui donne le crédit pour vos conquistations ? Alors, c'est le BV, hein ? Bon, c'est bien ta question. Le BV est le BV, hein ? C'est le BV, hein ? Vous pouvez le tirer, c'est le BV. C'est le BV, c'est le BV.",
+ "ocr": [
+  "Quem dirige ln (",
+  "NESME à Sn Lu D",
+  "Quem cruzariafallinha;dé",
+  "Com Emprésti",
+  "Garanti"
+ ],
+ "thumb": "thumbs/tt_7706181571270692114.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Publicité du Banco BV (crédit avec garantie de véhicule, au Brésil, avec les pilotes Felipe et Vitor Baptista) ; ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

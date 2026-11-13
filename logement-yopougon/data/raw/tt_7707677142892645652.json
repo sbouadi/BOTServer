@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707677142892645652",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707677142892645652",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707677142892645652",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261113",
+ "duration": 81,
+ "description": "Alain zegbehi vous présente une 2 pièces 90 mille au premier étage yopougon naingon carrefour saint pierre visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéhiwot, MFZ Viteur, je vous présente ici une deux pièces 90 000, voilà, yopougon, yangan, sud, à gauche, église, Saint-Pierre, voilà, là c'est la bianderie, ok, voici le salon, le petit salon, tu complètes la cuisine, voilà, là c'est la cuisine ici, oui, voici la cuisine, au premier étage, 90 000 lois, c'est un budget à nits, budget à nits, 90 000, deux pièces, yopougon, Tézago, Carrefour Saint-Pierre, vous du travail à New-Monsonet, du travail au plateau, à Trècheville, Mapori, Saint-Pourou, oui, 90 000 à deux pièces, oui, voici, voici la chambre qui est là, très grand chambre et vaste chambre, voilà, regardez, oui, 90 000, vous voyez là, là ici, c'est la douche, voilà, c'est la douche, oui, ok, bonne nuit sur le salon, Alain Zébéhiwot, MFZ Viteur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707677142892645652.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Saint-Pierre",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Location d'un 2 pièces au premier étage à Yopougon, Carrefour Saint-Pierre, à 90 000 F par mois, avec salon, cuisine, chambre et douche; frais de visite 5 000 F; contacts par téléphone indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

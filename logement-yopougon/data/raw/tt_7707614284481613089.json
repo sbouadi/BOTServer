@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707614284481613089",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7707614284481613089",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7707614284481613089",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261113",
+ "duration": 39,
+ "description": "En vente sur l’autoroute du nord précisément à pk22 côté droit en allant à Yamoussoukro  Superficie: 7.000m2 Document: Acd  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #vente_terrain ",
+ "transcript": "Le site de 7000 mètres carrés, c'est le site où il y a le contenu plus long. Voilà, on peut dire que c'est bien placé en 27000 mètres carrés avec ACD. Salut salut salut salut à tous et à toutes. Nous sommes sur un site de 7000 mètres carrés avec ACD à la zone industrielle Pika Vendu. Voilà, où vient plus la zone. Voilà, on peut acheter même pour faire entrepôt. Sans problème, 7000 mètres carrés, on va aller aux alentours entrepôt. Côté droit en allant, à Iyam Sokro avec ACD. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707614284481613089.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Zone industrielle Pika Vendu, autoroute du nord PK22",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un terrain de 7000 m2 (document ACD) à la zone industrielle Pika Vendu, sur l'autoroute du nord au PK22, côté droit en allant à Yamoussoukro, utilisable pour entrepôt. Contact indiqué : 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

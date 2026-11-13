@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707687401707031860",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7707687401707031860",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7707687401707031860",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261113",
+ "duration": 73,
+ "description": "Alain zegbehi vous présente un studio 80 mille au rez-de-chaussée yopougon naingon à gauche carrefour allocodrom visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébiou, MFVIII, tu vous présentes ici, voilà. Une bonne studio, bahoules les gars, du confort, y'allez. Du loup, derrière l'eau chaude machine, je l'ai déjà installé. Là, c'est aurait des chaussettes, c'est à l'aupôte, on y a un grand studio à gauche. Du confort, au stand-in, studio bien staffé, ça c'est pour les chocos. Les gens qui aiment du confort, ceux qui aiment du confort, ceux qui aiment le confort. Le confort est confaté, vraiment confaté, parce que c'est un studio baoulé, voilà, oui là. Ça c'est le studio, oui, oui, voilà. C'est la résidence, on veut habitation. La résidence ne passe pas les gars, oui. Voilà, regardez, oui. Très bon studio, très bon studio. C'est un studio baoulé au reil des chaussettes. Regardez comment les sujets présentaient les gars. Yo, pour gagne, on s'est à gauche, carré fou, à l'eau caudrum. Voilà, regardez. Bonne oscillation. Allez, on se baille toujours, whatever, M. Saviteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707687401707031860.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau chaude"
+  ],
+  "resume": "Studio à louer au rez-de-chaussée à Naingon (Yopougon), à gauche du carrefour Allocodrom, loyer 80 000 F, visite 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

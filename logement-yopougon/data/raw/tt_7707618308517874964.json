@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707618308517874964",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707618308517874964",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707618308517874964",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261113",
+ "duration": 138,
+ "description": "Mise en location d'une 2 pièces 90.000f maison basse. Lieu: Yopougon saint Laurent en bordure de route. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "C'est ta grâce qui m'a localisé Localisé Localisé C'est ta grâce qui m'a localisé Et affaire Et affaire de moi je te jure",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707618308517874964.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Saint Laurent",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces en maison basse à Yopougon Saint Laurent, en bordure de route, loyer 90 000 F, visite 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

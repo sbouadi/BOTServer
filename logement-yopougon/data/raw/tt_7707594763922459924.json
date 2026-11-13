@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707594763922459924",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707594763922459924",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707594763922459924",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261113",
+ "duration": 118,
+ "description": "Mise en location d'un appartement de 2 pièces à 100.000f au 1er étage en bordure de voie. Lieu: Yopougon millionnaire antenne. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225#debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "Osamale ! Osamale !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707594763922459924.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire antenne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au 1er étage en bordure de voie à Yopougon Millionnaire antenne, loyer 100 000 F, visite 5000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

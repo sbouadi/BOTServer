@@ -1,0 +1,38 @@
+{
+ "id": "tt_7707647224804642056",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7707647224804642056",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7707647224804642056",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261113",
+ "duration": 31,
+ "description": "🏢 BIENTÔT DISPONIBLE À LOGPOM, CARREFOUR BASSON ! Un nouveau bâtiment de standing, situé dans une concession entièrement clôturée, sera bientôt prêt à accueillir ses futurs occupants. Vous y trouverez des chambres modernes, des studios et de beaux appartements, dans un cadre agréable et sécurisé. La livraison est prévue dans environ 2 à 3 semaines Restez connectés pour découvrir ce nouveau cadre de vie ! #logpom  #chambremoderne  #alouer   #locationdouala  #gkimmobilier ",
+ "transcript": ".org",
+ "ocr": [
+  "“Bientot om HI |",
+  "Lu Logpom II",
+  "Bees disponib",
+  "A ocpon"
+ ],
+ "thumb": "thumbs/tt_7707647224804642056.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Logpom, Carrefour Basson",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Nouveau bâtiment de standing bientôt disponible à Logpom (Carrefour Basson, Douala), dans une concession clôturée et sécurisée, avec chambres modernes, studios et appartements. Livraison prévue dans environ 2 à 3 semaines. Agence GK Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

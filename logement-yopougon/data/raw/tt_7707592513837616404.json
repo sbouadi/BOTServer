@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707592513837616404",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707592513837616404",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707592513837616404",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261113",
+ "duration": 111,
+ "description": "Mise en location de plusieurs portes d'appartement de 2 pièces à 100.000f au 1er et au 2eme étage. Lieu: Yopougon Locodjro non loin de la cité adoha et du 4ème pont. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [
+  "[7212"
+ ],
+ "thumb": "thumbs/tt_7707592513837616404.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Locodjro",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location de plusieurs appartements de 2 pièces à 100 000 F au 1er et 2e étage, à Locodjro (Yopougon), non loin de la cité Adoha et du 4ème pont. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

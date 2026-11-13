@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707617700238871828",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707617700238871828",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707617700238871828",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261113",
+ "duration": 87,
+ "description": "Mise en location d'une jolie 2 pièces 100.000f maison basse avec cour avant. Lieu: Yopougon niangon azito carrefour MEDA. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707617700238871828.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Azito Carrefour MEDA",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces en maison basse avec cour avant à Yopougon Niangon Azito Carrefour MEDA, loyer 100 000 F, visite 5000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

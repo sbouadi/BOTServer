@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707577098952625409",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707577098952625409",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707577098952625409",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261113",
+ "duration": 161,
+ "description": "🏠🔥 **À LOUER – 2 APPARTEMENTS DE 3 PIÈCES** 🔥 📍 **Yopougon Maroc – Antenne, vers le Petit Marché** Nous disposons de 2 appartements disponibles : 🏢 1 appartement au rez-de-chaussée 🏢 1 appartement au 1er étage avec balcon ✅ 3 pièces ✅ 2 salles d'eau ✅ Appartements déjà prêts à habiter ✅ Gestion par un cabinet immobilier 📌 **NB : Attestation de travail exigée.** 💰 **Loyer : 160.000 F CFA / mois** 📋 Conditions : 5 mois + 100.000 F CFA de démarcheur. 🚨 CHAP CHAP ! Premier arrivé, premier servi ! 📞 WhatsApp ou appel : 07 67 64 46 18 #Location #Yopougon #Maroc #Appartement #ImmobilierCI ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707577098952625409.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc - Antenne",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location de 2 appartements de 3 pièces avec 2 salles d'eau à Yopougon Maroc (Antenne, vers le Petit Marché), un au rez-de-chaussée et un au 1er étage avec balcon, prêts à habiter, gérés par un cabinet immobilier. Loyer 160 000 F/mois, 5 mois à payer plus 100 000 F de démarcheur, attestation de travail exigée. Contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707584947942477077",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7707584947942477077",
+ "url": "https://www.tiktok.com/@brunesleger/video/7707584947942477077",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261113",
+ "duration": 14,
+ "description": "joyeux anniversaire à moi , succès, joie, paix, richesse et la santé de fer.  un enfant béni réussi toujours quel que soit les obstacles de la vie.  merci seigneur pour mes 1 an de plus.  un nouveau défi pour la nouvelle année qui commence. ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707584947942477077.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Post personnel de voeux d'anniversaire (souhaits de succès, paix, richesse et santé) accompagné de photos d'un homme, sans aucune offre immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

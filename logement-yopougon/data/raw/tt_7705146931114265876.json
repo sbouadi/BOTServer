@@ -1,0 +1,41 @@
+{
+ "id": "tt_7705146931114265876",
+ "source_url": "https://www.tiktok.com/@bancobv/video/7705146931114265876",
+ "url": "https://www.tiktok.com/@bancobv/video/7705146931114265876",
+ "platform": "TikTok",
+ "uploader": "bancobv",
+ "upload_date": "20261109",
+ "duration": 25,
+ "description": "Com a BV Corretora de Seguros você protege o que realmente importa. Conte com opções de seguros e assistências para sua família, seu pet, seu veículo, suas conquistas. O que realmente importa vai além do que podemos ver e merece ser protegido. Acesse bv.com.br/seguro",
+ "transcript": "Il y a une conquête qui se met à la main, mais vient avec beaucoup de signes. Il y a une conquête qui commence avant même de prendre l'extrême et rend beaucoup de histoires après. Il y a une conquête qui devient un délireur, qui marque une nouvelle phase. Ce qui est vraiment important, c'est ce que l'on peut voir. Ce qui mérite d'être protégé. Bevez la Corréture de Seguro, protection pour vos conquêtes.",
+ "ocr": [
+  "TÉMCONQUIStAn",
+  "JUelcCape Naphao",
+  "MasVemIComImMUIto)",
+  "HÉMICONQUIS ta)",
+  "antesimesmode",
+  "QAIF SE) SRE)",
+  "noVa/fase"
+ ],
+ "thumb": "thumbs/tt_7705146931114265876.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Publicité pour BV Corretora de Seguros (assurance au Brésil, en portugais) promouvant des assurances pour famille, animaux, véhicules et « conquistas ». Aucune annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}
