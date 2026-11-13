@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707698295140879634",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7707698295140879634",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7707698295140879634",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261113",
+ "duration": 28,
+ "description": "2 PIÈCES SONGON TÉ LOYER: 60 000 ☎️:05.06.64.49.72 (What)",
+ "transcript": "Salut salut salut tous, je vous présente une deux pièces de 61 fois, à son ganté bien placé en bordeaux de la voie. En bordeaux de la voie, une deux pièces de 60 000 fois.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707698295140879634.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces à Songon à 60 000 F par mois, en bordure de voie selon l'audio ; logement vide en cours de finition (peinture, seaux de peinture visibles).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

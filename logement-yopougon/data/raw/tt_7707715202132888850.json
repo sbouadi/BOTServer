@@ -1,0 +1,39 @@
+{
+ "id": "tt_7707715202132888850",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7707715202132888850",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7707715202132888850",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261113",
+ "duration": 64,
+ "description": "YOP ANANERAIE MAGASIN EN LOCATION 100 k EN BORDURE DE. VOIE SECONDAIRE SECTEUR TRÈS ANIMÉ  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #magasin #restaurant #espace #cave ",
+ "transcript": "waaaaaa- oh d'you voir ce matin a big chance ce le soir big shop immobilier monsieur le détecteur est showly mais aussi en esprit je suis dans un magasin de 150 nouveaux un anirèves un anirèves à l'école du charolien voici la grande voie, voici le magasin il est un produit de voie principale voie secondaire la voie principale est juste à côté le quartier est très animé toute activité passe sauf alcool c'est un très beau et grand magasin voilà voici les toilettes et il y a un bureau derrière voilà il y a une belle déventure aussi donc appelle rapidement si tu es intéressé regardez vous même la déventure regardez tout ça c'est la déventure tout ça c'est la déventure c'était très beau magasin mais si j'ai la clé en poche appelle si tu es intéressé ne faites pas trop de commences t'appeller directement mais si n'oublie pas de vous abonner de partager de mettre les coeurs suceux jésus vous aime merci",
+ "ocr": [
+  "ANANERAIE",
+  "= ANANERAIE L."
+ ],
+ "thumb": "thumbs/tt_7707715202132888850.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes",
+   "bureau"
+  ],
+  "resume": "Magasin commercial en location à Ananeraie (Yopougon), en bordure de voie secondaire dans un secteur très animé, loyer 100 000 F, avec toilettes et un bureau à l'arrière. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

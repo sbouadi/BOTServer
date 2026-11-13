@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707692990977953045",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7707692990977953045",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7707692990977953045",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261113",
+ "duration": 84,
+ "description": "Magnifique et bonne 3pieces propre 120mil disponible rez-de-chaussée ✅🏠🔑 120mil x7mois plus 80mil démarcheur  Nb: c’est une sous location vue les conditions  Yopougon Maroc canari bien placé à côté du bar texas  Visite 5mil Contact: 0711392732  #3piecesuit #yopougon🇨🇮🎶 #visibilité #vue #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "",
+ "ocr": [
+  "eers,"
+ ],
+ "thumb": "thumbs/tt_7707692990977953045.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc canari",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 7,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une 3 pièces au rez-de-chaussée à Yopougon Maroc canari, près du bar Texas, à 120 000 F par mois, 7 mois à payer, plus 80 000 F pour le démarcheur et 5 000 F de visite. Sous-location signalée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

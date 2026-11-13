@@ -1,0 +1,39 @@
+{
+ "id": "tt_7707765329690184981",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707765329690184981",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707765329690184981",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261113",
+ "duration": 92,
+ "description": "🏠🔥 À LOUER – GRAND STUDIO AMÉRICAIN 📍 Songon Bimbresso – Quartier Forêt, Carrefour Collège Djipi 🏡 Nouvelle maison basse ✅ 3 portes disponibles ✅ 2 salles d’eau ✅ Prêt à être habité 💧 Eau comprise dans le loyer ⚠️ Le demi-mois n’est pas pris en compte. 💰 Loyer : 60.000 F CFA/mois 📋 Conditions : 5 mois + 40.000 F CFA 👀 Visite : 5.000 F CFA 📞 WhatsApp ou appel : 07 67 64 46 18 #Location #Songon #Bimbresso #Studio #ImmobilierAbidjan",
+ "transcript": "Yeah Something is killing me slowly And I'm feeling so lonely Now I'm looking up to God Yeah, yeah Bet my tight, I bet my deals See distractions everywhere Not me feeling emotions I get it French, there's so many things That I really want go Confusion in a broader hood Baba bless my family Bless my enemies Bless everybody Together we'll be smiling That's what me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go there, there beside me Me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go there, there beside me",
+ "ocr": [
+  "Les. à."
+ ],
+ "thumb": "thumbs/tt_7707765329690184981.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Bimbresso - Quartier Forêt",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau comprise dans le loyer",
+   "2 salles d'eau",
+   "3 portes"
+  ],
+  "resume": "Location d'un grand studio américain dans une nouvelle maison basse à Songon Bimbresso (Quartier Forêt, carrefour Collège Djipi), prêt à habiter, loyer 60 000 F/mois, 5 mois à payer + 40 000 F de frais d'agence, visite 5 000 F, eau comprise.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}

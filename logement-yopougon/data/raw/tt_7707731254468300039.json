@@ -1,0 +1,38 @@
+{
+ "id": "tt_7707731254468300039",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7707731254468300039",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7707731254468300039",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261113",
+ "duration": 37,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO SONGON TÉ AU REZ-DE-CHAUSSÉE NOUVELLE CONSTRUCTION LOYER: 70 000x5 PLUS 50 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut salut tout je te réagis je vous présente un studio à son vanté au millionnaire à la vous voyez ça c'est la cuisine qu'elle a nouvelle construction jamais habité regardez la maison parle d'elle même un studio de 70 000 fois à son vanté à la vous voyez nouvelle construction au lieu de chausser jolie maison",
+ "ocr": [
+  "MINE",
+  "À Vin",
+  "RTL Al",
+  "\\ Lie Le"
+ ],
+ "thumb": "thumbs/tt_7707731254468300039.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio en location à Songon, rez-de-chaussée, nouvelle construction jamais habitée, loyer 70 000 F x5 mois plus 50 000 F d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-13",
+ "origine": "découverte"
+}
