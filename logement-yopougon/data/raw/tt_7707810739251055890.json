@@ -1,0 +1,41 @@
+{
+ "id": "tt_7707810739251055890",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7707810739251055890",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7707810739251055890",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261114",
+ "duration": 58,
+ "description": "✨ ENVIE D'UN SÉJOUR DANS UN CADRE CHIC ET LUXUEUX À DOUALA ? 🏡 Découvrez notre nouvelle sélection de logements meublés dans un magnifique bâtiment moderne, situé en bordure de route. Nous vous proposons : 🛏️ Des chambres meublées confortables. 🏠 Des studios meublés avec une chambre. ✨ De spacieux appartements meublés de 2 chambres, avec piscine et terrasse au 6ᵉ étage. Profitez d'un cadre élégant, moderne et raffiné, pensé pour vos séjours en famille, en couple, entre amis ou pour vos déplacements professionnels. Tarif à partir de 70 € la nuitée pour les appartements de deux chambres avec piscine et terrasse. 📍 Un emplacement accessible, un bâtiment nouvellement construit et un standing qui fait toute la différence. 📲 Les réservations sont ouvertes ! Contactez-nous dès maintenant pour découvrir les logements disponibles et réserver vos prochaines dates. Ne vous contentez pas de chercher un logement, offrez-vous un véritable cadre de vie ! G-K IMMOBILIER, votre meilleur partenaire immobilier à Douala. #locationmeubléedouala  #séjourdouala  #appartementmeublé  #douala  #gkimmobilier ",
+ "transcript": "La haute saison approche et c'est sans doute le meilleur moment pour découvrir ce que doit la demie à offrir en matière d'hébégement mûblé. C'est pourquoi chez J.K. Moublier nous avons sélectionné pour vous un cadre exceptionnel du côté de Bonavou, Sadi. Un immeuble de hausse tendine qui réunit confort, élégance et modernité. Vous y retrouverez de magnifiques appartements mûblés, une piscine pour vos moments de détente, un ascenseur, un groupe d'étrogène ainsi qu'un magnifique espace de détente en terrasse. Et le meilleur dans tout ça, vous pouvez profiter de ce cadre à partir de 70€ de la nuit avec les tarifs à long jusqu'à 90€ selon le titre d'appartement. Que vous soyez des passages à doigts là pour les fêtes, en vacances ou pour un séjour professionnel, nous avons pensé à vous. Les réservations sont aux vêtres, attendez par le déni au moment pour réserver votre appartement. Peu plus de renseignements et vos réservations, contactez J.K. Moublier en privé.",
+ "ocr": [
+  "12 UNI |"
+ ],
+ "thumb": "thumbs/tt_7707810739251055890.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Bonaventure",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "meublé",
+   "piscine",
+   "terrasse",
+   "ascenseur",
+   "groupe électrogène"
+  ],
+  "resume": "Location meublée courte durée (nuitée) d'appartements de 2 chambres avec piscine et terrasse au 6e étage, dans un immeuble moderne à Douala ; tarif à partir de 70 € la nuit, jusqu'à 90 € selon l'appartement ; réservations via G-K Immobilier / J.K. Moublier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tt_7708000353475693832",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7708000353475693832",
+ "url": "https://www.tiktok.com/@brunesleger/video/7708000353475693832",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261114",
+ "duration": 126,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] une sublime 5 pièces à yopougon ananeraie Alicia en bordure au 4 eme étage.très belle et grande maison sur la dalle. 👉 Loyer 400 milles  👉 4 salles d’eau  👉 2 grands balcon  👉 staffer aéré avec des sports lumineux et des carreaux vitrifié.     Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Je pose ma camérasse. Sans le chèque, c'est mon pilier. Bonjour, mais comment ? J'ai un vrai pipit immobilier. On peut le voir, je suis au sainte nuit, c'est qui est-ce-là ? Mon grand compétient. J'ai jamais aidé à bider. Penthouse. Je précise bien, penthouse. Voilà. Voilà. C'est grand. Il n'a absolument rien à dire. Tu viens directement à la cuisine. Vous voyez la cuisine ? Voilà. La cuisine est bien grande. Il n'a absolument rien à dire. Vous voyez ? Voilà. Là, c'est la chambre principale. Taille la chambre principale. Il n'a absolument rien à dire. Voilà. Vous voyez ? Là, c'est pour papa. Et là, c'est pour maman. Il y a deux placards, deux rangiers. Voilà, un pour papa et un pour maman. Voilà. Il n'y a absolument rien à dire. Vous voyez les placards, non ? gauche à droite. À droite pour papa. À droite pour maman et à gauche pour papa. Voilà. Voilà. Là, c'est la douche. Voilà. Là, c'est la chambre des enfants bien intelligents. Voilà. Les enfants bien intelligents. Voilà. Vous voyez ? Le salon est très vaste. Vous voyez ? Là, c'est la chambre des filles. La chambre des filles. Très courant. Et là, c'est la troisième. La quatrième chambre. La quatrième chambre avec sa douche. Vous voyez ? Très courant. Il n'y a absolument rien à dire. Voilà. Mais on fout l'ancien. Voilà. Vous voyez ? Là, c'est la quatrième douche. Voilà. Vous voyez ? Très courant.",
+ "ocr": [
+  "Var."
+ ],
+ "thumb": "thumbs/tt_7708000353475693832.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Alicia",
+  "type": "5 pièces",
+  "pieces": 5,
+  "loyer": 400000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "4 salles d'eau",
+   "2 grands balcons",
+   "staff aéré avec sports lumineux",
+   "carrelage vitrifié"
+  ],
+  "resume": "Location d'un 5 pièces en bordure au 4e étage sur la dalle à Ananeraie Alicia (Yopougon), loyer 400 000 F, visite 5 000 F, 4 salles d'eau et 2 grands balcons.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

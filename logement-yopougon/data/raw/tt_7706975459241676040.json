@@ -1,0 +1,37 @@
+{
+ "id": "tt_7706975459241676040",
+ "source_url": "https://www.tiktok.com/@sodansse/video/7706975459241676040",
+ "url": "https://www.tiktok.com/@sodansse/video/7706975459241676040",
+ "platform": "TikTok",
+ "uploader": "sodansse",
+ "upload_date": "20261111",
+ "duration": 18,
+ "description": "📍Tomson Hôtels, Riviera 3 Abidjan.  🍽️: à partir de 10.000 F 🍹: à partir de 4.000 F Photos prises avec le téléphone autorisées avec modération. #restaurantabidjan #cotedivoire🇨🇮 #abidjan225🇨🇮 #fyp #hotel ",
+ "transcript": "",
+ "ocr": [
+  "TTL LR",
+  "dun 100 00e",
+  "NH 11000 0 : © © e ©"
+ ],
+ "thumb": "thumbs/tt_7706975459241676040.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo de présentation d'un hôtel (Tomson Hôtels, Riviera 3, Abidjan) avec prix de restauration et de bar, sans offre de location ou de vente immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

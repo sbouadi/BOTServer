@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707958587649428756",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707958587649428756",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707958587649428756",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261114",
+ "duration": 90,
+ "description": "À louer, Yopougon gesco en bordure de l'autoroute. 2pièces au rez-de-chaussée. Bail tout corps comme civil. Loyer Bail tout corps 110mille  Loyer civil  90mille Visite: 5mille Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707958587649428756.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Gesco",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au rez-de-chaussée à Gesco (Yopougon), en bordure de l'autoroute. Bail tout corps à 110 000 F, bail civil à 90 000 F, visite à 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

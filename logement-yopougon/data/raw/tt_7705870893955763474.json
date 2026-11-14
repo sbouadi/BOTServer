@@ -1,0 +1,33 @@
+{
+ "id": "tt_7705870893955763474",
+ "source_url": "https://www.tiktok.com/@sodansse/video/7705870893955763474",
+ "url": "https://www.tiktok.com/@sodansse/video/7705870893955763474",
+ "platform": "TikTok",
+ "uploader": "sodansse",
+ "upload_date": "20261108",
+ "duration": 38,
+ "description": "📍Le Bleu café Abidjan  #bestfriend #friendship #girlsdate #ootd #fyp ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7705870893955763474.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Publication sur un café à Abidjan (Le Bleu café) avec hashtags lifestyle, sans annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

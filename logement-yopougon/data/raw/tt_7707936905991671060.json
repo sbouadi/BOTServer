@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707936905991671060",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707936905991671060",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707936905991671060",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261114",
+ "duration": 98,
+ "description": "Mise en location d'un 2 pièces 70.000f maison basse  Lieu: Yopougon nouveau quartier  Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "Il s'en confond",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707936905991671060.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "nouveau quartier",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces en maison basse à Yopougon nouveau quartier, 70 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

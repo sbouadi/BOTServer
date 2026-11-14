@@ -1,0 +1,35 @@
+{
+ "id": "tt_7706596109996543284",
+ "source_url": "https://www.tiktok.com/@sodansse/video/7706596109996543284",
+ "url": "https://www.tiktok.com/@sodansse/video/7706596109996543284",
+ "platform": "TikTok",
+ "uploader": "sodansse",
+ "upload_date": "20261110",
+ "duration": 15,
+ "description": "📍Le bleu café, cocody Abidjan.  Budget minimum 10.000f/ personne  #restaurantabidjan #recommendations #cotedivoire🇨🇮 #restaurant #fyp",
+ "transcript": "",
+ "ocr": [
+  "TC, Cocody Abidiéin \"1"
+ ],
+ "thumb": "thumbs/tt_7706596109996543284.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": "Cocody",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo de recommandation d'un restaurant, Le Bleu Café à ITC Cocody Abidjan, budget minimum 10 000 F par personne ; ce n'est pas une annonce immobilière.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

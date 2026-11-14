@@ -1,0 +1,35 @@
+{
+ "id": "tt_7707947824972860692",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707947824972860692",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707947824972860692",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261114",
+ "duration": 60,
+ "description": "Mise en location de 4 portes de studios choco avec chauffent eaux  du 1er étage au rez-de-chaussée. Lieu: Yopougon niangon à gauche terminus 27 dans une belle cité en bordure de route principale. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "On a nés à plaire au chinois comme la vie de Carmen C'est eux qu'on veut sauver, c'est eux qui nous malmênent Fils, faut pas regarder Disney, c'est des choses charmnelles Ah, Jérusalem, Jérusalem N'en va pas pour m'attaquer, il faut venir toi-même La moisson a peu...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707947824972860692.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "chauffe-eau"
+  ],
+  "resume": "Mise en location de 4 studios (portes de studios) avec chauffe-eau, du 1er étage au rez-de-chaussée, à Niangon près du terminus 27, en bordure de route principale. Visite 5000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

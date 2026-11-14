@@ -1,0 +1,33 @@
+{
+ "id": "tt_7707971716861021461",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7707971716861021461",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7707971716861021461",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261114",
+ "duration": 158,
+ "description": "Mise en location d'un appartement de 2 pièces à 100.000f au 2ème étage. Lieu: Yopougon institut des aveugles, 2ème boulangerie des olivier  Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7707971716861021461.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Institut des aveugles",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au 2ème étage à Yopougon, Institut des aveugles, 2ème boulangerie des Oliviers, à 100 000 F. Visite à 5000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}
