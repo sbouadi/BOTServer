@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708075672803003668",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708075672803003668",
+ "url": "https://www.tiktok.com/@annilove225/video/7708075672803003668",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261114",
+ "duration": 92,
+ "description": "Villa basse 04 pièces disponibles vide nouvelle maison bien placé dans la cité ado songon bien placé  Contact: 0767314212 #villa #maisonalouer #appartement #immobilier #songon  @DIBYIMMOBILIER @jess.skin4 @Carelle Cosmétique ",
+ "transcript": "Hey monsieur mon fils là il est bandit oh il est pas maison oh il est maison bas Hey monsieur ma maman là son pied lui fait mal Monsieur ma maison là son dos lui fait mal va y ça qu'elle a Va y ça qu'elle a Va y ça qu'elle a Va y ça qu'elle a c'est disponible Tous vos enfants qui sont bandits là on voit il est dans la maison basse Tous vos maman qui ont mal au dos là on voit il est dans la maison basse Va y ça qu'elle a c'est très très joli Il a absolument rien à dire Très très belle villa va y ça qu'elle a C'est dans la cité Ado Va y ça qu'elle a c'est très très très très propre Il a absolument rien à dire C'est une nouvelle confession hein Ça n'a jamais été habité Jamais été habité 180 cas seulement 184 cas C'est magnifique villa Va y ça qu'elle a C'est superement bien placé C'est superement bien fait Il a absolument rien à dire Dès que tu payes tu dors Va y ça qu'elle a 4 cases Très très belle casse Il a absolument rien à dire Très très belle casse Il a absolument rien à dire C'est un cadeau C'est un cadeau C'est un cadeau Voilà C'est très très propre Deux douches, deux vaisseils Deux douches, deux vaisseils C'est très très propre Il a absolument rien à dire Dès que tu payes tu dors Champs vietnamiers Voilà Champs autonome Voilà Voilà Champs autonome Il a fait très très propre Voilà Dans la cité Ado Dans la cité Ado Dans la cité Ado Si tu es intéressé Tu te ploiseras plus de moi Sur la balzourie Si tu es intéressé Appelles-moi la description Rappuie de moi sur la balzourie Merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708075672803003668.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "cité Ado",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "deux douches",
+   "deux vaisselliers"
+  ],
+  "resume": "Villa basse de 4 pièces, vide, neuve et jamais habitée, dans la cité Ado à Songon. Contact indiqué : 0767314212. Loyer non précisé dans l'annonce.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

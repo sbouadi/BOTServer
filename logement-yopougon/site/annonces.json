@@ -266,6 +266,75 @@
   "publications": 1
  },
  {
+  "id": "tt_7708085013564165384",
+  "url": "https://www.tiktok.com/@toure.aly39/video/7708085013564165384",
+  "plateforme": "TikTok",
+  "auteur": "toure.aly39",
+  "date": "20261114",
+  "thumb": "thumbs/tt_7708085013564165384.jpg",
+  "quartier": "Maroc",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 175000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "2 WC",
+   "2 balcons",
+   "balcon / terrasse",
+   "cuisine",
+   "douche principale",
+   "douche visiteur",
+   "placards battants",
+   "étage"
+  ],
+  "resume": "Location d'un 3 pièces au 1er étage à Yopougon Maroc Anador, en bordure de voie, 175 000 F par mois, 5 mois à payer plus 100 000 F d'agence, avec deux balcons, deux WC et placards.",
+  "texte": "☎️:05.06.64.49.72 (What)  YOPOUGON MAROC ANADOR AU 1ERE ETAGE 2 BALCON 2DWC EN BORDURE LOYER: 175 000x5 PLUS 100 000. #location#maison#visibilité# Salut salut salut salut salut toujours et allez je vous présente une trois pièces à Yopugon voilà vous voyez une trois pièces à Yopugon en ador en bordu de la voie voilà vous voyez réellez la cuisine très grande cuisine en ador en bordu de la voie au premier étage 175 000 francs voilà vous voyez en bordu de la voie 175 000 francs voilà vous voyez 175 000 francs Yopugon Maroc en ador voilà ça c'est le salon hein ça m'en passe 175 000 francs prétabité vous payez on vous donne votre clé ça c'est la chambre principale voilà et allez ça c'est la douche principale vous voyez c'est prétabité placacat battant hein voilà et allez ça c'est la chambre principale une très grande chambre voilà ça c'est la douche visiteur voilà et allez ça c'est la chambre des enfants vous voyez ça c'est la chambre des enfants 175 000 francs Serre",
+  "contacts": [
+   "0506644972"
+  ],
+  "agence": 100000,
+  "precision_lieu": "Maroc Anador",
+  "source_extraction": "règles + IA",
+  "total_entree": 975000,
+  "publications": 1
+ },
+ {
+  "id": "tt_7708091960304733463",
+  "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7708091960304733463",
+  "plateforme": "TikTok",
+  "auteur": "promoteur_immobilier225",
+  "date": "20261114",
+  "thumb": "thumbs/tt_7708091960304733463.jpg",
+  "quartier": "Texaco Saint Pierre",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "neuf",
+   "plafond staffé",
+   "spots lumineux",
+   "staffé",
+   "toilettes séparées",
+   "étage"
+  ],
+  "resume": "Appartement 3 pièces neuf, jamais habité, au 3e étage à Yopougon Texaco Saint Pierre, avec 3 WC, plafond staffé et spots lumineux. Loyer annoncé 160 000 F (la voix dit 165 000), environ 5 mois à payer.",
+  "texte": "160.000 desormais 3pieces 3dwc au 3ieme etage staffée lumineux Nouvelle construction  YOPOUGON TEXACO SAINT PIERRE Apel/wattsapp: 0143378277 #debloquemesvues #gbairai_qui_est_doux_la #yopougon #alouer  Toujou, tonton, ma combattote, et chouer les maisons des baboucheaux de Pougon. C'est le pire. Voilà, le Pougon c'est le pire. Au troisième état, dans une nouvelle construction, la cuisine est bien salon. Voilà, dans une nouvelle construction, jamais habité. Voilà, oui, le salon est très très très grand salon. 165 000 fonds de loyer au troisième étage. Voilà, la maison finit. La paix de chou. Voilà. Voilà, le plus grandat, le 5 mois pour chambou dans les couilles. Vous voyez, vous même non? Voilà. Voilà, c'est son état. Douche, vaissez ici, c'est séparé. Voilà, là, c'est la chambre visiteuse. Bien grand, tout est grand dans la maison. 165 000 fonds de loyer, spot lumineux. C'est là, ils vont mettre les placards. Voilà, spot lumineux, staffé. Voilà, bien procuré au stand-in. Je me dis que je vais aller dans la chambre principale. Qu'est-ce qu'il y a chambre principale? Il y a des mêmes, c'est qui même dans la chambre principale ici. Vous voyez non? Beaucoup de fauteuils, beaucoup de tout ça, c'est la chambre principale. Bien grand, c'est salon des gens, des marocs là. C'est le salon ici. C'est sur la toilette. La maison finit. Plus grand, c'est la fin du chou. T'as encore une maison toujours pour vous servir. Il y a déjà loup. Il y a déjà le courant. Donc ça finit, la fin du chou. Vous voyez, 165 mètres dans le loyer. Au troisième bouton, c'est au plus simple et exact.",
+  "contacts": [
+   "0143378277"
+  ],
+  "mois_a_payer": 5,
+  "source_extraction": "règles + IA",
+  "total_entree": 800000,
+  "publications": 1
+ },
+ {
   "id": "tt_7707577098952625409",
   "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7707577098952625409",
   "plateforme": "TikTok",

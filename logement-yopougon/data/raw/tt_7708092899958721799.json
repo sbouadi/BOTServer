@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708092899958721799",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7708092899958721799",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7708092899958721799",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261114",
+ "duration": 102,
+ "description": "🛑BUREAU OU HABITATION  🎋  YOPOUGON INSTITUT DES AVEUGLES  APPARTEMENT DE 2PIECES DISPONIBLES A L'INSTITUT DES AVEUGLES SUR LA NOUVEL VOIE EN BORDURES DE ROUTE  AU 2em ÉTAGE AVEC BALCON  1 SALLES D'EAU CENTRÉE  ✅LOYER : 100.000 F  ✅CONDITION : 6MOIS+50MIL  CONTACT : 0758399203/0544573174",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708092899958721799.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Institut des Aveugles",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 50000,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "salle d'eau"
+  ],
+  "resume": "Appartement de 2 pièces au 2e étage avec balcon et une salle d'eau, en bordure de route à l'Institut des Aveugles (Yopougon), loyer 100 000 F, condition 6 mois + 50 000 F, utilisable comme bureau ou habitation.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

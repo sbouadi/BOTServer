@@ -1,0 +1,46 @@
+{
+ "id": "tt_7708056106571959553",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7708056106571959553",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7708056106571959553",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261114",
+ "duration": 113,
+ "description": "🛑LOCATION 🎋YOPOUGON AGBAYATER  ✅UNE MAGNIFIQUE 2 PIÈCE  BON STANDING AU 4EME ÉTAGE DISPONIBLE STAFFER  D’’AGBAYATER DERRIÈRE LA STATION NP ACCESSIBLE BIEN PLACÉ EN BORDU TRES PRÊT HABITER  4EME ETAGE  02 SALLES D'EAU ❤️  VIGILE  PARKING  GRAND BLACON  CHAUFFE EAUX  SPOTE LUMINEUX  PLACRD AU SALON  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 160.000 FR ✅CONDITIONS: 5MOIS+125mille  CONTACT: 0720363576",
+ "transcript": "La distance est même pas normale Je peux même pas te check ça me fait mal Je suis dans le tourbillon infernal Mande tous ces connards Tous ceux qui vont faire ces banales Je voulais qu'ils soient ma baby mama Je voulais pas jouer, je voulais pas jouer",
+ "ocr": [
+  "\"AM Myy nl",
+  "Ê Eh ATRL (y le",
+  "lat EU nl",
+  "VAN y"
+ ],
+ "thumb": "thumbs/tt_7708056106571959553.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Agbayater",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": 125000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "vigile",
+   "parking",
+   "grand balcon",
+   "chauffe-eau",
+   "spots lumineux",
+   "placard au salon",
+   "2 salles d'eau"
+  ],
+  "resume": "Location d'un 2 pièces de bon standing au 4ème étage à Agbayater (Yopougon), derrière la station NP, très prêt à habiter. Loyer 160 000 F, conditions 5 mois plus 125 000 F d'agence. Contact : 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}

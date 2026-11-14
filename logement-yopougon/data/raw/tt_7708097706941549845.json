@@ -1,0 +1,35 @@
+{
+ "id": "tt_7708097706941549845",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7708097706941549845",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7708097706941549845",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261114",
+ "duration": 120,
+ "description": "Alain zegbehi une vendre villa Basse de 4 pièces  Dans une cité à Yopougon lubafrique  Avec garage 3 voitures PRIX DE VENTE :  50 MILLION DOCUMENT TITRE FONCIER visite 10 mille infos 0767082208/0501744553",
+ "transcript": "ok salut salut c'est alizé bwot mfc viteur tu vous présentes ici une villa en vente voilà youkubo lubafui dans une cité de la place avec garage 4 voitures une vente de 50 millions vous voyez là c'est la cour vous pouvez même modifier c'est 300 m carré la villa est conçue 300 m carré voilà regardez ouais regardez vous même voilà regardez là c'est la cour voilà youkubo lubafui vous pouvez bien modifier voilà vous avez les maisons les parents un peu partout en france les bénices là voilà regardez par la cuisine tu peux t'assurer au salon voilà là sur le salon qui est là parce que la deuxième entre ici entre le principal là sur le salon vous voyez voilà c'est 4 millions avec papier de cité c'est a youkubo lubafui car ouais voilà très bonne maison très bonne maison ouais parce que ça va se tu séparer pour les visiteurs voilà c'est trop douce oui il y a place tout le monde vous pouvez bien modifier ici vous pouvez bien modifier ici ouais voilà regardez encore voilà le chancre par ici ouais là voilà vous pouvez bien modifier c'est une vente de 50 millions avec avec papier de cité voilà c'est pour c'est de la cité à l'ubafrique voilà c'est une autre chancre qui est là voilà encore parce qu'on chante encore ici ouais là c'est une chante ici voilà c'est une 4 pièces maison basse maison des raisons voilà regardez c'est 50 millions les gars 50 millions voilà c'est très bon bien placé dans une cité bien bien plus que 1000 voilà regardez bonnes sujets le salon allez les brilles toujours votre aimer serviteur merci donnez votre vie à jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708097706941549845.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Vente d'une villa basse de 4 pièces dans une cité à Lubafrique (Yopougon), avec garage pouvant accueillir 3 à 4 voitures, environ 300 m², papiers titre foncier (document cité mentionné dans l'audio), prix de vente 50 millions F, visite 10 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-14",
+ "origine": "découverte"
+}
