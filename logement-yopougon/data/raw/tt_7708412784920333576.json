@@ -1,0 +1,37 @@
+{
+ "id": "tt_7708412784920333576",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7708412784920333576",
+ "url": "https://www.tiktok.com/@brunesleger/video/7708412784920333576",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261115",
+ "duration": 74,
+ "description": "Brunes immobilier toujours.     {{ 0153273240} whatsap} [[ À louer]] une sublime 2 pièces à yopougon Bagnon école ramât au 1 er étage très belle maison. 👉 loyer 85 milles y compris l’eau  👉1 salle d’eau  👉 2 balcons  Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Salut chez tous, Brunesse-Mobilier toujours. Toujours moyen comme moi d'aller faire des pizzas au mobilier. On peut le voir et je suis au sein d'une telle pièce, 45 000 frais y compris l'eau. Admet-vous même la cuisine, là. Magnifique cuisine, hein, y a tout le monde qui m'a dit. Tu veux jolie maison, tu n'as pas bon budget ? Viens, ramasse. Il y a ramasse de suture à l'eau-cougou en panneau. Bien le cahier, voilà. Vous voyez, la maison est très, très propre. Bien spraffée, bien marée avec les carriots de bruit. Voilà, vous voyez, là, c'est le balcon à vent. Vous voyez, le balcon à vent. Très, très, très, très, très propre, bien absolument. Viens, Nadi. Viens, Nadi. Qui vous a dit, maison est chère, mais m'a dit bien. Ça dépend d'où tu veux vivre, là. Voilà, tu n'as pas bon budget. Viens, ramasse. Voilà, y a d'autres pizzas pour vous, hein. Voilà, salut chez tous.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708412784920333576.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon école Ramât",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau incluse",
+   "1 salle d'eau",
+   "2 balcons"
+  ],
+  "resume": "Location d'une 2 pièces au 1er étage à Yopougon Bagnon école Ramât, loyer 85 000 F eau comprise, visite 5 000 F, avec 1 salle d'eau et 2 balcons. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

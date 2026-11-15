@@ -1,5 +1,39 @@
 [
  {
+  "id": "tt_7708395028581797141",
+  "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7708395028581797141",
+  "plateforme": "TikTok",
+  "auteur": "maison.du.bonheur82",
+  "date": "20261115",
+  "thumb": "thumbs/tt_7708395028581797141.jpg",
+  "quartier": "Km17 Institut Pasteur",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "2 salles d'eau",
+   "garage / parking",
+   "parking",
+   "spot lumineux",
+   "staffé",
+   "vigile",
+   "étage"
+  ],
+  "resume": "Location appartement 3 pièces bon standing, prêt à habiter, au 1er étage à KM17 Institut Pasteur, Yopougon. Loyer 180 000 F, conditions 5 mois + 100 000 F d'agence. Contact [numéro masqué].",
+  "texte": "🛑LOCATION 🎋 YOPOUGON KM17 INSTITUT PASTEUR ✅DES MAGNIFIQUE APPARTEMENT PRÊT HABITER DE 3 PIÈCE  BON STANDING AU 1ERE ÉTAGE DISPONIBLE STAFFER AU KM17 INSTITUT PASTEUR TRÈS BIEN PLACÉ ET ACCESSIBLE.  PRÊT HABITER  AU 1ERE ÉTAGE  02 SALLES D'EAU ❤️  PARKING  VIGILE  SPOTE LUMINEUX  ACCÈS FACILE ✅LOYER: 180.000 FR ✅CONDITIONS: 5MOIS+100mille  CONTACT: 0720363576 Je fais, tu fais, mais c'est comme réfait là, que ça fait Au bas où elle est là au rap, bébé les barres Quand tout est noir, toi ta lumière s'allume D'avant toi, tout s'allume Tu n'as pas besoin de parler pour montrer ta valeur Ta présence suffit ou fait battre les gueules Quand il voit ton visage, combien de vies s'illumine De pattons d'aime souris Tout le monde veut t'approcher Tout le monde veut te toucher Même ceux qui n'aiment pas C'est du bad C'est du bad C'est toi qui s'apprend On aura un valet C'est du bad C'est du bad",
+  "contacts": [
+   "0720363576"
+  ],
+  "agence": 100000,
+  "source_extraction": "règles + IA",
+  "total_entree": 1000000,
+  "publications": 1
+ },
+ {
   "id": "tt_7707834514369678598",
   "url": "https://www.tiktok.com/@alainzegbehi10/video/7707834514369678598",
   "plateforme": "TikTok",
@@ -332,6 +366,39 @@
   "mois_a_payer": 5,
   "source_extraction": "règles + IA",
   "total_entree": 800000,
+  "publications": 1
+ },
+ {
+  "id": "tt_7708173374010215686",
+  "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708173374010215686",
+  "plateforme": "TikTok",
+  "auteur": "tornabenjaminsoro",
+  "date": "20261114",
+  "thumb": "thumbs/tt_7708173374010215686.jpg",
+  "quartier": "Niangon Sud",
+  "yopougon": true,
+  "transaction": "location",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "equipements": [
+   "3 balcons",
+   "3 salles d'eau",
+   "balcon / terrasse",
+   "plusieurs salles d'eau",
+   "étage"
+  ],
+  "resume": "Location d'un appartement 3 pièces au 1er étage à Jatack (Niangon, Yopougon), 200 000 F CFA par mois, conditions 5 mois à payer + 100 000 F CFA d'agence, avec 3 salles d'eau et 3 balcons.",
+  "texte": "🏠🔥 À LOUER – BELLE 3 PIÈCES À YOPOUGON ! 📍 Yopougon Niangon à droite – Jatack 🏢 Au 1er étage, très bien situé ! ✅ 3 salles d’eau ✅ 3 balcons ✅ Bon emplacement 💰 Loyer : 200.000 F CFA/mois 📋 Conditions : 5 mois + 100.000 F CFA 📞 WhatsApp ou appel : 07 67 64 46 18 🔥 Ne tardez pas, ça ne dure pas ! #Yopougon #Niangon #Jatack #AppartementALouer #ImmobilierAbidjan .org (CPE ( JET (",
+  "contacts": [
+   "0767644618"
+  ],
+  "agence": 100000,
+  "precision_lieu": "Niangon",
+  "source_extraction": "règles + IA",
+  "total_entree": 1100000,
   "publications": 1
  },
  {
@@ -1882,10 +1949,7 @@
   "agence": 5000,
   "source_extraction": "règles + IA",
   "total_entree": 1300000,
-  "publications": 2,
-  "autres_liens": [
-   "https://www.tiktok.com/@adorateuremmnuel/video/7700242373397220628"
-  ]
+  "publications": 1
  },
  {
   "id": "tt_7706269568938904840",
@@ -5679,129 +5743,6 @@
   "agence": 120000,
   "source_extraction": "règles + IA",
   "total_entree": 1120000,
-  "publications": 1
- },
- {
-  "id": "tt_7700210059640327442",
-  "url": "https://www.tiktok.com/@bishop027immobilier/video/7700210059640327442",
-  "plateforme": "TikTok",
-  "auteur": "bishop027immobilier",
-  "date": "20261024",
-  "thumb": "thumbs/tt_7700210059640327442.jpg",
-  "quartier": null,
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 250000,
-  "equipements": [
-   "2 WC",
-   "2 balcons",
-   "balcon / terrasse",
-   "neuf",
-   "placards",
-   "vitrage coulissant",
-   "étage"
-  ],
-  "resume": "Location d'un appartement 3 pièces neuf, jamais habité, au 3e étage à Yopougon près de l'hôpital féminin, avec 2 balcons, 2 WC et vitrage coulissant, à 250 000 F par mois. Contact indiqué par téléphone.",
-  "texte": "YOP PMI EN LOCATION UNE NOUVELLE CONSTRUCTION 3 PIÈCES 250 k AU 3e ETAGE AVEC 2 BALCON ET 2DWC ET VITRÉ COULISCENT TRÈS PROPRE  INTERRESSE APPEL  +225 0787407535 #3piece #yopougon🇨🇮🎶 #appartementalouer #standing  Voilà ! Quand il voit ce matin, habitant c'est le soir, bichop immobilier, monsieur le détecteur des jolies maisons sans esprit. Je suis présentement au niveau de Yopougon, non loin de l'hôpital féminin. Voilà ! À quelques pas de la voie, emporté dans une trois pièces. Trois pièces, 250 cas. Nouvelle maison, jamais habitée. Avec deux balcones, balcon avant, balcon arrière. C'est une vraie pipitie, une vraie pipitie. Voilà ! C'est une maison de 250 cas, très propre. Voilà ! Bien vitrée, bien sapée, bien chic. Intéressé pour appeler, il reste seulement au troisième et au quartier. C'est une belle maison, vous voyez. Ça se rappelle habitée à la fin. Ici, c'est les vides coulissons qui vont mettre. Regardez les placards. Joli, joli, joli, joli. Ça c'est la chambre principale. Tout est grand dedans. Voici les toilettes. Tout est propre, tout est propre. Intéressé, il faut appeler directement. Ça ne va pas durer, je dis bien. Ça ne va pas durer. Voilà ! Prévenu, prévenu sa vie, il reste seulement quelques potes. Intéressé, appelle rapidement. Merci, n'oubliez pas de vous abonner, de partager et de mettre les cœurs. Voilà, merci.",
-  "contacts": [
-   "0787407535"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null
- },
- {
-  "id": "tt_7700220388881550614",
-  "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7700220388881550614",
-  "plateforme": "TikTok",
-  "auteur": "promoteur_immobilier225",
-  "date": "20261024",
-  "thumb": "thumbs/tt_7700220388881550614.jpg",
-  "quartier": "Saint Pierre",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 170000,
-  "equipements": [
-   "2 balcons",
-   "3 WC",
-   "3 douches",
-   "balcon / terrasse",
-   "cuisine",
-   "salon",
-   "staffé",
-   "étage"
-  ],
-  "resume": "Appartement 3 pièces au 1er étage à Yopougon (Saint Pierre, carrefour dépôt, proche du pont), 3 douches, 3 WC, 2 balcons, cuisine équipée (congélateur, réfrigérateur), salon, loyer 170 000 F, travaux de rénovation en cours. Contact par téléphone/WhatsApp indiqué dans la légende.",
-  "texte": "3pieces 3dwc 2balcons au 1ier etage  YOPOUGON A GAUCHE SAINT PIERRE CARREFOUR DEPOT TRES ACCECIBLE AU PONT 170.000 apel/wattsapp: 0143378277 #debloquemesvues #abidjan_tiktok #alouer #yopougon #gbairai_qui_est_doux_la  Toujours dans ton maison, la probateur est jolie mais dans des barbis. Je suis présentement de l'huile au poucon. À gauche c'est un pied car il faut des peaux non loin du pont. Voilà, dans une 3 pièces, 3 douches, 3 vécis. C'est la douche visiteur. Voilà, bien proposte en dynamique et déménagé. Donc, il y a des travaux à faire. Voici la cuisine, une bien grande cuisine. On pourrait le constater. Ici, tu as ton congélateur, tu as ton réfugérateur, tu as ta cuisine. Ça passe. Admirer vous-même le salon. Caille à salon. Pied propre. Pied staffé. Car au vitrifié. Voilà, on vient de déménager. Donc, ils vont faire tout ce qu'il y a comme travaux. 170 000 fois le loyer. Voilà, 170 000 fois le loyer. Admirer vous-même le premier balcon. On vient de déménager. Donc, ils vont faire tout ce qu'il y a comme travaux. Le premier balcon. Bien grand. Voilà, bien grand, bien propre. Voilà. Ils sont en train de tout changer. Encore le carreau. Il faut que tu aimes changer encore le carreau. Ça, c'est une chambre. Ça, c'est la chambre des enfants. Admirer vous-même la chambre des enfants. Ils sont en train de tout changer ici. Voilà. Voilà. Voilà. Ils ont tout cassé. Ils ont tout cassé ici. Pour faire... Ils vont changer tout ce qu'il y a comme carreau ici. C'est comme ça. Comme ça, comme ça, ils font les travaux. Ils changent tout. C'est vrai pour peut-être qu'ils respectent ces locataires. Voilà, voici également la chambre principale. Vous voyez, là, les toilettes, ils l'ont tout cassé. Ils vont tout changer. Tout. La maison, c'est très belle encore. Voilà. Voilà. Ça, c'est la chambre principale. Bien grande. Staffé avec son balcon. Vous voyez, la chambre principale à son balcon. Voilà. 170 000 francs de loyer. Au premier étage, yopougon, à gauche, c'est bien car il f",
-  "contacts": [
-   "0143378277"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
-  "publications": 1
- },
- {
-  "id": "tt_7700222596889021718",
-  "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7700222596889021718",
-  "plateforme": "TikTok",
-  "auteur": "promoteur_immobilier225",
-  "date": "20261024",
-  "thumb": "thumbs/tt_7700222596889021718.jpg",
-  "quartier": "Saint Pierre",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 190000,
-  "equipements": [
-   "3 WC",
-   "3 douches",
-   "balcon / terrasse",
-   "cuisine",
-   "garage / parking",
-   "gardien",
-   "neuf",
-   "parking",
-   "staffé"
-  ],
-  "resume": "Location d'un logement de 3 pièces avec 3 douches et 3 WC au rez-de-chaussée, portail individuel, de plain-pied, nouvelle construction jamais habitée, à Yopougon Saint Pierre près du carrefour dépôt, loyer 190 000 F, contact WhatsApp [numéro masqué]. Parking et gardien annoncés. Les photos montrent un chantier inachevé.",
-  "texte": "3pieces 3dwc au rez portail individuel comme maispn basse YOPOUGON A GAUCHE SAINT PIERRE CARREFOUR DEPOT TRES ACCECIBLE AU PONT 190.000 apel/wattsapp: 0143378277 #debloquemesvues #abidjan_tiktok #alouer #yopougon #gbairai_qui_est_doux_la  Bonjour d'automaison, je suis toujours au niveau du haut-bord, à gauche, à côté des pots Voilà, non loin des pièces, dans une trois pièces, trois douches, une nouvelle construction, jamais habité, vous voyez non ? Voilà, c'est la première douches qu'il y a là, et à des vaux-mêmes, c'est une maison au gré de chaussis, mais c'est comme une maison basse, vous voyez ? Voilà, tout ça, c'est la cuirasse, hein, c'est le salon qui est là, un gaya salon, propre, bien propre, 180 000 fois le loyer, c'est une nouvelle construction Voilà, donc si vous voulez là, vous pouvez venir, et puis en discuter ensemble, hein, le propriétaire pour qu'il laisse à 180 000, il n'y a pas problème, vous voyez ? Voilà, ça c'est la cuisine, tout est staffé dans la maison ici, voilà, trois pièces, trois douches, voici une chambre qui est là, vous voyez ? Voilà, ça c'est une chambre encore qui est là, avec ses placards et sa toilette, comme vous pouvez le constater, vous voyez, la toilette, voilà, tout est staffé dans la maison Et puis, ça c'est la chambre principale, une grande chambre principale, vous voyez la chambre principale, elle est bien grande, bien grande, avec sa terrasse, la chambre principale, ça c'est la terrasse de la chambre principale Voilà, tout est staffé ici, il n'y a pas affaire, il dit que tout est staffé, terrasse de la chambre principale, voilà, bien propre, avec cette toilette, vous voyez cette toilette, hein, la toilette, la chambre principale, tout est staffé ici Ah, la maison est presque finie, jusqu'à la fin de ce mois, elle s'est la prête à établir l'éclu, c'est en remis d'ici le 5 entre le 5 et le 10, vous voyez, sur le salon Toujours ton temps de maison, n'hésitez pas de vous abonner pour ne rien rater de pepite de ton temps de mai",
-  "contacts": [
-   "0143378277"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
-  "publications": 1
- },
- {
-  "id": "tt_7700284301551832327",
-  "url": "https://www.tiktok.com/@bishop027immobilier/video/7700284301551832327",
-  "plateforme": "TikTok",
-  "auteur": "bishop027immobilier",
-  "date": "20261024",
-  "thumb": "thumbs/tt_7700284301551832327.jpg",
-  "quartier": "Maroc",
-  "yopougon": true,
-  "transaction": "location",
-  "type": "3 pièces",
-  "pieces": 3,
-  "loyer": 200000,
-  "equipements": [
-   "2 WC",
-   "2 balcons",
-   "balcon / terrasse",
-   "cuisine"
-  ],
-  "resume": "Annonce de maison de 3 pièces à Yopougon Maroc, 2 WC et 2 balcons, bien située, 200 000 F, contact par téléphone [numéro masqué]. Transaction probablement location, non explicitement précisée.",
-  "texte": "YOPOUGON MAROC UNE BELLE MAISON DE 3 PIÈCES 200 k AVEC 2DWC ET 2 BALCON BIEN SITUÉ  INTERRESSE APPEL CONTACT 0787407535 #yopougon🇨🇮🎶 #maison #3piece #pourtoi  Quand il voit ce matin, Abidjan c'est le soir, Bishop immobilier, monsieur le détecteur des jolies maisons sans esprit. Je suis présentement dans une trois pièces au standing, très propre. Regardez le balcon, vous pouvez m'admire. Placé au nouvel de Yopougon, Maroc, c'est une belle maison. Avec deux palcons, bien propres, c'est une très belle maison. Deux centaures au Yopougon, Maroc. Yopougon, Maroc. Regardez la cuisine, tout est grand dedans. Yopougon, Maroc. C'est une belle maison. C'est une belle maison. Les affaires, les champs sont très grands, tout est grand dedans. Tout est grand, tout est grand. Voilà, ça c'est la douce visiteur. Tout est grand, vous voyez. Tout est grand, tout est grand dedans. Encore des affaires pour pas trop faire les images. C'est un rappel. Deux centaures, il est intéressé pour appuyer rapidement. Au premier menu, premier service, faites vite, appelle rapidement si tu es intéressé. Ça ne dit pas je dis bien deux centaures. N'oublie pas de vous abonner, de partager et de mettre le coeur. Merci. ABONNETOI POURVOIR APONNE UT DE DE BELLES} MAISONS} ABONNEITOI s POURVOIR 7 ABONNEITO!I ABONNEITOI OR VON BOURVOIR] DEBELLES URTEUIES POURVOIR. DÉBELLES) MAISONS POUR VOIR DE BELLES MAISC ABONNEÏTOI IDE/BELLES] IDEIBELLES L POUR VOIR ABONNETO!I FOIRVOMR IDE/BELLES; MAISON SN | EU ABONNE TOI MAISONSIN FOIRVOTR “ DEBEILES ABONNETOIR « FOURVOT IDE]BELLES DEBELLES) VABONNETOI … POURVOIR LL DE/BELLES ABONNETOI A POURTOIR Se",
-  "contacts": [
-   "0787407535"
-  ],
-  "source_extraction": "règles + IA",
-  "total_entree": null,
   "publications": 1
  }
 ]

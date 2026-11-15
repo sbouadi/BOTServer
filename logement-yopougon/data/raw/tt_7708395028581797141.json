@@ -1,0 +1,38 @@
+{
+ "id": "tt_7708395028581797141",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7708395028581797141",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7708395028581797141",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261115",
+ "duration": 60,
+ "description": "🛑LOCATION 🎋 YOPOUGON KM17 INSTITUT PASTEUR ✅DES MAGNIFIQUE APPARTEMENT PRÊT HABITER DE 3 PIÈCE  BON STANDING AU 1ERE ÉTAGE DISPONIBLE STAFFER AU KM17 INSTITUT PASTEUR TRÈS BIEN PLACÉ ET ACCESSIBLE.  PRÊT HABITER  AU 1ERE ÉTAGE  02 SALLES D'EAU ❤️  PARKING  VIGILE  SPOTE LUMINEUX  ACCÈS FACILE ✅LOYER: 180.000 FR ✅CONDITIONS: 5MOIS+100mille  CONTACT: 0720363576",
+ "transcript": "Je fais, tu fais, mais c'est comme réfait là, que ça fait Au bas où elle est là au rap, bébé les barres Quand tout est noir, toi ta lumière s'allume D'avant toi, tout s'allume Tu n'as pas besoin de parler pour montrer ta valeur Ta présence suffit ou fait battre les gueules Quand il voit ton visage, combien de vies s'illumine De pattons d'aime souris Tout le monde veut t'approcher Tout le monde veut te toucher Même ceux qui n'aiment pas C'est du bad C'est du bad C'est toi qui s'apprend On aura un valet C'est du bad C'est du bad",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708395028581797141.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "KM17 Institut Pasteur",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking",
+   "vigile",
+   "spot lumineux",
+   "2 salles d'eau"
+  ],
+  "resume": "Location appartement 3 pièces bon standing, prêt à habiter, au 1er étage à KM17 Institut Pasteur, Yopougon. Loyer 180 000 F, conditions 5 mois + 100 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

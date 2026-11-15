@@ -1,0 +1,40 @@
+{
+ "id": "tt_7708135876542385416",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7708135876542385416",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7708135876542385416",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261114",
+ "duration": 67,
+ "description": "VENTE - À BINGERVILLE GAGBA (Q. MERLIN) Terrain Commercial de 675m² avec Villa basse 3P + 2 Dépendances. Document : ACD. Prix : 77 Millions FCFA à débattre. Idéal investissement ou commerce. 0788393888 WhatsApp 0575303446 ",
+ "transcript": "Et toi détendre, choisis des cieux J'étais un beau, tu m'as mis un haut T'as employé, je suis devenu patron Tu n'as pas le mot, le mot d'être plus éperce à l'eau Ce que tu avais pour moi, pas par terre aussi C'est caté, jamais, jamais en bas",
+ "ocr": [
+  "#7 AS a AUS",
+  "r Lars + “",
+  "ré . aide"
+ ],
+ "thumb": "thumbs/tt_7708135876542385416.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Bingerville",
+  "quartier": "Gagba (Q. Merlin)",
+  "type": "villa",
+  "pieces": 3,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 dépendances",
+   "document ACD"
+  ],
+  "resume": "Vente d'un terrain commercial de 675 m² avec villa basse de 3 pièces et 2 dépendances, document ACD, prix 77 millions FCFA à débattre, idéal investissement ou commerce. Contacts WhatsApp 0575303446 et 0788393888.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

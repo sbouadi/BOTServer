@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708332612464528660",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7708332612464528660",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7708332612464528660",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261115",
+ "duration": 131,
+ "description": "Mise en location d'un appartement de 4 pièces à 220.000f au 1er étage. Lieu: Yopougon millionnaire résidentiel. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "Il s'en confond",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708332612464528660.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire résidentiel",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 220000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 4 pièces au 1er étage à Yopougon Millionnaire résidentiel, loyer 220 000 F, frais de visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

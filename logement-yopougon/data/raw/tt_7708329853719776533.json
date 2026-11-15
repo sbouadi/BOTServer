@@ -1,0 +1,37 @@
+{
+ "id": "tt_7708329853719776533",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7708329853719776533",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7708329853719776533",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261115",
+ "duration": 164,
+ "description": "👮👮👮👮👮👮👮👮*BAIL POLICE BAIL POLICE* *YOPOUGON BEAGO APRÈS LE MARCHÉ CARREFOUR TAILLE BASSE UNE GRANDE MAISON BASSE 4 PIÈCES(130mille) 2DWC VIDE PRÊT HABITER* *TAUX DE BAIL 130*               🚨NB🚨 *TAUX 110k PASSE. 🚨VISITE:*5.000FR* Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "A tout ce voie d'ici que mes hivers Ils changent mes larmes en une danse de joie Car en lui, j'ai trouvé ma voie Lève son nom",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708329853719776533.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Beago, après le marché Carrefour Taille Basse",
+  "type": null,
+  "pieces": 4,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 WC",
+   "vide",
+   "prêt à habiter"
+  ],
+  "resume": "Grande maison basse de 4 pièces avec 2 WC à Yopougon Beago, après le marché Carrefour Taille Basse, vide et prête à habiter, loyer 130 000 F (taux 110k possible selon la note), frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

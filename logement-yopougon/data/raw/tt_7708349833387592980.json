@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708349833387592980",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7708349833387592980",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7708349833387592980",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261115",
+ "duration": 49,
+ "description": "Magnifique et beau nouveau magasin disponible 70mil bien placé 🔑🏠🥰✅ 70mil x5mois plus 50mil démarcheur  Nb: frais de dossier 30mil  Détail: 2 mois caution               2mois avance        1mois agence plus 50mil  Yopougon Academie diop carrefour boutique lamine  Visite 5mil Contact: 0711392732  #magasin #yopougon🇨🇮🎶 #vue #fly #visibilité @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Voilà, Yopukon, ils vont piller vous pour présenter les marasins bien placés. Voilà la route. Voilà. A Yopukon Academy Diopo, au niveau du Carrefour Boutique Lamine. Voilà, la route est là, le marasin est là, à 70 000 francs. Quand vous demandez vous abonner, là, c'est par rapport à tout ça, c'est pour nous rien rater. Voilà, un très bon marasin de 70 000 francs disponible à Yopukon Academy Diopo, au niveau du Carrefour Lamine, Boutique Lamine. Voilà, allez-y, douche, 2 activités passent, soif, alcool. Voilà, 2 activités passent, soif, alcool. Où tu passes ? Voilà, 2 passes, soif, alcool. Je vais bien répéter les 2 passes, alcool, et je vais gérer ça pour vous mariser la nuit.",
+ "ocr": [
+  "DLL,",
+  "LLLA,"
+ ],
+ "thumb": "thumbs/tt_7708349833387592980.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie Diop, carrefour Boutique Lamine",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Magasin commercial à louer à Yopougon (Academie Diop, carrefour Boutique Lamine) à 70 000 F par mois ; caution 2 mois, avance 2 mois, 1 mois d'agence plus 50 000 F de démarcheur, frais de dossier 30 000 F, visite 5 000 F. Paiement sur 5 mois selon la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}
