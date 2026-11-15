@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708474887421086984",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7708474887421086984",
+ "url": "https://www.tiktok.com/@brunesleger/video/7708474887421086984",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261115",
+ "duration": 56,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] une sublime 2 pièces à yopougon Bagnon école ramât. 👉 loyer 85 milles  👉 1 salles d’eau  👉 staffées  Visite 5 milles  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Salut chez tous, c'est l'un des mobiliers de jour. Mais je ne veux pas mourir là-bas, c'est un mobilier. Comme vous pouvez le voir, je suis au sein d'une des pièces, 85 000 francs. Voilà, admirez-vous maintenant. La douche magnifique douche, tu n'as rien à dire. Gaia Salon, bien fait, bien arrêté. Voilà, très, très, très grand chambre, bien placé. Vous voyez, voilà, la maison restée du loyer, 85 000 francs. Les gars, qui vous a dit la maison est chère avec un camp même? Ça dépend de là où se situer. Voilà, vous voyez, la maison restée du bonheur, 85 000 francs. Youpougon, Bagnon, Écolon, Rama. C'est pas cadeau ça. Viens prendre ta maison, dégris-toi. Après un an, tu peux déménager. Allez, on s'entraie là. Voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708474887421086984.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon école Ramat",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "staffé",
+   "salle d'eau"
+  ],
+  "resume": "Location d'une 2 pièces à Yopougon (Bagnon, école Ramat) à 85 000 F par mois, avec une salle d'eau et des plafonds staffés, visite à 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}

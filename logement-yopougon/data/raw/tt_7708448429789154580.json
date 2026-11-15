@@ -1,0 +1,39 @@
+{
+ "id": "tt_7708448429789154580",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708448429789154580",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708448429789154580",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261115",
+ "duration": 39,
+ "description": "🏡🔥 DUPLEX DE 5 PIÈCES À LOUER ! 📍 Yopougon Feh Kesser – Cité Promogym ✅ 4 chambres ✅ Grand salon ✅ Cuisine équipée ✅ Chauffe-eau ✅ Garage 2 voitures ✅ Cour avant et arrière ✅ Jardin 🌳 💰 Loyer : 600.000 F CFA 📌 Conditions : 5 mois 💵 Visite : 5.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 #Location #Duplex #Yopougon #ImmobilierAbidjan #FehKesser",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708448429789154580.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Feh Kesser – Cité Promogym",
+  "type": "duplex",
+  "pieces": 5,
+  "loyer": 600000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine équipée",
+   "chauffe-eau",
+   "garage 2 voitures",
+   "cour avant et arrière",
+   "jardin"
+  ],
+  "resume": "Duplex de 5 pièces (4 chambres, grand salon) à louer à Yopougon Feh Kesser, Cité Promogym, loyer 600 000 F CFA, 5 mois à payer, visite 5 000 F, contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-15",
+ "origine": "découverte"
+}
