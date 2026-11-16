@@ -1,0 +1,37 @@
+{
+ "id": "tt_7708790467634449672",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7708790467634449672",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7708790467634449672",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261116",
+ "duration": 26,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO YOPOUGON ANANERAIE TERRAIN BASKET LOYER: 60 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, toujours, toujours, allez, je vous présente un studio de 60.000 francs. Je pourrai en améliorer. Voilà, tiré un basket. Un studio de 60.000 francs. Très, très bien placé. Il répète bien, c'est un studio de 60.000 francs. Voilà. Voilà, espace cuisine. La douche.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708790467634449672.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Anana",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "toilettes"
+  ],
+  "resume": "Studio à louer à Yopougon Ananeraie (quartier Anana), loyer 60 000 F, situé près d'un terrain de basket, contact par WhatsApp au 05 06 64 49 72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

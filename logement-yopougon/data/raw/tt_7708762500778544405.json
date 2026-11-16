@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708762500778544405",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708762500778544405",
+ "url": "https://www.tiktok.com/@annilove225/video/7708762500778544405",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 66,
+ "description": "Bureau à louer Yopougon ananeraie carrefour sorbonne non loin de la générale disponible vide au 1er étage  Loyer: 120k  Contact: 0767314212 #maisonalouer #immobilier #bureau #bureaualouer #ananeraie ",
+ "transcript": "C'est à cause de ces petites pépites immobilières que je vous demande toujours de vous abonner, c'est toujours le même détecteur des pépites immobilières. Voici un joli bureau qui est là, voilà tu as vu t'intéresser, si j'ai longtemps tu as cherché un local pour faire une activité qui ne trouve pas. Vous voyez ça qui est là, c'est très très propre, il n'y a absolument rien à dire. Voilà, c'est bon, il y a beaucoup, on en dirait non loin de la banque HGCI, voilà, non loin de la Générale. Tu as vu t'intéresser, il y a des rapides montées, c'est la forme des champs salants. Voilà, c'est très très propre, il n'y a absolument rien à dire. 120 000 francs d'effet pour la location, c'est très très très très très propre. Voilà, les petites locales ici, c'est très très très très très très très propre. Il n'y a absolument rien à dire, c'est très très grand, il n'y a rien à dire. Voilà, ça va être deux douches, ça va être deux douches. Voilà, c'est très très très très très très propre, il n'y a absolument rien à dire. Il n'y a rien à dire, c'est la banque HGCI, il n'y a rien à dire. Voilà, c'est très très propre, c'est la nouvelle voie. J'ai envie de t'intéresser, on peut pas t'en appartumer rapidement. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708762500778544405.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Bureau à louer à Yopougon Ananeraie, carrefour Sorbonne non loin de la Générale, disponible vide au 1er étage, loyer 120 000 F, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

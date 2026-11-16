@@ -1,0 +1,35 @@
+{
+ "id": "tt_7708732061959458068",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708732061959458068",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708732061959458068",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261116",
+ "duration": 46,
+ "description": "🏠 STUDIO NEUF À LOUER 🔥 📍 Yopougon Niangon Sud – Centre Social 💰 Loyer : 65.000 F 📋 6 mois + 40.000 F 👀 Visite : 5.000 F ✅ Nouvelle construction ✅ Prêt à habiter 📲 WhatsApp : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Location #Yopougon #NiangonSud #ImmobilierAbidjan #StudioALouer ",
+ "transcript": "",
+ "ocr": [
+  "quil {QU"
+ ],
+ "thumb": "thumbs/tt_7708732061959458068.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud – Centre Social",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": 40000,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio neuf à louer à Yopougon Niangon Sud (Centre Social), loyer 65 000 F, 6 mois à payer + 40 000 F d'agence, visite 5 000 F, prêt à habiter, contact WhatsApp 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

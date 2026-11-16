@@ -1,0 +1,35 @@
+{
+ "id": "tt_7708788511452712213",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708788511452712213",
+ "url": "https://www.tiktok.com/@annilove225/video/7708788511452712213",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 55,
+ "description": "Studio 70 mil songon carrefour brebresso juste après l’église méthodiste d’Abadjin kouté au carrefour watao au 2ème étage nouvelle maison  Contact: 0767314212 #studio #immobilier #appartement #songon ",
+ "transcript": "toujours le même détecteur des pépitons immobiliens mais c'est joli mais c'est mais on fout l'option mais c'est ostandine mais c'est fait moi d'amis mais c'est trop de choses voici très très très beau studio 70 000 francs sur le mois de nouvelle construction la maison n'a jamais été habité il n'y a pas de quelqu'un dans la maison tu payes tu dors voici là mais on fout l'option 0 unité il n'y a pas de quelqu'un dans tu payes tu dois la mesure de place au niveau de son car il faut prendre le sceau juste au niveau de car il faut à ta haute tu prends à ta droite quand il quitte pas du coup moi et à ta bouche quand il quitte pas d'avoue c'est très très propre il a absolument rien à dit c'est très très très propre car il faut à ta haute dès que tu viens tu vas voir la maison qu'elle a c'est une nouvelle construction hein ça n'a jamais été habité voilà c'est la cuisine qu'elle a fait une cuisine nouvelle c'est très très propre à la française tu as dit que tu es intéressé tu appelles le numéro rapidement",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708788511452712213.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Brebresso, après l'église méthodiste d'Abadjin Kouté, carrefour Watao",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine"
+  ],
+  "resume": "Studio neuf au 2ème étage à Songon, Carrefour Brebresso, loyer 70 000 F, nouvelle construction jamais habitée, cuisine neuve, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

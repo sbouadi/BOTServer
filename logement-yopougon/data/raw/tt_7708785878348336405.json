@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708785878348336405",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7708785878348336405",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7708785878348336405",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261116",
+ "duration": 113,
+ "description": "Mise en location d'un 2 pièces 100.000f Lieu: Yopougon académie carrefour bamba. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "On a nés à plaire au chinois comme la vie de Carmen C'est eux qu'on veut sauver, c'est eux qui nous malmênent Fils pour pas regarder Disney, c'est des choses charmnelles Ah Jérusalem, Jérusalem N'en va pas pour m'attaquer, il faut venir toi-même La moisson a peu...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708785878348336405.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie carrefour Bamba",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un 2 pièces à Yopougon Académie carrefour Bamba, loyer 100 000 F, frais de visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

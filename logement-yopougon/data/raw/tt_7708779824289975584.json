@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708779824289975584",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7708779824289975584",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7708779824289975584",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261116",
+ "duration": 45,
+ "description": "2 pièces 120.000 au 1er étage ananeraie Sorbonne pour bureau mais habitation passe aussi  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "Salut, salut, salut. Voici une maison avec un second bureau. On vous donne un mérite. Bien placé en body-body hall. À 120 000 francs. Alors, bureau même, c'est acceptable. Non, je crois que c'est très, très beau du bureau. Alors, on va plus, plus en plus. La chambre. Voilà. La chambre, vous avez un petit couloir là. Bureau, bureau, bureau, 120 000. Bien placé. On avait une autre porte et deux traces. Voilà, avec la gauche. Et dite-douche, oui. C'est le bâton qui est là. On voit le bâton. Voilà, on voit le bâton qui est là. On va piquer ça en body. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708779824289975584.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Sorbonne",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au 1er étage à Ananeraie Sorbonne (Yopougon) à 120 000 F, utilisable aussi comme bureau ; contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

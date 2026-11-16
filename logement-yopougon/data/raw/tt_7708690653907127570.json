@@ -1,0 +1,40 @@
+{
+ "id": "tt_7708690653907127570",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7708690653907127570",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7708690653907127570",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261116",
+ "duration": 70,
+ "description": "BAIL GENDARME 3 PIÈCES 160 k YOPOUGON MAROC SECTEUR HÔTEL GRANITE AU 3E ETAGE AVEC 2 BALCON 2 DWC  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #bail #gendarmerie #maisonalouer #maison ",
+ "transcript": "Tandis voir ce matin, à vingt ans, c'est le soir. Fichot immobilier. Monsieur le détecteur. Joli maison sans esprit. Je suis aujourd'hui dans une trois pièces. Baye, Baye Jandaméry. Baye Jandam. Voilà. En travaux, hein. Vous voyez, tout est grand, et dans tout est chic, regardez. Voilà, avec deux balconches. C'est une très belle maison. Baye. Baye Jandam. Baye Jandam. Possibilité de payer le reliquat. Vous voyez, voilà. Regardez ici, c'est la chambre principale. C'est très grand. Voici la touche. Voilà, c'est un travaux. Vous voyez plus. C'est une très belle maison. Voilà. Regardez combien? Plus visiteurs. Voilà. Et celle des enfants. Intéressant, faut appeler rapidement. Faut appeler rapidement, ça va pas durer. N'oubliez pas de vous abonner, de mettre le coeur et de partager. Si ce, Jésus vous aide.",
+ "ocr": [
+  "BAIL",
+  "GENDARME",
+  "BAIL«"
+ ],
+ "thumb": "thumbs/tt_7708690653907127570.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Secteur Hôtel Granite",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 balcons",
+   "2 DWC"
+  ],
+  "resume": "Bail gendarme 3 pièces au 3e étage à Yopougon Maroc secteur Hôtel Granite, 160 000 F, avec 2 balcons et 2 DWC, en travaux; possibilité de payer le reliquat; contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

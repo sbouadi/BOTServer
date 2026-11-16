@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708740205460606228",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708740205460606228",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708740205460606228",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261116",
+ "duration": 127,
+ "description": "🏠 3 PIÈCES À LOUER 🔥 📍 Yopougon Ananeraie – Guichanrolin 📌 1er étage 🚗 En bordure directe de voie 🤝 Direct avec le gérant 💰 200.000 F 📋 6 mois + 100.000 F 📲 07 67 64 46 18 🔥 CHAP CHAP ! Tu vois, tu prends ! #Yopougon #Ananeraie #LocationAbidjan #Immobilier225 #AppartementALouer",
+ "transcript": "Skal Povit Haha! Primes parolées A ha ha ha ha ha ha ha Yeah! Oh! L'amour ça repart, pas poids ça nous quitte J'assume tout mes pas, car seul Dieu nous quitte Et quand on se parle, l'histoire est écrite Ne me remercie pas, t'inquiète, on est quitte La rue m'a fait vivre, mais la rue m'a dégoûté L'école m'a fait lire, mais l'école m'a fait douter Maman m'a appris que l'argent n'est pas une fois en soie Que vieille rét'obligatoire mais grandir est un choix dire est un choix on m'a dit ne te rate pas y'a personne qui m'aide j'aime pas le rap moi c'est le rap qui m'aime il m'a rendu au centuple tout ce que je lui donne et parfois quand je ne chante plus c'est là que je m'isole et je n'ai pas d'idoles à part le plus grand à part mon créateur plus j'en parle plus j'en tremble il n'y a rien de me tente à part quelques doutes que je promène on se ressemble appelemoyous on se connaît t'emmenait t'emmenait yo on se connaît les stars ça décline un jour on les remplace les foules sont anonymes et un jour on les embrasse la pression domine personne n'est à ma place j'ai pas de pseudo nim mieux sous face et mon vrai blase j'ai un appel qui monte tant pis pour la critique et puis plaire à tout le monde c'est plaire à n'importe qui le but de ma musique du rap que j'expose c'est de rester authentique pas de rester pauvre et la France m'a fliqué ses apparences nous mentent le bled me fait flipper ma famille me manque l'amour m'a fait chialer pour tout ce que j'éprouve",
+ "ocr": [
+  "4 YANN",
+  "2 MERE >: MIE"
+ ],
+ "thumb": "thumbs/tt_7708740205460606228.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie – Guichanrolin",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces au 1er étage à Yopougon Ananeraie – Guichanrolin, en bordure directe de voie, en direct avec le gérant, 200 000 F par mois, 6 mois à payer plus 100 000 F. Contact 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

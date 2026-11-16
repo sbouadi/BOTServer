@@ -1,0 +1,41 @@
+{
+ "id": "tt_7708769641912372486",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7708769641912372486",
+ "url": "https://www.tiktok.com/@brunesleger/video/7708769641912372486",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261116",
+ "duration": 116,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] une sublime villa de type 4 pièces à yopougon académie cité laurier 14 une belle cité avec une parking et un gardien pour la sécurité de la cité. 👉 Loyer 250 milles  👉 4 salles d’eau  👉 une grande cour avant et arrière plus une buanderie. Visite 5 milles à tout moment  Contact :0153273240//0777789059 #Yopougon luxe immobilier  #TikTok influence immobilière #Yopougon ma chic commune ",
+ "transcript": "Je pose ma caméra sans château si vous laissez l'immobilier, toujours ! Toujours mon invamon à l'épreuve impépite immobilier ! Comme vous le voyez, je suis aussi clé à 4 pièces à la poudre, Académisité Laurier XIV ! Adieu vous-même ! Le salon ! Mon ami salon est absolument rien à dire ! Vous voyez, là c'est la cuisine ! Très, très, très, très grande cuisine ! Voilà, vous voyez, voilà ! Et là c'est la cour arrière ! Vous voyez la cour arrière, très vaste avec une bien-diée qui est là ! Vous voyez, voilà ! Le professeur a tout mis à votre disposition ! Vous voyez, là c'est la chambre ! La chambre de la serfante ! Tout sur les médicaments impollus là ! Voilà, la chambre est là ! Vous voyez, voilà ! Bien propre, bien propre ! Avec sa douche, vous voyez, là j'ai mon placard ! La douche qui est là, vous voyez ! Tout est progédie ! Le professeur a bien réfléchi, hein ! Il a bien réfléchi, les gars ! Birot comme habitation, je précise bien ! Birot comme habitation, tout, toute activité passe ! Toute activité passe ! Voilà, viens ! Le rap de la maison mobilée, tout est possible ! Voilà, vous voyez, là c'est la première, la deuxième touche ! La douche à des visiteurs ! Voilà, là c'est la chambre principale, la chambre principale ! Très vaste et bien-airée ! Absolument, Rhyme a dit, vous voyez ! La maison restreite du bonheur ! Vous voyez, là c'est la douche ! La douche principale, qui brille ! Qui brille, qui brille ! Il a dit, c'est pas maison de rêve qui est là ! C'est pas maison foule option qui est là ! Maison qui est en train de chercher ! C'est pas la maison idéale qui est là ! Qu'il y a sans-quecent, c'est pas cadeau ! J'ai dit, c'est pas cadeau ! Regardez, la troisième chambre est très vaste ! Même si j'ai é whisperer sa croix ! Wow, là ! Oui, tout est grand, tout est bien fait, tout est bien fait ! Y'a dit, la douche ne ment ! Prêt, prêt, prêt, prêt, prêt pour ne pas ! Voilà, n'oubliez pas de vous abonner, de vous abonner les gars ! Nous sommes là pour vous ! Notre business mobilier, c'est la qualité et nous la quantité je précise bien ! Je vous aime, À Bigan !",
+ "ocr": [
+  "| alt (fl |"
+ ],
+ "thumb": "thumbs/tt_7708769641912372486.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie Cité Laurier 14",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "4 salles d'eau",
+   "cour avant et arrière",
+   "buanderie",
+   "parking",
+   "gardien"
+  ],
+  "resume": "Location d'une villa de type 4 pièces à Yopougon Académie Cité Laurier 14, loyer 250 000 F, visite 5 000 F, cité sécurisée avec parking et gardien, usage habitation ou bureau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

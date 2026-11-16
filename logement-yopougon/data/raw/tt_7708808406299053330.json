@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708808406299053330",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7708808406299053330",
+ "url": "https://www.tiktok.com/@brunesleger/video/7708808406299053330",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261116",
+ "duration": 53,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] un sublime studio ( résidence à cédé avec tout à l’intérieur kD0 du ciel. 👉 loyer 60 milles  👉 prix de cession 1 million 400 milles à revoir légèrement  👉 yopougon Maroc tiken jah en bordure.portail individuelle. Visite 5 milles  Contact :0153273240//0777789059 #Yopougon résidence à cédé  #viralvideoviraltiktok🥰🤭 #deblocagedevuetikt ",
+ "transcript": "Salut à tous, Brunesse Mobiliers. Toujours moyen comme moi dans les vrais peptits mobiliers. Voilà, je suis au sein d'une résidence à ACD, loyer sur 100 000 fracas d'eau du ciel. Voilà, vous voyez, ça c'est la cuisine. Voilà, vous voyez, le studio très propre. Voilà, résidence à ACD, Yopugon, Anamirai, Tikenja. Voilà, à deux pas du goudron, il est dit, c'est du cadeau. C'est du cadeau loyer, 60 000 francs. Voilà, vous voyez, tout est propre, tout est bien fait. Cadeau de fin d'année. Tu as déjà dit, pour faire une résidence, vous êtes les bienvenus. Voilà, Brunesse Mobiliers, toujours.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708808406299053330.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "portail individuel"
+  ],
+  "resume": "Cession d'un studio meublé dans une résidence à Yopougon (Maroc/Anamirai, près du goudron), loyer 60 000 F, prix de cession 1 400 000 F à revoir, visite 5 000 F. Annonce de Brunes Mobiliers.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7708713792942705926",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7708713792942705926",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7708713792942705926",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261116",
+ "duration": 94,
+ "description": "Mise en location d'un très grand studio américain au rez-de-chaussée avec une terrasse. Lieu: Yopougon basse CIE, carrefour Boby, très bien placé. Loyer: 80.000f Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Salut Paul Rochelle Loba, immobilier vous présente un très beau studio de 80.000 orés des chaussées dans un bon secteur de Yopougon. Voilà, un coup très propre. Bon studio de 80.000 orés des chaussées avec une terrasse. C'est la terrasse qui est là, c'est la cuisine. La maison est prête à être habitée. Tu fesses ta potion. Regardez le studio. Bon studio, bien chocot. Oré des chaussées. En tout cas, le compétent a respecté ses locataires. Voilà, on a la porte de la douche. La porte en bêve vitrée. Viens, t'es bien pris. Regardez le studio. Trois battants des placards. Kaya Studio. Très bien aéré, rien à dire. Et puis c'est très très bien placé à quelques mètres de la route. De 1 secondaire. Très bien placé. Studio 80.000. Voilà. Ne vous faites pas attendre. Commencez à m'appeler, ça a du pas. Ça a du pas.",
+ "ocr": [
+  "mn HOM"
+ ],
+ "thumb": "thumbs/tt_7708713792942705926.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Basse CIE, carrefour Boby",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "terrasse",
+   "cuisine",
+   "douche"
+  ],
+  "resume": "Mise en location d'un très grand studio au rez-de-chaussée avec terrasse à Yopougon Basse CIE, carrefour Boby, loyer 80 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708686982553046292",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708686982553046292",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708686982553046292",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261116",
+ "duration": 208,
+ "description": "🏡 À LOUER À YOPOUGON TOIT ROUGE 🔥 📍 Carrefour Chez Gnanwa ✅ Maison basse de 4 pièces ✅ Nouvelle construction 💰 Loyer : 200.000 F 📌 Conditions : 5 mois + 100.000 F 📞 WhatsApp : 07 67 64 46 18 🔥 CHAP CHAP ! Premier arrivé, premier servi ! #Location #Yopougon #ToitRouge #ImmobilierAbidjan #MaisonALouer",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708686982553046292.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": null,
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'une maison basse de 4 pièces, nouvelle construction, à Toit Rouge (carrefour Chez Gnanwa), Yopougon. Loyer 200 000 F, conditions 5 mois + 100 000 F d'agence. Contact WhatsApp 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

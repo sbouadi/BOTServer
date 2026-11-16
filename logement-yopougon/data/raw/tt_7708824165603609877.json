@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708824165603609877",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708824165603609877",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708824165603609877",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261116",
+ "duration": 51,
+ "description": "🏪 MAGASIN À LOUER À AZITO 📍 Carrefour Supermarché 💰 Loyer : 100.000 F CFA 📌 Conditions : 12 mois + 80.000 F 🔥 Opportunité à saisir ! 📲 WhatsApp : 07 67 64 46 18 #Location #Magasin #Azito #Yopougon #Immobilier ",
+ "transcript": "C'est la prison, perfecte, juste, de la vie. Tu as l'union entre l'amour et l'amour. C'est la flamme qui lui a besoin de ma chaine. Elle peut, avec ma vie, être le volcain de ma passion. Baila-moi dans mon coeur. Amore-moi. La vame, tu m'as sentie, je viens à ma vie. Hey, t'as ma chaine.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708824165603609877.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 12,
+  "frais_agence": 80000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à Azito, carrefour Supermarché, loyer 100 000 F CFA, conditions 12 mois + 80 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

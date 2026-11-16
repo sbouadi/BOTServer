@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708688454254660884",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7708688454254660884",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7708688454254660884",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261116",
+ "duration": 176,
+ "description": "Mise en location d'une 3 pièces 130.000f avec cour avant et arrière  Lieu: Yopougon bagnon juste après le corridor du km17 Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "Ok, que Dieu nous bénisse, amen Jérusalem On a né à plaire au Chinois comme la vie de Carmen C'est eux qu'on veut sauver, c'est eux qui nous mallemen Fils, faut pas regarder Disney, c'est des choses charnels Ah, Jérusalem, Jérusalem Non, va pas pour m'attaquer, il faut venir toi-même La moisson a peu d'ouvrier, mais on est fous quand même Si chacun joue son rôle, on ira tous à Jérusalem Posez chez les wadis, chez les lourds bammrés Ah, Jérusalem, Jérusalem Pépé, t'as tout dans la machin, c'est entre et je l'applène Dieu nous bénisse",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708688454254660884.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon, juste après le corridor du km17",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 130000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cour avant",
+   "cour arrière"
+  ],
+  "resume": "Mise en location d'un 3 pièces à Yopougon Bagnon avec cour avant et arrière, loyer 130 000 F, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

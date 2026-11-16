@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708787460184067334",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7708787460184067334",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7708787460184067334",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261116",
+ "duration": 50,
+ "description": "STUDIO 70 k SONGON BIMBRESSO CARREFOUR WATAO AU 2E ETAGE TRES JOILE  INTERRESSE APPEL  CONTACT 0787407535 #songon #studio #maison #pourtoi ",
+ "transcript": "Bonsoir. Quoi d'y voir c'est Martin ? Abidjan Serpressoir, pitch shop immobilier, monsieur le détecteur des jolis maisons sans esprit, je suis au niveau de sombons, sombons, pembresso, tarifou, watao, dans un studio, 70 000, 70 cas seulement, 70 cas, tu payes, tu dors, tu payes, tu dors. Première venue, première vie, n'oubliez pas de vous abonner, de mettre le coeur, de partager, chez ceux, chez ceux que vous aimez les gars.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708787460184067334.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Bimbresso",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "kitchenette",
+   "placards"
+  ],
+  "resume": "Studio à louer à Songon Bimbresso (carrefour Watao), au 2e étage, à 70 000 F. Contact par téléphone indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

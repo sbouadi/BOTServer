@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708832535907798292",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708832535907798292",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708832535907798292",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261116",
+ "duration": 141,
+ "description": "🏠 2 PIÈCES STAFFÉ À LOUER 🔥 📍 Yopougon Niangon Sud – Centre Social, Cité N’Gouan 3 🏢 1er étage 💰 Loyer : 100.000 F 📌 Conditions : 5 mois + 60.000 F 👀 Visite : 5.000 F 📲 WhatsApp : 07 67 64 46 18 #Yopougon #Niangon #Location #Appartement #ImmobilierCI",
+ "transcript": "Lord Sky Adachi ta gwanu Mouni saram bada Some shiny clothes up Anyhow we like Mickey be a goodie",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708832535907798292.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud - Centre Social, Cité N'Gouan 3",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces staffé au 1er étage à Niangon Sud, Yopougon, loyer 100 000 F, 5 mois à payer + 60 000 F de frais d'agence, visite 5 000 F. Contact WhatsApp 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

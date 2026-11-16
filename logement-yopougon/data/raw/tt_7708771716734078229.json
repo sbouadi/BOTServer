@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708771716734078229",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708771716734078229",
+ "url": "https://www.tiktok.com/@annilove225/video/7708771716734078229",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 32,
+ "description": "#drole #immobilier #yopougon🇨🇮🎶 #songon ",
+ "transcript": "On sait qu'il a cherché une maison à bidire, c'est du Mais souvent on va d'appeler la havausse Regardez le, quand même Quand même, ça se dit, si on veut te coucher même la 12h30 on t'appelle Tu me souviens pas parce que tu as dit la trompée On t'en a senti, qu'est-ce qu'il a cherché une maison qui t'appelle 12h30 Ah, soit même 4h00 Non, les gars, souvent, sciencey Sciencey, hein, sciencey Regardez le, d'abord on va d'appeler Au passage, j'ai 4 pièces de 160 000 Dans la citade où, songon, toujours Non, j'ai la vie d'interresser de m'appeler Rapidement, je me souviens de m'appeler Merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708771716734078229.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo humoristique d'un homme filmé en selfie dans la rue à Yopougon/Songon ; l'audio est incohérent et évoque vaguement une recherche de maison et un loyer de 160 000, mais ce n'est pas une véritable annonce immobilière exploitable.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708751999185046804",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7708751999185046804",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7708751999185046804",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261116",
+ "duration": 79,
+ "description": "Alain zegbehi vous présente une 2 pièces 110 mille au deuxième étage yopougon palais visité 5000 mille infos 0767082208/0501744553",
+ "transcript": "OK ! Salut ! Salut ! C'est Alain Zévéli, on est à Marseille, tout à l'heure, tout à l'heure, présent d'ici. Une, deux pièces, 110 000. Yopoukonpale, oui. Au deuxième étage, oui, là. Voici, ici, la cuisine. Oui, là, là, c'est la cuisine. Sur le deuxième étage, y'a l'eau. Yopoukonpale, c'est pas le dit, c'est très bon, oui. Voici la douche. Là, c'est la douche. 110 000 au deuxième étage. Là, regardez encore. Là, c'est la chambre. Alors, regardez, oui. 110 000, oui, là. Yopoukonpale, vous t'y suivez mes jambes. C'est ça. Bien placé. C'est très facile. Parlez juste. Voici le balbois de la chambre, ici. Oui, là. Voilà. Bien placé. Bonne nuit sur le salon. Allez-y, vous ayez toujours votre MHV. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708751999185046804.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Palais",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au deuxième étage à Yopougon Palais à 110 000 F, visite à 5000 F, contacts 0767082208 / 0501744553. Cuisine, douche et chambre visibles ; eau mentionnée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

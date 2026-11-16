@@ -1,0 +1,36 @@
+{
+ "id": "tt_7708774950815026433",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7708774950815026433",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7708774950815026433",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261116",
+ "duration": 164,
+ "description": "Alain zegbehi vous présente une 3 pièces au premier étage 300 mille yopougon cité habdoulle Diallo visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zemmé, what am I saying with you? Je vous présente ici une trois pièces, 300.000 YOKUGO, cité à Boulangialo, près du lycée professionnel. Regardez, voici ça qui est là. Le confort est là, le confort s'installe ici. Regardez, voilà, 300.000 loyers, 300.000 loyers. Et là, c'est déjà installé, voici le salon, voici la place de la table à manger qui est ici. Les Ivorais commencent à manger à table, vous voyez, vous voyez. Le confort obligé, ça commence à installer dans le centre des Ivorais. Voilà, on voit la vue. La profession s'annonce sur la corde Ivor. Regardez, les belles maisons à Yopugon, qui auraient cric de les belles, mais y'a Yopugon ici, il y en a la grâce de Dieu. Voila, voilà, regardez ici, le balcon, là-dessus le lycée, voici le lycée pour vous savoir qui est là. Voilà, regardez, voilà, voilà les gars. Alain Zemmé, toujours votre MF serviteur, vous vous présente ici la douce de visiteur ici. Trois douces, regardez, je dis, il y a l'eau sur tout de là, du confort, du confort, du confort. Il y a le miroir. C'est pas du jeu. Regardez, tout, non, non, non, non. C'est du tout, tout ce qui est comme miroir s'allume, mais poulet, laissez-moi petit, allez, tout s'allume. Tu peux pas, des milliers de tactiles, il n'y a pas du jeu, regardez encore, vous voyez. Regardez encore, regardez, regardez, tout s'allume, tout s'allume, tout, tout, tout, tout s'allume. Regardez encore, c'est 300 000 euros, non, il n'a pas joué avec les gars, il n'a pas joué avec, parce qu'il n'a pas joué pour être là. Regardez, regardez, regardez la chambre principale. Plata de messieurs, plata de madame, mais c'est ce que la femme apprend tout placa pour le chien. Voilà, c'est pas ce qu'elle a mis, les gens, mais c'est pas du jeu, elle a fait des bagages et il faut laisser. Tout, il y en a plus ici, tout cela s'allume. Regardez-moi ça, il n'y a pas un miroir, c'est pas le miroir. Regardez, le système de lotion tout est là, du confort dans cette maison. C'est 300 000 à Yopougon. Yopougon, c'est pas Yopougon. Yopougon lycée professionnelle, il a des bonnes maisons ici, présents murs de belles maisons, voisines maisons ici. Bonne nuit sur le salon. Allez-y, béliez toujours votre aimabseur viteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708774950815026433.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Abdoulaye Diallo",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "miroir lumineux",
+   "chauffe-eau"
+  ],
+  "resume": "Location d'un 3 pièces au premier étage à Yopougon, cité Abdoulaye Diallo, près du lycée professionnel, à 300 000 F par mois, visite à 5 000 F. Salon, coin repas, balcon, chambre principale, salle de bain avec miroir lumineux et chauffe-eau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

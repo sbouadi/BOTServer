@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708738999728327956",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708738999728327956",
+ "url": "https://www.tiktok.com/@annilove225/video/7708738999728327956",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 27,
+ "description": "Studio 100k Yopougon maroc akoï disponible vide au Rez de chaussée bien placé en bordure de route bien placé  Contact: 0767314212 #maisonalouer #studio #appartement #immobilier",
+ "transcript": "OOOOOOOOH ! J'ai toujours toujours le lendetecteur des Pépis immobiliers Voici le studio de Sankha Voilà joli studio Sankha C'est très très grand, il a absolument rien à dire Voilà, c'est un niveau de Yopugon Maroc Aqoui Yopugon Maroc Aqoui, très très beau studio Il a absolument rien à dire Dès que tu fais le tuto, tu as un peu t'intéressé Tu as plus de rapide, moi je te rends au rey des chaussis",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708738999728327956.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Akoï",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon Maroc Akoï à 100 000 F, disponible vide au rez-de-chaussée, en bordure de route. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

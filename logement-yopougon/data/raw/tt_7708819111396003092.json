@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708819111396003092",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708819111396003092",
+ "url": "https://www.tiktok.com/@annilove225/video/7708819111396003092",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 47,
+ "description": "02 pièces 70 mil songon carrefour jaqueville cour commune a 500 mètre du  goudron bien placé  Contact: 0767314212 #maisonalouer #songon #immobilieryopougon ",
+ "transcript": "Maisons et chènes, maisons et chènes, maisons et chènes Tu es pétérée aussi, la rite a dit que je vais te fatiguer Voilà, aujourd'hui, la famille est de quoi que vous lougez Vous voyez ça qui est large Champ Salon, 70 000 Carifou, Jacques Ville Sengon, Carifou, Jacques Ville Sengon, Carifou, Jacques Ville 70 000, c'est un palace C'est un palace Voilà T'as envie d'intéresser, dire rapidement 70 000 francs seulement Tu payes, tu dors Carifou, Jacques Ville, tu prends la voie de Jacques Ville Voilà, la maison, environ 500 mètres de Goudron Voilà T'as flouté un safari, tu sais que t'as des plaies pas froides chez toi Maisons et chènes, c'est très propre, laissez-y",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708819111396003092.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Jaqueville",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un logement 2 pièces (chambre salon) à 70 000 F à Carrefour Jaqueville, Songon, situé à environ 500 m du goudron. Logement décrit comme propre. Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

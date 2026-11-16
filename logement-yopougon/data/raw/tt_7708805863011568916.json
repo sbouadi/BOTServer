@@ -1,0 +1,35 @@
+{
+ "id": "tt_7708805863011568916",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7708805863011568916",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7708805863011568916",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261116",
+ "duration": 119,
+ "description": "Alain zegbehi vous présente une maison basse de 4 pièces 200 mille yopougon toi rouge cinéma boici visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébé, you are M of Savitage, je vous présente ici une maison basse, oui, 20000, 4 pièces, 20000 yopougontois-rougeaux, oui, yopougontois-rougeaux-senyawas, oui, voilà, bien placé, voilà, regardez le salon, hein, 20000, 4 pièces, maison basse, oui, là, c'est la cuisine ici, oui, là, 20000, 4 pièces, maison basse, yopougontois-rougeaux-senyawas, voilà, oui, encore le salon, oui, voilà, je me dirige dans la premier chambre, voici la première chambre ici, oui, voilà, voici la première chambre, oui, là, 20000, 4 pièces, là, c'est douce et pareil pour les visiteurs, oui, là, voilà, 200 mille loyers, voilà une chambre ici, voilà une chambre ici, voilà, voilà une chambre ici avec une douche, voilà 200 mille loyers bonne soirée, je peux gonder au joueur chez Nyawa, le patron du Zouglou, merci la chambre, une chambre ici, voilà, voilà, regardez la chambre, voilà, 200 mille avec sa douche, oui avec sa douche, bonne soirée je suis le salon, allez ébailler toujours votre aimable séviteur, merci, donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708805863011568916.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toi Rouge Cinéma",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche"
+  ],
+  "resume": "Location d'une maison basse de 4 pièces à Yopougon, quartier Toi Rouge Cinéma, à 200 000 F par mois, frais de visite 5 000 F. Salon, cuisine, chambres dont une avec douche. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}

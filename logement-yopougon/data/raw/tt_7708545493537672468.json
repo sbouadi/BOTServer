@@ -1,0 +1,45 @@
+{
+ "id": "tt_7708545493537672468",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708545493537672468",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7708545493537672468",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261115",
+ "duration": 208,
+ "description": "🏙️ PENTHOUSE 5 PIÈCES DE LUXE À LOUER / À VENDRE 🔥 📍 Cocody Angré CHU – Pharmacie Sainte-Clémentine ✨ 200 m² de confort et de prestige ✅ 6ᵉ étage avec ascenseur ✅ Cuisine équipée ✅ Climatisation ✅ Chauffe-eau ✅ Autonome ✅ Sécurité 24h/24 💰 Location : 1.500.000 F/mois 💎 Vente : 300.000.000 F 📞 WhatsApp ou appel : 07 67 64 46 18 #Penthouse #Cocody #AngréCHU #ImmobilierAbidjan #LocationAbidjan  ",
+ "transcript": ".org",
+ "ocr": [
+  "TILL",
+  "HAN y",
+  "[IUT LA",
+  "|| LES"
+ ],
+ "thumb": "thumbs/tt_7708545493537672468.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Cocody",
+  "quartier": "Angré CHU",
+  "type": "4 pièces",
+  "pieces": 5,
+  "loyer": 1500000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine équipée",
+   "climatisation",
+   "chauffe-eau",
+   "autonome",
+   "sécurité 24h/24",
+   "ascenseur"
+  ],
+  "resume": "Penthouse 5 pièces de luxe de 200 m² au 6e étage avec ascenseur, à louer à 1 500 000 F/mois ou à vendre à 300 000 000 F, à Cocody Angré CHU (près pharmacie Sainte-Clémentine).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-16",
+ "origine": "découverte"
+}
