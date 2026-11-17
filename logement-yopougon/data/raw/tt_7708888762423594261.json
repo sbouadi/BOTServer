@@ -1,0 +1,33 @@
+{
+ "id": "tt_7708888762423594261",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7708888762423594261",
+ "url": "https://www.tiktok.com/@annilove225/video/7708888762423594261",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261116",
+ "duration": 5,
+ "description": "#CapCut #immobilier #maisonalouer #terrain ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7708888762423594261.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vlog de présentation d'un démarcheur immobilier (Im anicet Kafando) sur fond rose et vert, sans détail de bien ni d'offre; la légende ne mentionne que des hashtags (maison à louer, terrain) sans prix ni localisation.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

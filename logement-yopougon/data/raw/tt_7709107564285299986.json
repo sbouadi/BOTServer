@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709107564285299986",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7709107564285299986",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7709107564285299986",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261117",
+ "duration": 44,
+ "description": "🏡 STUDIO MODERNE À LOUER – LOGPOM, ANDEM Découvrez ce magnifique studio moderne, idéalement situé à Logpom, secteur Andem, à la 2ᵉ position. ✨ Entièrement staffé et climatisé, avec meuble TV installé, chauffe-eau et parking disponible. 💰 Loyer : 100 000 FCFA/mois 📌 Conditions : 10 mois de loyer. 📞 Contactez G-K IMMOBILIER pour une visite. #gkimmobilier #locationdouala  #studioalouer  #logpom  #immobiliercameroun ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709107564285299986.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Logpom, secteur Andem",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 10,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisé",
+   "meuble TV",
+   "chauffe-eau",
+   "parking"
+  ],
+  "resume": "Studio moderne meublé à louer à Logpom (secteur Andem), entièrement staffé et climatisé, loyer 100 000 FCFA/mois avec 10 mois de loyer demandés, contact G-K Immobilier pour visite.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

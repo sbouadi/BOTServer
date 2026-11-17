@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709091101935766804",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709091101935766804",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709091101935766804",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261117",
+ "duration": 87,
+ "description": "Mise en location d'un appartement de 2 pièces à 120.000f au 1er étage. Lieu: Yopougon Koweït résidentiel  Nb: l'eau est gratuit. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "C'est meilleur pour d'après...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709091101935766804.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au 1er étage à Yopougon Koweït résidentiel, 120 000 F, eau gratuite, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

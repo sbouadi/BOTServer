@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709095791473773845",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7709095791473773845",
+ "url": "https://www.tiktok.com/@annilove225/video/7709095791473773845",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261117",
+ "duration": 51,
+ "description": "Cave à cédé Yopougon Niangon lokoua extension au terminus des gbaka disponible vide bien placé  Loyer: 10k  Prix de cession: 2.700.000f  Contact: 0767314212 #cave #caveaceder #business #yopougon🇨🇮🎶 #lokoua ",
+ "transcript": "c'est très très propre. Il y a absolument rien à dire. Dicassement le loyer mensuel. Dicassement le loyer mensuel. Dicassement le loyer mensuel. Tu as vécu s'intéresser à peine rapidement et une grande description, ça n'y va pas durer. C'est très très propre. Il y a absolument rien à dire. Que tu payes, tu commences à expliquer rapidement. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709095791473773845.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Niangon Lokoua",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 10000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Cession d'une cave (commerce) à Yopougon Niangon Lokoua, extension au terminus des gbaka, disponible et vide. Loyer 10 000 F, prix de cession 2 700 000 F. Contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

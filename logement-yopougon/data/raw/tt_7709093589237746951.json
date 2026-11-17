@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709093589237746951",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7709093589237746951",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7709093589237746951",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261117",
+ "duration": 32,
+ "description": "☎️:05.06.64.49.72 (What) STUDIO YOPOUGON MAROC OBAMA LOYER: 60 000. #location#maison#visibilité#",
+ "transcript": "Je vous présente un studio de 60 000 francs, Maroc ou Bama, un studio maison basse, 60 000 francs, Maroc ou Bama. Ici on demande à la vie, c'est pas mon qui est dit, c'est le propriétaire, ça c'est la chambre, 60 000 francs. Ils ont fait de plus de vie ici, c'est pareil ici, ça c'est bien ici, ça c'est le bouche.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709093589237746951.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Yopougon (Maroc ou Bama), maison basse, loyer 60 000 F. Contact par téléphone indiqué dans la légende. Images d'un couloir carrelé et d'une petite salle d'eau avec seau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

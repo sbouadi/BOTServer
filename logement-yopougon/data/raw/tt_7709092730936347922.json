@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709092730936347922",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7709092730936347922",
+ "url": "https://www.tiktok.com/@brunesleger/video/7709092730936347922",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261117",
+ "duration": 38,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[A louer]] un sublime studio américain 60 milles à yopougon Maroc petroci au 1 er étage très belle maison. Visite 5 mille  Contact :0153273240//0777789059 #Yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "Je pose ma caméra à l'oeil, ça le chèque tout. Je vous laisse une petite vidéo. Je joue moi un peu moins, je n'ai pas grêpé. Comme vous le voyez, je suis au sein d'un studio. Voilà, elle met de vous-même. Studio 65 000 francs. Voilà. Prête à guider. Prête à biquer. Très très très propre. Absolument rien à dire. Le studio restre du bonheur. Voilà. N'oubliez pas de vous abonner à ma page. Vous pouvez l'uniser ou l'obudier. Vous pouvez l'abonner. .",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709092730936347922.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Petroci",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio à Yopougon Maroc Petroci, 1er étage, loyer 65 000 F, frais de visite 5 000 F, contact téléphonique indiqué.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709134671162133781",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709134671162133781",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709134671162133781",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261117",
+ "duration": 92,
+ "description": "Alain zegbehi vous présente un studio baoule 90 mille au deuxième étage yopougon Maroc Kimi visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain, c'est vous qui avez aimé cette vidéo, tu vous présentes ici? Voilà, oui, c'est un studio de quatre-vingt-dix minutes, Yopou-Gon, Maroc-Kimi, voilà, c'est déjà méblé, ici tu déménages, tu viens simplement avec tes habits. Voilà, la télévision, c'est pas les gens qui sont dans le climatisation, tout ça là, ça fait partie de la location, oui, ça fait partie de la location. Voilà, tout ça là, c'est pour vous, tu viens simplement avec tes habits, vous que vous partagez à la maison, vous n'avez pas l'âme pour méblé la maison, voilà ça qui est là, la maison est déjà méblée, tout, tout est méblé, le loyer de ce studio, c'est quatre-vingt-dix mille de loyer, quatre-vingt-dix mille, oui, il y a des placards, c'est les placards pour ils sont, oui, voilà, tranquille. Tranquille, voilà, quatre-vingt-dix mille au deuxième étage, oui, vas-y Zagya, Yopou-Gon, Maroc-Kimi, oui, voilà, regardez encore, regardez encore, c'est quatre-vingt-dix mille, tu loupes tout ça là, tout ça là, tu loupes, climatiseur, télévision, ça fait partie de la location, voilà, regardez, regardez, regardez. Allez Zagya, toujours votre aimer à ces viteurs, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709134671162133781.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "meublé",
+   "climatisation",
+   "télévision",
+   "placards"
+  ],
+  "resume": "Studio meublé au deuxième étage à Maroc Kimi, Yopougon, loué 90 000 F par mois avec climatisation et télévision incluses, frais de visite 5000 F, contact par téléphone.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-17",
+ "origine": "découverte"
+}
