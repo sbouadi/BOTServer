@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709457322799566100",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7709457322799566100",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7709457322799566100",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261118",
+ "duration": 63,
+ "description": "Magnifique et beau magasin de 40mil disponible bien placé ✅🔑🥰🏠 40mil x5mois plus 30mil démarcheur  Nb: frais de dossier 📁 50mil  Détail: 3mois caution                1mois avance              1mois agence plus 30mil  Yopougon Academie cité marine bien placé  Visite 5mil Contact: 0711392732  #magasin #vente #vue #visibilité #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Et au Pougon, immobilier. Quand on vous demande de vous abonner, là, c'est par rapport à tous ces belles mais ils ont là tous ces beaux marasins, c'est pour eux, rien rater. Tout ce que tu m'appelles, le Pougon immobilier par ordre, il vient de le marasin 40 000, 60 000, il veut faire mon business, mon activité, voir ça ici. Magasin 40 000 fois bien placé, on borde, on borde durant le second de l'académie, 60 000 marines. Voilà, à côté de l'idée du manager, le marasin il est là, il est bien placé, belle vitrée, il n'y a sauf qu'il n'y a pas le couche des dons, c'est pour ça, c'est 40 000 fois la location. 40 000 fois le marasin, tout activité pas sauf l'alcool, je répète encore, tout activité pas sauf l'alcool. Voilà, 40 000 fois, c'est pour les Pougon académique à côté de la cité marine, bien placé, facile d'assez. Voilà, le marasin il est là, voilà, tout activité pas, je vais dans la vie, je vais à boutique, je sais pas ce que tu veux faire. Voilà, ça dépend de toi, pressing, tout passe, voilà la condition individuelle, 30 000 marasins, 40 000 fois le Pougon académique cité marine.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709457322799566100.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie, cité Marine",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 40000,
+  "caution": 120000,
+  "avance": 40000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 30000,
+  "frais_visite": 5000,
+  "equipements": [
+   "vitrine"
+  ],
+  "resume": "Magasin à louer à Yopougon Académie, cité Marine, bien placé avec belle vitrine. Loyer 40 000 F x5 mois plus 30 000 F démarcheur, frais de dossier 50 000 F ; 3 mois de caution, 1 mois d'avance, 1 mois d'agence plus 30 000 F ; visite 5 000 F. Activité autorisée sauf alcool.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

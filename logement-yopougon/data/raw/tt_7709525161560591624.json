@@ -1,0 +1,36 @@
+{
+ "id": "tt_7709525161560591624",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7709525161560591624",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7709525161560591624",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261118",
+ "duration": 117,
+ "description": "À LOUER  👉 YOPOUGON KOWEÏT RÉSIDENTIELLE BEL APPARTEMENT DE TYPE 2 PIÈCES AVEC 2 DOUCHE WC AU 1ER ÉTAGE IMMEUBLE EN BORDURE  BUREAU ET RÉSIDENCE MEUBLE PASSE  ☎ 0788393888 WhatsApp 📞 0575303446 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709525161560591624.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches WC",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'un bel appartement de type 2 pièces avec 2 douches WC au 1er étage d'un immeuble en bordure, à Koweït (Yopougon), utilisable en bureau ou résidence meublé passé. Contacts indiqués : 0788393888 (WhatsApp) et 0575303446.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

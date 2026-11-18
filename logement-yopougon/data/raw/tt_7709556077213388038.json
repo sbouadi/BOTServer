@@ -1,0 +1,40 @@
+{
+ "id": "tt_7709556077213388038",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7709556077213388038",
+ "url": "https://www.tiktok.com/@brunesleger/video/7709556077213388038",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261118",
+ "duration": 67,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] une sublime 2 pièces à yopougon Lubafrique dans une belle cité . 👉Loyer 150 milles  👉 un balcon  👉 une salle d’eau  👉 une salle à manger  👉 un grand salon  👉 une grande chambre  👉 splite et chauf eau installé. Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "Je pose ma caméra, salue chez tous d'une ex-mobilier qui joue. J'ai toujours moyen comme moi dans les vrais pipits immobiliers. Comme vous le voyez, je suis au sein d'une, deux pièces. Voilà, et vous voulez vous-même la cuisine. Magnifique cuisine, il n'y a absolument rien à dire. Vous voyez, c'est assez long, très propre, bien grand. Voilà, c'est le salon, magnifique salon. Voilà, vous voyez, très, très, très propre. Voilà, avec ses douches très propres. Vous voyez, climatisant, déjà installé. Voilà, vous voyez, ici c'est la chambre. La chambre est bien vaste et absolument rien à dire. Climatisant, installé. N'oubliez pas de vous abonner à ma page Brunesse Immobilier. Pour les pipitres et vos édits, je vous aime. À bientôt. Petit salon pour la salamiger.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709556077213388038.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "salle d'eau",
+   "salle à manger",
+   "grand salon",
+   "split",
+   "chauffe-eau"
+  ],
+  "resume": "Location d'une 2 pièces à Yopougon Lubafrique dans une belle cité, loyer 150 000 F, avec balcon, salle d'eau, salle à manger, grand salon, grande chambre, split et chauffe-eau installés. Visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

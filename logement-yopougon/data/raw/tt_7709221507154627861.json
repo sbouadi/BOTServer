@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709221507154627861",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709221507154627861",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709221507154627861",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261117",
+ "duration": 57,
+ "description": "Mise en location d'un joli studio de 60.000f au 1er étage. Lieu: Yopougon Koweït residentiel Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux#debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709221507154627861.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio au 1er étage à Yopougon Koweït résidentiel, 60 000 F, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7709529359530593557",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7709529359530593557",
+ "url": "https://www.tiktok.com/@annilove225/video/7709529359530593557",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261118",
+ "duration": 78,
+ "description": "02 pièces 150k Yopougon Niangon nord dans la cité académique entre lubafrique et la paroisse st Rita disponible vide nouvelle maisons  Contact: 0767314212 #maisonalouer #appartement #standing #maisonalouer #yop ",
+ "transcript": "Toujours, toujours, toujours le même détecteur Des pépites à Timo Binier Monsieur Jolie Maison Monsieur Maison, what's that thing? Monsieur Maison, full action Monsieur Maison, zéro émissé Monsieur Chassomaya Monsieur Trope de Chosjoli Apartement les types de pires Tandis qui est intéressé Viens toi ton appartement Rapidement ça va pas durer Sans seconde casse Sûrement tu payes, tu donnes La première vie, franchement, d'être construite Y'a pas un de quelqu'un des dames Dès que tu payes, tu donnes Dès que tu payes, tu donnes Tu viens de mettre ta propre énergie Toi met ton propre aura Quoi, ça va pas durer C'est ça qu'il s'agit Sans seconde casse, seulement Climatisez déjà et installez Parce que la vie, c'est là La vie, c'est très très très très propre Y'a absolument rien à dire Système de chauffage déjà installé Y'a absolument rien à dire Mais vente à dormir Dès que t'as pas faim, t'as pas faim Quoi, tu vois que tu connais Sans seconde casse, tout simplement Au niveau de Yopu Go, Nio Go T'as la cité Académie C'est ça, la cité académique La cité ambibaphique Et puis, la paroisse, c'est Marie C'est l'héritage, voilà, pardon C'est l'héritage C'est l'héritage ambibaphique Et puis c'est l'héritage Dès qu'il m'a dit ça, j'ai installé La maison respite le bonheur La maison respite totalement le bonheur T'as invité à t'intéresser Viens parce qu'on n'a pas d'humour rapidement Sans seconde casse, ça n'agit pas Merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709529359530593557.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon nord",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation",
+   "système de chauffage"
+  ],
+  "resume": "Location d'un 2 pièces vide, neuf, à 150 000 F, à Niangon nord dans la cité académique entre Lubafrique et la paroisse Sainte-Rita, avec salle d'eau et cour carrelée. Contact : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

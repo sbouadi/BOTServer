@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709508956896496916",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709508956896496916",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709508956896496916",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261118",
+ "duration": 76,
+ "description": "Alain zegbehi vous présente une 2 pièces maison basse 120 mille yopougon Maroc Kimi visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéi, what's up, c'est Victor, je vous préviens d'ici, une 2 pièces 120 000 mais on basse mais on guérison Voilà, regardez, Yopougon, Marocchimi, dans le quartier debt promo Voilà, regardez, bien placé, assez très facile Yopougon, Marocchimi, dans le quartier debt promo Voici le salon, 2 pièces 120 000 Voilà, regardez, très bonne maison ici, nouvelle construction, jamais habité Voilà, nouvelle année, nouvelle maison Yopougon, Marocchimi, dans le quartier debt promo, voici la douche Voilà, c'est la douche que vous voyez là, nouvelle construction, jamais habité Prête habité, prête à porter du vestre à fonction du récupère des clés, rien à dit, 120 000 2 pièces, 120 000 mais on basse mais on guérison, voici la chambre Vous voyez, voilà, bonne nuit sur le salon Alain Zébéi, toujours votre aide Max et Victor, merci Donnez votre vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709508956896496916.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi (Marocchimi), quartier Debt Promo",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une 2 pièces (maison basse, neuve, jamais habitée) à Yopougon, Maroc Kimi, quartier Debt Promo, à 120 000 F par mois ; frais de visite 5 000 F ; contact 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

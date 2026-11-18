@@ -1,0 +1,37 @@
+{
+ "id": "tt_7709501410009730324",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7709501410009730324",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7709501410009730324",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261118",
+ "duration": 53,
+ "description": "Magnifique et belle bonne 2pieces 70mil disponible maison basse 🏠✅🔑🥰 70mil x5mois plus 50mil démarcheur  Nb: caution d’eau 100mil et frais de dossier 📁 25mil  Détail: 2mois caution                2mois avance           1mois agence plus 50mil  Yopougon Academie dans le dos de l’église diop maison basse  Visite 5mil Contact: 0711392732 🔑🥰🏠✅ #2piece #vue #studio #visibilité #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Yo Pougon est mobilier Quand on vous demande de vous abonner, c'est par rapport à toutes ces belles maisons là Toutes ces meveilles, ces pneus Rien raté Voilà une chambre salon de 70 000 fois maison basse disponible Toujours qui m'appelle Yo Pougon est mobilier, il y a besoin de chambre salon disponible en maison basse Il y a une moto Voilà ça ici 70 000 fois chambre salon en rénovation disponible A Yo Pougon à droite académique Dior bien placé, facile d'accès Voilà la maison elle est là, la douche elle est centrée Sauf qu'il n'y a pas de placard dans la chambre La maison elle est là, 70 000 fois, bien propre, bien beau Très bonne maison si tu veux une nouvelle construction Ça dépend de comment est ce que tu appelles les choses Voilà Là, il n'y a pas de placard dans la chambre comme je le disais Voilà la maison elle est vraiment très belle Les carottes sont clignes Ils ont tout changé ici, 70 000 fois Quand on vous demande de vous abonner, c'est par rapport à tout ça là C'est pour ne rien rater",
+ "ocr": [
+  "L'RLLEL"
+ ],
+ "thumb": "thumbs/tt_7709501410009730324.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie",
+  "type": "chambre salon",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": 140000,
+  "avance": 140000,
+  "agence": 70000,
+  "mois_a_payer": 5,
+  "frais_agence": 50000,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche centrée"
+  ],
+  "resume": "Chambre salon (2 pièces) en maison basse à Yopougon Académie, derrière l'église Diop, loyer 70 000 F, 5 mois à payer plus 50 000 F démarcheur, caution d'eau 100 000 F, frais de dossier 25 000 F, caution 2 mois, avance 2 mois, agence 1 mois, visite 5 000 F, contact 0711392732. Pas de placard dans la chambre, logement en rénovation.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

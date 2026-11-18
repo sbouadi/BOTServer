@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709435925809466645",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709435925809466645",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709435925809466645",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261118",
+ "duration": 72,
+ "description": "À louer, 3 pièces nouvelles constructions à 150.000f au 3ème étage. Lieu: Yopougon azito carrefour conteneur. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [
+  "No sNMRIOTANPI BY",
+  "ail rl",
+  "Cid , à ©",
+  "+ we PS > NCS D"
+ ],
+ "thumb": "thumbs/tt_7709435925809466645.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour conteneur",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces neuf (nouvelle construction) au 3ème étage à Yopougon, Azito carrefour conteneur, à 150 000 F. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

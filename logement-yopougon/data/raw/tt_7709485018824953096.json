@@ -1,0 +1,48 @@
+{
+ "id": "tt_7709485018824953096",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7709485018824953096",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7709485018824953096",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261118",
+ "duration": 57,
+ "description": "2 PIECES 60 k MAISON BASSE SONGON CARREFOUR JACQVILLE AU 1ER LAVAGE DANS LE QUARTIER  INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #maisonalouer #songon #2pieces ",
+ "transcript": "Voilà, c'est la matinée à Bidjan, c'est le soir. Il est chaud et mobilisé. Monsieur le détecteur, les jolies mains sont sans esprit. Je suis au niveau des sombons d'Agré, qu'en Foujagville. Voilà, au premier lavage. Je suis dans une deux piètes de 60K. 60K, regardez tout ça, 60K. 60K seulement. Voici les toilettes. Là, c'est les toilettes. Ici, tu viens ici. Là, ici, tu as la cuisine. Très grande cuisine, très bonne. Voilà, regardez, vous mets 60K. Intéressé, appelle. 60K, premier bénéfice, voici le salon. Voici la chambre. C'est dans le tatier. C'est pas trop loin de la voie, mais à tout cas, c'est au moins 150 mètres, 200 mètres de la voie. Intéressé, appelle rapidement. Merci et bonne journée.",
+ "ocr": [
+  "2IDICCCS",
+  "ŒUIR",
+  "2jpièces",
+  "… GOIK |",
+  "2 pièces",
+  "2,pièces",
+  ".COKk",
+  "GDIk",
+  "Dpicecs",
+  "6GOXK",
+  "COIK"
+ ],
+ "thumb": "thumbs/tt_7709485018824953096.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Jacqville",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "toilettes",
+   "cuisine"
+  ],
+  "resume": "Maison basse à louer à Songon Carrefour Jacqville, au 1er lavage dans le quartier, 2 pièces (salon, chambre, cuisine, toilettes) à 60 000 F par mois, à environ 150-200 m de la voie. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

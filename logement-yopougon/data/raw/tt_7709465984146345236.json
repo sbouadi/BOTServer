@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709465984146345236",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709465984146345236",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709465984146345236",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261118",
+ "duration": 128,
+ "description": "Alain zegbehi vous présente une 3 pièces 220 mille au premier étage yopougon Mami Adjoa visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zébéhi, what's up, c'est Victor. Tu vous présentes ici? Voilà les gars, une trois piètes 220 000 nouvelles conditions jamais habitées. Regardez la cuisine ici, voici la cuisine, voilà. Au premier étage, la nouvelle composition au système de l'eau chaude est déjà installée. 220 000 de loyer, où est la cuisine? Voilà. Voilà, sur le salon. Très, très bas salon, regardez. Très, très bonne maison. Le Pougon, cité, mami, adjoie, viens placer, voilà, regardez. Là sur le balcon, regardez, le balcon ici, où est le balcon, voilà. Avec qui comprenait, mais dans la bianderie. Voilà, regardez, voilà. 220 000 de loyer, 220 000 de loyer, regardez. Voilà, le Pougon, cité, mami, adjoie, voilà. Vous du travail à la zone industrielle, 3er point P417 au 22, c'est bon, même au plateau, ça peut aller. Voilà, voici le chemin pour ici, c'est 3, 2, toutes les chansons autonomes, vous voyez là. Toutes les chansons autonomes. Voilà, regardez, regardez, appréciez. 220 000 de loyer, nouvelle composition jamais habitées, nouvelle année, nouvelle année. Voilà, regardez encore. 220 000 de Pougon, mami, adjoie, viens placer, vous voyez. Voilà. Voilà, il y en a encore ici, la chambre principale ici. Vous voyez, très, très bonne chambre. Voilà, regardez. 220 000 de loyer, 220 000 de loyer. Voilà, c'est la douche de la chambre ici. Trois douches, trois douches. Bonne sure salon. Bonne sure salon. Allez, vous voyez, toujours votre aimabse éviteur. Merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709465984146345236.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Mami Adjoa",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 220000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "balcon",
+   "eau chaude",
+   "douche"
+  ],
+  "resume": "Location d'une 3 pièces neuve, jamais habitée, au premier étage à Yopougon Mami Adjoa, loyer 220 000 F, visite 5 000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

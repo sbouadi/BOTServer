@@ -1,0 +1,37 @@
+{
+ "id": "tt_7709237564506410248",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7709237564506410248",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7709237564506410248",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261117",
+ "duration": 43,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES SONGON INSTITUT PASTEUR AU 1ERE ETAGE 2DWC LOYER: 90 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, tout je te réalis. Je vous présente une deux pièces, là vous voyez, une deux pièces à nez fasteur, ça c'est la cuisine. Vous voyez ici, là, c'est pour toi, je vais rendre des douches au premier étage, là, là, je vais aller, tout ça, là, c'est pour toi, je vais rendre. Là, c'est la douche visiteuse, le salon, là, c'est le salon, là, c'est la chambre avec sa douche, là, c'est la chambre, c'est 420 microns.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709237564506410248.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "douche",
+   "WC",
+   "cuisine"
+  ],
+  "resume": "Location d'un 2 pièces au 1er étage à Songon, Institut Pasteur, 2 douches/WC, loyer 90 000 F. Contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709508115481300225",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7709508115481300225",
+ "url": "https://www.tiktok.com/@annilove225/video/7709508115481300225",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261118",
+ "duration": 79,
+ "description": "Magasin à louer Yopougon Niangon nord pharmacie cité verte disponible vide bien placé en bordure de route principale  Loyer: 500.000f  Pats de porte : 3.000.000f plus 2 mois caution 2 mois avance 1 mois agence  #magasin #entrepot #venteenligne #commerce #entreprenariat  @jess.skin4 @Miii boutique🔔 @Carelle Cosmétique @LA LIONNE OURE ",
+ "transcript": "C'est toujours toujours toujours le même détecteur des pépites immobilières Je vous ai dit avant plus, là on peut faire couper des calais et investir Voici un joli magasin qui a t'a vu t'intéresser Viens prendre ça rapidement, voilà c'est très très propre Y'a absolument rien n'a dit Y'a absolument rien n'a dit Mais pour ça pour faire, restaurant tout passe C'est très très propre, c'est très très gaillard Y'a absolument rien n'a dit Tu payes, tu commences ton activité rapidement Vas-y la cuisine par ici Vas-y la cuisine qui est là Voilà tu payes, tu fais tes travaux Tu payes, tu fais tes travaux Le loyer mensuel, c'est 500 000 francs seulement Voilà, ici sur le bureau qui est là Eclimatisation qui est installée C'est très très propre, y'a absolument rien n'a dit Au niveau de la pharmacie, de la cité vête Pharmacie, cité vête Voilà, 2 mois de course, 2 mois d'avance Et moi, agence Tu payes pas de pas, 3 plaques Voilà vous voyez ça, c'est très très propre Y'a absolument rien n'a dit Dès que tu payes, tu fais tes travaux C'est très propre, c'est très très bien situé Y'a absolument rien n'a dit Pharmacie, cité vête, bien placé En bord du de route principal Tu as vite intéressé Appelle le numéro rapidement en description 500 000 francs seulement le loyer mensuel C'est un cadeau, merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709508115481300225.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon nord",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 500000,
+  "caution": 1000000,
+  "avance": 1000000,
+  "agence": 500000,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation"
+  ],
+  "resume": "Magasin à louer à Yopougon Niangon nord, près de la pharmacie Cité Verte, en bordure de route principale. Disponible vide, loyer 500 000 F par mois, deux mois de caution, deux mois d'avance et un mois d'agence. Pas-de-porte de 3 000 000 F mentionné dans la légende. Climatisation installée et bureau sur place.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

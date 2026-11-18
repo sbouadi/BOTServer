@@ -1,0 +1,40 @@
+{
+ "id": "tt_7709534478527483154",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7709534478527483154",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7709534478527483154",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261118",
+ "duration": 36,
+ "description": "📍 Bonamoussadi : un emplacement stratégique pour votre entreprise ! Vous recherchez un espace professionnel offrant visibilité, confort et possibilités d'aménagement ? Ce local de 250 m² avec grand parking est prêt à accueillir votre activité. À 700k/mois. Contactez G-K IMMOBILIER pour une visite. #immobilierdouala  #bonamoussadi  #localcommercial  #immobiliercameroun  #gkimmobilier   ",
+ "transcript": "Le siège de votre entreprise mérite un emplacement en hauteur de vos ambitions. Découvrez avec nous cet espace commercial de 254 mètres carrés situé en bord du de route à Bonhamou s'est dit dans le cinquième arrondissement des doigts. Avec son intérieur modulable, offre ainsi la possibilité d'aménager les espaces dans vos bosons et son très grand parking à l'entrée. Ce local est idéal pour accueillir une banque, une institution, des bureaux ou toutes autres activités professionnelles. Il dispose également des toilettes séparées pour hommes et femmes et une seconde grande cuisine. Vous l'avez demandé ici à des séparés de Saint-Michel-Français-Frappe en moi, contactez nos démons de l'homme pour organiser votre visite.",
+ "ocr": [
+  "MPBOnamoussadi, Douala",
+  "PAU LEE Ho"
+ ],
+ "thumb": "thumbs/tt_7709534478527483154.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Bonamoussadi",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 700000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "grand parking",
+   "toilettes séparées hommes et femmes",
+   "cuisine"
+  ],
+  "resume": "Local commercial de 250 à 254 m² à Bonamoussadi (Douala), intérieur modulable, grand parking, à 700 000 F par mois, proposé par G-K Immobilier pour banque, institution, bureaux ou autres activités professionnelles.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

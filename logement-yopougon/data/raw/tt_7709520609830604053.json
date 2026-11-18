@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709520609830604053",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7709520609830604053",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7709520609830604053",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261118",
+ "duration": 76,
+ "description": "🛑LOCATION 🎋YOPOUGON  BAGNON PHARMACIE MOAYE  ✅UNE MAGNIFIQUE 3 PIÈCE  BON STANDING AU 1ERE  ÉTAGE DISPONIBLE STAFFER DANS   EN BORDURE PAS LOINS DE L’AUTOROUTE  BORDURAL BUREAU ET HABITATION  1ERE ETAGE  02 SALLES D'EAU ❤️  03 BLACON  PARKING INTERNE  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 200.000 FR ✅CONDITIONS: 6MOIS+100mille  CONTACT: 0720363576",
+ "transcript": "Tu valides que Diddy B, vous met tous la pression dans le rap, il vous a tous mis la pression. Ah ouais, yeah. Je vous dis un truc. Vous savez, on est tous des enfants de Dieu. On est tous des enfants de Dieu, il n'y a pas un que Dieu a fait comme si vous, Dieu a fait comme ça. C'est son temps. Moi je connais ma parole, ce que moi je vois là, c'est grandiose. Moi je suis un alien. Hum, le jour ou moi, je vais mettre mon pied. Je ne sais pas, allez on fait un poll. Je vais voir tout le monde. D'accord. Marquette Jackson même va s'y rêver. Et c'est une nièce. Dans le voie, j'apprécie. Mais je sais que moi, comme on y est débuté, ça sera une dictature. Avec qui tu n'as pas laissé le chat quelqu'un. Je suis dans le futur depuis longtemps. J'allais manger là-bas dans un temps. Et si mon succès là c'est le diable. C'est que le ciel ne n'a pas d'enfant. Il y a toute ma rage dans mes saines. Je te viens une bête sur la chaîne. Avant, il n'y avait personne dans mon tel. Donc, mettre dans sa ménève quand on m'appelle. Que mon passé se rappelle de moi. J'ai l'enlevé dans ma poche et dans mon miroir. Il n'y a aucun du voie, deux classes dans ma tiroir. Oui, c'est moi le nouveau boss.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709520609830604053.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "parking interne",
+   "2 salles d'eau",
+   "bon standing",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'un 3 pièces de bon standing au 1er étage à Bagnon (près de la pharmacie Moaye), en bordure d'autoroute, utilisable en bureau et habitation. Loyer 200 000 F, conditions 6 mois + 100 000 F, parking interne, 2 salles d'eau, 3 balcons. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

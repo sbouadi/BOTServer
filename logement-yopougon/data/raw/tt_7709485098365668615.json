@@ -1,0 +1,42 @@
+{
+ "id": "tt_7709485098365668615",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7709485098365668615",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7709485098365668615",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261118",
+ "duration": 30,
+ "description": "🏡 Suite meublée disponible à Bonamoussadi, Entrée Boa ! Envie de passer un séjour confortable dans un cadre agréable ? Notre suite meublée est disponible à seulement 10k la nuitée. ✅ Suite climatisée ✅ Wi-Fi Starlink ✅ Groupe électrogène ✅ Parking disponible Pour vos courts séjours, détente ou déplacements, profitez d'un cadre confortable à prix abordable. 📞 Contactez-nous pour vos réservations. #gkimmobilier  #chambremeublée  #bonamoussadi  #douala  #courtséjour ",
+ "transcript": "I can't get my eyes off you Girl I'm in love with you I wanna make you my one and only one more Girl are you the one And what ever I make And I'm losing my mind Baby come closer you far away Wherever you are Don't even think that I let you to suffer Cause you are my angel, my lover And I'm screaming I love you, I love you, I love you, I love you Yeah I can't do me",
+ "ocr": [
+  "Bonaimoussadi",
+  "Bonamoussadi",
+  "10 For thément"
+ ],
+ "thumb": "thumbs/tt_7709485098365668615.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Bonamoussadi",
+  "type": "chambre simple",
+  "pieces": null,
+  "loyer": 10000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation",
+   "Wi-Fi",
+   "groupe électrogène",
+   "parking"
+  ],
+  "resume": "Suite meublée à louer à la nuitée à Bonamoussadi (Entrée Boa), 10 000 F la nuit, climatisée, Wi-Fi Starlink, groupe électrogène et parking disponible. Contact pour réservation via GK Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}

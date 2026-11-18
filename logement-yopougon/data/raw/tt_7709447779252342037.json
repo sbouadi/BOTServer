@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709447779252342037",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709447779252342037",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709447779252342037",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261118",
+ "duration": 93,
+ "description": "🏠 À LOUER – 3 PIÈCES 📍 Yopougon Académie – Diop 🏡 Maison basse 💰 Loyer : 140.000 FCFA 📌 Conditions : 5 mois + 80.000 FCFA 🔥 CHAP CHAP, premier arrivé, premier servi ! 📲 WhatsApp ou appel : 07 67 64 46 18 #Location #Yopougon #Académie #ImmobilierAbidjan #MaisonÀLouer",
+ "transcript": "Yeah Something is killing me slowly And I'm feeling so lonely Now I'm looking up to God Yeah Bet my tight, I bet my juice See distractions everywhere Not me feeling emotions Yeah I get to think there's so many things That I really want going confusion in a brotherhood Papa bless my family Bless my enemies Bless everybody Together we'll be smiling That's what me tell them say Cheese over, cheese over, cheese over You promise I'll never be lonely You go there, there beside me Me tell them say that Cheese over, cheese over, cheese over You promise I'll never be lonely You go there, there beside me Yeah But they don't know what's up",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709447779252342037.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie – Diop",
+  "type": null,
+  "pieces": 3,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 80000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'une maison basse de 3 pièces à Yopougon Académie – Diop, loyer 140 000 FCFA, 5 mois à payer plus 80 000 FCFA de frais d'agence. Contact WhatsApp ou appel au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-18",
+ "origine": "découverte"
+}
