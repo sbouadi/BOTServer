@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709812639727144199",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7709812639727144199",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7709812639727144199",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261119",
+ "duration": 38,
+ "description": "Studio 50 k nouvelle maison à songon-té après le carrefour jacqville maison basse  Interressé Appel  Contact 0787407535 #immobilierabidjan #studio #songon ",
+ "transcript": "Voilà ! Comme il voit, c'est matin. Abidjan, c'est le soir. Bichop immobilier. Monsieur le détecteur des Joli Maisons Sans Esprit. Je suis dans une maison, dans un studio, une nouvelle maison. De 50 000 ou de 100 montées après le Carrefour jacuzzi. Voilà, 100 montées. Très bien passé, une nouvelle maison. Si de 50 000 voici, le plaga qui est là. Voilà, passé la cuisine. Intéressé à appeler rapidement, ça va pas durer. Prémévenu, premier servi. Merci, n'oubliez pas de vous abonner, de mettre le coeur du patager. Si ce, je vous aime les gars.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709812639727144199.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": null,
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio neuf en location à Songon-Té, après le carrefour Jacqville, maison basse, loyer 50 000 F selon la légende (audio incertain, possible 100 000). Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7709571876909042952",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7709571876909042952",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7709571876909042952",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261118",
+ "duration": 109,
+ "description": "Villa basse 4 pièces au km17 dans la cité adoha 160 k prix du loyer  Interressé appel  Contact 0787407535 #immobilierabidjan #songon #villa #maison ",
+ "transcript": "Voila ! On y va ce matin à Bijan Cerro soir ! Fichon immobilier, Monsieur le détecteur des Choli Maisons Sans Estris. Je suis au nouveau 2, et au pouvoir 1 km, d'ici dans une villa basse de 4 pièces à 160 k. Oui, 4 pièces à 160 k. Regardez-vous, admirez la grandeur et la classe du salon. Voila, c'est une belle maison hein. Regardez, y'a une coula. Voici l'entrée là. Voila. Là c'est l'entrée. Voila. Vous pouvez voir. Voila, y'a une petite coula. C'est une belle maison. Voila. Voici la cuisine. Regardez-vous même la cuisine. Très belle cuisine hein. Très belle cuisine. Voila. Et puis l'eau vient, l'eau vient avec, avec pression. Regardez l'eau. Voila, y'a pas problème d'eau ici. Donc on va dans les chambres. Voici la première chambre. Première chambre. Voici la première chambre. Voila. Voici la douche de la première chambre. Douche, laissez. De la première chambre, voici. Voila, tout est bien chic. Voici la deuxième douche. Voila, de la deuxième chambre. Voici la deuxième chambre ici. Voila. C'est une belle villa hein. C'est prêt à éviter du paye, tu payes, tu donnes. Voila. Voici la chambre principale qui est là. Voila, la chambre principale. Individuelle. Voila, avec sa douche. Voila. Donc vous êtes intéressés à pedier rapidement, n'hésitez pas. N'oubliez pas de vous abonner, de partager, de mettre les queues. Je vous aime.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709571876909042952.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Adoha, km17",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "chambre principale individuelle"
+  ],
+  "resume": "Villa basse de 4 pièces au km17 dans la cité Adoha (Songon), louée 160 000 F, avec cuisine, eau sous pression, deux chambres avec douche et chambre principale individuelle. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

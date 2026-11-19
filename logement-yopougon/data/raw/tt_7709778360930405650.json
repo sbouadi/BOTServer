@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709778360930405650",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7709778360930405650",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7709778360930405650",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261119",
+ "duration": 99,
+ "description": "NOUVELLE CONSTRUCTION EN LOCATION AU NIVEAU DE SONGON INSTITUT PASTEUR DU REZ-DE-CHAUSSÉE AU 3E ETAGE PLUSIEURS PORTES D’APPARTEMENT 3 PIÈCES  LOYER 160 k ET 140 k INTERRESSE APPEL  CONTACT 0787407535 #songon #immobilierabidjan #3piece #maison ",
+ "transcript": "c'est le soir, bichon immobilier, monsieur le détecteur de choli maison sans esprit, je suis présentement au nouveau de Sangon, institut Pasteur, allez-vous école dans une nouvelle maison, voilà, c'est un nouveau bâtiment, je suis dans une trois pièces, voilà, là sur le balcon, où ça c'est le salon, je suis dans une trois pièces de 160 cas, ici il y a trois pièces de 160 cas et 140 cas, voilà, il y a pour tout le monde, gros budget, petit budget, il y a pour tout le monde, voici la chambre principale, c'est en finition, prêt à habiter le 10 décembre, et puis ce qui est intéressant ici, c'est que le mois de décembre n'est pas pris en compte, c'est que quand tu fais tes avances, ça n'a pas eu de l'année prochaine qu'on compte, le mois de décembre c'est un bonus, tu prends tes clés 10 décembre, tu fêtes des dansants payés, voilà, c'est une trois pièces, il y en a de 160, il y en a aussi de 140, vous êtes intéressés, appelez directement, salut du bas, premier venu, premier servi, voilà, n'oubliez pas de vous abonner, de le mettre au coeur et de le partager, si ce, Jésus vous aime, merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709778360930405650.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'appartements 3 pièces dans une nouvelle construction à Songon, quartier Institut Pasteur, du rez-de-chaussée au 3e étage. Loyers de 160 000 et 140 000 F selon les appartements. Logements en finition, prêts à habiter vers le 10 décembre. Contact par appel au 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709808140979621153",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7709808140979621153",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7709808140979621153",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261119",
+ "duration": 31,
+ "description": "Studio 60.000 au Maroc elysé au Rez au de chaussée  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #locationyopougon ",
+ "transcript": "60€ au niveau de le pouvoir maroc à 68 francs alors maroc disait sur la cuisine qui est là 60€ pour un cido 68 francs on va pas prendre le cidre alors on va essayer à peu en peu pour la mire en question 68 francs",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709808140979621153.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "toilettes",
+   "lavabo"
+  ],
+  "resume": "Studio en location au rez-de-chaussée à Maroc (Yopougon) pour 60 000 F, avec cuisine, douche et toilettes ; contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

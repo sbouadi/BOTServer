@@ -1,0 +1,36 @@
+{
+ "id": "tt_7709902149957750036",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709902149957750036",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709902149957750036",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261119",
+ "duration": 108,
+ "description": "Mise en location d'une villa basse de 4 pièces à 280.000f avec cour avant et arrière. Lieu: Yopougon CNPS dans la cité iroko. Visite:5000f Contact:0711489393",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709902149957750036.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "CNPS (cité Iroko)",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 280000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cour avant",
+   "cour arrière"
+  ],
+  "resume": "Mise en location d'une villa basse de 4 pièces à 280 000 F avec cour avant et arrière, à Yopougon CNPS, cité Iroko. Visite à 5000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

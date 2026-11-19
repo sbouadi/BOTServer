@@ -1,0 +1,43 @@
+{
+ "id": "tt_7709615194112118023",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7709615194112118023",
+ "url": "https://www.tiktok.com/@brunesleger/video/7709615194112118023",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261118",
+ "duration": 124,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] une sublime et grosse villa 6 pièces à yopougon Lubafrique dans une belle cité . 👉Loyer 350 milles  👉 une grande cours avant et arrière  👉 4 salle d’eau  👉 une salle à manger  👉 un grand salon  👉 une grande chambre  👉 splite et chauf eau installé. Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "sans lucher tout sous d'une esprit blé toujours, toujours m'en commande à la vraie pépétite, il m'a vu dire qu'on peut le voir et je suis au Saint-Juneau-ville-là, une grosse ville-là, voilà, vous voyez, là c'est la cour avant, voilà, très grande, vous voyez le salon, magnifique salon, il y a absolument bien à dire, voilà, mais c'est un full option, vous voyez, là c'est la cuisine, vous voyez la cuisine, la cuisine est très, très, très, très grande, très grande cuisine, voilà, vous voyez, ici c'est la première chambre, voilà, la première chambre, voilà, ça ressemble à un très propre, voilà, vous voyez, là c'est une douche bien grande, voilà, la deuxième chambre, vous voyez, voilà, la deuxième chambre, bien propre, voilà, climatiseur installé, voilà, là c'est une douche encore, voilà, on revient encore du côté du salon, voilà, vous voyez, très propre, voilà, là c'est arrière, voilà, une grande cour arrière, voilà, très grande cour arrière, là, c'est une deuxième cuisine, voilà, une deuxième cuisine, voilà, et là, une autre chambre, voilà, très propre, avec son placard et 10 maisons pour l'os, voilà, avec une estomacidée, on n'est pas jamais qu'au dos, tu joues à l'air, je me répète, je me répète, je me répète, je me répète.",
+ "ocr": [
+  "MARULT Ene"
+ ],
+ "thumb": "thumbs/tt_7709615194112118023.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "villa",
+  "pieces": 6,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "climatiseur",
+   "chauffe-eau",
+   "cour avant",
+   "cour arrière",
+   "salle à manger",
+   "4 salles d'eau",
+   "cuisine"
+  ],
+  "resume": "Villa 6 pièces à louer à Yopougon Lubafrique, grande cour avant et arrière, salon, salle à manger, 4 salles d'eau, split et chauffe-eau installés. Loyer 350 000 F, visite 5 000 F. Contact WhatsApp 0153273240 / 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

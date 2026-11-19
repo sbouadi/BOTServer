@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709650777182080262",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709650777182080262",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709650777182080262",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261118",
+ "duration": 81,
+ "description": "Alain zegbehi vous présente un bar accède 8 millions à revoir yopougon palais visité 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut c'est Alézegwey, votre MAPS éviteur, tu vous présentes ici. Voilà, regardez, un bar assidé, voilà, 8 millions à d'arrivoire. Voilà, l'allocation à 10000, Yopougon, Yopougon Palais, bien placé, regardez, vous voyez. Voilà, là c'est la douche ici. Voilà, c'est le bar que vous voyez là, vous voyez là. Voilà, vous voyez, vous voyez, regardez, voilà, vous voyez. Je n'ai pas du sérieux dans ce bar, le bois que j'ai utilisé ici c'est du bois Hiroko, bien solide. Vous voyez, voici la mesanie qui est là ici, là c'est la mesanie. Yopougon Palais, 8 millions prix des sessions. Arrivoire, le noir est à 10000, Alézegwey, toujours votre MAPS éviteur. 8 millions prix des sessions. Voilà, oui. Prix des sessions, le noir est à 10000, le bas est assidé, Yopougon, Palais, bien placé, bordu, bordurale. Voilà, bonus. Voilà, vous voyez, voici le comptoir. Bonus sur le comptoir. Voilà. Alézegwey, toujours votre MAPS éviteur. Merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709650777182080262.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Palais",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "comptoir",
+   "tabourets de bar",
+   "étagères à bouteilles",
+   "escalier"
+  ],
+  "resume": "Cession d'un bar à Yopougon Palais au prix de 8 millions de F, frais de visite 5000 F, contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

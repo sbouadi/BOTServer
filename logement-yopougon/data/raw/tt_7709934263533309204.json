@@ -1,0 +1,36 @@
+{
+ "id": "tt_7709934263533309204",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709934263533309204",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709934263533309204",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261119",
+ "duration": 43,
+ "description": "Alain zegbehi vous présente un studio bete 80 mille maison basse yopougon super Sonia visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok salut salut c'est Alain Zégré ou à MFSGT tu me présentes ici voilà un studio de 80 000 studio bt ouais voilà ouais studio bt 80 000 yopougon ouais yopougon super souvenir regarde oui yopougon super souvenir 80 000 studio voici la douche voilà 80 000 yopougon super souvenir ok bonne ici la chambre Alain Zégré toujours votre MFSGT merci d'un niveau de vie à Jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709934263533309204.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Super Sonia",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "armoire intégrée"
+  ],
+  "resume": "Studio à louer à Yopougon (Super Sonia), loyer 80 000 F, maison basse, frais de visite 5 000 F. Carrelage marbré, salle d'eau avec douche, placard en bois.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

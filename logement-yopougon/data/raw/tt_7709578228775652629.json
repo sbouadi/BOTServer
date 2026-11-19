@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709578228775652629",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709578228775652629",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709578228775652629",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261118",
+ "duration": 62,
+ "description": "🏠 STUDIO À LOUER À AZITO ! 📍 Près de la cité SICOGI ✅ Maison basse ✅ Portail individuel 💰 Loyer : 80.000F Conditions : 5 mois + 40.000F ⚠️ Salariés exigés 📄 Dossier obligatoire 📞 WhatsApp : 07 67 64 46 18 #Location #Yopougon #Azito #Studio #ImmobilierCI",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709578228775652629.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Azito, près de la cité SICOGI, maison basse avec portail individuel. Loyer 80 000 F, 5 mois à payer + 40 000 F. Salariés exigés, dossier obligatoire. Contact WhatsApp 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

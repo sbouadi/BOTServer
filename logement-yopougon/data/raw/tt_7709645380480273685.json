@@ -1,0 +1,38 @@
+{
+ "id": "tt_7709645380480273685",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7709645380480273685",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7709645380480273685",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261118",
+ "duration": 136,
+ "description": "Alain zegbehi vous présente une villa basse de 5 pièces avec garage 220 mille yopougon texaco visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéi, what? M of Saviteur. Je vous présente ici une 5 pièces 220 000 yopougon, tesako, au sein de la cité coprime. Regardez, là-bas, sur le salon, c'est une 5 pièces. Ce sont beaucoup d'enfants, là, c'est 220 000. Il y a les travaux à faire. Rien à dire. Oui, voilà. Voici la douche. Voilà, oui, voilà. Yopougon, tesako, cité coprime. 220 000. Il y a les travaux à faire, oui, là. Regardez, oui. 220 000, maison basse, maison guérison. Vous avez les problèmes, les dômes, pleins de pieds, pleins de couteaux-vous. Voici la cuisine, t'es là. Vous voyez? Voilà. 220 000. Voilà, regardez, là, c'est une chambre qui est ici. Voilà, regardez, regardez la chambre. Regardez la chambre. 220 000. 6 pièces pour ceux qui ont beaucoup d'enfants. Voilà, les hologloseaux, ceux qui ont beaucoup d'enfants. Voilà, regardez. Voilà. Voici. Voilà. Voici la couvre. Il y a les travaux à faire. Voilà. Voici la chambre de ceux qui vont laver la voiture, la cuisine. La douche, là, il y a deux entrées. Voilà, il nous chomme ici. Il y a des cousines, cousines. Oui, là, oui. Regardez, il y a les travaux à faire, il y a les placards. Voici, c'est ici. Voilà. Voici, nous sommes encore ici. Il y a les travaux à faire, les cousines, cousines, yes. C'est le chef de démontrer maintenant. Voilà. Vous savez qu'il y a beaucoup d'enfants. Voilà, regardez. Voilà. Voilà. Voilà, regardez. 220 000, budget, bété. Oui. Bonne usine salon. Allez, zébéille, toujours votre MF7. Merci. Donnez votre vie à Jésus.",
+ "ocr": [
+  "“e MABLUATE",
+  "2206 DS 174"
+ ],
+ "thumb": "thumbs/tt_7709645380480273685.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Texaco",
+  "type": "villa",
+  "pieces": 5,
+  "loyer": 220000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Villa basse de 5 pièces avec garage à louer à 220 000 F à Yopougon Texaco (cité Coprime), travaux à prévoir, frais de visite 5 000 F, contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

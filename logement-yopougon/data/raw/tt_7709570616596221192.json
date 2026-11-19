@@ -1,0 +1,40 @@
+{
+ "id": "tt_7709570616596221192",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7709570616596221192",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7709570616596221192",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261118",
+ "duration": 98,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON ANANERAIE SORBONNE AU 4IEME ÉTAGES EN BORDURE LOYER: 180 000x5 PLUS 100 000. 25 000 FRAIS DE DOSSIER. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut tout je vous présente une trois pièces Voilà un enderesseur bonnes en bouddhie de la voie au 4ème étage Voilà c'est son appel maison Son garçon, regardez hein Voilà une très très très très grande maison Voilà Regardez le salon Regardez Gaia Salon 180 000 francs au 4ème étage en bouddhie de la voie en enderesseur bonnes Voilà c'est ça un appel maison son garçon Regardez la cuisine Très très très très grande cuisine Regardez la cuisine Avec sa buyanderie Regardez Sa buyanderie son balcon Regardez La prête habité quand vous payez on vous donne votre clé Voilà Je vous donne toutes les conditions en même temps Ici on pile pas photo Ne m'insultez pas hein On pile pas photo Si vous voulez que je vous dessine au lieu de chocer Ah là ça c'est la chambre principale Vous voyez Ça c'est la chambre principale Une très très grande chambre principale Avec sa douche Prête habité 180 000 francs Je pouvons en enderesseur bonnes Ah là vous voyez Ça c'est la chambre Ça c'est la douille de visite s'il vous plaît Vous voyez ça c'est la chambre de visite aussi Vous voyez Très grande maison 180 000 francs",
+ "ocr": [
+  "7/1 1 LAN"
+ ],
+ "thumb": "thumbs/tt_7709570616596221192.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Anana Sorbonne",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "buanderie",
+   "balcon",
+   "douche dans la chambre principale"
+  ],
+  "resume": "Location d'un 3 pièces haut standing à Yopougon Anana Sorbonne, au 4ème étage en bordure, 180 000 F par mois, 5 mois à payer plus 100 000 F d'agence, 25 000 F de frais de dossier, contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709442494861184277",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709442494861184277",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709442494861184277",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261118",
+ "duration": 58,
+ "description": "🏠 GRAND STUDIO À LOUER 🔥 📍 Yopougon Niangon Sud – Centre Social Non loin du collège Germinal, au 1er étage. 🔧 TRAVAUX À FAIRE 💰 Loyer : 70.000 F CFA 📌 Conditions : 5 mois + 60.000 F 💧 Caution d'eau : 30.000 F 📲 WhatsApp ou appel : 07 67 64 46 18 🔥 CHAP CHAP, ça ne dure pas ! #Location #Yopougon #NiangonSud #CentreSocial #ImmobilierAbidjan",
+ "transcript": "S-T-E-E-F-O-T-P-A-R-K-I-M-A-V",
+ "ocr": [
+  "Lx LENS CES"
+ ],
+ "thumb": "thumbs/tt_7709442494861184277.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Grand studio à louer à Yopougon Niangon Sud, centre social, non loin du collège Germinal, au 1er étage, à rénover (travaux à faire). Loyer 70 000 F CFA, conditions 5 mois + 60 000 F, caution d'eau 30 000 F. Contact WhatsApp/appel 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

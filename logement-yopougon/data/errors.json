@@ -16,7 +16,11 @@
   "last_error": "DownloadError: ERROR: [TikTok] 7707257324318117142: Your IP address is blocked from accessing this post"
  },
  "https://www.tiktok.com/@aboufofana0759/video/7709483411580177684": {
-  "tries": 1,
+  "tries": 2,
   "last_error": "DownloadError: ERROR: [TikTok] 7709483411580177684: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+ },
+ "https://www.tiktok.com/@annilove225/video/7709900663857171713": {
+  "tries": 1,
+  "last_error": "DownloadError: ERROR: [TikTok] 7709900663857171713: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  }
 }

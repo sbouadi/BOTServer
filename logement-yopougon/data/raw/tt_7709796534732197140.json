@@ -1,0 +1,33 @@
+{
+ "id": "tt_7709796534732197140",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709796534732197140",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709796534732197140",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261119",
+ "duration": 90,
+ "description": "Mise en location d'un appartement de 4 pièces à 180.000f au 1er étage. Lieu: Yopougon cité novalim. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "C'est vibe au son là",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709796534732197140.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Novalim",
+  "type": null,
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 4 pièces au 1er étage à Yopougon cité Novalim, loyer 180 000 F, visite 5 000 F, contact téléphonique indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

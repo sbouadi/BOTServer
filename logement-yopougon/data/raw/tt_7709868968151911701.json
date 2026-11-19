@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709868968151911701",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709868968151911701",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7709868968151911701",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261119",
+ "duration": 265,
+ "description": "🏡 VILLA DE 5 PIÈCES À LOUER 🔥 📍 MILLIONNAIRE RÉSIDENTIEL 📌 Non loin de Jeune Fille ✨ Très belle villa 🚗 Garage disponible 📍 Très bien placée ! 💰 LOYER : 500.000 F 📌 CONDITIONS : 5 MOIS + 200.000 F 🔥 CHAP CHAP ! NE RATE PAS CETTE OPPORTUNITÉ ! 📲 07 67 64 46 18 #Location #Villa #Millionnaire #ImmobilierAbidjan #ImmobilierCI",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709868968151911701.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Abidjan",
+  "quartier": "Millionnaire Résidentiel",
+  "type": "villa",
+  "pieces": 5,
+  "loyer": 500000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 200000,
+  "frais_visite": null,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Location d'une très belle villa de 5 pièces à Millionnaire Résidentiel, non loin de Jeune Fille, avec garage disponible. Loyer de 500 000 F, conditions 5 mois à payer + 200 000 F de frais d'agence. Contact au 07 67 64 46 18.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7709808482962214164",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709808482962214164",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709808482962214164",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261119",
+ "duration": 121,
+ "description": "Mise en location d'une villa basse de 4 pièces à 225.000f avec garage. Lieu: Yopougon niangon à droite du 17ème arrondissement, dans la cité sipim. Visite:5000f Contact:0711489393 #tiktokcotedivoire🇨🇮tiktok225 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #immobilierabidjan🇨🇮 ",
+ "transcript": "C'est la cuisine qui est ici, c'est la cuisine, j'ai dit on n'a pas accédé, on n'a pas accédé au chambre, j'ai un dupe à plafé, trois champs salants, c'est deux douches, deux vécis, ici, c'est la terrasse avant, c'est la meilleure qu'elle a.",
+ "ocr": [
+  "OLItrte"
+ ],
+ "thumb": "thumbs/tt_7709808482962214164.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 225000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "garage",
+   "terrasse",
+   "cuisine"
+  ],
+  "resume": "Location d'une villa basse de 4 pièces avec garage à 225 000 F, Niangon (cité Sipim, Yopougon), visite 5000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

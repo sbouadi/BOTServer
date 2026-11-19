@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709802223227768084",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7709802223227768084",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7709802223227768084",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261119",
+ "duration": 66,
+ "description": "Mise en location d'un appartement de 2 pièces à 120.000f au 2ème étage. Lieu: Yopougon toit rouge derrière le collège saint sylver. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 #tiktokcotedivoire🇨🇮tiktok225 ",
+ "transcript": "Ossa malé, ossa malé",
+ "ocr": [
+  "CELLES"
+ ],
+ "thumb": "thumbs/tt_7709802223227768084.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 2 pièces au 2ème étage à Yopougon Toit Rouge, derrière le collège Saint Sylver, à 120 000 F. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}

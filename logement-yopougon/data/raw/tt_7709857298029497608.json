@@ -1,0 +1,36 @@
+{
+ "id": "tt_7709857298029497608",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7709857298029497608",
+ "url": "https://www.tiktok.com/@brunesleger/video/7709857298029497608",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261119",
+ "duration": 66,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap}         [[ À louer]] une sublime 2 pièces à yopougon ananeraie derrière le petit marché de coopec ,maison basse. 👉 loyer 120 milles  👉 1 salle d’eau  👉 une buanderie  Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "Saluchez tous, vous n'est-ce mobilé toujours ? Toujours moins comme moi dans la bref et plutôt les mots de Dieu. Comme vous le voyez, je suis au sein d'une 2 pièces, sans violement. Aller au Pougan, on aimerait qu'au pêque. Admirez-vous même, le salon, magnifique salon, absolument. Viens, Nadi, vous voyez. Mais on fout l'option nouvelle construction. Jamais été habité. Vous voyez, là, c'est la douche, c'est là. Très propre. Voilà. Nouvelle année, nouvelle maison. Nouvelle année. Vous voyez, tout est propre. Yadid, parfaitement venu pour votre nouvelle construction. Voilà. C'est la meilleure maison. Nouvelle année, nouvelle maison. Vous voyez, tu viens avec ton doigt haut. Ici, il n'a jamais fait de sa préfinie. Quoi que ce soit, tu viens avec ton doigt haut. Voilà.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709857298029497608.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "salle d'eau",
+   "buanderie"
+  ],
+  "resume": "Location d'une 2 pièces neuve, jamais habitée, en maison basse à Yopougon Ananeraie derrière le petit marché de Coopec, loyer 120 000 F, visite 5 000 F, avec salle d'eau et buanderie.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-19",
+ "origine": "découverte"
+}
