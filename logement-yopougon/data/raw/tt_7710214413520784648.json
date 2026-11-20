@@ -1,0 +1,41 @@
+{
+ "id": "tt_7710214413520784648",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710214413520784648",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710214413520784648",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261120",
+ "duration": 151,
+ "description": "#OFFRE DISPONIBLE   YOPOUGON PALAIS (ZONE KOUTÉ) PLUSIEURS APPARTEMENT DE DE TYPE 2 PIÈCES AU 3EME ÉTAGE _ STAFFER BIEN AÉRÉ TRÈS ACCESSIBLE, AVEC 2 DOUCHE WC PROPRE  #LOYER 160.000 FCFA / MOIS  BUREAU... HABITATION... RÉSIDENCE ☎ 0788393888 📞 0575303446 WhatsApp",
+ "transcript": "La distance n'est même pas normale Je peux même pas te check ça me fait mal Je suis dans un tourbillon infernal Mande tous ces connards Tout ce qu'ils vont faire c'est banal Je voulais qu'ils soient ma baby mama Je voulais pas jouer Je voulais pas jouer Je suis dans un tourbillon infernal",
+ "ocr": [
+  ". (li ent",
+  "\\ VERT 4",
+  "(Hi arte",
+  "Sant # Vel",
+  "Er SAS"
+ ],
+ "thumb": "thumbs/tt_7710214413520784648.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Palais (zone Koutéi)",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches WC"
+  ],
+  "resume": "Location à Yopougon Palais (zone Koutéi) d'appartements de type 2 pièces au 3e étage, bien aérés, accessibles, avec 2 douches WC, loyer 160 000 FCFA par mois, utilisables en bureau ou habitation.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7710262185221426484",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7710262185221426484",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7710262185221426484",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261120",
+ "duration": 125,
+ "description": "JOLIE 3 PIECES 180 k SONGON GRAVIER DANS LE QUARTIER AU 2E ETAGE AVEC PARKING BALCONS ET 2DWC  INTERRESSE APPEL  CONTACT 0787407535 #songon #immobilierabidjan #maison #appartementalouer ",
+ "transcript": "Voir. Bonsoir, c'est matin, à Bidian, seul le soir. Bichop immobilier, Monsieur le détecteur des chaux, les maisons sans esprit. Je suis au lieu de son bon gravier. Avant la nouvelle mairie, son bon gravier. Dans une trois pièces chic, avec système d'eau chaude et déjà installé. Son bon gravier dans le quartier. Dans le quartier, je précise. Dans une trois pièces de 184. C'était un cadeau, 184. Regardez vous-même le balcon. Regardez le balcon. Regardez bien. Bien chic, la maison est lumineuse. La maison respite totalement le bonheur. Vous m'aimez le salon, comment c'est grand? La cuisine aussi bien chic. On va maintenant dans la chambre. Des enfants. Tu n'as pas besoin d'avoir un miroir ici. Le placard est miroité. Bien chic, regardez. Tu peux même te mirer dans le placard. C'est bien propre, c'est une belle maison. On va là maintenant, dans la douche, des visiteurs, des enfants et des concours. Regardez comment c'est grand. La douche est très grande. On va dans la chambre principale. Wow! Quelle méveille! C'est une très belle maison. Regardez bien, voici la douche. Tout est grand dedans. Regardez-vous-même, c'est propre. La maison respite le bonheur. Intéressé, appelé rapidement. C'est seulement que une seule poche au deuxième édage. Au niveau de son bon gravier. Son bon gravier dans le quartier. Au deuxième édage, c'est une trois pièces de 184. Avec pâquins, avec un chauffe-eau. Vraiment, puis le bâtiment est très chocot. Donc, merci. N'oubliez pas de vous abonner, de partager, de mettre un like. Si ce, Jésus vous aime. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710262185221426484.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Gravier",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "parking",
+   "2 WC",
+   "chauffe-eau",
+   "placard miroir"
+  ],
+  "resume": "Location d'un 3 pièces au 2e étage à Songon Gravier, à 180 000 F, avec balcons, parking, 2 WC, chauffe-eau et placard miroir. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

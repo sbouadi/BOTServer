@@ -1,0 +1,36 @@
+{
+ "id": "tt_7710274307569569031",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7710274307569569031",
+ "url": "https://www.tiktok.com/@brunesleger/video/7710274307569569031",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261120",
+ "duration": 56,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] une sublime 2 pièces à yopougon Maroc tiken jah au 1 er étage  👉 100 milles  Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "Je pose ma caméra sans touche, c'est une S-Mobilier qui joue. Il joue moi comme moi dans la prépétition immobilière. Comme vous le voyez, je suis au sein d'une 2 pièces. Voilà, 2 pièces, 100 000 francs. Voilà, admirez vous-même. Voilà, ça a l'air bien propre. Vous voyez, là c'est la douche. Voilà, la douche. Voilà, l'espoir est là, ce n'est pas rigide, je ne suis plus. Et là, c'est la chambre. La chambre est bien crème. Voilà, vous voyez le placard. C'est très propre. Il n'y a que le marénazier. N'oubliez pas de vous abonner à ma base. Je vous laisse immobilier pour les pépites. À venir.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710274307569569031.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "placard"
+  ],
+  "resume": "Location d'une 2 pièces à Yopougon Maroc, au 1er étage, à 100 000 F par mois avec visite à 5 000 F. Contacts indiqués : 0153273240 et 0777789059. Logement avec douche et placard, présenté propre.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

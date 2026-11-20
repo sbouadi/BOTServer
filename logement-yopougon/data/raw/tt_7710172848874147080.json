@@ -1,0 +1,42 @@
+{
+ "id": "tt_7710172848874147080",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7710172848874147080",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7710172848874147080",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261120",
+ "duration": 40,
+ "description": "🏠 Studio meublé disponible à Makepe Belavi, dans un cadre agréable et bien situé. Chambre et salon climatisés, douche, grand balcon, Wi-Fi, parking et caméras de surveillance. 🔥 Promotion à 18k la nuitée pendant novembre et décembre. 📍 Makepe Belavi, Douala 📲 Réservation en inbox ou WhatsApp. #gkimmobilier  #studiomeuble  #douala  #makepe  #promotionimmobiliere ",
+ "transcript": ".org",
+ "ocr": [
+  "1mEXON"
+ ],
+ "thumb": "thumbs/tt_7710172848874147080.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Makepe Belavi",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 18000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation",
+   "douche",
+   "balcon",
+   "Wi-Fi",
+   "parking",
+   "caméras de surveillance"
+  ],
+  "resume": "Studio meublé en location à Makepe Belavi (Douala), chambre et salon climatisés, promotion à 18 000 F la nuitée pendant novembre et décembre, réservation par inbox ou WhatsApp.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

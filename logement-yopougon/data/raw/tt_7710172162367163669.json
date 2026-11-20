@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710172162367163669",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710172162367163669",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710172162367163669",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261120",
+ "duration": 65,
+ "description": "Mise en location d'un studio de 70.000f nouvelle construction en finition. Lieu: Yopougon millionnaire institut des aveugles vers le collège saint Ruth. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "Je lève derrière les jours de peine Ta grâce coule dans mes veines Les gens me voient ils sont surpris Comment ce gars a changé sa vie Chaque prière, une mélodie",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710172162367163669.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire, vers le collège Saint Ruth",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio neuf en finition à Yopougon Millionnaire, près de l'Institut des aveugles vers le collège Saint Ruth, à 70 000 F. Visite à 5 000 F. Contact : 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

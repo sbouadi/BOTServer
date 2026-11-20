@@ -1,0 +1,38 @@
+{
+ "id": "tt_7710166938076384532",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710166938076384532",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710166938076384532",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261120",
+ "duration": 107,
+ "description": "Mise en location d'un appartement de 2 pièces à 90.000f au 2ème étage avec 2 douches wc et un balcon. Lieu: Yopougon sideci terminus 42, vers l'église forsquaire. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": ".org",
+ "ocr": [
+  "Len."
+ ],
+ "thumb": "thumbs/tt_7710166938076384532.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Sideci terminus 42",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches wc",
+   "balcon"
+  ],
+  "resume": "Location d'un appartement de 2 pièces au 2ème étage avec 2 douches wc et un balcon à 90 000 F, à Yopougon Sideci terminus 42 vers l'église foursquare. Visite 5000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7710154692260629778",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710154692260629778",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710154692260629778",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261120",
+ "duration": 86,
+ "description": "#BONNE NOUVELLE  à songon institut pasteur carrefour écoles  Bel Immeuble nouvelle construction en bordure . 👉 #PLUSISUER APPARTEMENT de haut standing du rez-de-chaussée au 3eme étage  LOYER DE 140.000 FCFA À 160.000 FCFA / MOIS habitables pour le 10 décembre 2026 ( NB LE MOIS DE DÉCEMBRE EST GRATUITE ) 🤗🤗🤗 ☎ 0788393888 📞 0575303446 WhatsApp",
+ "transcript": ".org",
+ "ocr": [
+  "CAL 4",
+  "LES 1"
+ ],
+ "thumb": "thumbs/tt_7710154692260629778.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur, carrefour écoles",
+  "type": null,
+  "pieces": null,
+  "loyer": 140000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'appartements de haut standing dans un immeuble neuf à Songon, Institut Pasteur, carrefour écoles, du rez-de-chaussée au 3e étage. Loyer de 140 000 à 160 000 FCFA par mois, habitables pour le 10 décembre 2026, décembre gratuit. Contacts 0788393888 et 0575303446 (WhatsApp).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710208623263190293",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7710208623263190293",
+ "url": "https://www.tiktok.com/@annilove225/video/7710208623263190293",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261120",
+ "duration": 66,
+ "description": "2 pièces 150 milles au 2èm étage ananeraie non loin de la paroisse Ste ELISABETH  NB : salarié exsiger #maisonalouer #locationdemaison #immobilier #standing ",
+ "transcript": "Ok famille, vous êtes une maison là, le propriétaire dit qu'il veut salarié Voilà, il dit il veut salarié, c'est pas moins Voilà, c'est une trois pièces de 100, c'est une deux pièces pardon, chamb salon 100 secondes qu'à, voilà, 100 secondes qu'à, c'est salarié, du privé, c'est salarié, du public, on t'accepte ici Voilà, c'est pas moins pour le propriétaire, je ne sais pas comment il se fait qu'il a Voilà, qu'il faut mettre son épée là et qu'il est fonctionné Voilà, ça nous on sait, le propriétaire lui est fonctionné Là j'ai envie d'intéresser, il n'y a pas qu'il ne m'a pas commencé, deux bouches de vaisseau Voilà, on doit faire des travaux, la fonde est déménagée, on doit faire des travaux Il faut qu'on a des rêves non loin, de mettre les simples appets Voilà, il n'y a pas qu'il y a là, c'est super bien fait, il n'y a absolument rien à dire Il n'y a pas qu'il y a pas qu'il y a là, c'est très très pauvre, il n'y a rien à dire Deux bouches de vaisseau, voilà, ici il n'y a pas qu'il y a d'autres visiteurs qu'il y a là Ça c'est la douche visiteur, douche visiteur, et puis petit placard de salon Voilà, il n'y a pas qu'il y a là, c'est super bien fait, il n'y a absolument rien à dire Voilà, c'est la cuisine, qui est la très belle cuisine avec des petits balcon à riais Il n'y a absolument rien à dire, c'est une petite vidéo d'intéresser Appelle rapidement le numéro dans la description, ça ne va pas durer, merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710208623263190293.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Abidjan",
+  "quartier": "Ananeraie",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche visiteur",
+   "placard"
+  ],
+  "resume": "Location d'un 2 pièces (chambre salon) au 2e étage à Ananeraie, non loin de la paroisse Ste Elisabeth, à 150 000 F par mois, réservé aux salariés. Cuisine équipée et douche visiteur présentes ; l'audio mentionne des travaux à prévoir.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7710002726129732884",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710002726129732884",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710002726129732884",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261119",
+ "duration": 242,
+ "description": "🏡 DUPLEX DE 4 PIÈCES À LOUER 🔥 📍 Yopougon, Cité Abdoulaye Diallo 🏠 Beau duplex de 4 pièces avec garage. 💰 Loyer : 300.000 F CFA 📌 Conditions : 5 mois + 100.000 F CFA 🔥 CHAP CHAP ! Belle opportunité à saisir ! 📞 WhatsApp ou appel : 07 67 64 46 18 #Yopougon #Location #Duplex #ImmobilierAbidjan #Abidjan",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710002726129732884.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Abdoulaye Diallo",
+  "type": "duplex",
+  "pieces": 4,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Location d'un beau duplex de 4 pièces avec garage à Yopougon, Cité Abdoulaye Diallo, loyer 300 000 F CFA, 5 mois à payer + 100 000 F CFA d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

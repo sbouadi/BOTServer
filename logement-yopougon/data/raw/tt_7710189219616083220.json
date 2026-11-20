@@ -1,0 +1,39 @@
+{
+ "id": "tt_7710189219616083220",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710189219616083220",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710189219616083220",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261120",
+ "duration": 162,
+ "description": "🏢MAISON À LOUER 🏢 *YOPOUGON COOPEC KENEYA UNE DUPLEX 8 PIÈCES 5 DWC STAFFÉ TRES BIEN PLACÉ AVEC UN PARKING EN FACE VIDE* *QUELQUES TRAVAUX À FAIRE* *À USAGE* *HABITATION* *BUREAU* ET *EGLISE* 👉LOYER:*450.000 FR* 🚨VISITE:5000FR CONTACT:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [
+  "—s mere",
+  "Pre LL _——",
+  "VENT"
+ ],
+ "thumb": "thumbs/tt_7710189219616083220.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Coopec Keneya",
+  "type": "duplex",
+  "pieces": 8,
+  "loyer": 450000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "parking"
+  ],
+  "resume": "Location d'un duplex de 8 pièces (5 DWC) à Yopougon Coopec Keneya, bien placé avec parking en face vide, quelques travaux à prévoir, usage habitation, bureau ou église. Loyer 450 000 F, frais de visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

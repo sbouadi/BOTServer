@@ -1,0 +1,38 @@
+{
+ "id": "tt_7710203732096552198",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7710203732096552198",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7710203732096552198",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261120",
+ "duration": 78,
+ "description": "Alain zegbehi vous présente une 2 pièces 120 mille yopougon Maroc Kimi visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébi, votre aimer serviteur. Je vous présente ici, vous voyez, une deux pièces, 120 millions, Pougon, Maroc, Kimi, vous voyez, nouvelles conditions jamais habitées. Voici le salon que vous voyez, voilà, là c'est la cuisine. Voici la douche, voilà, là c'est la cour arrière. Voilà, vous voyez là, 120 000 francs de loyer, vous voyez, le système de lotion est déjà installé. Vous voyez, voilà, regardez, voici la chamegie. 120 000 de loyer, Pougon, Maroc, Kimi, vous voyez, c'est très facile. Voilà, avec Pagkin, Henten, vous voyez là, voilà, voilà. Bonne nuit sur le salon. Alain Zébi, toujours votre aimer serviteur. Merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710203732096552198.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Kimi",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "cour arrière",
+   "système de lotion installé"
+  ],
+  "resume": "Location d'un 2 pièces neuf jamais habité à Maroc Kimi (Yopougon) au loyer de 120 000 F, frais de visite de 5 000 F, contact par téléphone indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

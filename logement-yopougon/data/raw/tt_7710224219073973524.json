@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710224219073973524",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7710224219073973524",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7710224219073973524",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261120",
+ "duration": 107,
+ "description": "Alain zegbehi vous présente une 3 pièces 180 mille yopougon cité cie partiserie Flora visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébéi, MFVT, je vous présente ici une trois pièces, 180 000, Yopugon, Cité Sérieux, Pateriflora, Boddu, Bodjira, les gars, vous t'y cherchez Bodjira, voilà Bodjutera, voilà, regardez, voilà, le balcon ici, 180 000, il y a un salon, Gaïa Salon, 180 000, Yopugon, Cité Sérieux, Pateriflora, Boddu, Bodjira, voilà, vous voyez, là c'est la cuisine ici, vous voyez là c'est la cuisine, 180 000 au troisième étage, vous voyez là, voilà, vous voyez, là c'est la douche visiteur ici, 180 000 au troisième étage, voilà, la chambre des enfants, très grande chambre, vous voyez, la chambre des enfants, il n'y a rien à dire, la chambre est très face, vous voyez, 180 000, Yopugon, Cité Sérieux, Pateriflora, vous voyez, 180 000, voici la chambre principale ici, très très très grande chambre, Boddu Bodjira, vous t'y cherchez Bodjutera, voilà ça c'est là, Yopugon, Cité Sérieux, Pateriflora, voilà bien placé, c'est très facile, voilà regardez, voici la cuisine de la chambre ici, 180 000, vous voyez, voilà, vous voyez, bonne nuit sur le salon, allez, vous voyez, toujours votre aimabse et videur, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710224219073973524.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité CIE, Parisien Flora",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces à Yopougon (Cité CIE) à 180 000 F, troisième étage, avec salon, cuisine, douche visiteur, chambres dont une principale très grande, balcon. Frais de visite 5000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

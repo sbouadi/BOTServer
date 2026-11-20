@@ -1,0 +1,35 @@
+{
+ "id": "tt_7709983118068878613",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7709983118068878613",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7709983118068878613",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261119",
+ "duration": 53,
+ "description": "Magnifique et superbe belle 2pieces 80mil avec 2douches au 1er étages 🔑☎️🏠✅ 80mil x5mois plus 60mil démarcheur  Nb: caution d’eau 50mil  Détail: 2mois caution               2mois avance          1mois agence plus 60mil  Yopougon Academie diop carrefour bawin bien placé au 1er étages  Visite 5mil Contact: 0711392732  #2piece #3piecesuit #visibilité #vente #yopougon🇨🇮🎶 ",
+ "transcript": "Et au pouvant, quand on vous demande de vous abonner, c'est par rapport à toutes ces bonnes maisons-là, c'est pour ne rien rater. Voilà une chanson disponible au 1er étage de 2 nuages. On a commencé la petite, ça c'est la première couche, c'est pas immuté, c'est la première couche de petite, ils ont mis comme ça. Voilà, c'est la cuisine. Voilà disponible à Yopukon Akagemi, Diopo au niveau du Carrefour Taiwan. Voilà, bien placé au produit de la rente, là c'est la première douche. Voilà, et puis ici, qui est à la chanson qui est là, chanson, c'est à fait avec deux douches d'oeufs, qu'à provenir, forcément, la location disponible au 1er étage à Yopukon Akagemi, Diopo au Carrefour Taiwan. Bien placé, facit d'accès. Et là, c'est la douche principale. Voilà, le placard.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7709983118068878613.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Academie Diop (carrefour Bawin / Taiwan)",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": 160000,
+  "avance": 160000,
+  "agence": 80000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches"
+  ],
+  "resume": "Location d'un 2 pièces de 80 000 F par mois au 1er étage à Yopougon, Academie Diop, carrefour Bawin (Taiwan), avec 2 douches. Caution de 2 mois (160 000 F), avance de 2 mois, 1 mois d'agence, plus 60 000 F de démarcheur, caution d'eau 50 000 F ; visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}
