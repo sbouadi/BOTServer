@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710343553666288914",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7710343553666288914",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7710343553666288914",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261120",
+ "duration": 54,
+ "description": "STUDIO AMERICAIN EN LOCATION YOPOUGON NIANGON TERMINUS 27  AU REZ-DE-CHAUSSÉE EN BORDURE DE SECONDE VOIE 90 k INTERRESSE APPEL  CONTACT 0787407535  #studio #immobilierabidjan #yopougon🇨🇮🎶 #maison ",
+ "transcript": "Voilà Quand il voit ce matin Abidjan serve le soir Bichop immobilier Monsieur le détecteur Joli, mais non sans esprit Je suis au nouveau de Yopogon, Nyambon Terminus 27, non loin de la Pharmacy, Lotus Très bien placé en ordu de seconde voie, bien choli studio américain de 90K Il y a quelques travaux, quelques retouches à faire quelques travaux, quelques retouches à faire Voilà Interessé, il faut appeler rapidement C'est un joli studio, d'un bâtiment chocot avec pas quitté, avec vichy c'est propre, il n'y a rien à dire C'est propre, mais dans l'esprit Le bonheur, interessez appelle rapidement, ça ne va pas durer Mais si, n'oubliez pas de vous abonner de mettre le coeur et de partager Si ce que vous aimez",
+ "ocr": [
+  "STUDIO",
+  "STUDIO |",
+  "AMERICAIN"
+ ],
+ "thumb": "thumbs/tt_7710343553666288914.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Terminus 27",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio américain en location à Yopougon, Niangon Terminus 27, au rez-de-chaussée en bordure de seconde voie, près de la pharmacie. Loyer 90 000 F. Quelques travaux et retouches à prévoir. Contact : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}

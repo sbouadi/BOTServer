@@ -1,0 +1,36 @@
+{
+ "id": "tt_7710312342881570056",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7710312342881570056",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7710312342881570056",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261120",
+ "duration": 35,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES YOPOUGON SABE AU 3IEME ÉTAGES ACCÈS FACILE NON LOIN DE LA ROUTE LOYER: 90 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut tout je vous présente une deux pièces à yopou gonsap bien placé non l'un de la voie c'est le salon une douche centrée, regardez ça c'est la douche yopou gonsap, voilà, accès est bien facile accès est très facile pour ceux qui veulent aller au plateau à Jamais voilà ça c'est le placard, 40 000 francs",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710312342881570056.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Sabè",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "douche",
+   "placard"
+  ],
+  "resume": "Location d'un 2 pièces à Yopougon Sabè au 3e étage, accès facile non loin de la route, loyer 90 000 F, avec douche et placard ; accès facile vers le Plateau.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-20",
+ "origine": "découverte"
+}
