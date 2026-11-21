@@ -1,0 +1,36 @@
+{
+ "id": "tt_7710587618903248149",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7710587618903248149",
+ "url": "https://www.tiktok.com/@brunesleger/video/7710587618903248149",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261121",
+ "duration": 166,
+ "description": "Brunes immobilier toujours.  {{ 0153273240} WhatsApp} [[À louer]] un sublime studio haut standing au 4 ème étage 👉 loyer 120 mille 👉 1 balcon individuel 👉 1 salle d'eau visite 5 mille contact :0153273240//0777789059",
+ "transcript": "L'équipe, vous êtes prêts ? On va tout changer On vise le sommet On vise le sommet Encore Chaque matin le rêve il sonne La même envie personne m'abandonne Jamais dans le visa la ligne d'arrivée Une seule idée c'est de tout donner Let's go Le rythme dans la peau on se met en route Pas de place pour le moindre doute On est ensemble c'est notre force Pour que la victoire prenne sa source Le son montre la pression aussi On sent la force de l'énergie On vise le Les doutes s'envolent le chemin est tracé Avec la team on est bien placé On est là Chaque effort nous rend plus grand On avance ensemble contre vents et temps De la sueur sur le front le sourire relève C'est la passion qui nous soulève On reste focus on reste carré Objectif fixé on va y arriver Ça chauffe sa montre Arrête Jamais",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710587618903248149.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "studio",
+  "pieces": null,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon individuel",
+   "salle d'eau"
+  ],
+  "resume": "Location d'un studio haut standing au 4ème étage, loyer 120 000 F, 1 balcon individuel, 1 salle d'eau, frais de visite 5 000 F. Agence Brunes immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

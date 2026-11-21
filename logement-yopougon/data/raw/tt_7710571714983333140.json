@@ -1,0 +1,35 @@
+{
+ "id": "tt_7710571714983333140",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7710571714983333140",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7710571714983333140",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261121",
+ "duration": 33,
+ "description": "Magnifique et beau grand magasin nouvelle construction 250mil disponible bien placé 🏠🥰✅🔑 250mil x5mois plus 150mil démarcheur  Yopougon niangon à droite après le pont de lokoa bien placé en bordu  Visite 5mil Contact: 0711392732  #magasin #visibilité #fly #vue #yopougon🇨🇮🎶 @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Yopougon, immobilier, ils ont un très grand marasin de 250 000 fois Voilà, tout peut passer, restaurants, cocages, tout disponibles à Yopougon, Yopougon, l'Opa, esponcillons bien placés en bord du boudoir Voilà, c'est la voie qui est là, c'est facile d'accéder à le marasin Il y a bien grand marasin de 250 000 fois, une nouvelle construction Voilà, tout le marasin qui est là Bien gaillard, bien grand, bien beau, restaurant, tout ce que tu veux faire, tu fais Voilà",
+ "ocr": [
+  "à ALL"
+ ],
+ "thumb": "thumbs/tt_7710571714983333140.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 250000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 150000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un grand magasin commercial neuf de 250 000 F par mois (5 mois à payer), à Niangon, Yopougon, à droite après le pont de Lokoa, en bordure de voie. Frais de démarcheur 150 000 F, visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

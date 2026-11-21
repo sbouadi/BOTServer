@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710545252775431445",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710545252775431445",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710545252775431445",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261121",
+ "duration": 236,
+ "description": "Mise en location d'une villa basse de 4 pièces à 200.000f Lieu: Yopougon pharmacie de sideci Lem. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [
+  "AD CLIN",
+  "PAU L'AP",
+  ": seu"
+ ],
+ "thumb": "thumbs/tt_7710545252775431445.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Sideci",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une villa basse de 4 pièces à 200 000 F à Yopougon, près de la pharmacie de Sideci. Visite à 5 000 F. Contact indiqué : 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

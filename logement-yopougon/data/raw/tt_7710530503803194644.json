@@ -1,0 +1,39 @@
+{
+ "id": "tt_7710530503803194644",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710530503803194644",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710530503803194644",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261121",
+ "duration": 130,
+ "description": "🏠 GRAND STUDIO À LOUER 🔥 📍 SONGON GRAVIER 🏢 3ᵉ étage avec ascenseur 🌟 Balcon 🚿 1 DWC 💰 100.000 F CFA 📌 Conditions : 5 mois + 70.000 F 👀 Visite : 5.000 F ✅ Habitation et bureau acceptés ✅ Salarié ou registre de commerce exigé 🔥 CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! #Songon #Location #Studio #ImmobilierCI #Yopougon",
+ "transcript": "Scalpouvit Ha ha ha Primes parolées Ha ha ha ha ha ha ha ha Yeah Oh L'amour ça repart Parfois ça nous quitte J'assume tous mes pas Car seul Dieu nous guide Et quand on se parle L'histoire est écrite Ne me remercie pas T'inquiète on est quitte La rue m'a fait vivre Mais la rue m'a dégoûté L'école m'a fait lire Mais l'école m'a fait tout Et maman m'a appris Que l'argent n'est pas une fois en soi Que vieiller est obligatoire Mais grandir est un choix On m'a dit ne te râtes pas Y'a personne qui m'aide J'aime pas le rap de moi C'est le rap qui m'aime Il m'a rendu au centup Tout ce que je lui donne Et parfois quand je ne chante plus C'est là que je m'isole Et je n'ai pas d'idoles À part le plus grand À part mon créateur Plus j'en parle, plus j'en tremble Plus rien ne me tente À part quelques doutes Que je promène On se ressemble Appelle-moi Yous, on se connaît Tom Ben et Tom Ben et Yous On se connaît Tom Ben et Tom Ben et Yous On se connaît Tom Ben et Tom Ben et Yous On se connaît Je peux pas t'oublier Les stars ça décline Un jour on les remplace Les foules sont anonymes Et un jour on les embrasse La pression domine Personne n'est à ma place J'ai pas de pseudonyme Mieux sous face et mon vrai blin J'ai un lapel qui monte Tant plus pour la critique Et puis plaire à tout le monde C'est plaire à n'importe qui Le but de ma musique Durable que j'expose C'est de rester authentique Pas de rester pauvre Et la France m'a fliquée Ces apparences nous mentent Le bled me fait flipper Ma famille me manque L'amour m'a fait chialer Pour tout ce que j'éprouve Mais la haine m'a installé Des yeux waterproof Pouc et...",
+ "ocr": [
+  "LU 77474",
+  "\\LLL177//7 à"
+ ],
+ "thumb": "thumbs/tt_7710530503803194644.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Gravier",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 70000,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "douche avec WC (1 DWC)"
+  ],
+  "resume": "Grand studio à louer à Songon Gravier, 3e étage avec ascenseur, balcon, 1 DWC, 100 000 F/mois, conditions 5 mois + 70 000 F, visite 5 000 F, habitation et bureau acceptés, salarié ou registre de commerce exigé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

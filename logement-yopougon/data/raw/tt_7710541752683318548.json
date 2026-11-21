@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710541752683318548",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710541752683318548",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710541752683318548",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261121",
+ "duration": 63,
+ "description": "🏠 GRAND STUDIO À LOUER 🔥 📍 Yopougon Niangon Sud – Centre Social Non loin du collège Germinal, au🏠 GRAND STUDIO À LOUER 🔥 📍 Yopougon Niangon Sud – Centre Social Non loin du collège Germinal, au 1er étage. 💰 Loyer : 70.000 F CFA 🔥 CHAP CHAP, ça ne dure pas ! 1er étage. 🔧 TRAVAUX À FAIRE 💰 Loyer : 70.000 F CFA Visite 5000 Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "Qu'il pouvait m'aider Comme tu m'as aimé oh M'a donné oh Comme tu m'as pas donné oh Ah M'a donné oh Mais je suis géant Donc préférez Je suis",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710541752683318548.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Grand studio à louer à Yopougon Niangon Sud, près du collège Germinal, au 1er étage, loyer 70 000 F CFA, visite 5000 F, travaux à faire. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

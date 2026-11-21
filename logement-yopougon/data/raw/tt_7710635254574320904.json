@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710635254574320904",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7710635254574320904",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7710635254574320904",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261121",
+ "duration": 46,
+ "description": "MAGASINS 100 k YOPOUGON NIANGONS TERMINUS 27 NON LOIN DE LA PHARMACIE LOTUS  INTERRESSE APPEL  CONTACT 0787407535 #magasin #immobilierabidjan #espace #pourtoi #yopougon🇨🇮🎶 ",
+ "transcript": "Voilà, on va voir ce matin à Bijan Saint-Lussoir. Je suis dans un joli magasin au niveau de Hyopoubon Terminus 87, non loin de la pharmacie Lodus, en portue de Saint-Marin et Saint-Marene. Le quartier est très animé, parce que Saint-Marin est 100 000. La condition est normale. C'est intéressant pour appeler rapidement Saint-Marene Joli. Prévenu, premier service, vous voyez. En étant là, le magasin m'a été très grand et propre en tout cas, bien natif. Donc voici. Merci, n'oubliez pas de vous abonner et de partager avec les mecs et le coeur. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710635254574320904.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Terminus",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Magasin à louer à 100 000 F à Yopougon Niangon Terminus, non loin de la pharmacie Lotus, 27 ; contact 0787407535. Local vide et propre, grand, dans un quartier animé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

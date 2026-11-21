@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710650832559050005",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7710650832559050005",
+ "url": "https://www.tiktok.com/@annilove225/video/7710650832559050005",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261121",
+ "duration": 78,
+ "description": "02 pièces nouvelles maison disponible vide du 1er au 3eme étage bien placé en bordure dans la cité Abdoulaye Diallo juste en face de la BAE  Loyer: 175.000f  Contact: 0767314212 #maisonalouer #yopougon🇨🇮 #appartement #standing #locationdemaison ",
+ "transcript": "Bonne année maison, bonne année maison, bonne année maison, bonne année maison. Voilà ce maison qui est là, ça a vite été dressé, viens prendre ça rapidement. Nouvelle année, nouvelle maison, nouvelle année, nouvelle maison. Parce que là, c'est chance, ça a une nouvelle confusion, jamais habité. Il n'y a pas hâte d'avoir quelqu'un qui est dans la maison, respecte, t'allez moi les bonheur. Du premier au troisième étage, il n'y a pas beaucoup de potes. Il y a seulement 3 pots. Il y a seulement 3 pots, c'est une nouvelle confusion, ça n'a jamais été habité. Voilà, ça a vite été dressé. Bien prendre, on n'a pas de plus, il n'y a pas de plus. Très très bien, on n'a pas de plus, 2 pièces. 2 pièces, 2 pièces, 2 pièces, 2 pièces. Oui, ça a bien gagné, absolument rien a dit. Parce que là, du visiteux, c'est de la oscillation. Mais ça c'est très très bien, il n'y a absolument rien à dit. Il n'y a absolument rien à dit, parce que c'est la chambre principale qui est là. Voilà, ça c'est la chambre. Bien gagné, absolument rien n'a dit. Dès qu'on t'y paye, tu dois voir ça, car on n'a pas du riz. Très très bien placé au niveau de la BAU. Voilà, au niveau de la BAU, c'est superément bien fait, superément bien placé. Il n'y a absolument rien à dit. Dès qu'on t'y paye, tu dois 165 000 francs de l'Event Montchel. 165 000, le loyer Montchel. Tchal, vite t'y est resté. Bien pour ton appartement, ça n'a pas du riz. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710650832559050005.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "cité Abdoulaye Diallo (en face de la BAE)",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 175000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Appartement neuf de 2 pièces, jamais habité, disponible vide du 1er au 3e étage, en bordure de la cité Abdoulaye Diallo à Yopougon, en face de la BAE. Loyer annoncé 175 000 F dans la légende (l'audio évoque 165 000 F). Contact indiqué : 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

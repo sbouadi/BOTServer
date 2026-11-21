@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710539745561939206",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710539745561939206",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7710539745561939206",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261121",
+ "duration": 136,
+ "description": "À Louer 👉    YOPOUGON PALAIS ( ZONE KOUTÉ) DANS UN BEL IMMEUBLE EN BORDURE  PLUSIEURS APPARTEMENT DE HAUT STANDING DISPONIBLE AU 3EME ÉTAGE  _ STAFFER, BIEN AÉRÉ  BALCON AVEC 2 DOUCHE WC. PROPRE.  #LOYER 15O.OOO FCFA / MOIS BUREAU.... RÉSIDENCE PASSE  ☎ 0788393888 📞 0575303446 WhatsApp",
+ "transcript": "Je lève le voie-poudi, merci à mon dieu Je lève le voie-poudi, merci à toi qui n'est venu Parce que sans toi, seigneur et ma vie n'a pas de sens Merci mon dieu Ah, mon savière à soi A sensé Parler A sensé au Musiquet A sensé au Parler La mine au pas Je m'en fous de ce que tu penses de moi Je m'en fous de ce que tu dis de moi Je m'en fous parce que mon bonheur je l'ai mérité Je m'en fous parce que tu sais comment j'ai fait Toi arrivez là Yannick Libiot Floresco Fio Parce que mon dieu m'a fait la grâce aujourd'hui Et ça va chez moi Naruto de papi C'est toi qui va dire au Jean-Hôphe C'est un samouro Je sais pas ce que je fais et puis toi tu m'en veux Au Rako Baba l'orison Ouzo-tio wa sumi suo Sisakimi dum diferente Ouzo-tio wa sumi suo Alexandra Smuts discussion Frako Fi Il laissait le jean à palais Président Jean Bois Il laissait la critique Il n'a pas de problèmes C'est toujours le même Il laissait le jean à critique On passe le parin On prête du mat, tu t'arranges au J'ai un côté d'un seul qui m'en veut Président, ça lui veut vous dire Nanou est goé, bibi, bibi, c'est amé ooo J'en ai l'argent, oh Monsieur Maastre",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710539745561939206.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Palais (zone Kouté)",
+  "type": null,
+  "pieces": null,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "2 douches WC",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'appartements de haut standing au 3e étage d'un immeuble en bordure à Yopougon Palais (zone Kouté), staffer, bien aéré, avec balcon et 2 douches WC, loyer 150 000 FCFA par mois, bureau possible.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7710586046819634452",
+ "source_url": "https://www.tiktok.com/@adorateuremmnuel/video/7710586046819634452",
+ "url": "https://www.tiktok.com/@adorateuremmnuel/video/7710586046819634452",
+ "platform": "TikTok",
+ "uploader": "adorateuremmnuel",
+ "upload_date": "20261121",
+ "duration": 25,
+ "description": "0103831435((wapsap)) BONJOUR À TOUS J’AI 2 PORTES DE STUDIO 120 MLLE NOUVELLE MAISON POUR RÉSIDENCE AU 4 EM ÉTAGE 6 MOIS  NOUVELLE BIEN PROPRE AÉRÉ AVEC BALCON AVANT  C’EST HAUT STANDING HEIN FHUM",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710586046819634452.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": null,
+  "type": "studio",
+  "pieces": null,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Location d'un studio au 4e étage, bien propre et aéré avec balcon avant, haut standing, 120 000 F, 6 mois à payer. Contact 0103831435.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

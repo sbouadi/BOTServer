@@ -1,0 +1,45 @@
+{
+ "id": "tt_7710531545907465480",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7710531545907465480",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7710531545907465480",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261121",
+ "duration": 27,
+ "description": "🏡 YASSA – APPARTEMENTS & STUDIOS MEUBLÉS Situés du côté de Yassa, juste après la station Tradex, dans un emplacement stratégique et facilement accessible, découvrez des appartements et studios meublés tout confort, idéals pour vos séjours à Douala. Vous y trouverez tout ce qu'il faut pour un séjour agréable : ✅ Groupe électrogène ✅ Wi-Fi haut débit ✅ Piscine ✅ Grand parking sécurisé ✅ Cadre confortable et bien aménagé 💰 Tarifs : * Appartement : 40kla nuitée * Studio : 30k la nuitée 📌 Tarifs négociables pour les séjours de longue durée. Que ce soit pour un séjour professionnel, des vacances ou un moment de détente, vous avez tout ce qu'il faut pour profiter pleinement de votre séjour. 📞 Réservation et informations en inbox. #yassa  #appartementmeublé  #studiomeublé  #douala  #gkimmobilier ",
+ "transcript": ".org",
+ "ocr": [
+  "MASSAMDPAT LEE LS LUI O]",
+  "Yassa AD DATLETS UC)",
+  "n Sn DiSCIne.",
+  "MASS AM Dpar LEE SLI O]",
+  "- enntéayesnteue",
+  "MASSaDpart {et studio"
+ ],
+ "thumb": "thumbs/tt_7710531545907465480.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Yassa",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 30000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "groupe électrogène",
+   "wi-fi haut débit",
+   "piscine",
+   "parking sécurisé"
+  ],
+  "resume": "Appartements et studios meublés à Yassa (Douala), juste après la station Tradex, location à la nuitée : appartement 40 000 F, studio 30 000 F, tarifs négociables pour longue durée. Réservation par inbox.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

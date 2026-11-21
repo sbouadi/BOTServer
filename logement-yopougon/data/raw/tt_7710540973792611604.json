@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710540973792611604",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7710540973792611604",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7710540973792611604",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261121",
+ "duration": 77,
+ "description": "Mise en location d'un studio de 50.000f Lieu: Yopougon Koweït cité Nestlé. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "Merci pour les chaînes que tu as brites",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710540973792611604.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït cité Nestlé",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un studio à Yopougon Koweït cité Nestlé pour 50 000 F, frais de visite 5 000 F, contact par téléphone indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

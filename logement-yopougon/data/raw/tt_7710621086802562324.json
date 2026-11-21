@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710621086802562324",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7710621086802562324",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7710621086802562324",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261121",
+ "duration": 43,
+ "description": "Magnifique et beau studio 60mil disponible au 2eme étages  🏠🥰✅🔑 60mil x5mois plus 40mil démarcheur  Détail: 2mois caution               2mois avance         1mois agence plus 40mil Yopougon Academie portail à la descente sur le côté droit  Visite 5mil Contact: 0711392732  #studio #fly #visibilité #yopougon🇨🇮🎶 #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "Il y a tout bon, j'ai oublié d'entendre vos studios au 2ème étage de 60 000 francs dans l'vocation avec un bâton Voilà, la façon de voir dans la vidéo, c'est comme ça le studio se présente La façon de voir dans la vidéo, c'est comme ça le studio se présente de 60 000 francs au niveau du portail académique des maires Voilà, il y a tout bon, un bras portail académique des maires Là, c'est la douche Voilà, et que ici, il y a la cuisine Voilà, il y a tout bon, le portail académique des maires Il y a tout bon, un peu dans le gâti Voilà, là, c'est le balcon L'espace du balcon, c'est là C'est le secteur",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710621086802562324.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 120000,
+  "avance": 120000,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "cuisine",
+   "balcon"
+  ],
+  "resume": "Studio au 2ème étage à Yopougon Académie, loyer 60 000 F, 2 mois de caution, 2 mois d'avance, 1 mois d'agence, plus 40 000 F de démarcheur, visite 5 000 F. Vidéo : salle de bain carrelée avec WC, cuisine, balcon.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

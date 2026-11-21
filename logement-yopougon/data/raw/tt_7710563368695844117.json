@@ -1,0 +1,35 @@
+{
+ "id": "tt_7710563368695844117",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7710563368695844117",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7710563368695844117",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261121",
+ "duration": 46,
+ "description": "🛑LOCATION 🎋 YOPOUGON MOLIONNAIRE GFCI STUDIO DISPONIBLE YOPOUGON MILIONNAIRE GFCI EN BORDURE DE DE LA GRANDE VOIE AU 1ER ÉTAGE AVEC BALCON ACCÈS EN BORDURE DE LA GRANDE VOIE ✅ LOYER: 90.000fcfa ✅ CONDITION: 6MOIS+😎       VISITE: 5MIL CONTACT : 0758399203/0544573174",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710563368695844117.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire GFCI",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon"
+  ],
+  "resume": "Studio à louer à Yopougon Millionnaire GFCI, au 1er étage en bordure de la grande voie, avec balcon. Loyer 90 000 F, condition 6 mois, visite 5 000 F. Contacts 0758399203 / 0544573174.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710651555849964852",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7710651555849964852",
+ "url": "https://www.tiktok.com/@annilove225/video/7710651555849964852",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261121",
+ "duration": 118,
+ "description": "04 pièces nouvelles maison disponible vide du 1er au 3eme étage bien placé en bordure dans la cité Abdoulaye Diallo juste en face de la BAE  Loyer: 350.000f@ Contact: 0767314212 #maisonalouer #yopougon🇨🇮 #appartement #standing #locationdemaison ",
+ "transcript": "toujours toujours toujours le 20 détecteurs de Pepito immobilier, magnifique magnifique magnifique appartement de Tipo, 4 pièces dans une cité fermée et sécurisée voilà c'est la maison qu'elle a regardé pendant la cité très très belle cité, c'était à Bouladialo, non loin de la BAU, voilà la cité est juste en face de la BAU, vous mettez la maison c'est très très propre, absolument rien a dit bête vitrée partout, nouvelle construction jamais habité, il n'y a pas homme de quelques évidents très très belle maison, rien a dit, nouvelle construction jamais habité, il n'y a rien à dire voilà c'est très très propre, c'est une réelle, système de chauffage bien étalier, c'est super bien fait rien a dit, les chansons balkonisées, voilà les chansons balkonisées, c'est super bien fait rien a dit, vous même, placard, full option, c'est la douche qui est là voilà, toutes les chansons c'est autonome, voilà la façon de balkoniser très très propre, rien a dit très très très propre, rien a dit, tu payes, tu dors, tu payes, tu dors, tu payes, tu dors, tu payes, tu dors c'est un baleçon de balkoniser, ça va pas durer, ça va vite intéresser, viens après tu n'as pas tué moi rapidement voilà c'est un baleçon de balkoniser aussi, c'est un baleçon de balkoniser tu as vu qu'il a intéressé, viens après ça rapide, moi ça va pas durer très très propre, rien a dit, c'est la douche qui est là très belle maison, très très belle maison, rien a dit très très belle maison, rien a dit, tu as vu qu'il a intéressé, tu viens après tu n'as pas tué moi rapidement le loyer monsieur est à 350 voilà, 350 c'est la digitale voilà, le loyer monsieur est à 350 voilà, 350 c'est la digitale très très propre, rien a dit c'est la douche qui est là voilà, ça va vite intéresser, tu viens après tu n'as pas tué moi rapidement c'est un baleçon de du jamais, merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710651555849964852.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Abdoulaye Diallo",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "placard",
+   "douche"
+  ],
+  "resume": "Appartement/maison neuf de 4 pièces à louer vide, du 1er au 3e étage, dans une cité fermée et sécurisée en face de la BAE à Yopougon Cité Abdoulaye Diallo, loyer 350 000 F, contact 0767314212.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

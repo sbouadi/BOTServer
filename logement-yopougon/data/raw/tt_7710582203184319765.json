@@ -1,0 +1,33 @@
+{
+ "id": "tt_7710582203184319765",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710582203184319765",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7710582203184319765",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261121",
+ "duration": 60,
+ "description": "🏠 STUDIO À LOUER 🔥 📍 YOPOUGON MAROC HUDSON 🏢 3ᵉ ÉTAGE 💰 LOYER : 70.000F 📌 CONDITIONS : 6 MOIS + 50.000F 🏃 CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! 📲 WhatsApp ou appel : 0767644618 #Yopougon #Maroc #Location #Studio #ImmobilierCI",
+ "transcript": "C'est mon tour, il faut que ça pète jusqu'où c'est pas ta gueule Tu lâcher",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710582203184319765.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Hudson",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer au 3e étage à Yopougon Maroc Hudson, loyer 70 000 F, conditions 6 mois + 50 000 F, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}
