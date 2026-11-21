@@ -1,0 +1,35 @@
+{
+ "id": "tt_7710684238500089109",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7710684238500089109",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7710684238500089109",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261121",
+ "duration": 49,
+ "description": "Magnifique et beau studio 50mil disponible au rez-de-chaussée 🏠🥰✅🔑 50mil x5mois plus 40mil démarcheur  Détail: 2mois caution               2mois avance         1mois agence plus 40mil Yopougon Academie portail à la descente sur le côté droit  Visite 5mil Contact: 0711392732  #studio #fly #visibilité #yopougon🇨🇮🎶 #vue @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 @AmaraBamba @inza_diarrassouba_225 ",
+ "transcript": "Et au Pougon, immobilez-vous pour ils entendent. Voilà, une très bonne chambre, voilà, ça c'est une très bonne chambre, ici c'est l'espace cuisine, voilà, très bonne chambre bien placée, disponible à Yopougon, Académie Portail de la Marine de Meille, voilà, sur le côté droit, un peu à la descente, voilà, c'est une chambre de 50 000 francs qui est là, voilà, en faisant tu vois dans la vidéo c'est comment la maison s'est présentée, là c'est l'espace placard pour te projeter les habits, tout, tout, tout, et puis ici, voilà, ici on a la douche, voilà, c'est une très bonne chambre de 50 000 francs qui est là, la chambre est là, elle est bien granée, voilà, c'est pour ici c'est le bataille qu'il s'y cherche, puis aussi sur son point, voilà, ça ici, 50 000 francs Yopougon, Académie Portail de la Marine de Meille, dans le tout, voilà.",
+ "ocr": [
+  "pag 1"
+ ],
+ "thumb": "thumbs/tt_7710684238500089109.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": 100000,
+  "avance": 100000,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio à louer au rez-de-chaussée à Yopougon Académie, portail à la descente côté droit. 50 000 F par mois, 5 mois à payer (2 mois caution, 2 mois avance, 1 mois agence) plus 40 000 F frais démarcheur. Visite 5 000 F. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710690496577801492",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7710690496577801492",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7710690496577801492",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261121",
+ "duration": 49,
+ "description": "Alain zegbehi vous présente un studio baoule 75 mille au premier étage yopougon Maroc mosquée visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Salut, salut, c'est Alézié Maywood, MLC Victor, tu me présentes ici, voilà. Un studio, voilà, 75.000, Yopougo, Maroc, Mosquée, voilà. Hôpital de Surreyou, oui, voici la douche, oui, 75.000, voilà. Oui, voici la cuisine, oui, voilà. Yopougo, Maroc, c'est studio Baoulé, les gars, oui. Pas sur le balcon du studio, oui. Bonne insulation. Alézié Maywood, toujours votre MLC Victor, merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710690496577801492.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "cuisine",
+   "toilettes"
+  ],
+  "resume": "Studio à louer au premier étage à Yopougon Maroc, près de la mosquée, loyer 75 000 F, frais de visite 5000 F, avec douche, cuisine et toilettes. Contacts indiqués : 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "tt_7710731092570983700",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7710731092570983700",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7710731092570983700",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261121",
+ "duration": 88,
+ "description": "Alain zegbehi vous présente un studio bete 110 mille yopougon texaco au rez-de-chaussée visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zegui, what am I for 7h? Tu vous présentes ici? Voilà, un bon studio Béthé, regardez. Voilà, regardez. Très bon studio Béthé. Oui, voilà, il vous a dit que le studio Béthé a toujours un petit salon. Regardez, voici le studio Béthé qui est là. 110 000 loyers. Oui, là, voilà. Le studio a deux entrées. 110 000 oreilles de chaussée. Yopougon, Tesako, bien placé, assez très facile. Voici la cuisine qui est ici. Oui, la cuisine là. Voilà. Il y a l'eau, l'eau est là. Voici la cuisine. Vous voyez, il y a les travaux à faire. 110 000 loyers, le studio Béthé. Yopougon, Tesako, c'est pas loin du quatre coups. Voilà, regardez. Voici la douche. Ils n'ont pas serre à ta chambre, c'est Diopéthé, qu'elle a des travaux à faire. Là, c'est la chambre qui est ici. Vous voyez là? Voici la chambre. Alain Zegui, toujours votre Mabuse Viteuve, bonus sur le salon. Alain Zegui, toujours votre Mabuse Viteuve, merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710731092570983700.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Texaco",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 110000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau courante",
+   "salon"
+  ],
+  "resume": "Studio à louer au rez-de-chaussée à Texaco (Yopougon) à 110 000 F par mois, deux entrées, travaux à prévoir selon l'audio ; frais de visite 5 000 F ; contact Alain Zegbehi.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

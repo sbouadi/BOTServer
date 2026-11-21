@@ -1,0 +1,38 @@
+{
+ "id": "tt_7710726232505158930",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7710726232505158930",
+ "url": "https://www.tiktok.com/@brunesleger/video/7710726232505158930",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261121",
+ "duration": 59,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] une sublime appartement de type 2 pièces à yopougon Maroc tiken jah au 1 er étage très propre. 👉 loyer 120 milles  👉 2 salles d’eau  👉 1 petit balcon  👉 staffé aéré  Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #deblocagedevuetiktok #viralvideoviraltiktok🥰🤭 ",
+ "transcript": "Je pose ma caméra ! Salut chez tous ! Je me laisse mobiler toujours. Toujours au moyen comme moi. Allez bref, pépé, j'ai mobilé. Comme vous le voyez, je suis au sein d'une heure, deux pièces. Voilà, vous voyez. Voilà, là c'est la douche de visiteur. Très propre. Voilà, bien staffé. Absolument rien à dire. Mais en full option, vous voyez. Voilà. Le studio est... La deux pièces est très grande. Bien propre, vous voyez. Voilà, la chambre. La chambre est bien grande. Voilà, avec un petit balcon. Ici, vous voyez. Très propre. Voilà. Voilà. Lacar. Et là, c'est la douche de la chambre. Tiens là. Voilà. N'oubliez pas de vous abonner à ma page. Brunesseur immobilier.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710726232505158930.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc tiken jah",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "petit balcon",
+   "staff",
+   "full option"
+  ],
+  "resume": "Appartement 2 pièces très propre au 1er étage à Yopougon Maroc tiken jah, loyer 120 000 F, 2 salles d'eau, petit balcon, staff aéré, en full option ; visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}

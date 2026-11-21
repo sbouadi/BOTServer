@@ -1,0 +1,37 @@
+{
+ "id": "tt_7710688824208264466",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7710688824208264466",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7710688824208264466",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261121",
+ "duration": 79,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING SONGON INSTITUT PASTEUR AU DU REZ-DE-CHAUSSÉE,1ERE,2IEME,3IEME ÉTAGES  LOYER: 160 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, salut, toujours réalisée. Je vous présente une trois pièces, 160 000 francs dans la commune de Sangon. Regardez, ça c'est la cuisine, hein. Une très grande cuisine. Regardez le salon. Quelle salon aussi? 160 000 francs dans la commune de Sangon. Vous voyez, c'est ça qu'on appelle la maison son garçon. Voilà, vous voyez. Du lieu de chaussée jusqu'au troisième étage. Regardez le balcon. Une très grande balcon. Regardez la maison son garçon. 160 000 francs non loin de la voie. Institut Pasteur. C'est bien placé, non loin de la voie. Bon, on peut dire même que c'est en bordeaux, même si vous voulez. Regardez ça, c'est la chambre des enfants. Ici, c'est côté placard. La maison est la staffée. Nouvelles concessions jamais à douter. Du lieu de chaussée jusqu'au troisième étage. Regardez ça, c'est la chambre principale. Et Suzanne est frais. Ça, c'est le bon travers. Là, vous voyez. Ça, c'est la douche de la chambre principale qu'elle a. Vous voyez ici, c'est côté placard. Regardez ça, c'est la chambre principale. 160 000 francs.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7710688824208264466.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Institut Pasteur",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "placard",
+   "douche",
+   "balcon"
+  ],
+  "resume": "Location d'un 3 pièces haut standing à Songon, quartier Institut Pasteur, situé du rez-de-chaussée au 3e étage, loyer de 160 000 F par mois, 5 mois à payer plus 100 000 F de frais d'agence, avec cuisine, salon, chambres dont une principale avec douche, placards et grand balcon.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-21",
+ "origine": "découverte"
+}
