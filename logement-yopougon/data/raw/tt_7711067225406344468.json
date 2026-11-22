@@ -1,0 +1,36 @@
+{
+ "id": "tt_7711067225406344468",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7711067225406344468",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7711067225406344468",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261122",
+ "duration": 60,
+ "description": "NOUVELLE CONSTRUCTION LOCATION   📍YOPOUGON CITER ABOUALAYE DIALLO  ✅DES MAGNIFIQUE APPARTEMENT DE 4 PIÈCE HAUT STANDING DISPONIBLE STAFFER NOUVELLE CONSTRUCTION DU 1ERE  AU 3EME ÉTAGE À YOPOUGON ABOUALAYE DIALLO  DU 1ERE AU 3EME  ÉTAGE  04 SALLES DEAU❤️ 03 BLACON  CHAUFFE EAUX  PARKING 🅿️  ACCES FACILE A PROXIMITÉ DE LA VOIE ✅LOYER: 350.000 FR  ✅CONDITIONS: 5 MOIS+150 mille CONTACTS: 0720363576",
+ "transcript": "On fait sans style pas Zoro Moro Y'a pas gêne, on s'en pousse c'est poro poro C'est la baie, du 7 c'est pas du fuit coro C'est bien donné ho ta vie c'est en poro J'ai zigaté et post comme un toro Nouveau band, nouveau flora, compute et terreau Nouvelle voeux, nouvelle chaîne et puis du Bapero C'est un père et puis il dit il est 0 Moi il triche pas dans l'intero il est frais Putain c'est pour faire boire des rôles Y'aura ça chier si bien bandéo Tu penses qu'il y'allait fini derrière les barreaux Y'a deux foudrements pour les poro poro Chez nous c'est en vrai, c'est j'en fais zéro Si je mets deux coups après c'est moi et Zoro J'ai jus des jambes piqué et rap en Zoro Il est gigaté, il dit c'est apolo Il se joue la chair mais t'es négécollo En plus t'as l'estime, c'est poro poro Y'a des mougues, tu dirais que c'est pas rancalin M'as gory trap, car t'as des galis Moi ici M, il fait pas malin Tu m'as briqué et même pour rancalie Je m'acquéris pas comme Balotelli Il fait pas rumba, tu m'as vu en Fali Et si les gens t'es comme tout pas cacali J'ai un pro de toutes les catégories Et d'autres j'irai en fait, je m'en souris C'est la baie, c'est comme Gina Mori M.C.O.C.A.C.A.C.A.C.A.C.A.C.A.C.A.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711067225406344468.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Citer Aboulaye Diallo",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 150000,
+  "frais_visite": null,
+  "equipements": [
+   "chauffe-eaux",
+   "parking"
+  ],
+  "resume": "Location d'un appartement 4 pièces haut standing, nouvelle construction, du 1er au 3e étage à Yopougon Abouaylé Diallo (Citer), 4 salles d'eau, 3 balcons, chauffe-eaux, parking, accès facile près de la voie. Loyer 350 000 F, conditions 5 mois + 150 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-22",
+ "origine": "découverte"
+}

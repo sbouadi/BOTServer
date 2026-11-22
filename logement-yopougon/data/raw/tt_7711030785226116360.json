@@ -1,0 +1,40 @@
+{
+ "id": "tt_7711030785226116360",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7711030785226116360",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7711030785226116360",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261122",
+ "duration": 95,
+ "description": "ESPACE À CÉDÉ AU NIVEAU DE SONGON DIAPOTÉ AVANT LA NOUVELLE MAIRIE  LOYER 200 k NÉGOCIABLE  INTERRESSE APPEL  0787407535 #espace #immobilierabidjan #magasin #restaurant #sonson ",
+ "transcript": "Waaaaaah ! Comme vous le voyez, c'est matin à Bi-dian-ce le soir. Bichon immobilier, Monsieur le détecteur des chaux-lits maisons sans esprit. Voilà, je suis au niveau de Songwon dans un grand espace. Waw, waw, waw, waw, waw, waw. C'est un espace de 750 mètres carrés. Kaya ! Waw, un chaux-lits pleiné. Tu veux faire un événement ? Tu veux... Tu as besoin d'un local pour la restauration ? Voici ça, le loyer, il n'est pas cher. Il a 200 cas. Et les 200 cas sont négociables. Concernant les conditions faites, les inventaires et le propriétaire. Et vous entendez, il n'est pas compliqué, c'était un monsieur très bien. Songwon, Chiapote, très bien placé. Voilà, intéressé, appelle rapidement, ça ne dit pas. Voilà, comme vous pouvez voir, c'était un espace. Regarde, acédé. Tout ça, c'est en session. Tout ça, c'est en session. Le plein est déjà clôturé. Voilà, c'est bien. Un joli coin à Songwon en session. Regardez, il y a des doctoires. Il y a des comptoirs. Il y a des toilettes. Il y a des tout. Voilà. Vous venez juste pour les conditions. Vous allez vous entendre le propriétaire. Mais pour l'instant, le loyer mensuel, il est à 200 cas. Il y a déjà une cuisine. Il y a déjà mes coins pour garder les voitures devant. C'est très bon. Le couloir, il est très très très bon. Interessez-vous appeler rapidement, parce que ça ne va pas durer. Prévenu, premier service. N'oubliez pas de vous abonner, de mettre le coeur et de partager. Si ce, je vous aime les gars.",
+ "ocr": [
+  "sas 2"
+ ],
+ "thumb": "thumbs/tt_7711030785226116360.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Songon",
+  "quartier": "Diapoté, avant la nouvelle mairie",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "toilettes",
+   "comptoirs",
+   "coin parking"
+  ],
+  "resume": "Espace commercial de 750 m² à Songon Diapoté (près de la nouvelle mairie) à céder pour restauration ou événementiel, loyer mensuel de 200 000 F négociable, contact par téléphone 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-22",
+ "origine": "découverte"
+}

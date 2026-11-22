@@ -1,0 +1,45 @@
+{
+ "id": "tt_7711050990639729938",
+ "source_url": "https://www.tiktok.com/@larefimmobiliere3/video/7711050990639729938",
+ "url": "https://www.tiktok.com/@larefimmobiliere3/video/7711050990639729938",
+ "platform": "TikTok",
+ "uploader": "larefimmobiliere3",
+ "upload_date": "20261122",
+ "duration": 21,
+ "description": "📍 YOPOUGON secteur institut des Aveugles  2 pièces  -Une chambre autonome  - Grand Salon  -Cuisine moderne  -VC visiteur  - Balcon Condition 5 mois  Contact: 07-02-61-52-71 #pourtoi #fyp #immobilier #location #appartement ",
+ "transcript": ".org",
+ "ocr": [
+  "YOPO",
+  "2 PIÈCES EN",
+  "YOPOUGON",
+  "PIÈCES EN FINITION",
+  "07-02-52-5271",
+  "2 PIÈCES EN FINITION",
+  "2 PIÈCES EN FINIT"
+ ],
+ "thumb": "thumbs/tt_7711050990639729938.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Institut des Aveugles",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine moderne",
+   "WC visiteur",
+   "balcon"
+  ],
+  "resume": "Location d'un 2 pièces à Yopougon (secteur Institut des Aveugles) comprenant une chambre autonome, un grand salon, une cuisine moderne, WC visiteur et balcon; logement en finition; condition de 5 mois à payer; contact indiqué dans la légende (07-02-61-52-71). Loyer non précisé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-22",
+ "origine": "découverte"
+}

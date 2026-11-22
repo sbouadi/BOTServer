@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711087257213717781",
+ "source_url": "https://www.tiktok.com/@annilove225/video/7711087257213717781",
+ "url": "https://www.tiktok.com/@annilove225/video/7711087257213717781",
+ "platform": "TikTok",
+ "uploader": "annilove225",
+ "upload_date": "20261122",
+ "duration": 45,
+ "description": "Cave à cédé Yopougon maroc pharmacie félicité disponible bien placé  Prix de cession: 2.000.000f  Loyer: 40.000f  Contact: 0767314212 #cave #yopougon🇨🇮 #maqui #evenement #paiya ",
+ "transcript": "Il y a encore l'opportunité, toujours le détecteur des pépites immobilières ou du jet détecteur de cette petite cave-là pour vous. Voilà, c'est une cave à céder sur le niveau de Youpougou, Maroc. Normalement, il y a la pharmacie félicité. Le loyer-motion est à carrer mes français faibles par moi. On céde ça à deux plaques à débattre. Deux plaques à débattre. C'est très bien situé là, rien à dire. Voilà. Avant d'arriver à la pharmacie félicité, il y a une cave où vous vous rendez juste à votre droite. Voilà. Avant d'aller au pourri pourri, c'est pour ce que vous connaissez, pour les initiers et pour les abonnés. Voilà. C'est bien placé. Il n'y a absolument rien à dire. Tout à fait d'intéresser. Appelle le numéro rapide dans mon description. Ça va pas durer. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711087257213717781.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 40000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Cession d'une cave (débit de boissons) à Yopougon Maroc, près de la pharmacie Félicité, bien située. Prix de cession 2 000 000 F à débattre, loyer 40 000 F. Contact par téléphone indiqué dans la description.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-22",
+ "origine": "découverte"
+}
