@@ -1,0 +1,45 @@
+{
+ "id": "tt_7711338626595998982",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7711338626595998982",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7711338626595998982",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261123",
+ "duration": 96,
+ "description": "DUPLEX DE 6 PIÈCES AVEC GARAGE EN LOCATION AU NIVEAU DE SONGON NOUVELLE MAIRIE BIEN SITUÉ DANS LE SECTEUR PRÊTE HABITÉ  LOYER 350 k POUR BUREAU 400 k  INTERRESSE APPEL  CONTACT 0787407535 #sonson #maison #villa #duplex ",
+ "transcript": "Oui, oui, oui. Si ce n'est pas un matin, ça serait le soir. À tout le coup, tu seras ta maison. Bichop immobilier, monsieur le détecteur de Choli Maison sans l'esprit. Je suis au niveau de Sangon, nouvelle mairie, dans une duplesse. Duplesse R plus 1 de 6 pièces avec garage. Et depuis ça, c'est la firasse. Avec garage, je précise, avec garage. Duplesse de 6 pièces, 6 pièces, 6 pièces, 5 chambres salons. Il n'y a rien, m'a dit. La maison n'est plus le bonheur, regardez bien. Voilà, tout ça, c'est le salon. C'est une belle maison, waouh, waouh, waouh. Regardez la cuisine. Moi, ici, l'ampoule est gâtée, mais regarde, c'est une très grande cuisine qui a deux entrées. La cuisine aussi, elle est plapadée, elle est bien, plapadée. Très bien. Voilà, ici, c'est une douche aux visiteurs. Voilà, ça, c'est pour les visiteurs. Il y a une autre entrée pour la porte ici. Ici, une autre douche à bord, ça, c'est pour la chambre d'ici. Voilà, c'est pour la chambre d'ici. Voilà, c'est la chambre qui est là. Il y a une plapade. Voilà, voilà, voilà. On va derrière, il y a un garage. On voit le garage avant. Ici, c'est le garage. Voilà, vous pouvez sortir par là. Voilà, regardez, je vais sortir. Vous allez voir, il n'y a plus pas mal à m'amener là-bas. Regardez. Regardez, vous mêlez là-bas. Voilà, il n'y a absolument rien à dire. Rien à dire.",
+ "ocr": [
+  "… HropIChict!!",
+  "Trop chic!!!",
+  "Trop chic !!",
+  "Trop chic!",
+  "Trop.chic !!",
+  "1107",
+  "Mroplchic:!!",
+  "Mroplchic’!!",
+  "Tropchic \"! |"
+ ],
+ "thumb": "thumbs/tt_7711338626595998982.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Nouvelle Mairie",
+  "type": "duplex",
+  "pieces": 6,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "garage"
+  ],
+  "resume": "Duplex R+1 de 6 pièces avec garage en location au niveau de Songon Nouvelle Mairie, prêt et habité. Loyer 350 000 F, ou 400 000 F pour un usage de bureau. Contact 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

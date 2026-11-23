@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711412121086479637",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7711412121086479637",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7711412121086479637",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261123",
+ "duration": 41,
+ "description": "Magnifique et beau grand studio américain 60mil disponible ✅🔑🏠🥰 60mil x6moi plus 40mil démarcheur  Détail: 3mois caution                 2mois avance           1mois agence plus 40mil  Yopougon Academie carrefour Chambéry bien placé au 2eme étages  Visite 5mil Contact: 0711392732  #studio #2piece #visibilité #abidjanlifestyle🇨🇮 #yopougon🇨🇮🎶 @diby041immobilier ",
+ "transcript": "Il est très bon, il m'a oublié beaucoup d'un très bon studio de 60.000 fans, c'est au deuxième étage très bon studio américain, c'est un petit salon que je vois dans la vidéo, on a coupé du courant en visite, là c'est la cuisine.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711412121086479637.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie, carrefour Chambéry",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 180000,
+  "avance": 120000,
+  "agence": 60000,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio américain au 2e étage à Yopougon Académie, carrefour Chambéry, loyer 60 000 F, 3 mois de caution, 2 mois d'avance, 1 mois d'agence plus 40 000 F de démarcheur, visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

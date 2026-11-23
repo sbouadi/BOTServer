@@ -1,0 +1,36 @@
+{
+ "id": "tt_7711420586861284626",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7711420586861284626",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7711420586861284626",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261123",
+ "duration": 81,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON ANANERAIE AU 4IEME ÉTAGES EN BORDURE DE LA ROUTE LOYER: 200 000x6 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut! Salut, salut, salut, salut! Touuuut! Je vous touré Ali Je vous présente une troie pièce de 200,000 francs Je poursuis en arrière Ouais! Je poursuis en arrière, pétroïvois embordus de la voie Troie pièce de 200,000 francs Regardez le salon staffé balafré Bah là, c'est parce que la... C'est parce que la carte est finie j'sais non, le staff tout s'allume Vous voyez, non? Gaia Salon, 200 000 francs au 4ème étage. Vous voyez? Ah là, ça c'est la cuisine, très grande cuisine. Vous voyez? Avec son balcon, envoie de la voie, regardez le touroute. Vous voyez? 200 000 francs. Ça ne marche pas, hein? Ah là, 3 pièces à nanéraire, 200 000 francs au 4ème étage. Vous voyez? Regardez la chambre. Ça c'est la chambre principale. Ah là, advenir la chambre principale. Placate aussi. Ah là, vous voyez? Ah là. Ça c'est la douche visiteur. Ça c'est la chambre visiteur aussi. Ah là, il y a des travaux à faire. 200 000 francs bien placés.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711420586861284626.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Anane",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [
+   "balcon",
+   "cuisine"
+  ],
+  "resume": "Appartement 3 pièces au 4ème étage en bordure de route à Yopougon Anane, loyer 200 000 F x6 mois plus 100 000 F de frais d'agence, avec salon, cuisine, chambre principale et chambre visiteur avec douche; quelques travaux à prévoir.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

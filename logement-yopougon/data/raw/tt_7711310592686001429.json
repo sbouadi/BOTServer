@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711310592686001429",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7711310592686001429",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7711310592686001429",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261123",
+ "duration": 292,
+ "description": "Mise en location d'une maison basse de 4 pièces à 180.000f avec  terrasse avant. Lieu: Yopougon petit toit rouge dans un bon cadre. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711310592686001429.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Petit Toit Rouge",
+  "type": null,
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une maison basse de 4 pièces à 180 000 F avec terrasse avant, à Yopougon Petit Toit Rouge. Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

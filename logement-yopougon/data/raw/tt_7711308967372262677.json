@@ -1,0 +1,39 @@
+{
+ "id": "tt_7711308967372262677",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7711308967372262677",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7711308967372262677",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261123",
+ "duration": 221,
+ "description": "Mise en location d'une maison basse de 4 pièces avec cour avant et arrière à 200.000f Nb: bail gendarmerie et bureau passent. Lieu: Yopougon selmer coopec dans la cité. Visite: 5000f Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "Alléluia, Alléluia, Alléluia, Alléluia, Alléluia I've seen all the hope inside of you, still I can understand how She's kept with faith in Christ, she's lived through the hardest days And cried through the darkest nights, still looks up to the sky With faith that will never die, yeah, yeah She said listen child, the world may take it all Holy God, yeah",
+ "ocr": [
+  "bn Les + |",
+  "ho bu dgur —"
+ ],
+ "thumb": "thumbs/tt_7711308967372262677.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Selmer Coopec",
+  "type": null,
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "cour avant",
+   "cour arrière"
+  ],
+  "resume": "Location d'une maison basse de 4 pièces avec cour avant et arrière à 200 000 F, à Yopougon Selmer Coopec dans la cité. Bail gendarmerie et bureau acceptés. Visite à 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

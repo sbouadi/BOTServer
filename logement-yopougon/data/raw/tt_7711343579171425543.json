@@ -1,0 +1,37 @@
+{
+ "id": "tt_7711343579171425543",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7711343579171425543",
+ "url": "https://www.tiktok.com/@brunesleger/video/7711343579171425543",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261123",
+ "duration": 61,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] une sublime 4 pièces à yopougon ananeraie coopec en bordure au 2 eme étage. 👉 loyer 160 milles  👉 2 salles d’eau  👉 1 balcon  👉 bureau comme habitation passe.  Visite 5 milles  Contact :0153273240//0777789059 #yopougon immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "Je pousse ma caméra, ça bouche à tous les nests mobiliers du jour. Toujours vous mourez encore moins avec les prétits mobiliers. Donc vous le voyez, je suis au sein d'une heure, 4 pièces en 164. Voilà, adieu de vous même. Magnifique salon, hein. Il y a celui-là qui vient de dire, vous voyez, là c'est la première chambre. Voilà, très propre. Voilà, vous voyez le salon. Voilà, là c'est la douche des risiques. Voilà. Là, c'est la chambre des enfants. Là, la chambre des enfants. Voilà. Et là, c'est la chambre principale. Alors, n'oubliez pas de vous laborer à ma page. Je vous laisse ça immobilier. Les compéters, c'est obligé.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711343579171425543.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie Coopec",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "1 balcon",
+   "bureau comme habitation"
+  ],
+  "resume": "Location d'un 4 pièces au 2e étage à Yopougon Ananeraie Coopec, loyer 160 000 F, 2 salles d'eau, 1 balcon, utilisable aussi en bureau ; visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

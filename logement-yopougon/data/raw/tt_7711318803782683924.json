@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711318803782683924",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7711318803782683924",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7711318803782683924",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261123",
+ "duration": 160,
+ "description": "Mise en location d'un appartement de 2 pièces à 120.000f au rez-de-chaussée. Lieu: Yopougon millionnaire résidentiel au colonel. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "C'est pour ça, c'est pour ça Oh, j'ai l'impression",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711318803782683924.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire résidentiel au Colonel",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au rez-de-chaussée à 120 000 F, quartier Millionnaire résidentiel au Colonel à Yopougon. Visite à 5000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

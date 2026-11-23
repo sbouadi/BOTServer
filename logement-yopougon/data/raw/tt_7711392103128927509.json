@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711392103128927509",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7711392103128927509",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7711392103128927509",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261123",
+ "duration": 57,
+ "description": "🏠🔥 3 PORTES DE 2 PIÈCES À LOUER ! 📍 Yopougon Niangon Sud – Centre Social 🏗️ Nouvelle construction ! 📅 Disponibles cette semaine ! 💰 Loyer : 70.000 F CFA/mois 👀 Visite : 5.000 F Contact:0711489393 🚨 CHAP CHAP ! Ça ne va pas durer ! 🏃‍♂️ Premier arrivé, premier servi !",
+ "transcript": "Ok, que Dieu nous bénisse, amen Jérusalem On a né à plaire au Chinois comme la vie de Carmen C'est eux qu'on veut sauver, c'est eux qui nous m'amènent Fils, faut pas regarder Disney, c'est des choses charmnelles Ah, Jérusalem, Jérusalem On en va pas pour m'attaquer, il faut venir toi-même La moisson a peu d'eau",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711392103128927509.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Sud – Centre Social",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 3 appartements de 2 pièces en nouvelle construction à Yopougon Niangon Sud (Centre Social), loyer 70 000 F CFA/mois, visite 5 000 F, disponibles cette semaine. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

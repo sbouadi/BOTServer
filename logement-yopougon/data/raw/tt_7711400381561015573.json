@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711400381561015573",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7711400381561015573",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7711400381561015573",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261123",
+ "duration": 90,
+ "description": "Alain zegbehi vous présente une 2 pièces 90 mille maison basse yopougon cité saint RITA visite 5000 mille infos 0767082208/0701744553",
+ "transcript": "Ok, salut, salut, allez, c'est bébé, je vous présente ici, voilà, une, deux pièces, bugé, ani, athèque, voilà les gars, bugé, ani, athèque, bugé, athie aussi, c'est pour vous, 90 000 maisons basse, maisons guérison, yo-pougon, oh les gars, bien placé, vous disiez, maisons basse, voilà ça, yo-pougon, yo-pougon, si t'es sentirita, regardez, 90 000, bugé, ani, athèque, la douche a deux entrées, par la chambre qui a l'assert, la douche, voilà, vous voyez, la douche a deux entrées, regardez, bien placé les gars, allez-y, bébé, toujours votre aimer, la douche a deux entrées, voici la boue, la bianderie ici, par la, par la ria, tu peux aussi avoir assez à la douche, d'ailleurs, si tu passes au salon, vous voyez là, voilà, regardez bien, voici la chambre qui est là, proposez-le, posez question, maisons basse, maisons guérison, vous avez les problèmes de d'eau, pleins de pieds, pleins de cotocou, bonus sur le salon, allez-y, bébé, toujours votre aimer à sa vitesse, merci, donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711400381561015573.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Saint Rita",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'une 2 pièces (maison basse) à Yopougon, Cité Saint Rita, à 90 000 F par mois, frais de visite 5 000 F. Douche avec deux entrées, salon avec chambre; l'audio mentionne des problèmes d'eau et la présence de cafards. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}

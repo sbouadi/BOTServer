@@ -1,0 +1,37 @@
+{
+ "id": "tt_7711379991589686546",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7711379991589686546",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7711379991589686546",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261123",
+ "duration": 59,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES HAUT STANDING YOPOUGON CITÉ ABOULAYE DIALLO DU REZ-DE-CHAUSSÉE,1ERE,2IEME,3IEME ETAGE LOYER:170 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut salut salut toujours réel Je vous présente une deux pièces à Iopougon, à Bledialo Vous voyez, c'est une deux pièces, ici là, c'est côté Veranda La nouvelle construction jamais habité Vous voyez, regardez là, deux pièces, une très très grande maison Ça c'est le salon, deux pièces, 175 000 francs Regardez, ça c'est le salon Ici c'est la cuisine, nouvelle construction jamais habité Ils sont en train de faire les travaux, on peut visiter, baisser la portion Vous voyez, ça c'est la douche, visiteur Ça c'est la chambre Vous voyez, ça c'est la douche principale Ici c'est côté placard 175 000 francs dans la cité à Bledialo",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711379991589686546.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Aboulaye Diallo",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 170000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "veranda",
+   "placard",
+   "douche principale"
+  ],
+  "resume": "Location d'un 2 pièces haut standing neuf, jamais habité, à Yopougon cité Aboulaye Diallo (Bledialo), loyer 170 000 F x5 mois plus 100 000 F d'agence. Contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-23",
+ "origine": "découverte"
+}
