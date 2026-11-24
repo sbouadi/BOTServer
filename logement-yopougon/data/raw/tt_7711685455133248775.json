@@ -1,0 +1,37 @@
+{
+ "id": "tt_7711685455133248775",
+ "source_url": "https://www.tiktok.com/@gnali.olivier/video/7711685455133248775",
+ "url": "https://www.tiktok.com/@gnali.olivier/video/7711685455133248775",
+ "platform": "TikTok",
+ "uploader": "gnali.olivier",
+ "upload_date": "20261124",
+ "duration": 60,
+ "description": "Magnifique 2pièces staffé 95mil au 1er étage avec deux balcons prêt habiter yopougon bagnon boulangerie epic d'or  Condition : 6mois  Visite 5mil  1er arrivé 1er servi ! num: 0758399203",
+ "transcript": "",
+ "ocr": [],
+ "thumb": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 95000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "staffé",
+   "deux balcons",
+   "prêt à habiter"
+  ],
+  "resume": "Magnifique 2 pièces staffé au 1er étage avec deux balcons, prêt à habiter, à Bagnon (Yopougon, près de la boulangerie Epic d'Or). Loyer 95 000 F, condition 6 mois, visite 5 000 F. Premier arrivé, premier servi.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-24",
+ "origine": "découverte"
+}

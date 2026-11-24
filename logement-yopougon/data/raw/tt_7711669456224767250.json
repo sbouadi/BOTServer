@@ -1,0 +1,39 @@
+{
+ "id": "tt_7711669456224767250",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7711669456224767250",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7711669456224767250",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261124",
+ "duration": 60,
+ "description": "🏠 GRAND STUDIO À LOUER À LENDI au bord de la route  Vous recherchez un logement spacieux, sécurisé et accessible ? Découvrez ce grand studio situé à Lendi, au 2ᵉ niveau d'un immeuble dans une concession entièrement clôturée. Caractéristiques et commodités : Grand studio spacieux Situé au 2ᵉ niveau Concession avec barrière Parking disponible 🚗 Forage disponible 💧 Électricité prépayée Gardien pour la sécurité 💰 Loyer mensuel : 60k 📌 Conditions : Minimum 6 mois de loyer + 2 mois de caution. #gkimmobilier  #locationdouala  #studioalouer  #lendi  #immobiliercameroun ",
+ "transcript": "Not today, you don't take it, you can't you know say me, I know the lies This is what you say to me, you say you love, know the lies You say your feelings, know the lies, see me get a lot of cry Say you love, you say you love, know the lie, you don't take it, you don't take it Make you tell your friends who we didn't take it, you can't you know say me, I know the lies Go talk to someone who spent her life together, she like me pass on mother, she prefer me pass on father My brother still me, which got a life, he didn't know today And I saw you girl, I knew that you wanna play, I could see you",
+ "ocr": [],
+ "thumb": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": null,
+  "quartier": "Lendi",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 60000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking",
+   "forage",
+   "électricité prépayée",
+   "gardien",
+   "concession clôturée avec barrière"
+  ],
+  "resume": "Grand studio à louer à Lendi au 2e niveau d'un immeuble dans une concession clôturée, loyer mensuel 60k, minimum 6 mois de loyer et 2 mois de caution. Audio sans rapport (musique).",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-24",
+ "origine": "découverte"
+}

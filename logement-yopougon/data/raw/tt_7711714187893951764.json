@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711714187893951764",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7711714187893951764",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7711714187893951764",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261124",
+ "duration": 61,
+ "description": "🏠 4 STUDIOS NEUFS À LOUER – YOPOUGON MILLIONNAIRE ✨ Nouvelle construction, jamais habitée ! 📍 Localisation : Yopougon Millionnaire, à 200 mètres de l'église catholique. 🏢 Situés au 2ᵉ étage 🚪 Disponibilité : 4 studios 💰 Loyer mensuel : 100 000 F CFA 👔 Profil recherché : Personnes salariées (travailleurs). 🚶 Frais de visite : 5 000 F CFA 🌟 Cadre neuf et agréable. Soyez les premiers occupants  Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": null,
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 4 studios neufs jamais habités au 2e étage à Yopougon Millionnaire, à 200 m de l'église catholique, loyer mensuel 100 000 F, frais de visite 5 000 F, réservés aux salariés.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-24",
+ "origine": "découverte"
+}
