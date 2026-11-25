@@ -1,0 +1,40 @@
+{
+ "id": "tt_7711707797951614214",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711707797951614214",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711707797951614214",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 93,
+ "description": "🏠 YOPOUGON NIANGON À DROITE 🇨🇮 🔥 3 PIÈCES DISPONIBLES 📍 Lokoa Extension, près de l'école Kouamé N'Dri 🏢 Nouvelle construction – 2e étage 💰 Loyer : 150.000 F 📌 Conditions : 5 mois + 80.000 F 💧 Eau : 50.000 F 👀 Visite : 5.000 F 🏃‍♂️ CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! 📲 WhatsApp ou appel : 0767644618 #Location #Yopougon #Niangon #Immobilier #Abidjan",
+ "transcript": "Lord Sky Adachi ta gwanu Mouni saram bada Some shiny clothes up Anyhow we like Mickey be a goodie",
+ "ocr": [
+  "110 nu",
+  "NAT AUI",
+  "(Ile",
+  "«sers"
+ ],
+ "thumb": "thumbs/tt_7711707797951614214.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 80000,
+  "frais_visite": 5000,
+  "equipements": [
+   "eau 50000 F"
+  ],
+  "resume": "Location 3 pièces en nouvelle construction au 2e étage à Niangon Lokoa Extension, près de l'école Kouamé N'Dri, loyer 150 000 F, 5 mois à payer + 80 000 F de frais, eau 50 000 F, visite 5 000 F. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

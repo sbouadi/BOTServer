@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712088196883991829",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712088196883991829",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712088196883991829",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261125",
+ "duration": 109,
+ "description": "🏠 À LOUER – YOPOUGON NIANGON À DROITE 🇨🇮 🔥 BEL APPARTEMENT DE 3 PIÈCES DISPONIBLE ! 📍 Localisation : Lokoa, au niveau du Glacier 🏢 Situé au 2ᵉ étage. 💰 Loyer mensuel : 130.000 F CFA 📌 Conditions : 6 mois + 60.000 F 👀 Visite : 5.000 F CFA 🔥 CHAP CHAP ! Ça ne dure pas longtemps. Premier arrivé, premier servi ! 📞 WhatsApp ou appel : 0767644618 #Yopougon #Niangon #Lokoa #LocationAbidjan #ImmobilierCI ",
+ "transcript": "Rest of my voice and sing it Like the dandelion For a beauty queen Cause your black is beautiful Beautiful I'm my own Baby your black is beautiful Beauty And your black is beautiful And your black is natural Mamamoo She is black, she is proud And she knows it She is cool and everybody likes it She is bold and she's",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712088196883991829.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 130000,
+  "caution": null,
+  "avance": 60000,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un bel appartement de 3 pièces au 2e étage à Lokoa, au niveau du Glacier (Yopougon Niangon), loyer 130 000 F/mois, conditions 6 mois + 60 000 F, frais de visite 5 000 F, contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "tt_7712041493178944788",
+ "source_url": "https://www.tiktok.com/@adorateuremmnuel/video/7712041493178944788",
+ "url": "https://www.tiktok.com/@adorateuremmnuel/video/7712041493178944788",
+ "platform": "TikTok",
+ "uploader": "adorateuremmnuel",
+ "upload_date": "20261125",
+ "duration": 38,
+ "description": "#anniversary 0103831435",
+ "transcript": "Si on a immobilier, votre maison est plus proche de vous.",
+ "ocr": [
+  "IMMOBILIER",
+  "m SAT",
+  "Un terrain de 568 M2",
+  "Document ACD individuel",
+  "tix 80 millions a deb légèremer",
+  "Yopougon ananeraie derrière la station",
+  "petroci",
+  "Prix 80 millions a deb légèrement",
+  "Ta première publication !",
+  "SINANIMMOBILIERNOUS",
+  "PRÉSENMEO706134282",
+  "._ —Unterrain de 568 M2",
+  "Disponis ?® F",
+  "Entcommentaire",
+  "E RSS",
+  "@SINAÏ IMMOBILIÉ 1 fà"
+ ],
+ "thumb": "thumbs/tt_7712041493178944788.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie derrière la station Petroci",
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "document ACD individuel"
+  ],
+  "resume": "Vente d'un terrain de 568 m² à Yopougon, Ananeraie derrière la station Petroci, avec document ACD individuel, au prix d'environ 80 millions F, annoncé par Sinaï Immobilier.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

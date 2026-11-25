@@ -1,0 +1,37 @@
+{
+ "id": "tt_7711778602425109761",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7711778602425109761",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7711778602425109761",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261124",
+ "duration": 43,
+ "description": "Alain zegbehi vous présente un studio bete 80 mille maison basse yopougon naingon super Sonia visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut, salut, c'est Alain Zégré, MFGT, tu veux me présenter ici? Voilà. Un studio de 80 000 soudage, oui. Voilà, oui. Studio Bt, 80 000, Yopougon, oui. Yopougon Super Sonya, regardez. Oui, Yopougon Super Sonya, 80 000, ici Dieu. Voici la douche. Voilà, 80 000, Yopougon Super Sonya. Ok, bonne oscillation. Alain Zégré, toujours votre MFGT, merci de votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711778602425109761.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Naingon",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douche",
+   "WC",
+   "placard"
+  ],
+  "resume": "Studio à louer à Yopougon Naingon (Super Sonia) pour 80 000 F, frais de visite 5 000 F, avec douche et WC intégrés et placard.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

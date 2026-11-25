@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711525869990235444",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711525869990235444",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711525869990235444",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 88,
+ "description": "🏠 2 PIÈCES À LOUER 🔥 📍 Bingerville Cité Doha, proche de la Y4. 🏢 Rez-de-chaussée 💰 Loyer : 85.000 F 📌  visite :5.000 F 📲 WhatsApp ou appel : 0767644618 🔥 CHAP CHAP ! Premier arrivé, premier servi. #Bingerville #Location #ImmobilierCI #Appartement #Abidjan ",
+ "transcript": "Yeah Something is killing me slowly And I'm feeling so lonely Now I'm looking up to God Yeah, yeah Bet my tight, I bet my deals See distractions everywhere Now I'm feeling emotions I get different to so many things That I really want confusion in a brotherhood Baba bless my family Bless my enemies Bless everybody Together we'll be smiling That's what me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go day to day beside me Me tell them say Jesus, Baba, Jesus, Baba You promise I'll never be lonely You go day to day beside me",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711525869990235444.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bingerville",
+  "quartier": "Cité Doha",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au rez-de-chaussée à Bingerville, Cité Doha, proche de la Y4, loyer 85 000 F, frais de visite 5 000 F, contact WhatsApp ou appel au 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

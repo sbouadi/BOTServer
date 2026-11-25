@@ -1,0 +1,41 @@
+{
+ "id": "tt_7711706529325419783",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7711706529325419783",
+ "url": "https://www.tiktok.com/@brunesleger/video/7711706529325419783",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261124",
+ "duration": 81,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap}     [[ À louer]] une sublime 3 pièces à yopougon Bagnon antenne au 4 eme étage très belle maison.prêt à être habitée. 👉 loyer 150 milles  👉 2 salles d’eau  👉 1 grand balcon  👉 staffé aéré avec des carreaux vitrifié avec des sports lumineux. Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #viralvideoviraltiktok ",
+ "transcript": "Je pose ma caméra sans loucher tous, je n'ai ce mobilier toujours. Toujours moi et en commande à la vraie pépétie, mon idéal. Comme vous le voyez, les cheveux sont venus trois pièces en rostonding d'admirez-vous même le salon. Magnifique salon, absolument, je n'en ai dit. Vous voyez, mais sans foutre la chiant, admirez-vous même la cuisine. Les clés de la cuisine, magnifique cuisine, voilà. Mais on fout l'option. Voilà, vous voyez, la chiant est la douche de la chambre principale. Voilà, vous voyez, la chambre principale est bien propre, bien vaste. Voilà, bien élevé. Voilà, vous voyez, la porte, la touche de la chambre principale. Voilà, vous voyez, la chambre principale, non. On n'évitait pas, mais non, vous voyez, c'est une douche, non. Il y a deux bouches, voilà. Vous voyez, là, c'est la douche de la cuisine très propre. Voilà, là, c'est la chambre des enfants. Voilà, je viens d'aérer bien spacieux. Les téléphones qui brûlent, voilà. N'oubliez pas de vous abonner, les gars, nous sommes là.",
+ "ocr": [
+  "ARR Es"
+ ],
+ "thumb": "thumbs/tt_7711706529325419783.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon antenne",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 salles d'eau",
+   "1 grand balcon",
+   "staff",
+   "carrelage vitrifié",
+   "sport lumineux"
+  ],
+  "resume": "Location d'un 3 pièces au 4e étage à Yopougon Bagnon antenne, prêt à habiter, avec 2 salles d'eau et un grand balcon, loyer 150 000 F, frais de visite 5 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

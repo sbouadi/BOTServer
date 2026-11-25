@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711755248515435797",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711755248515435797",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711755248515435797",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 33,
+ "description": "🏠 YOPOUGON CARREFOUR POLICIER  02 PIÈCES AU 4ᵉ ÉTAGE 💰 LOYER : 120.000 F 📌 CONDITIONS : 6 MOIS + 80.000 F 📅 VISITE POSSIBLE DEMAIN ! 📞 WhatsApp : 0767644618 🏃 CHAP CHAP, ÇA NE DURE PAS ! #Yopougon #ImmobilierCI #Location #Appartement #Abidjan",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711755248515435797.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Carrefour Policier",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 80000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au 4ᵉ étage à Yopougon Carrefour Policier, loyer 120 000 F, conditions 6 mois + 80 000 F, visite possible demain, contact WhatsApp.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

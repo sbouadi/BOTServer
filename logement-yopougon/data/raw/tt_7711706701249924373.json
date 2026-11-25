@@ -1,0 +1,36 @@
+{
+ "id": "tt_7711706701249924373",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711706701249924373",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711706701249924373",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 95,
+ "description": "🏠 À LOUER – YOPOUGON NIANGON À DROITE 🇨🇮 📍 Lokoa Extension, près de l'école Kouamé N'Dri. 🔥 1 APPARTEMENT DE 2 PIÈCES DISPONIBLE ! 💰 Loyer : 100.000 F CFA 📌 Conditions : 5 mois + 60.000 F 💧 Caution eau : 40.000 F 📄 Dossier : 5.000 F 👀 Visite : 5.000 F 🏃‍♂️ CHAP CHAP ! PREMIER ARRIVÉ, PREMIER SERVI ! 📲 WhatsApp ou appel : 0767644618 #Location #Yopougon #Niangon #Immobilier #Abidjan",
+ "transcript": "",
+ "ocr": [
+  "ñ D ÇRTE 1e |",
+  "” 15 tamis ["
+ ],
+ "thumb": "thumbs/tt_7711706701249924373.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": 40000,
+  "avance": null,
+  "agence": 60000,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces à Lokoa Extension, Niangon (Yopougon), près de l'école Kouamé N'Dri. Loyer 100 000 F, 5 mois à payer + 60 000 F, caution eau 40 000 F, dossier 5 000 F, visite 5 000 F. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

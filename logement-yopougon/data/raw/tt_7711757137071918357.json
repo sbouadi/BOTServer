@@ -1,0 +1,36 @@
+{
+ "id": "tt_7711757137071918357",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711757137071918357",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711757137071918357",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 51,
+ "description": "🚨 À LOUER – AZITO 🇨🇮 ⛪ ESPACE IDÉAL POUR ÉGLISE ✅ Avec bureaux ✅ Toilettes disponibles 💰 Loyer : 150.000 F 📌 Conditions : 5 mois + 100.000 F 📍 Visite : 5.000 F 📞 WhatsApp ou appel : 0767644618 #Azito #Eglise #LocationAbidjan #ImmobilierCI #Yopougon",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711757137071918357.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "bureaux",
+   "toilettes"
+  ],
+  "resume": "Location d'un espace à Azito (Yopougon) idéal pour église, avec bureaux et toilettes disponibles. Loyer 150 000 F, 5 mois à payer + 100 000 F d'agence, visite 5 000 F. Contact WhatsApp/appel au 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

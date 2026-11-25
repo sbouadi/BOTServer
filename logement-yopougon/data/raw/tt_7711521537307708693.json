@@ -1,0 +1,38 @@
+{
+ "id": "tt_7711521537307708693",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711521537307708693",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711521537307708693",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 342,
+ "description": "🏡🔥 BINGERVILLE CITÉ DOHA – PROCHE Y4 ! 2 DUPLEX DISPONIBLES : ✅ 1 À LOUER : 650.000 F ✅ 1 À VENDRE : 130 MILLIONS À DÉBATTRE 3 chambres, 2 salons, 4 DWC, garage + préau. 📄 ACD individuel pour la vente. 📍 Visite sur RDV : 10.000 F 📲 WhatsApp ou appel : 0767644618 🔥 CHAP CHAP, belle opportunité ! #Bingerville #Duplex #ImmobilierCI #Location #Vente ",
+ "transcript": "S'il vous plaît, comme un diamant S'il vous plaît, comme un diamant Je me souviens, comme un diamant",
+ "ocr": [
+  "PR [tre NFFOU LPS"
+ ],
+ "thumb": "thumbs/tt_7711521537307708693.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bingerville",
+  "quartier": "Cité Doha",
+  "type": "duplex",
+  "pieces": null,
+  "loyer": 650000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [
+   "garage",
+   "préau"
+  ],
+  "resume": "Duplex à louer à Bingerville, Cité Doha, proche Y4, 650 000 F. Même annonce : un autre duplex à vendre à 130 millions à débattre (ACD individuel). 3 chambres, 2 salons, 4 DWC, garage et préau. Visite sur RDV à 10 000 F. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

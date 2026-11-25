@@ -1,0 +1,52 @@
+{
+ "id": "tt_7712179934046965013",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712179934046965013",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712179934046965013",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261125",
+ "duration": 60,
+ "description": "NOUVELLE CONSTRUCTION 🛑LOCATION 📍 YOPOUGON MILLIONNAIRE  ✅02 MAGNIFIQUE APPAREMMENT STUDIOS BON  STANDING AU REZ DE CHAUSSÉE DISPONIBLE STAFFER A YOPOUGON  MILlIONNAIRES NON LOINS DE ÉGLISE CATHOLIQUE ACCESSIBLE BIEN PLACÉ TRES  ACCESSIBLE BIEN PLACÉ LA ROUTE PRÊT HABITER  AU REZ DE CHAUSSÉE  SPOTE LUMINEUX SYSTÈME DE CHAUFFE EAUX  PARKING 🅿️  01 SALLES D'EAU ❤️  ACCÈS FACILE ✅LOYER: 100.000 FR ✅CONDITIONS: 5MOIS+60mille  CONTACT: 0720363576",
+ "transcript": "Et qu'on a tampoué ! C'est pas ça qu'est ça mangalou ! Hella maman de quoi ? Hella come on c'est toi ! Hella come on c'est bagan mon tédé ! Hella come on c'est cibliac tédé ! Hella come on c'est manipilac rach ! Hella come on c'est trac de la ou ! Hella come on c'est ! Hella come on c'est ! Et c'est que l'LCP ! LCP !",
+ "ocr": [
+  "Don nQ L. |",
+  "in mas dt ds Eu ,",
+  "| W | LES mn",
+  "- selles (dti Det le |",
+  "1 CATEATERECE",
+  "Boo 1:00",
+  "1 D vert",
+  "L'THT un",
+  "A w ] ll CLR ml 7) ' j",
+  "MEMIMET",
+  "MRrT",
+  "| el lol il",
+  "ANNE AR NUL in Un!",
+  "AAA TE RRN ALIM"
+ ],
+ "thumb": "thumbs/tt_7712179934046965013.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking",
+   "chauffe-eau",
+   "salle d'eau"
+  ],
+  "resume": "Location d'un studio de standing au rez-de-chaussée à Yopougon Millionnaire, près de l'église catholique, prêt à habiter, lumineux, avec parking. Loyer 100 000 F, conditions 5 mois plus 60 000 F.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

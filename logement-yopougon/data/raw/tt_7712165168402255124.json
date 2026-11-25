@@ -1,0 +1,37 @@
+{
+ "id": "tt_7712165168402255124",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712165168402255124",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712165168402255124",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261125",
+ "duration": 57,
+ "description": "NOUVELLE CONSTRUCTION 🛑LOCATION 📍 YOPOUGON INSTITUT DES AVEUGLES  ✅DES MAGNIFIQUE APPAREMMENT DE 2 PIÈCE  BON STANDING  AU REZ DE CHAUSSÉE DISPONIBLE STAFFER À YOPOUGON INSTITUT DES AVEUGLES SUR LA NOUVELLE VOIE    AU REZ DE CHAUSSÉE  01 SALLES D'EAU ❤️  COUR AVANT  ACCÈS FACILE ✅LOYER: 100.000 FR  ✅CONDITIONS: 6MOIS  CONTACT: 0720363576",
+ "transcript": "PAS D'ENFER MOI NUVRE LA SAUCE ET BONANÉ AUJOUDIS C'EST LA FETTE LA SAUCE ET BONANÉ AUJOUDIS C'EST LA FETTE",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712165168402255124.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Institut des Aveugles",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cour avant",
+   "rez-de-chaussée",
+   "1 salle d'eau"
+  ],
+  "resume": "Location d'un appartement 2 pièces de bon standing, nouvelle construction, au rez-de-chaussée à Yopougon Institut des Aveugles (nouvelle voie, Staffer). Loyer 100 000 F, conditions 6 mois. Cour avant, accès facile. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

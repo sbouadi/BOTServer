@@ -1,0 +1,37 @@
+{
+ "id": "tt_7712016234929261830",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712016234929261830",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712016234929261830",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261125",
+ "duration": 212,
+ "description": "🏠 À LOUER – YOPOUGON NIANGON À DROITE Plusieurs appartements de 3 pièces au 2e étage, nouvelle construction. 📍 Lokoa Extension, près de l'école Kouamé N'Dri. 📅 Disponibles le 5 décembre. 💰 Loyer : 150.000 F 📍 Visite : 5.000 F Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [
+  "Toit",
+  "LILAS RP T",
+  "| \\| | PMU"
+ ],
+ "thumb": "thumbs/tt_7712016234929261830.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'appartements de 3 pièces au 2e étage, nouvelle construction, à Lokoa Extension près de l'école Kouamé N'Dri à Yopougon Niangon. Disponibles le 5 décembre, loyer 150 000 F, frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

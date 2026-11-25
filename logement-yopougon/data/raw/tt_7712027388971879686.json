@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712027388971879686",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712027388971879686",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712027388971879686",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261125",
+ "duration": 30,
+ "description": "Mise en location d'un grand studio de 65.000f au 2ème étage. Lieu: Yopougon azito logement sociaux. Nb: départ le vendredi et remise des clés le lundi 30 novembre après les travaux. Visite:5000f possible maintenant. Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712027388971879686.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito logements sociaux",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 65000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un grand studio au 2ème étage à Azito logements sociaux (Yopougon) à 65 000 F, clés remises le lundi 30 novembre après travaux. Visite à 5 000 F possible immédiatement. Contact : 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

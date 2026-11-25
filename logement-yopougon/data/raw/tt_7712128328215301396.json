@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712128328215301396",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712128328215301396",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712128328215301396",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261125",
+ "duration": 46,
+ "description": "NOUVEL CONSTRUCTION 📍 YOPOUGON TOIT ROUGE  ✅ APPARTEMENT DE 2PIECES YOP TOIT ROUGE AU SEIN DE LA CITÉ CIE EN BORDURE BITUMÉE PR FIN DE CE MOIS AU REZ DE CHAUSSÉ 2 SALLE DEAU ACCÈS FACILE BITUMER ✅LOYER: 100.000 FR  ✅ CONDITION: 5MOIS+50mil CONTACTS: 0720363576",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712128328215301396.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Toit Rouge",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un appartement de 2 pièces au rez-de-chaussée, nouvelle construction, à Toit Rouge (Yopougon) au sein de la Cité CIE, en bordure bitumée, accès facile, 2 salles d'eau, disponible fin du mois. Loyer 100 000 F, condition 5 mois + 50 000 F d'agence.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

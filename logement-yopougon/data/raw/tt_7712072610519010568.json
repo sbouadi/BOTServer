@@ -1,0 +1,39 @@
+{
+ "id": "tt_7712072610519010568",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7712072610519010568",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7712072610519010568",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261125",
+ "duration": 63,
+ "description": "☎️:05.06.64.49.72 (what) STUDIO YOPOUGON CITÉ VERTE AU 3IEME ÉTAGES UN BÂTIMENT TRÈS SÉCURISÉ. 👉 CARTE D’ACCÈS. 👉 CLIMATISEUR DÉJÀ INSTALLÉ. 👉 CHAUFFE-EAU, DÉJÀ INSTALLÉ . 👉 SERVICE DE NETTOYAGE . 👉 VIGILE, 24 HEURES SUR 24 . ##location#mzison#visibilité",
+ "transcript": "Salut salut salut salut salut salut salut salut toujours tout réel et je vous présente un studio de 100 000 francs à cité verte vous voyez studio 100 000 francs un studio de 100 000 francs tout est bien installé climatisation chauffe haut à la vous voyez un studio de 100 000 francs dans un bâtiment bien sécurisé vous voyez ça c'est la bouche vous voyez ça c'est la bouche santé et de qualité voilà un studio de 100 000 francs s'il vous plaît raison de me blûner pas soir voilà, cité verte un bâtiment très sécurisé avec quatre d'accès vous voyez voilà voilà là c'est le bâtiment même qu'elle là vous voyez un studio de 100 000 francs cité verte au troisième étage",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712072610519010568.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Verte",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "climatisation",
+   "chauffe-eau",
+   "carte d'accès",
+   "service de nettoyage",
+   "vigile 24h/24"
+  ],
+  "resume": "Studio à louer à 100 000 F à Cité Verte (Yopougon), 3e étage d'un bâtiment très sécurisé avec carte d'accès, climatisation et chauffe-eau installés, service de nettoyage et vigile 24h/24.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

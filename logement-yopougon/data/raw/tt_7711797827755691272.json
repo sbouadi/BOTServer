@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711797827755691272",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7711797827755691272",
+ "url": "https://www.tiktok.com/@brunesleger/video/7711797827755691272",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261124",
+ "duration": 34,
+ "description": "Brunes immobilier toujours.    {{ 0153273240} whatsap} [[ À louer]] un sublime studio français au 2 eme étage à yopougon ananeraie LKM . 👉 loyer 70 milles   Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "je pose ma caméra seule chez tous les nœuds, c'est n'oublie toujours, toujours le bienvenu dans le prétendu et l'université donc on est au jouant et je suis au sein d'un studio très propre,",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711797827755691272.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Ananeraie LKM",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un studio à Yopougon Ananeraie LKM, 2e étage, loyer 70 000 F, frais de visite 5 000 F. Contacts indiqués dans la légende. Images montrant une pièce vide avec sol carrelé, une petite salle d'eau avec WC et un rangement.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

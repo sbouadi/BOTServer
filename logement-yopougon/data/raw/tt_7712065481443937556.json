@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712065481443937556",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712065481443937556",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712065481443937556",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261125",
+ "duration": 157,
+ "description": "Mise en location d'une 2 pièces à 80.000f maison basse. Lieu: Yopougon petit toit rouge ancienne pharmacie noya. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [
+  "7dn|",
+  "“trs"
+ ],
+ "thumb": "thumbs/tt_7712065481443937556.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Petit Toit Rouge",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'une 2 pièces en maison basse à 80 000 F à Yopougon, Petit Toit Rouge, ancienne pharmacie Noya. Frais de visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

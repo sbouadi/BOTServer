@@ -1,0 +1,39 @@
+{
+ "id": "tt_7711809049632804117",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711809049632804117",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711809049632804117",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 58,
+ "description": "🚨 **À LOUER – YOPOUGON 🇨🇮** 🏢 **APPARTEMENT DE 2 PIÈCES DISPONIBLE** 📍 Situé juste derrière la Cité SOPIM, avec une belle vue sur le Complexe. ✅ 2 pièces ✅ 2 douches et WC ✅ Situé au 4ᵉ étage ✅ Toute la dalle disponible ✅ Idéal pour bureau, habitation ou résidence 💰 **Loyer : 210.000 F** 📌 Conditions : 5 mois + 100.000 F 📍 Visite : 5.000 F 📅 Disponible pour visite sur rendez-vous. 📞 WhatsApp ou appel : 0767644618 #Yopougon #LocationAbidjan #Appartement #ImmobilierCI #CitéSOPIM",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711809049632804117.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "derrière la Cité SOPIM",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 210000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches et WC",
+   "4e étage",
+   "toute la dalle disponible",
+   "vue sur le Complexe",
+   "utilisable comme bureau ou habitation"
+  ],
+  "resume": "Location d'un appartement de 2 pièces au 4e étage à Yopougon, derrière la Cité SOPIM, à 210 000 F par mois, avec 5 mois à payer plus 100 000 F d'agence et 5 000 F de frais de visite, idéal pour bureau ou habitation.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

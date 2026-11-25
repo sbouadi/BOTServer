@@ -1,0 +1,38 @@
+{
+ "id": "tt_7711822451428085013",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711822451428085013",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7711822451428085013",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261124",
+ "duration": 67,
+ "description": "🏠 YOPOUGON NIANGON À DROITE 🇨🇮 📍 Lokoa Terminus 🔥 2 PIÈCES – 2 DOUCHES WC 🏢 1er étage – Nouvelle construction 💰 85.000 F 📌 6 mois + 40.000 F 👀 Visite : 5.000 F NB : En finition, disponible à la fin des travaux. 📞 WhatsApp : 0767644618 #Yopougon #Niangon #Lokoa #LocationAbidjan #ImmobilierCI",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711822451428085013.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches",
+   "WC",
+   "nouvelle construction",
+   "en finition"
+  ],
+  "resume": "Location 2 pièces neuve en finition, 1er étage, Niangon Lokoa Terminus, Yopougon : 85 000 F par mois, 6 mois à payer + 40 000 F de frais d'agence, visite 5 000 F, disponible à la fin des travaux. Contact WhatsApp 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

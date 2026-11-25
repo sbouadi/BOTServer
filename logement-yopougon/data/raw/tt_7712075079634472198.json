@@ -1,0 +1,37 @@
+{
+ "id": "tt_7712075079634472198",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7712075079634472198",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7712075079634472198",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261125",
+ "duration": 176,
+ "description": "Alain zegbehi vous présente un magasin à louer 1.500.000 mille yopougon Lubafrique visite 10000 mille infos 0767082208/0501744553",
+ "transcript": "ok salut salut c'est allez j'ai goutte et ma serviteur je vous présente ici voilà un très bon magasin bien placé regardez ça fait un entrepot t'es là vous voyez il y a les chambres en haut voilà il y a une trois pièces il y a une deux pièces en haut regardez regardez t'es là voilà regardez le baflique regardez tout ça c'est pour vous tout ça c'est pour vous ça déjume super marché c'est pour vous voilà regardez allez les obéis toujours votre mf serviteur vous voyez voilà voici une caisse qui est là ici c'est la caisse voilà vous voyez là c'est la caisse voilà regardez encore bordu bordurale magasin commercial voilà ça déjume entrepôt vous voyez voilà regardez super marché c'est pour vous allez les obéis toujours votre mf serviteur voilà voilà vous voyez c'est la deux pièces l'entrée de la deux pièces c'est là là c'est la chambre qui est ici vous voyez vous pouvez prendre le magasin et en bas en haut on est fait des salu je vois tu vois tu es pour faire de vous les gens là vous voyez là c'est quoi ça allez regardez le barbeau est là le poubeau du baflique bien placé à cette très facile c'est le loyer 1 million 5 vous voyez ici c'est la cuisine ici la cuisine ici c'est la cuisine regardez la cuisine oui la cuisine ici voilà ici à temps le moins c'était la douche mais donc modifié alors tout est là on peut ramener vous voyez je m'envoie maintenant de la 3 pièces voici la 3 pièces c'est là là c'était la cuisine aussi c'était modifié vous voyez voilà là sur le salon que vous voyez le salon là sur le salon voici ici le balcon voici le balcon ici voilà regardez vous voyez le poubeau du baflique toujours à la regarder là c'était la chambre ici vous voyez là c'était une chambre ici mais en modifié voilà il y a dit voilà ici encore vaisselle douche séparée pour les visiteurs ici vous voyez c'est voilà regardez bon le maison ici c'est beau c'est magasin mais dans le maison vous voyez magasin mais dans le maison tranquille entrepôt supermaché sa dégine c'est pour vous bonus sur le marasin à l'aise de veille toujours votre mbc viteur merci donnez votre vie à jésus",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712075079634472198.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 1500000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 10000,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "balcon"
+  ],
+  "resume": "Magasin à louer à Yopougon Lubafrique, 1 500 000 F de loyer, pouvant servir d'entrepôt ou de supermarché, avec à l'étage un logement de 2 pièces et un 3 pièces ; frais de visite 10 000 F ; contacts 0767082208 / 0501744553.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

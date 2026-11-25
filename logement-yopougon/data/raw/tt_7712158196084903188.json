@@ -1,0 +1,42 @@
+{
+ "id": "tt_7712158196084903188",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712158196084903188",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712158196084903188",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261125",
+ "duration": 73,
+ "description": "🏠 YOPOUGON MILLIONNAIRE – 4 STUDIOS NEUFS À LOUER 🔥 ✨ Nouvelle construction, jamais habitée ! 📍 Localisation : Yopougon Millionnaire, à 200 mètres de l’église catholique. 🏢 2ᵉ étage 🚪 4 studios disponibles 💰 Loyer : 100.000 F CFA/mois 📌 Conditions : 5 mois + 60.000 F 👔 Salariés exigés 👀 Visite : 5.000 F 🌟 Cadre neuf, propre et agréable. Soyez les premiers occupants ! 🔥 CHAP CHAP ! Premier arrivé, premier servi. 📞 WhatsApp ou appel : 0767644618 #Yopougon #Millionnaire #StudioÀLouer #LocationAbidjan #ImmobilierCI ",
+ "transcript": "Scalpouvet Primes paroles L'amour ça repart, parfois ça nous quitte J'assume tous mes pas, car seul Dieu nous guide Et quand on se parle, l'histoire est écrite Ne me remercie pas, t'inquiète on est quitte La rue m'a fait vivre, mais la rue m'a dégoûté L'école m'a fait lire, mais l'école m'a fait douter Maman m'a appris que la j'en ai pas une fois en soi Que vieiller est obligatoire mais grandir est un choix On m'a dit, ne te rate pas, y'a personne qui m'aide J'aime pas le rap, moi c'est le rap qu'il m'aime Il m'a rendu, on s'entupe tout ce que je lui donne Et parfois quand je ne chante plus, c'est là que je misole Et je n'ai pas d'idoles, à part le plus grand A part mon créateur, plus j'en parle, plus j'en tremble Il n'y a rien de me tente, à part quelques doutes que je promène On se ressemble, appelle-moi Yous, on se connaît On se connaît, on se connaît",
+ "ocr": [
+  "SaUnetatier EN",
+  "4 ii q' LIEUX",
+  "\\ MURS |",
+  "RUE 1",
+  "VRtines #",
+  "free",
+  "NEA QU RC NE",
+  "til | La gu a”"
+ ],
+ "thumb": "thumbs/tt_7712158196084903188.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 60000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 4 studios neufs jamais habités au 2ᵉ étage à Yopougon Millionnaire, à 200 m de l'église catholique. Loyer 100 000 F/mois, 5 mois à payer + 60 000 F d'agence, visite 5 000 F, salariés exigés. Contact WhatsApp ou appel au 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7712077012709625108",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712077012709625108",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712077012709625108",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261125",
+ "duration": 69,
+ "description": "Mise en location d'une 2 pièces à 85.000f maison basse avec 2 douches wc. Lieu: Yopougon petit toit rouge ancienne pharmacie noya. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": ".org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712077012709625108.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "petit toit rouge, ancienne pharmacie Noya",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 85000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches wc"
+  ],
+  "resume": "Mise en location d'une 2 pièces en maison basse à 85 000 F à Yopougon, petit toit rouge, ancienne pharmacie Noya, avec 2 douches WC. Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}

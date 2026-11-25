@@ -1,0 +1,36 @@
+{
+ "id": "tt_7711635763435294004",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7711635763435294004",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7711635763435294004",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261124",
+ "duration": 121,
+ "description": "#A LOUER 👉 YOPOUGON PALAIS  PLUSIEURS APPARTEMENT HAUT STANDING DE 2 PIÈCES NOUVELLE CONSTRUCTION AVEC 2 DOUCHE WC PROPRE  IMMEUBLE EN BORDURE  ( BUREAU.... RÉSIDENCE PASSE  LOYER 15O.OOO FCFA/MOIS ☎ 0788393888 📞 0575303446 WhatsApp",
+ "transcript": "Et s'adanger, le morceau est puissant, habite en piscence, piscence-y. Et ma pauvre prôde, récommande ton sang à l'étenelle, mais on lutte en confiance et il agira. Nidier drova la légendeur. Je m'en saille, deux carats, cinq corps. .org",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711635763435294004.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Palais",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 douches",
+   "WC"
+  ],
+  "resume": "Location à Yopougon Palais de plusieurs appartements haut standing de 2 pièces, nouvelle construction, immeuble en bordure, loyer 150 000 FCFA/mois. Contacts : 0788393888 et 0575303446.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-25",
+ "origine": "découverte"
+}
