@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712430561322667285",
+ "source_url": "https://www.tiktok.com/@alainzegbehi10/video/7712430561322667285",
+ "url": "https://www.tiktok.com/@alainzegbehi10/video/7712430561322667285",
+ "platform": "TikTok",
+ "uploader": "alainzegbehi10",
+ "upload_date": "20261126",
+ "duration": 53,
+ "description": "Alain zegbehi vous présente un marquis espace à loue 100 mille yopougon naingon adroit visite 5000 mille infos 0767082208/0501744553",
+ "transcript": "Ok, salut salut, c'est Alain Zébiwot, MF serviteur, tu vous présentes ici, Maki Aloui, voilà. Aiyo Pougon, Nyongon à droite, c'est l'occasion, c'est pas... Voilà, ouais, tout ça là c'est pour l'espace, tout ça là c'est pour vous. Oui, voilà. C'est Samifran, le loyer, Sami le loyer, oui. No Pougon à droite, Nyongon à droite. Ici c'est l'occasion, c'est l'occasion, l'occasion. Il n'y a pas pas de pod, c'est pas cd, c'est caution qui est ici. C'est Sami le loyer, Sami le loyer, Pougon Nyongon à droite. Pourquoi tu n'aimes pas, pourquoi tu me t'as regardé? Oui, regardé. Voilà, regardé. Bonne chance. Voilà, oui. Alain Zébiwot, MF serviteur, merci. Donnez votre vie à Jésus.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712430561322667285.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Nyongon",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un espace commercial (terrasse couverte avec tables et chaises) à Yopougon Nyongon, loyer 100 000 F, frais de visite 5000 F. Contacts indiqués dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

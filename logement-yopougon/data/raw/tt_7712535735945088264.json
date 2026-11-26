@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712535735945088264",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7712535735945088264",
+ "url": "https://www.tiktok.com/@brunesleger/video/7712535735945088264",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261126",
+ "duration": 50,
+ "description": "Brunes immobilier toujours. {{ 0153273240} whatsap} [[ À louer]] un sublime studio à yopougon académie fin goudron en bordure au 4 eme étage très belle appartement en bordure. 👉 loyer 90 milles  👉 2 balcon  👉 1 douche  Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 ##deblocagedevuetiktok",
+ "transcript": "Je pose ma caméra sans acheter trop ce bilet, c'est le bilet toujours, toujours moyen comme moi. Le vrai bilet immobilier, comme vous pouvez le voir, je suis au sein de le grand studio. J'aime le vous même, le balcon, très propre. Voilà, voilà le studio, c'est bien vaste. Nous sommes à Le Pugan, Académie Feigoudron, en Bordeaux, les voir. Voilà, vous venez, là, c'est la cuisine, non? Il s'est cuisiné, le studio qui est là, bien vaste. Voilà, ce moment-là, il a dit, il a dit, le studio est très, très, très, très grand. Voilà, tu veux joli maintenant? Abonne-tu à là, les gars. Avec Brunesse Mobile, c'est la quantité. Et dans la quantité, voilà, je vous aide. Vous voyez, tout se couloir, c'est à vous. Voilà Brunesse Mobile, toujours.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712535735945088264.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "balcon",
+   "douche"
+  ],
+  "resume": "Location d'un studio à Yopougon Académie, fin goudron en bordure, 4e étage, 2 balcons, 1 douche, loyer 90 000 F, visite 5 000 F. Contact WhatsApp 0153273240 / 0777789059.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

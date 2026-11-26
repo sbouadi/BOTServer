@@ -1,0 +1,41 @@
+{
+ "id": "tt_7712517634192919860",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712517634192919860",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712517634192919860",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261126",
+ "duration": 112,
+ "description": "🏠 STUDIO À LOUER – YOPOUGON NIANGON 🔥 📍 Localisation : Niangon, Lokoa, en face du lycée Simone Gbagbo. ✨ Bien placé ! 💰 Loyer : 50.000 F CFA 📌 Conditions : 5 mois + 30.000 F 🔥 CHAP CHAP ! Ça ne dure pas ! Premier arrivé, premier servi ! 📞 WhatsApp ou appel : 0767644618 #Yopougon #Niangon #Lokoa #SimoneGbagbo #StudioALouer  ",
+ "transcript": "",
+ "ocr": [
+  "(PET",
+  "A») (747)",
+  "NN Fat",
+  "TE UTR",
+  "Lirthé",
+  "0 6 QU 5 & 507",
+  "à ane 0 eo"
+ ],
+ "thumb": "thumbs/tt_7712517634192919860.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon Lokoa",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 30000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer à Niangon Lokoa, en face du lycée Simone Gbagbo, loyer 50 000 F CFA, 5 mois à payer plus 30 000 F CFA de frais, contact WhatsApp 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tt_7711811609408048391",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7711811609408048391",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7711811609408048391",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261124",
+ "duration": 106,
+ "description": "4 PIÈCES VILLA BASE SONGON CITÉ BENI LOYER: 200 000x5 PLUS 100 000. #location#maison#visibilitétiktok ",
+ "transcript": "Salut, salut, salut, salut, salut, salut, salut tout, je vous présente une quatre pièces dans la cité Benie, vous voyez non? Ah là ça c'est la cour avant, quatre pièces dans la cité Benie, 200.000 francs, vous voyez, je suis au salon, ça c'est le salon, une quatre pièces dans la cité Benie, 200.000 francs, vous voyez, ça c'est la cuisine, une très grande cuisine ici, il n'y a pas de problème d'eau, vous voyez, il n'y a pas de problème d'eau ici, voilà, tout ça c'est la cuisine, vous voyez, tout ça c'est la cuisine, là c'est la cour arrière qu'elle a, côté Biandéry, 200.000 francs, 100.000 francs dans la cité Benie, voilà, vous voyez, ça c'est la douche, visiteur, vaisseau, douche aussi, regardez ça c'est l'une des chambres, ça c'est l'une des chambres, alors regardez, la première chambre, il vous montre la deuxième chambre aussi, vous voyez, avec son placard, ça c'est la chambre avec son placard, ça c'est la douche visiteur, ça c'est la douche chambre, 200.000 francs",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711811609408048391.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Cité Benie",
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine",
+   "douche",
+   "douche visiteur",
+   "placard"
+  ],
+  "resume": "Location d'une villa de 4 pièces à Songon, Cité Benie, à 200 000 F par mois, 5 mois à payer plus 100 000 F d'agence. Cour avant et arrière, grand salon, grande cuisine, deux chambres dont une avec placard, douche visiteur et douche chambre. Pas de problème d'eau signalé.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

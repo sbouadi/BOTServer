@@ -1,0 +1,37 @@
+{
+ "id": "tt_7712428331647503623",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7712428331647503623",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7712428331647503623",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261126",
+ "duration": 93,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON ABOULAYE DIALLO AU 2IEME ETAGE LOYER: 300 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut, salut, salut tout. Je vous présente une trois pièces au stand-in full option. Voilà, vous voyez, derrière la cité Abledyalo, voilà, vous voyez, c'est ça qu'on appelle la maison full option, c'est la full option nouvelle qu'on ne se sent jamais habité. Vous voyez, il y a la cuisine, très grande cuisine, avec ses placards, ses meubles d'arrangements, voilà, vous voyez, côté bianderite, il n'y a rien à dire, il n'y a rien à dire. Vous voyez, ça c'est la chambre, ça dépend de vous, hein, voilà, ça c'est l'une des chambres, c'est trois pièces, voilà, ça c'est l'une des chambres, le loyer est 300 000 francs, voilà, vous voyez, il répète bien, le loyer est 300 000 francs. Nous sommes au deuxième étage, nous sommes au deuxième étage, vous voyez, nous sommes au deuxième étage.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712428331647503623.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Aboulaye Diallo",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "full option",
+   "cuisine équipée avec placards",
+   "placards"
+  ],
+  "resume": "Location d'un 3 pièces haut standing full option au 2e étage à Yopougon Aboulaye Diallo, loyer 300 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

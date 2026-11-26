@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712399983944797492",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712399983944797492",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712399983944797492",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261126",
+ "duration": 51,
+ "description": "🏠 4 STUDIOS NEUFS À LOUER – YOPOUGON MILLIONNAIRE ✨ Nouvelle construction, jamais habitée ! 📍 Localisation : Yopougon Millionnaire, Carrefour Hévéa, à 200 mètres de l'église catholique. 🏢  au rez de chaussée  🚪 Disponibilité : 4 studios 💰 Loyer mensuel : 100 000 F CFA 👔 Profil recherché : Personnes salariées (travailleurs). 🚶 Frais de visite : 5 000 F CFA Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712399983944797492.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location de 4 studios neufs jamais habités à Yopougon Millionnaire, Carrefour Hévéa, à 200 m de l'église catholique, au rez-de-chaussée. Loyer mensuel 100 000 F CFA, frais de visite 5 000 F CFA. Profil recherché : salariés. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tt_7711632438002322706",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7711632438002322706",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7711632438002322706",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261124",
+ "duration": 36,
+ "description": "☎️:05.06.64.49.72 (what) STUDIO SONGON SONGON INSTITUT PASTEUR AU 1ERE ETAGE NOUVELLE CONSTRUCTION LOYER: 75 000x5 PLUS 50 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut tout. Je vous présente un studio de 75 000 francs, un YouTube Pasteur. Là, vous voyez, un studio de 75 000 francs, ça, c'est le placard Belle Vitrée. Il n'y a rien à dire. Tout le monde bien placé. Là, vous voyez, ça, c'est le studio 75 000 francs. Second Institute Pasteur. Là, vous voyez, au tournant, ça, c'est le placard.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711632438002322706.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Songon Institut Pasteur",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 75000,
+  "caution": null,
+  "avance": null,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "placard vitré"
+  ],
+  "resume": "Studio neuf à louer au 1er étage à Songon Institut Pasteur, loyer 75 000 F x5 mois plus 50 000 F d'agence, contact 05.06.64.49.72.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

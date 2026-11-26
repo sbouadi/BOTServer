@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712396671619026197",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712396671619026197",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712396671619026197",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261126",
+ "duration": 60,
+ "description": "🏠 À LOUER – 3 PIÈCES À AZITO 🔥 📍 Carrefour Policier, derrière la Cité Laurier, école Le Félin. 🏢 Pré-étage 💰 Loyer : 160.000 F/mois 📌 Conditions : 5 mois  + 50.000 F SODECI remboursable  70.000 F démarches. 🔥 CHAP CHAP ! Ne traînez pas, ça ne dure pas ! 📞 WhatsApp ou appel : 0767644618 #Azito #Yopougon #LocationAbidjan #ImmobilierCI",
+ "transcript": "C'est ça, c'est ça.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712396671619026197.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 70000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces en pré-étage à Azito (carrefour Policier, derrière Cité Laurier, école Le Félin) à 160 000 F/mois, 5 mois à payer, 50 000 F SODECI remboursable et 70 000 F de démarches. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

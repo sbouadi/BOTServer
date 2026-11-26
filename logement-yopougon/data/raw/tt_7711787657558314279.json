@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711787657558314279",
+ "source_url": "https://www.tiktok.com/@tms.immobilier/video/7711787657558314279",
+ "url": "https://www.tiktok.com/@tms.immobilier/video/7711787657558314279",
+ "platform": "TikTok",
+ "uploader": "tms.immobilier",
+ "upload_date": "20261124",
+ "duration": 77,
+ "description": "1 terrain à l’angle en vente a songon  Superficie: 500m2  Document: acd individuel  Prix: 27 millions à débattre  Contact: 05-45-44-96-05 #immobilierabidjan #appartementabidjan #investirenafrique #yopougon🇨🇮 #vente_terrain ",
+ "transcript": "Salut salut à tous et à tous. Nous sommes présentement à Sangon, Sangon, SAPH. Car pour 1er kiosque, nous sommes actuellement ici, un tyron de 500 mètres carrés. Avec Assyriens du Viguel, Olympus, Alangon. Si vous . 500 mètres carrés. Oui. Le monsieur a commencé. Mais il n'a pas tenu mieux. Ce qui est intéressé, il peut continuer de raser. C'est juste à côté du bâtiment. Au stand-in pour les appartements. De 3 pièces à 300 mètres ici. Alors pour vous d'inquiétiser, nous sommes les essentiels. Oui. C'est le tyron. Bien Alangon. Alangon. Cette voie mène au gouttron. Le bâtiment n'est pas loin d'ici. Alangon. 500 mètres carrés. Merci. Salut à tous et à la prochaine. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711787657558314279.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "vente",
+  "commune": "Songon",
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vente d'un terrain d'angle de 500 m2 à Songon (Abidjan), document ACD individuel, prix 27 millions à débattre, contact 05-45-44-96-05.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

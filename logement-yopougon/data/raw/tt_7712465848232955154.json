@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712465848232955154",
+ "source_url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7712465848232955154",
+ "url": "https://www.tiktok.com/@jean.baptiste.ngu208/video/7712465848232955154",
+ "platform": "TikTok",
+ "uploader": "jean.baptiste.ngu208",
+ "upload_date": "20261126",
+ "duration": 193,
+ "description": "Des Sublimes Appartement de type  -deux (2 pièces) en face du palais de bingerville en bordure de la voie principale  -Deux( 2 ) douches  -Conditions 5 mois  -Loyer 200.000f y compris les frais d'entretien du bâtiment (sécurité , poubelle ) -parking externe #NB Bureau.... Résidence passe  ☎0788393888 📞 0575303446 WhatsApp",
+ "transcript": "J'ai reclairé dedans, mais je continue de tomber J'suis tombé dans ton pêche frère, j'ai rien calculé J'ai suivi toutes les rêves, mais le jeu est truqué Elle me boit comme une option parmi ses notifs Elle a vu mes efforts, mais ça n'est pas suffisant Elle me dit je connais ton manège, tes phrases toutes faites Avec toi c'est la tempête, j'ai besoin de concrets Faudrait que tu deviennes un ordre, que tu changes de planète Peu importe tes promesses, pour moi la porte se ferme J'arrive avec un seul but, une seule mission C'était briser la glace, gagner ton attention J'pensais être le héros de cette fiction Mais on a mené des batailles sans la conclusion Elle n'est pas dans ce délire, elle veut du rêve Cette fois mon plan d'attaque ne marche jamais Est-ce que t'as tenté le tout pour le tout ? J'ai mis mon coeur sur la table, j'ai joué tous mes atouts Les grands discours, les problèmes, elle est plus fou Du classique dans la voie Et moi si elle a capté le message J'ai fait le tour de la ville, juste pour son passage Tu joues à un jeu Le jeu est truqué J'ai suivi toutes les règles, mais le jeu est truqué Elle me boit comme une option parmi ses notifs Elle a vu mes efforts, mais ça n'est pas suffisant Elle me dit je connais ton manège, des phrases toutes faites Avec toi c'est la tempête, j'ai besoin de compte Il faudrait que tu deviennes un autre, que tu changes de planète Peu importe tes promesses, pour moi la porte se ferme Touche dans le mille, quand tu aimes, tu dois Viens si fragile, il faut que je lâche prise maintenant Lâche prise maintenant J'suis tombé dans ton pied, j'prérogiais rien calculé J'ai suivi toutes les règles, moi comme une option Toi n'es ton main, avec toi c'est la tempête Il faudrait que tu deviennes un autre, que tu changes de planète Peu importe tes promesses Le jeu est truqué",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712465848232955154.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Bingerville",
+  "quartier": null,
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 200000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "deux douches",
+   "parking externe"
+  ],
+  "resume": "Appartement 2 pièces en face du palais de Bingerville, en bordure de la voie principale, deux douches, parking externe. Loyer 200 000 F par mois, 5 mois à payer, frais d'entretien du bâtiment (sécurité, poubelle) inclus. Bureau possible.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

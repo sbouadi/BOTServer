@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712236118988573958",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712236118988573958",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712236118988573958",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261125",
+ "duration": 143,
+ "description": "🏠 À LOUER – YOPOUGON NIANGON À DROITE 🇨🇮 🔥 BELLE OPPORTUNITÉ : 5 PIÈCES DISPONIBLES ! 📍 Localisation : Niangon à droite, vers la pharmacie Lokoa. 🏡 Nouvelle construction ✅ 5 pièces ✅ 3 douches et WC ✅ Rez-de-chaussée 📅 Livraison prévue pour le 10 décembre (en finition). 💰 Loyer : 230.000 F CFA/mois 📌 Conditions : 5 mois + 100.000 F 👀 Visite : 5.000 F 🔥 Bien placé ! Anticipez vos réservations. 📞 WhatsApp ou appel : 0767644618 #LocationAbidjan #Yopougon #Niangon #AppartementÀLouer #ImmobilierCI",
+ "transcript": "I'm at a party I don't wanna be at And I don't ever wear a suit and tie at Wondering if I can sneak up and back Nobody's even looking me in my eyes Can you take my hand, finish my drink, say shall we dance Hell yeah You know I love you, did I ever tell you You make it better like that Don't think I fit fit in Me feelin' maybe I am somebody by somebody At a party we don't wanna be at Turnin' top but we can't hear ourselves But all these people all around I'm crippled with anxiety But I'm slow, I swear it's supposed to be You know what, it's kinda crazy Cause I really don't mind Can you make it better like that Oh yeah, yeah I should stay Cause I don't care When I'm with my baby yeah All the bad things disappear You're making me feel like Maybe I am somebody",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712236118988573958.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Niangon",
+  "type": null,
+  "pieces": 5,
+  "loyer": 230000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un appartement neuf de 5 pièces au rez-de-chaussée à Niangon à droite (vers la pharmacie Lokoa), 3 douches et WC, livraison prévue le 10 décembre en finition, loyer 230 000 F/mois, 5 mois à payer + 100 000 F d'agence, visite 5 000 F, contact WhatsApp 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

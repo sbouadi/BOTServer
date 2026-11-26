@@ -51,42 +51,6 @@
   "tries": 1,
   "last_error": "DownloadError: ERROR: [TikTok] 7711650315518430484: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  },
- "https://www.tiktok.com/@toure.aly39/video/7711811609408048391": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711811609408048391: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@toure.aly39/video/7711770071042968840": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711770071042968840: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@toure.aly39/video/7711632438002322706": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711632438002322706: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@immobilieryopougon5/video/7711813250916027654": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711813250916027654: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@immobilieryopougon5/video/7711812334636797204": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711812334636797204: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@immobilieryopougon5/video/7711733661925690644": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711733661925690644: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@immobilieryopougon5/video/7711729205406403861": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711729205406403861: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@immobilieryopougon5/video/7711725031314820358": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711725031314820358: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@tms.immobilier/video/7711787657558314279": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711787657558314279: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
  "https://www.tiktok.com/@bishop027immobilier/video/7711707855199505671": {
   "tries": 1,
   "last_error": "DownloadError: ERROR: [TikTok] 7711707855199505671: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
@@ -114,5 +78,9 @@
  "https://www.tiktok.com/@gnali.olivier/video/7711704924194704647": {
   "tries": 1,
   "last_error": "DownloadError: ERROR: [TikTok] 7711704924194704647: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
+ },
+ "https://www.tiktok.com/@aboufofana0759/video/7712541251073035540": {
+  "tries": 1,
+  "last_error": "DownloadError: ERROR: [TikTok] 7712541251073035540: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  }
 }

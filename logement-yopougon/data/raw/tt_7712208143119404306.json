@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712208143119404306",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7712208143119404306",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7712208143119404306",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261125",
+ "duration": 71,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES SONGON DOMAK AU 2IEME ÉTAGES NOUVELLE CONSTRUCTION LOYER: 160 000x5 PLUS 100 000. #location#maison#visibilité#",
+ "transcript": "Salut salut salut salut salut salut salut salut toujours pour vous aller. Je vous présente une trois pièces 160 000 francs. Nouvelle construction jamais habité. Ici c'est le balcon à la Belle Vitrée. Sangon d'Omak. Vous voyez ? Sangon d'Omak. Trois pièces 160 000 francs. Nouvelle construction jamais habité. Regardez, ça c'est la cuisine très grande cuisine. Ah là, ça c'est côté de Boulangerie. Vous voyez ? Ah là, 160 000 francs. Sangon d'Omak. Regardez, là c'est la chambre des vitreurs. Là c'est la chambre principale avec sa bouche.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712208143119404306.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Abidjan",
+  "quartier": "Songon Domak",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 160000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 5,
+  "frais_agence": 100000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces neuf, jamais habité, au 2e étage à Songon Domak, loyer 160 000 F par mois, 5 mois à payer plus 100 000 F d'agence. Grande cuisine, chambre principale avec salle d'eau, logement en cours de finition sur les photos.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7711725031314820358",
+ "source_url": "https://www.tiktok.com/@immobilieryopougon5/video/7711725031314820358",
+ "url": "https://www.tiktok.com/@immobilieryopougon5/video/7711725031314820358",
+ "platform": "TikTok",
+ "uploader": "immobilieryopougon5",
+ "upload_date": "20261124",
+ "duration": 38,
+ "description": "Magnifique et superbe beau grand studio 50mil et 60mil rez-de-chaussée 🔑✅🏠🥰 50mil x5mois plus 40mil démarcheur  Nb: frais de dossier 📁 50mil  Détail: 3mois caution               1mois avance           1mois agence plus 40mil  Songon carrefour SAPH un peu dans le quartier au rez-de-chaussée  Visite 5mil Contact: 0711392732  #studio #2piece #visibilité #yopougon🇨🇮🎶 #fly @diby041immobilier @Yopougon 🥰immobilier 🏠✅🔑 ",
+ "transcript": "et ça a bien été un bon moment de faire là. Voilà, c'est terminé pour la location. On t'a prévenu, notre Dieu.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7711725031314820358.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Songon carrefour SAPH",
+  "type": "studio",
+  "pieces": null,
+  "loyer": 50000,
+  "caution": 150000,
+  "avance": 50000,
+  "agence": 50000,
+  "mois_a_payer": 5,
+  "frais_agence": 40000,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Studio en location au rez-de-chaussée à Songon carrefour SAPH (Yopougon), loyer 50 000 F (annonce mentionne aussi 60 000 F), 3 mois de caution, 1 mois d'avance, 1 mois d'agence plus 40 000 F de démarcheur, 5 mois à payer, frais de dossier 50 000 F, visite 5 000 F. Mentions 2 pièces en hashtag, non confirmées. Contact 0711392732.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-26",
+ "origine": "découverte"
+}
