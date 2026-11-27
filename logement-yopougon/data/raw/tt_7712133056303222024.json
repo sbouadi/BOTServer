@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712133056303222024",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7712133056303222024",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7712133056303222024",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261125",
+ "duration": 55,
+ "description": "YOP MAROC CAVE A CÉDÉ TRÈS BIEN SITUÉ  LOYER 80 k PRIX DE CESSION 5,5 ML  #cave #restaurant #immobilierabidjan #magasin #espace ",
+ "transcript": "Il est temps de faire ce matin pour s'occuper de cette mission. Il s'est émouillé le directeur des show Liméso Sansisco. Wow, wow, wow, wow. Regardez-moi, cave en session. Vous même regardez la meveille au nouveau de YopuKong, Maroc. Le kathie du bonheur, le kathie des shows. C'est une cave qui est en session. Voilà, regardez-vous! Wow!",
+ "ocr": [
+  "Rs. ANT QUE TT 1/72 7 :",
+  "HAN A LA"
+ ],
+ "thumb": "thumbs/tt_7712133056303222024.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "cession",
+  "commune": null,
+  "quartier": null,
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 80000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Cession d'une cave-restaurant (YOP MAROC CAVE) bien située à Abidjan, loyer 80 000 F, prix de cession 5,5 millions F. Audio peu fiable, localisation non précisée.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

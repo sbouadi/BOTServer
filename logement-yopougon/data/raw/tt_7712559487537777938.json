@@ -1,0 +1,40 @@
+{
+ "id": "tt_7712559487537777938",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7712559487537777938",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7712559487537777938",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261126",
+ "duration": 106,
+ "description": "JOLIE MAISON 3 PIÈCES EN LOCATION 180 k À SONGON GRAVIER AVEC CHAUFFE EAU 2DWC PARKING ET GRAND BALCON  INTERRESSE APPEL  CONTACT 0787407535 #songon #maison #immobilierabidjan #appartement #pourtoi ",
+ "transcript": "Voir Connais-vous ce matin à Bijan-Serve-Soir Bichon Limomire Monsieur le détecteur des jolies maisons sans esprit Là je suis au haut le sondon gravier dans les quartiers je précise dans une trois pièces de 100 à 24 avec chef haut avec un parking, le bâtiment est bien chaud court Je suis présentement dans la chambre principale sur le placard que vous voyez comme ça et vous même la chambre principale la chambre principale bien grande voilà c'est une grande chambre regardez-vous regardez-vous le toilette tout est grand dedans c'est bien chic on va dans la chambre des enfants on a tous des visites qui sont dans le fond voilà voici la chambre voilà voici la chambre des enfants regardez comment c'est joli tout est propre absolument rien à dire regardez-vous c'est joli maison bien chic regardez le balcon voilà vous avez vu le balcon très joli balcon on va dans la cuisine regardez la cuisine cuisine placardée belle cuisine c'est bien chic c'est 184 au niveau de son camp gravier si vous êtes intéressé appeler rapidement ça ne va pas durer premis venu, premis servi n'oublie pas de vous abonner de mettre le coeur et de partager sur ce jésus vous aime",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712559487537777938.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Gravier",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "chauffe-eau",
+   "2 WC",
+   "parking",
+   "grand balcon",
+   "placard",
+   "cuisine placardée"
+  ],
+  "resume": "Location d'une jolie maison 3 pièces à Songon Gravier à 180 000 F, avec chauffe-eau, 2 WC, parking et grand balcon. Contact par appel au 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

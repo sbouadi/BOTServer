@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712467505628974338",
+ "source_url": "https://www.tiktok.com/@promoteur_immobilier225/video/7712467505628974338",
+ "url": "https://www.tiktok.com/@promoteur_immobilier225/video/7712467505628974338",
+ "platform": "TikTok",
+ "uploader": "promoteur_immobilier225",
+ "upload_date": "20261126",
+ "duration": 123,
+ "description": "4pieces 3dwc au 2ieme etage  YOPOUGON CITÉ CIE PÂTISSERIE FLORA 180.000 Apel/wattsapp: 0143378277 #yopougon #gbairai_qui_est_doux_la #debloquemesvues #alouer #abidjan_tiktok ",
+ "transcript": "et on n'a pas directement à la cuisine, voici la cuisine, la cuisine est bien grande, bien large et bien arrue, rien d'issue là mais on ne venait pas de cette maison là 3 pièces, 4 pièces, 3 douches, vaissez au 3ème étage, voilà je me dirige maintenant, les toilettes visiteurs, ça sont les toilettes visiteurs et là c'est une chambre, cette chambre n'a pas du placard, c'est la seule chambre d'ailleurs qui n'a pas du placard, elle est bien grande, bien bien grande et là c'est une chambre qui est là mais je vous montre d'abord le balcon, vous voyez, ça c'est le balcon bien arrêté et je vous montre encore une autre chambre elle est bien grande également, vous voyez, la maison est prêt à être habité, c'est une chambre pour moi vous voyez, les toilettes ce sont 20 pièces, il n'y a pas moyen d'ouvrir un truc dans votre visage, il n'y a pas d'humilité voici les toilettes, on n'a rien dit sur la maison, voilà je me dirige mais on va la chambre principale, la principale, les potes sont là mais ils vont remettre les potes et là ce sont les toilettes, c'est la chambre principale et voici la chambre principale, une grande chambre tu peux mettre au lit de trois places ici avec un baisseau, ça passe sans problème rien n'a dit, toujours t'entends la maison pour vous servir voilà, voici les placards, n'hésitez pas de vous abonner pour ne rien rater, t'entends la maison bonne nuit sur le salon, alors voyez le salon t'entends la maison toujours, merci",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712467505628974338.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité CIE Pâtisserie Flora",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 180000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un appartement de 4 pièces avec 3 douches au 2e étage à Yopougon, Cité CIE Pâtisserie Flora, à 180 000 F. Contact par appel ou WhatsApp au 0143378277.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

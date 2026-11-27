@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712783287130819860",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712783287130819860",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712783287130819860",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261127",
+ "duration": 122,
+ "description": "🛑LOCATION 📍 YOPOUGON MAROC SAINT PIERRE MARIE  ✅UNE MAGNIFIQUE 4 PIÈCE  BON STANDING AU 3EME ÉTAGE DISPONIBLE STAFFER DANS  UN  BEAUX BATIMENT PAS LOIN DE LA ROUTE TRÈS ACCESSIBLE HABITATION COMME BUREAU PASSE  3EME ÉTAGE 03 SALLES D'EAU ❤️   BUANDERIE  PARKING  ACCÈS FACILE TRÈS FACILE  ✅LOYER: 220.000 FR ✅CONDITIONS: 6MOIS+100mille  CONTACT: 0720363576",
+ "transcript": "Aujourd'hui, tu n'es plus la même Tu n'es plus à moi Un autre sera mon remède Atroce ton meilleur tour On a fini par ce temps de l'heure On était le tout l'été Et le commun est solo Plus rien ne sera comme avant T'as mis mon cœur en mode avion Je t'ai aimé de toutes les façons Mon chéri C'est moi qui t'ai daté mon poison C'est ma mode et ma langue Qui a un enfant Et pas Je m'a fait connaître Bollingo Et que t'ai parté je suis là Je m'a fait connaitre l'oeuvre là Et que t'ai parté je suis là Oh bébé Souffrons-toi mon cœur Souviens-toi de moi Ne me fais pas t'aimer un gars Y'a vécu une place Pour l'éternité Voilà et là Souviens-toi chéri Je suis jecontainée Peine un gars les loups Malentêt Ma vie n'a aucun sens Une dérégion Une dernière fois Mon francais Mon mode et ma langue Qui a un enfant Je m'a fait connaitre Bollingo Et que t'ai parté je suis là Je m'a fait connaitre l'oeuvre là Et que t'ai parté je suis là",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712783287130819860.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Saint Pierre Marie",
+  "type": "4 pièces",
+  "pieces": 4,
+  "loyer": 220000,
+  "caution": null,
+  "avance": null,
+  "agence": 100000,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "buanderie",
+   "parking"
+  ],
+  "resume": "Location d'un 4 pièces de standing au 3e étage à Yopougon Maroc Saint Pierre Marie, 3 salles d'eau, habitation pouvant servir de bureau, accès facile. Loyer 220 000 F, 6 mois à payer plus 100 000 F d'agence. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

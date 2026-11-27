@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712771577254907157",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712771577254907157",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712771577254907157",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261127",
+ "duration": 238,
+ "description": "🔥🔥Gaya  et jolie 3 pièces avec 2dwc Yopougon- Académie Chambéry en Bordure de route au  3eme .  Loyer : 150.000/mois  Visite:5000f Contact:0711489393 🔥 Tu vois , tu prends 🔥 🔥 Dieu vous bénisse 🔥",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712771577254907157.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Académie Chambéry",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 3 pièces avec 2 WC à Yopougon, Académie Chambéry, en bordure de route au 3e étage, loyer 150 000 F par mois, frais de visite 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "tt_7712763547641482516",
+ "source_url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712763547641482516",
+ "url": "https://www.tiktok.com/@maison.du.bonheur82/video/7712763547641482516",
+ "platform": "TikTok",
+ "uploader": "maison.du.bonheur82",
+ "upload_date": "20261127",
+ "duration": 60,
+ "description": "Découvrez ces magnifiques studios de bon standing, situés au 3ème et 4ème étage à Yopougon Millionnaire, Cité GFCI. Ils sont bien placés et très accessibles, offrant un cadre idéal pour la résidence et l'habitation. Chaque studio dispose d'un spot lumineux, d'un balcon, d'un système de chauffe-eau, et d'une salle d'eau. Un parking est également disponible pour votre confort. Loyer: 100.000 FR Conditions: 5 mois de caution + 60.000 FR de frais. Pour toute information, contactez le 0720363576. #Yopougon #Location #Studio ",
+ "transcript": "J'ai accepté qu'on peut pas plaire à tout le monde, qu'on peut pas m'aider, tout le monde d'accord Tout le matin je prends l'avion, pas le temps d'un repos Ni me voir devant le miroir, l'endemain ça repart J'ai pas pu en profiter à cause du jet lag J'ai pas pu en profiter, je vis en jet lag J'sais pas qui l'on rile, j'en sais plus où j'en suis La famille, les amis, les affaires, du lesbien J'ai pas pu en profiter à cause du jet lag J'ai pas pu en profiter, je vis en jet lag Ah ah, l'avion s'est devenu mon boy L'hôtel s'est devenu ma planque J'ai dit mal à reconnaître ma porte Quand je rentre, quand je rentre L'avion s'est devenu mon porte L'hôtel s'est devenu ma planque J'ai dit mal à reconnaître ma porte Quand je rentre",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712763547641482516.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Millionnaire, Cité GFCI",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 100000,
+  "caution": 500000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": 60000,
+  "frais_visite": null,
+  "equipements": [
+   "spot lumineux",
+   "balcon",
+   "chauffe-eau",
+   "salle d'eau",
+   "parking"
+  ],
+  "resume": "Location de studios de bon standing au 3ème et 4ème étage à Yopougon Millionnaire, Cité GFCI, loyer 100 000 F, 5 mois de caution, 60 000 F de frais. Contact 0720363576.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

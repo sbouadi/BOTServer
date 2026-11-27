@@ -1,0 +1,41 @@
+{
+ "id": "tt_7711707855199505671",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7711707855199505671",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7711707855199505671",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261124",
+ "duration": 92,
+ "description": "TRÈS BELLE MAISON DE 3 PIÈCES 150 k PRÊTE HABITÉ AVEC 2DWC ET BALCON, BÂTIMENT CHOCO  YOPOUGON BAGNON INTERRESSE APPEL  CONTACT 0787407535 #immobilierabidjan #appartementalouer #maison #yopougon🇨🇮🎶 ",
+ "transcript": "Voici ce matin à Bijanser le soir. Pichop immobilier, M. le détecteur des chaux, les maisons sans esprit. Je suis au Nouveau-deux. Bayon. Il y a pourquoi Bayon ? Non loin de l'autoroute. Dans une trois pièces. Nouvelle maison jamais habité. Pièche-toi pièche, 158. Pièche ta fille, regardez vous même la cuisine. Ta ya ! Waouh ! La maison est très belle et très grande. Voilà, voici l'entrée qui est là. Le bâtiment aussi il est très chocot, regardez vous même. C'est une très belle maison de 100 secondes car. 100 secondes car, prête habité. Tu payes, tu donnes. Enceau des barcours qui est là. Tu payes, tu donnes. Tu payes, tu donnes. Tu payes, tu donnes. Voilà. 100 secondes car, au quatrième étage. Voici la chambre des enfants. La maison est trop belle, c'est bien staffé, bien chic. Voici la douche des visiteurs et des coco. Voilà. Ici c'est la chambre principale. Waouh ! Waouh, c'est une merveille. Très grande, bien grande. Voici la douche. Voilà de la chambre principale. Si tu as intéressé, il faut appeler rapidement. Premier venu, premier servi. Ça ne du pas. Oublie pas de vous abonner, de partager, de mettre les coeurs. Jésus vous aime les gars.",
+ "ocr": [
+  "ESS =",
+  "(Jolie e\\",
+  "Jolie LD",
+  "olie"
+ ],
+ "thumb": "thumbs/tt_7711707855199505671.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Bagnon",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 150000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "2 WC",
+   "balcon"
+  ],
+  "resume": "Location d'une belle maison de 3 pièces, prête et habitée, avec 2 WC et balcon, au bâtiment Choco à Bagnon, Yopougon, à 150 000 F. Contact par téléphone 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

@@ -1,0 +1,49 @@
+{
+ "id": "tt_7712796101669129492",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712796101669129492",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712796101669129492",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261127",
+ "duration": 71,
+ "description": "À louer, magasin de 100.000f avec douches à l'intérieur. Lieu: Yopougon lubafrique en bordure de voie secondaire. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "Si Dieu m'a mis un rêve dans ton cœur Écrile-le, garde-le comme à présent Quoi qu'on dise, protège la vision Avec passion, oh oui Quand tu sais, tu sais de tout ton air Que ce rêve ne vient pas de toi Même si tu ne vois que le contraire Vers ses vers, vers ses vers Vers ses vers, ses vers",
+ "ocr": [
+  "| \\o A A: 1 111",
+  "4 LUI A AA",
+  "TUTETMEL",
+  "DATA",
+  "141 MAIN",
+  "er 0 PSE",
+  "vrmirinn ts (U.",
+  "AD A EAN",
+  "19 VOA",
+  "MALAN",
+  "ANA ER",
+  "VAN VA UN",
+  "\\IALE"
+ ],
+ "thumb": "thumbs/tt_7712796101669129492.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Lubafrique",
+  "type": "commercial",
+  "pieces": null,
+  "loyer": 100000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "douches à l'intérieur"
+  ],
+  "resume": "Location d'un magasin de 100 000 F avec douches intérieures, à Yopougon Lubafrique en bordure de voie secondaire. Visite à 5000 F. Contact par téléphone indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

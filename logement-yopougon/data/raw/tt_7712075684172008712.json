@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712075684172008712",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7712075684172008712",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7712075684172008712",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261125",
+ "duration": 32,
+ "description": "Affaire de garder maison  #maison #immobilierabidjan #immobilier #pourtoi ",
+ "transcript": "Est-ce que vous connaissez le nombre de demandes de maisons qui se fait chaque jour? Comment d'appel les bachelors reçoivent? Tu as une maison, c'est bien non? C'est qu'est-ce que tu es ici au travail? Il y a aussi ma grand-mère à l'Etat. Si tu as une maison, tu n'as pas le temps de pêler les gens. Après, je vous dis que non, j'ai appelé. Non. Et ils n'ont pas gardé les maisons pour moi. On ne garde pas les maisons actuellement. Quand tu gagnes les maisons, ça te plaît. Tu places toi ici au travail. Tu prends une permission. Tu viens tranquillement. Tu prends ta maison. Non, c'est-à-dire qu'il y a fini le travail. Merci.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712075684172008712.jpg",
+ "llm": {
+  "est_annonce": false,
+  "transaction": null,
+  "commune": null,
+  "quartier": null,
+  "type": null,
+  "pieces": null,
+  "loyer": null,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Vidéo d'un homme en extérieur à Abidjan qui parle de la difficulté à obtenir une maison et du fait qu'on ne garde pas les logements ; aucune offre de location ou de vente précise n'est décrite.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

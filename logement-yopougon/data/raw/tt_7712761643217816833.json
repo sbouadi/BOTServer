@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712761643217816833",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712761643217816833",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712761643217816833",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261127",
+ "duration": 50,
+ "description": "🏠 À LOUER – APPARTEMENT 2 PIÈCES À MAROC PÉTROCI 🔥 📍 Localisation : Maroc Pétroci, 4ᵉ étape. 💧 Bonne pression d'eau ! 💰 Loyer mensuel : 100.000 F CFA 📌 Conditions : 6 mois + 50.000 F CFA 💧 Caution d'eau : 54.000 F CFA (garantie) 🔥 CHAP CHAP ! Premier arrivé, premier servi ! 📞 WhatsApp ou appel : 0767644618 #MarocPetroci #Yopougon #LocationAbidjan #ImmobilierCI #AppartementÀLouer",
+ "transcript": "Il est vrai, j'ai trop d'adversaire Sur le côté quelques ennemis refouler Il ferait tout pour nous faire taire Quand tout va mal on cesse sur qui compter Il est vrai, j'ai trop d'adversaire Sur le côté quelques ennemis refouler Frère, ils nous atteignent pas On détrope en sins Sur le côté quelques ennemis refouler Bon c'est sûr qu'ils compteront J'ai tout mis sur la musique Peut-être que je me suis goûré, tant que c'est pas par la craie C'est que je suis bien entouré, tous nos biens sont sous-cellés Nos exemples de anciens félés, je passais mon carnet au zordi Je passe à la télé, je rappais comme son père Juste pour honorer mon frère, représentant du 9-2 Pas mieux, non terre, je regrette un peu les études J'ai esquivé de peu l'estup' ce que j'avais en 30...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712761643217816833.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc Pétroci",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 100000,
+  "caution": 54000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 50000,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location appartement 2 pièces à Maroc Pétroci (4e étape, Yopougon), bonne pression d'eau, loyer 100 000 F/mois, 6 mois à payer + 50 000 F de frais d'agence, caution d'eau 54 000 F garantie. Contact WhatsApp/appel 0767644618.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

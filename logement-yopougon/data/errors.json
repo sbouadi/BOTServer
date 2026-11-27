@@ -51,14 +51,6 @@
   "tries": 1,
   "last_error": "DownloadError: ERROR: [TikTok] 7711650315518430484: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  },
- "https://www.tiktok.com/@bishop027immobilier/video/7711707855199505671": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711707855199505671: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
- "https://www.tiktok.com/@bishop027immobilier/video/7711648860057128193": {
-  "tries": 1,
-  "last_error": "DownloadError: ERROR: [TikTok] 7711648860057128193: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
- },
  "https://www.tiktok.com/@annilove225/video/7711801247963041076": {
   "tries": 1,
   "last_error": "DownloadError: ERROR: [TikTok] 7711801247963041076: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
@@ -80,7 +72,7 @@
   "last_error": "DownloadError: ERROR: [TikTok] 7711704924194704647: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  },
  "https://www.tiktok.com/@aboufofana0759/video/7712541251073035540": {
-  "tries": 1,
+  "tries": 2,
   "last_error": "DownloadError: ERROR: [TikTok] 7712541251073035540: No video formats found!; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U"
  }
 }

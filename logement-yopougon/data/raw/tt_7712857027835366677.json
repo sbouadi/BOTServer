@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712857027835366677",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712857027835366677",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712857027835366677",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261127",
+ "duration": 55,
+ "description": "Mise en location d'un appartement de 2 pièces staffé au rez-de-chaussée à 90.000f  Lieu: Yopougon Koweït residentiel. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "C'est meilleur pour d'après...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712857027835366677.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït résidentiel",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Mise en location d'un appartement de 2 pièces staffé au rez-de-chaussée à 90 000 F à Yopougon Koweït résidentiel, visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

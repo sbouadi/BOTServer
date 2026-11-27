@@ -1,0 +1,43 @@
+{
+ "id": "tt_7712891887798996244",
+ "source_url": "https://www.tiktok.com/@aboufofana0759/video/7712891887798996244",
+ "url": "https://www.tiktok.com/@aboufofana0759/video/7712891887798996244",
+ "platform": "TikTok",
+ "uploader": "aboufofana0759",
+ "upload_date": "20261127",
+ "duration": 53,
+ "description": "TikTok video #7712891887798996244",
+ "transcript": "",
+ "ocr": [
+  "Tel 075964",
+  "Tel0759648430",
+  "millionnaire Cite Be nonie",
+  "loyer 70mil émois au rez-de-",
+  "chaussé",
+  "Tel 075964 D",
+  "loyer 70mil 6më",
+  "chaussée",
+  "Tel 0759648430"
+ ],
+ "thumb": "thumbs/tt_7712891887798996244.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Cité Harmonie (quartier Millionnaire)",
+  "type": "studio",
+  "pieces": 1,
+  "loyer": 70000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Studio à louer au rez-de-chaussée à Yopougon, quartier Millionnaire, Cité Harmonie. Loyer 70 000 F pour 6 mois. Contact : 0759648430.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

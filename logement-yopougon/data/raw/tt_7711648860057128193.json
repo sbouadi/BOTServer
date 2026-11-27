@@ -1,0 +1,45 @@
+{
+ "id": "tt_7711648860057128193",
+ "source_url": "https://www.tiktok.com/@bishop027immobilier/video/7711648860057128193",
+ "url": "https://www.tiktok.com/@bishop027immobilier/video/7711648860057128193",
+ "platform": "TikTok",
+ "uploader": "bishop027immobilier",
+ "upload_date": "20261124",
+ "duration": 107,
+ "description": "YOP MAROC JOLIE 3 PIÈCES AU 1ER ETAGE AVEC CHFFE EAU PARKING BALCON CAMERA DE SURVEILLANCE ET VIRGIL  LOYER 300 k INTERRESSE APPEL  CONTACT 0787407535 #3piece #yopougon🇨🇮🎶 #appartementalouer #maison #immobilierabidjan ",
+ "transcript": "Ah oui, si ce n'est pas un matin, ça serait un le soir, à tous les coups, tu auras ta maison. Pisson immobilier, monsieur le détecteur, les gens, les maisons sans esprit, vous même regardez la main veille. Je suis dans une maison de trois pièces, au standing bien vitre, c'est une très belle maison de trois cent cas au nouveau de Yopugon Marotti Kenja, très bien placé, vous avez vu le salon, on va maintenant dans la cuisine. Regardez la cuisine, waouh, la cuisine est bien placée, c'est très propre, voilà. Ici, c'est la bionderie, vous voyez avec chauffe-eau. Ici, il n'y a pas de souci pour le pâton, il n'y a qu'un pâton devant, le bâtiment est choco, un bâtiment qui impose le respect, voilà. Et aussi, il y a un vigine qui est là, voilà, qui veille chez vos voitures, voilà. Et vous même vos enfants, tout ça. Ok, ça c'est la chambre des enfants, c'est avec trois douches, je me précise, la chambre des enfants est autonome, voilà. Voilà, on va maintenant dans la douche de coco, voilà. Parce que la douche c'est de coco, on va dans la chambre principale de ceux qui payent le noyau, waouh, c'est une belle veille. Voilà. Plata vitrifiée, miroité, voilà. Voici les toilettes, merci. N'oubliez pas de vous abonner, de partager, de mettre les coeurs. Si ce n'est ton niveau de vie à Jésus, merci.",
+ "ocr": [
+  "js frs LS",
+  "Leg HSE il"
+ ],
+ "thumb": "thumbs/tt_7711648860057128193.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Maroc",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "chauffe-eau",
+   "balcon",
+   "parking",
+   "caméra de surveillance",
+   "vigile",
+   "carrelage marbre",
+   "toilettes",
+   "douche"
+  ],
+  "resume": "Location d'un appartement 3 pièces au 1er étage à Yopougon (Maroc), avec chauffe-eau, parking, balcon, caméra de surveillance et vigile, loyer 300 000 F. Contact indiqué : 0787407535.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

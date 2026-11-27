@@ -1,0 +1,39 @@
+{
+ "id": "tt_7712558862284377362",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7712558862284377362",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7712558862284377362",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261126",
+ "duration": 40,
+ "description": "🏡 BELLE CHAMBRE NEUVE À LOUER À LOGPOM ! Chambre moderne dans un bel immeuble, cadre propre et agréable. ✅ Parking disponible ✅ Vigile jour et nuit ✅ Caméras de surveillance ✅ À seulement 150f de la route en moto. 💰 Loyer : 50k/mois 📌 Conditions : 8 mois de loyer + 2 mois de caution. #logpom  #chambrealouer  #immobilierdouala  #locationdouala  #gkimmobilier ",
+ "transcript": ".org",
+ "ocr": [
+  "Logpom"
+ ],
+ "thumb": "thumbs/tt_7712558862284377362.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Logpom",
+  "type": "chambre simple",
+  "pieces": 1,
+  "loyer": 50000,
+  "caution": 2,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 8,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "parking",
+   "vigile jour et nuit",
+   "caméras de surveillance"
+  ],
+  "resume": "Belle chambre neuve à louer à Logpom (Douala), dans un immeuble propre, à 150 F de la route en moto. Loyer 50 000 F/mois, 8 mois de loyer à payer plus 2 mois de caution.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

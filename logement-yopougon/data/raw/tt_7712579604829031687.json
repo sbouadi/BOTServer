@@ -1,0 +1,40 @@
+{
+ "id": "tt_7712579604829031687",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7712579604829031687",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7712579604829031687",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261126",
+ "duration": 118,
+ "description": "☎️:05.06.64.49.72 (what) 3 PIÈCES HAUT STANDING YOPOUGON ABOULAYE DIALLO AU 1ERE ETAGE ET 3IEME ÉTAGES NOUVELLE CONSTRUCTION LOYER: 300 000. #location#maison#visibiblité#visibilité#",
+ "transcript": "salut salut salut tout je te réagis je vous présente une trois pièces voilà regardez nouvelles constructions jamais habité il y en a au lieu de se serrer troisième étage regardez nouvelles constructions yopou gong abled yalo abled yalo est situé à côté du camp de b.a.e. vous voyez regardez ça c'est la cuisine des placards des rangements en tout cas il n'y a rien à dire nouvelles constructions jamais habité une maison full option qui respite le bonheur vous voyez voilà ça c'est ça on appelle maison full option une très très très grande maison tout à l'air et 3 2 3 vaisseaux packing antenne vous voyez tout le roi de chaussée et packing à regarder la maison comment la maison est jolie ça c'est l'une des chambres regardez la chambre là regardez vous me vous regardez les carreaux du son là regardez regardez sanité des qualités vous voyez il n'y a rien à dire il n'y a rien à dire je suis toujours dans la chambre voilà c'est deux placards vous voyez non la chambre à deux placards ça c'est la douche du juteur même les visiteurs sont respectés vous voyez à chauffer au tout tout vous voyez ça c'est la deuxième chambre la deux chambres une très grande chambre à l'air et la regardez les carreaux vitrifiés tout tout un joli carreau la regardez la ça c'est la douche loyer tour à cent mille fois",
+ "ocr": [
+  "TEST\" SN"
+ ],
+ "thumb": "thumbs/tt_7712579604829031687.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Aboulaye Diallo",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 300000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine avec placards",
+   "douche",
+   "carrelage vitrifié",
+   "placards dans chambre"
+  ],
+  "resume": "Location d'un 3 pièces neuf, jamais habité, haut standing, à Yopougon Aboulaye Diallo (1er et 3e étage), loyer 300 000 F, meublé full option selon l'annonce.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

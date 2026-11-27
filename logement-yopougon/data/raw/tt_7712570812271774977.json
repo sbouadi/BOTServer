@@ -1,0 +1,35 @@
+{
+ "id": "tt_7712570812271774977",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712570812271774977",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712570812271774977",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261126",
+ "duration": 136,
+ "description": "Mise en location d'un appartement de 2 pièces à 120.000f avec 2 douches wc. Lieu: Yopougon Koweït résidentiel au 1er étage. Visite:5000f Contact:0711489393 #immobilierabidjan🇨🇮 #tiktokcotedivoire🇨🇮tiktok225 #visibilitésurlesréseauxsociaux #debloquemesvue🥲🙏🏽 ",
+ "transcript": "",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712570812271774977.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Koweït résidentiel",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "2 douches wc"
+  ],
+  "resume": "Mise en location d'un appartement de 2 pièces à 120 000 F avec 2 douches wc, au 1er étage à Yopougon Koweït résidentiel. Visite 5 000 F. Contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

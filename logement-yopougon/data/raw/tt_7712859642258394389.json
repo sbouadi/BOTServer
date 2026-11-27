@@ -1,0 +1,36 @@
+{
+ "id": "tt_7712859642258394389",
+ "source_url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712859642258394389",
+ "url": "https://www.tiktok.com/@tornabenjaminsoro/video/7712859642258394389",
+ "platform": "TikTok",
+ "uploader": "tornabenjaminsoro",
+ "upload_date": "20261127",
+ "duration": 100,
+ "description": "🏠 **GRAND 3 PIÈCES À LOUER – SONGON** 🔥 📍 Localisation : Songon, Carrefour Bimbresso Domark. ✨ Grand appartement staffé ✅ 3 pièces ✅ 2 douches et WC 💰 **Loyer : 120.000 F CFA** 📌 Conditions : 6 mois + 70.000 F CFA 👀 Visite : 5.000 F CFA 🔥 CHAP CHAP ! Ça ne dure pas longtemps ! 📞 WhatsApp ou appel : 0767644618 #Songon #Bimbresso #LocationAbidjan #AppartementÀLouer #ImmobilierCI",
+ "transcript": "Lord Sky Adachi ta gwanu Wanyi saram bada Some shiny clothes up Anyhow we like make it be a good day",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712859642258394389.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Carrefour Bimbresso Domark",
+  "type": "3 pièces",
+  "pieces": 3,
+  "loyer": 120000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 6,
+  "frais_agence": 70000,
+  "frais_visite": 5000,
+  "equipements": [
+   "staffé",
+   "2 douches et WC"
+  ],
+  "resume": "Grand appartement 3 pièces staffé à louer à Songon (Carrefour Bimbresso Domark), 2 douches et WC, loyer 120 000 F CFA, conditions 6 mois + 70 000 F CFA, visite 5 000 F CFA.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

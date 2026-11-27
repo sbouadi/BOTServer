@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712842677280050433",
+ "source_url": "https://www.tiktok.com/@toure.aly39/video/7712842677280050433",
+ "url": "https://www.tiktok.com/@toure.aly39/video/7712842677280050433",
+ "platform": "TikTok",
+ "uploader": "toure.aly39",
+ "upload_date": "20261127",
+ "duration": 50,
+ "description": "☎️:05.06.64.49.72 (what) 2 PIÈCES HAUT STANDING SONGON DOMAK AU DU REZ-DE-CHAUSSÉE 1ERE,2IEME,3IEME ETAGES LOYER: 90 000. #location#maison#visibilité#",
+ "transcript": "Salut, salut, salut, salut, salut tout. Je vous présente une deux pièces à Sangon. Vous voyez, c'est une deux pièces à Sangon. Les nouvelles constructions ne sont jamais habitées. Deux pièces, 90 000 francs. Regardez, deux pièces, 90 000 francs. Sangon d'Omag. Ça c'est la cuisine. Regardez, ça c'est la chambre. Ça c'est la douche de la chambre principale.",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712842677280050433.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Songon",
+  "quartier": "Domak",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces haut standing à Songon Domak, neuf et jamais habité, situé au rez-de-chaussée ou dans les étages (1er, 2e, 3e), loyer de 90 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tt_7712792465077619988",
+ "source_url": "https://www.tiktok.com/@paul.rochel.loba/video/7712792465077619988",
+ "url": "https://www.tiktok.com/@paul.rochel.loba/video/7712792465077619988",
+ "platform": "TikTok",
+ "uploader": "paul.rochel.loba",
+ "upload_date": "20261127",
+ "duration": 64,
+ "description": "À louer, 2 pièces 90.000f au rez-de-chaussée. Lieu: Yopougon azito carrefour policier. Visite:5000f Contact:0711489393 #debloquemesvue🥲🙏🏽 #visibilitésurlesréseauxsociaux #tiktokcotedivoire🇨🇮tiktok225 #immobilierabidjan🇨🇮 ",
+ "transcript": "Quand Dieu met mes projets, mon héritage, sa bonté me suis, j'ai à chaque page de mon âge. Aleluia !",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712792465077619988.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": "Azito carrefour policier",
+  "type": "2 pièces",
+  "pieces": 2,
+  "loyer": 90000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [],
+  "resume": "Location d'un 2 pièces au rez-de-chaussée à Yopougon Azito carrefour policier, loyer 90 000 F, frais de visite 5 000 F, contact 0711489393.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

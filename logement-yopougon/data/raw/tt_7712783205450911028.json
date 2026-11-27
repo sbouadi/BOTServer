@@ -1,0 +1,46 @@
+{
+ "id": "tt_7712783205450911028",
+ "source_url": "https://www.tiktok.com/@gkimmobilier72/video/7712783205450911028",
+ "url": "https://www.tiktok.com/@gkimmobilier72/video/7712783205450911028",
+ "platform": "TikTok",
+ "uploader": "gkimmobilier72",
+ "upload_date": "20261127",
+ "duration": 33,
+ "description": "🏡 GRANDE CHAMBRE SPACIEUSE À LOUER À LOGPOM – BASSON ! Belle chambre fraîchement libérée, spacieuse et bien aménagée. ✅ Grandes baies vitrées ✅ Cuisine équipée avec placards ✅ Grande douche ✅ Parking disponible ✅ Panneaux solaires pour ne jamais manquer d'électricité ✅ À seulement 150  de la route en moto. 💰 Loyer : 60k 📌 Conditions : 8 mois de loyer + 2 mois de caution. 📍 Logpom – Basson #logpom  #basson  #chambrealouer  #immobilierdouala  #gkimmobilier ",
+ "transcript": "S'il vous plaît, j'ai tout le temps demandé quand c'est temps de venir, ou d'où on s'est passé On m'a dit qu'il y a eu un heartbroken a few times In the past, it never lasts as strong as it used to It don't feel as good",
+ "ocr": [
+  "DATKINE EU 40",
+  "CHPIAQUE",
+  "Parking etPIAQUESORAITE",
+  "PEUPIAUUC SUITE",
+  "Run |",
+  "S0OlIAir«"
+ ],
+ "thumb": "thumbs/tt_7712783205450911028.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Douala",
+  "quartier": "Logpom - Basson",
+  "type": "chambre simple",
+  "pieces": 1,
+  "loyer": 60000,
+  "caution": 120000,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": 8,
+  "frais_agence": null,
+  "frais_visite": null,
+  "equipements": [
+   "cuisine équipée",
+   "placards",
+   "grande douche",
+   "parking",
+   "panneaux solaires"
+  ],
+  "resume": "Grande chambre spacieuse à louer à Logpom - Basson (Douala) à 60 000 F par mois, 8 mois de loyer et 2 mois de caution, avec cuisine équipée, grande douche, parking et panneaux solaires.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}

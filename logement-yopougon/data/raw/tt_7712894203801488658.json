@@ -1,0 +1,37 @@
+{
+ "id": "tt_7712894203801488658",
+ "source_url": "https://www.tiktok.com/@brunesleger/video/7712894203801488658",
+ "url": "https://www.tiktok.com/@brunesleger/video/7712894203801488658",
+ "platform": "TikTok",
+ "uploader": "brunesleger",
+ "upload_date": "20261127",
+ "duration": 91,
+ "description": "Brunes immobilier toujours. {{ 01532732} whatsap} [[ à louer]] une sublime villa de type 4 pièces avec garage de 3 voitures au deux pas du goudron. 👉 loyer 350 milles  👉 4 salles d’eau  👉une grande cour avant et arrière    Visite 5 milles  Contact :0153273240//0777789059 #yopougon luxe immobilier #viralvideoviraltiktok🥰🤭 #deblocagedevuetiktok ",
+ "transcript": "C'est celui qui mange dans ta main là C'est celui qui connaît ton chemin haut Il va jalousie frappe à ta porte C'est pas la même chose non Un camarade et un compagnon Le vrai ami c'est un cadeau du ciel Il ne te juge pas son amour est réel C'est celui qui reste quand tout le monde est parti Peu importe les épreuves de la...",
+ "ocr": [],
+ "thumb": "thumbs/tt_7712894203801488658.jpg",
+ "llm": {
+  "est_annonce": true,
+  "transaction": "location",
+  "commune": "Yopougon",
+  "quartier": null,
+  "type": "villa",
+  "pieces": 4,
+  "loyer": 350000,
+  "caution": null,
+  "avance": null,
+  "agence": null,
+  "mois_a_payer": null,
+  "frais_agence": null,
+  "frais_visite": 5000,
+  "equipements": [
+   "garage 3 voitures",
+   "4 salles d'eau",
+   "grande cour avant et arrière"
+  ],
+  "resume": "Location d'une villa de type 4 pièces avec garage 3 voitures, 4 salles d'eau et grande cour avant et arrière, à Yopougon, à deux pas du goudron. Loyer 350 000 F, visite 5 000 F. Contact indiqué dans la légende.",
+  "_model": "claude-haiku-5-5"
+ },
+ "collected_at": "2026-11-27",
+ "origine": "découverte"
+}
